@@ -32,12 +32,12 @@ REDIS_HOST=host.docker.internal
 REDIS_PORT=6379
 REDIS_URL=redis://127.0.0.1:6379
 REDIS_TLS=false
-BULL_PREFIX=solvyst
+BULL_PREFIX=atlaskit
 EMAIL_QUEUE_RETRY=3
 EMAIL_QUEUE_CONCURRENCY=5
 
 WEB_URL=http://localhost:3000
-SOLVYST_API_URL=http://localhost:5000
+ATLASKIT_API_URL=http://localhost:5000
 
 META_API_KEY="<strong-random-secret>"
 META_RATE_LIMIT_MAX=120
@@ -54,7 +54,7 @@ PostgreSQL connection string used by the Node server.
 
 Browser client origin allowed by CORS.
 
-`SOLVYST_API_URL`
+`ATLASKIT_API_URL`
 
 Server/API origin allowed by CORS when needed.
 

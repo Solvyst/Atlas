@@ -6,7 +6,7 @@ export const env = {
   HOST: process.env.HOST,
   COOKI_DOMAIN: process.env.COOKIE_DOMAIN!,
   WEB_URL: process.env.WEB_URL!,
-  SOLVYST_API_URL: process.env.SOLVYST_API_URL,
+  ATLASKIT_API_URL: process.env.ATLASKIT_API_URL,
 
   //DATABASE URI
   DATABASE_URI: process.env.DATABASE_URI!,

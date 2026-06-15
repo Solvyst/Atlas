@@ -4,7 +4,7 @@ import { env } from "./env.js";
 
 /*************************** CORS CONFIGURATION ***************************/
 const configureCors = () => {
-  const origins = [env.WEB_URL, env.SOLVYST_API_URL].filter(
+  const origins = [env.WEB_URL, env.ATLASKIT_API_URL].filter(
     (origin): origin is string => Boolean(origin),
   );
 

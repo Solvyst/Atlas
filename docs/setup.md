@@ -70,5 +70,5 @@ curl "http://localhost:5000/health"
 ## Typecheck
 
 ```sh
-pnpm --filter @solvyst/server typecheck
+pnpm --filter @atlaskit/server typecheck
 ```
