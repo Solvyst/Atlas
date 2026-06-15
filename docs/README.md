@@ -1,12 +1,10 @@
-Atlaskit Docs
+# Atlaskit Docs
 
 Atlaskit is an open-source metadata platform that provides production-ready APIs for countries, states, cities, currencies, timezones, GST, industries, categories, and business onboarding data.
 
 It is designed for SaaS products, ERP systems, CRM platforms, HRMS applications, eCommerce platforms, and internal business tools that require reliable master data and reference datasets.
 
-⸻
-
-Features
+## Features
 
 * Countries API
 * States API
@@ -22,9 +20,7 @@ Features
 * API Key Authentication
 * TypeScript Support
 
-⸻
-
-Use Cases
+## Use Cases
 
 * User onboarding forms
 * Organization setup workflows
@@ -35,41 +31,39 @@ Use Cases
 * eCommerce checkout systems
 * Global business applications
 
-⸻
+## Documentation
 
-Documentation
+* [Setup](./setup.md)
+* [Environment Keys](./env-keys.md)
+* [Database Migrations and Data Files](./database.md)
+* [Meta API](./meta-api.md)
+* [API Result Examples](./api-results.md)
 
-* Setup
-* Environment Keys
-* Database Migrations and Data Files
-* Meta API
-* API Result Examples
+## API Base URL
 
-⸻
+Local Development:
 
-API Base URL
-
-Local Development
-
+```txt
 http://localhost:5000/api/v1
+```
 
-⸻
-
-Authentication
+## Authentication
 
 Meta routes are protected using an API key.
 
+```http
 x-api-key: <META_API_KEY>
+```
 
 Example:
 
+```sh
 curl \
   -H "x-api-key: your-api-key" \
   http://localhost:5000/api/v1/meta/countries
+```
 
-⸻
-
-Tech Stack
+## Tech Stack
 
 * Node.js
 * Express
@@ -79,8 +73,6 @@ Tech Stack
 * Flyway
 * Docker
 
-⸻
-
-License
+## License
 
 MIT License
