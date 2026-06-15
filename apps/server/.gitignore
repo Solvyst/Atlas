@@ -1,0 +1,65 @@
+# -----------------------
+# Node / TypeScript
+# -----------------------
+node_modules/
+dist/
+build/
+
+*.tsbuildinfo
+.eslintcache
+.nyc_output/
+coverage/
+
+# Runtime logs & pids
+logs/
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pids/
+*.pid
+*.pid.lock
+
+# -----------------------
+# Env & Secrets
+# -----------------------
+# keep an example file committed instead
+.env
+.env.*
+!.env.example
+
+# JWT/SSL keys (store outside repo)
+keys/
+*.pem
+*.pfx
+*.p12
+*.key
+
+# -----------------------
+# Framework caches (optional)
+# -----------------------
+# Next.js
+.next/
+out/
+
+# Turbo / SWC / misc caches
+.turbo/
+.swc/
+.cache/
+.parcel-cache/
+
+# Vercel / Netlify
+.vercel/
+.netlify/
+
+# -----------------------
+# OS / Editor junk
+# -----------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~

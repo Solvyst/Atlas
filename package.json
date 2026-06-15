@@ -1,0 +1,39 @@
+{
+  "name": "solvyst",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "dev:server": "pnpm --filter @solvyst/server dev",
+    "dev:all": "pnpm dev:server & pnpm dev:workspace & pnpm dev:web",
+    "build": "pnpm -r build",
+    "build:server": "pnpm --filter @solvyst/server build",
+    "lint": "pnpm -r lint",
+    "clean": "rimraf node_modules **/node_modules **/dist",
+    "db:info": "powershell -ExecutionPolicy Bypass -File .\\db\\migrate.ps1 info",
+    "db:repair": "powershell -ExecutionPolicy Bypass -File .\\db\\migrate.ps1 repair",
+    "db:validate": "powershell -ExecutionPolicy Bypass -File .\\db\\migrate.ps1 validate",
+    "db:migrate": "powershell -ExecutionPolicy Bypass -File .\\db\\migrate.ps1 migrate",
+    "db:baseline": "powershell -ExecutionPolicy Bypass -File .\\db\\migrate.ps1 baseline",
+    "db:repair:sh": "bash ./db/migrate.sh repair",
+    "db:info:sh": "bash ./db/migrate.sh info",
+    "db:validate:sh": "bash ./db/migrate.sh validate",
+    "db:migrate:sh": "bash ./db/migrate.sh migrate",
+    "db:baseline:sh": "bash ./db/migrate.sh baseline"
+  },
+  "devDependencies": {
+    "baseline-browser-mapping": "^2.9.19",
+    "prettier": "^3.3.3",
+    "rimraf": "^5.0.10"
+  },
+  "keywords": [],
+  "author": "Anil Moharana",
+  "email": "hi@anilmoharana.com",
+  "license": "ISC",
+  "packageManager": "pnpm@10.31.0",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "init": "^0.1.2"
+  }
+}

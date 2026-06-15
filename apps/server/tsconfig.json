@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+
+    "rootDir": "src",
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "verbatimModuleSyntax": true
+  },
+  "include": [
+    "src",
+    "src/modules/access/types/orgPermissions.types.ts",
+    "src/modules/products/bookings/app/bootstrap/bookings/bookings.bootstrap.routes.ts"
+  ]
+}
