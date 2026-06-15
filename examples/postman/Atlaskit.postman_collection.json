@@ -1,0 +1,252 @@
+{
+  "info": {
+    "name": "Atlaskit",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "id": "acefd3ec-db52-4dc5-8a4f-4831a6bd3a1c",
+      "name": "Cities",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3100/api/v1/meta/cities?search=bhubaneswar",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "meta",
+            "cities"
+          ],
+          "port": "3100",
+          "query": [
+            {
+              "key": "countryCode",
+              "value": "IN",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "odisha",
+              "disabled": true
+            },
+            {
+              "key": "stateId",
+              "value": "4013",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "bhub",
+              "disabled": true
+            },
+            {
+              "key": "countryCode",
+              "value": "IN",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "bhubaneswar",
+              "disabled": true
+            },
+            {
+              "key": "countryId",
+              "value": "101",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "bhubaneswar",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "bhubaneswar"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ea73da84-56a1-4429-b039-d50b0fef7fe1",
+      "name": "Regions",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3100/api/v1/meta/regions?search=asia",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "meta",
+            "regions"
+          ],
+          "port": "3100",
+          "query": [
+            {
+              "key": "search",
+              "value": "asia"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "c2b8254d-63cd-4075-8f40-1dae06ff71ba",
+      "name": "Countries",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3100/api/v1/meta/countries",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "meta",
+            "countries"
+          ],
+          "port": "3100",
+          "query": [
+            {
+              "key": "search",
+              "value": "india",
+              "disabled": true
+            },
+            {
+              "key": "currency",
+              "value": "INR",
+              "disabled": true
+            },
+            {
+              "key": "iso2",
+              "value": "IN",
+              "disabled": true
+            },
+            {
+              "key": "iso3",
+              "value": "IND",
+              "disabled": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "65c78025-af9a-4960-8ee8-991744ffb815",
+      "name": "States",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3100/api/v1/meta/states?search=odisha",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "meta",
+            "states"
+          ],
+          "port": "3100",
+          "query": [
+            {
+              "key": "countryCode",
+              "value": "IN",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "odisha",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "odisha"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "a22ea5d1-a846-4394-9b7b-867fd68c698e",
+      "name": "Currencies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3100/api/v1/meta/currencies?search=INR",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "meta",
+            "currencies"
+          ],
+          "port": "3100",
+          "query": [
+            {
+              "key": "search",
+              "value": "rupee",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "INR"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2e1df076-174c-4284-8262-c4e5936c5c34",
+      "name": "Timezones",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3100/api/v1/meta/timezones?search=INR",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "meta",
+            "timezones"
+          ],
+          "port": "3100",
+          "query": [
+            {
+              "key": "search",
+              "value": "rupee",
+              "disabled": true
+            },
+            {
+              "key": "search",
+              "value": "INR"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

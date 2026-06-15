@@ -38,6 +38,7 @@ It is designed for SaaS products, ERP systems, CRM platforms, HRMS applications,
 * [Database Migrations and Data Files](./database.md)
 * [Meta API](./meta-api.md)
 * [API Result Examples](./api-results.md)
+* [Postman and Requestly Examples](./examples.md)
 
 ## API Base URL
 

@@ -72,3 +72,14 @@ curl "http://localhost:5000/health"
 ```sh
 pnpm --filter @atlaskit/server typecheck
 ```
+
+## API Testing Examples
+
+Import these files for local testing:
+
+```txt
+examples/postman/Atlaskit.postman_collection.json
+examples/requestly/Atlaskit.requestly.json
+```
+
+See [Examples](./examples.md).
