@@ -6,39 +6,40 @@ It is designed for SaaS products, ERP systems, CRM platforms, HRMS applications,
 
 ## Features
 
-* Countries API
-* States API
-* Cities API
-* Timezones API
-* Currencies API
-* GST Types API
-* GST HSN Search API
-* Industries API
-* Organization Onboarding Metadata API
-* PostgreSQL Powered
-* Flyway Database Migrations
-* API Key Authentication
-* TypeScript Support
+- Countries API
+- States API
+- Cities API
+- Timezones API
+- Currencies API
+- GST Types API
+- GST HSN Search API
+- Industries API
+- Organization Onboarding Metadata API
+- PostgreSQL Powered
+- Drizzle Database Migrations
+- API Key Authentication
+- TypeScript Support
 
 ## Use Cases
 
-* User onboarding forms
-* Organization setup workflows
-* Address management
-* GST and taxation systems
-* ERP and accounting software
-* CRM applications
-* eCommerce checkout systems
-* Global business applications
+- User onboarding forms
+- Organization setup workflows
+- Address management
+- GST and taxation systems
+- ERP and accounting software
+- CRM applications
+- eCommerce checkout systems
+- Global business applications
 
 ## Documentation
 
-* [Setup](./setup.md)
-* [Environment Keys](./env-keys.md)
-* [Database Migrations and Data Files](./database.md)
-* [Meta API](./meta-api.md)
-* [API Result Examples](./api-results.md)
-* [Postman and Requestly Examples](./examples.md)
+- [Setup](./setup.md)
+- [Environment Keys](./env-keys.md)
+- [Database Migrations and Data Files](./database.md)
+- [Deployment](./deployment.md)
+- [Meta API](./meta-api.md)
+- [API Result Examples](./api-results.md)
+- [Postman and Requestly Examples](./examples.md)
 
 ## API Base URL
 
@@ -66,13 +67,13 @@ curl \
 
 ## Tech Stack
 
-* Node.js
-* Express
-* TypeScript
-* PostgreSQL
-* Kysely
-* Flyway
-* Docker
+- Node.js
+- Express
+- TypeScript
+- PostgreSQL
+- Drizzle
+- Drizzle Kit
+- Docker
 
 ## License
 

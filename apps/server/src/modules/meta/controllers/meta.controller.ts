@@ -3,14 +3,29 @@ import type { Request, Response } from "express";
 import { ApiResponse } from "@/lib/ApiResponse.js";
 import { catchAsync } from "@/lib/catchAsync.js";
 import {
+  listAdminAreasDto,
   listCitiesDto,
   listCountriesDto,
   listCurrenciesDto,
+  listLocalitiesDto,
   listRegionsDto,
   listStatesDto,
   listTimezonesDto,
 } from "../dto/meta.dto.js";
 import { GeoService } from "../services/geo.service.js";
+
+/*************************** GET GEO STATES ***************************/
+export const getGeoStates = catchAsync(async (req: Request, res: Response) => {
+  const country =
+    req.params.country ??
+    req.query.country ??
+    req.query.geo ??
+    req.query.search ??
+    req.query.q;
+
+  const result = await GeoService.getGeoStates(String(country ?? ""));
+  return ApiResponse(res, result, "Geo states fetched");
+});
 
 /*************************** LIST REGIONS ***************************/
 export const listRegions = catchAsync(async (req: Request, res: Response) => {
@@ -39,6 +54,24 @@ export const listCities = catchAsync(async (req: Request, res: Response) => {
   const cities = await GeoService.listCities(query);
   return ApiResponse(res, cities, "Cities fetched");
 });
+
+/*************************** LIST ADMIN AREAS ***************************/
+export const listAdminAreas = catchAsync(
+  async (req: Request, res: Response) => {
+    const query = listAdminAreasDto.parse(req.query);
+    const adminAreas = await GeoService.listAdminAreas(query);
+    return ApiResponse(res, adminAreas, "Admin areas fetched");
+  },
+);
+
+/*************************** LIST LOCALITIES ***************************/
+export const listLocalities = catchAsync(
+  async (req: Request, res: Response) => {
+    const query = listLocalitiesDto.parse(req.query);
+    const localities = await GeoService.listLocalities(query);
+    return ApiResponse(res, localities, "Localities fetched");
+  },
+);
 
 /*************************** LIST CURRENCIES ***************************/
 export const listCurrencies = catchAsync(

@@ -1,5 +1,5 @@
 export type MetaPagination = {
-  limit: number;
+  limit?: number;
   offset: number;
 };
 

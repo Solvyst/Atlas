@@ -6,7 +6,7 @@
 - pnpm
 - PostgreSQL database
 - Redis for queue-related server features
-- Flyway migrations through the provided scripts
+- Drizzle migrations through `@atlaskit/database`
 
 ## Install
 
@@ -34,19 +34,25 @@ See [Environment Keys](./env-keys.md).
 
 ## Database Migrations
 
-Run Flyway migrations from the root:
+Generate and run Drizzle migrations from the root:
 
 ```sh
-pnpm db:migrate:sh
+pnpm db:generate
+pnpm db:migrate
+```
+
+Build and run meta seed data:
+
+```sh
+pnpm db:seed:build
+pnpm db:seed
 ```
 
 Other useful commands:
 
 ```sh
-pnpm db:info:sh
-pnpm db:validate:sh
-pnpm db:repair:sh
-pnpm db:baseline:sh
+pnpm db:check
+pnpm db:studio
 ```
 
 ## Run Server

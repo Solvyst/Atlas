@@ -6,6 +6,10 @@ export const BULL_PREFIX = env.BULL_PREFIX;
 
 /*************************** REDIS CONNECTION ***************************/
 export function redisConn(): RedisOptions {
+  if (!env.REDIS_ENABLED) {
+    throw new Error("Redis is disabled");
+  }
+
   const url = env.REDIS_URL?.trim();
 
   if (url) {
@@ -15,8 +19,8 @@ export function redisConn(): RedisOptions {
   return {
     host: env.REDIS_HOST || "127.0.0.1",
     port: Number(env.REDIS_PORT || 6379),
-    password: process.env.REDIS_PASSWORD || undefined,
-    tls: env.REDIS_TLS === "true" ? {} : undefined,
+    password: env.REDIS_PASSWORD || undefined,
+    tls: env.REDIS_TLS ? {} : undefined,
   };
 }
 

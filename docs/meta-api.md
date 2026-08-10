@@ -60,10 +60,10 @@ Most endpoints support:
 | Param | Type | Default |
 | --- | --- | --- |
 | `search` | string | none |
-| `limit` | number | 50 |
+| `limit` | number | 100 |
 | `offset` | number | 0 |
 
-`limit` is validated from `1` to `100`, except global city search is capped to `20`.
+`limit` is validated from `1` to `250`, except global city/locality search is capped to `20`.
 
 ## Regions
 
@@ -157,6 +157,46 @@ Error:
   "code": "VALIDATION_ERROR"
 }
 ```
+
+## Admin Areas
+
+Use this for scalable state/district/county/subdistrict hierarchies.
+
+Allowed:
+
+```http
+GET /api/v1/meta/admin-areas?countryCode=IN
+GET /api/v1/meta/admin-areas?countryCode=US&type=county
+GET /api/v1/meta/admin-areas?parentId=1457
+GET /api/v1/meta/admin-areas?countryCode=IN&level=2
+GET /api/v1/meta/admin-areas?search=khordha
+```
+
+Rules:
+
+- `parentId` returns child admin areas.
+- `type` can filter values such as `state`, `province`, `district`, `county`, or `parish`.
+- `level` supports generic hierarchy depth.
+
+## Localities
+
+Use this for future-ready city/town/village/locality queries.
+
+Allowed:
+
+```http
+GET /api/v1/meta/localities?adminAreaId=4013
+GET /api/v1/meta/localities?countryCode=IN&search=bhubaneswar
+GET /api/v1/meta/localities?search=bhubaneswar
+GET /api/v1/meta/localities?countryCode=US&type=city
+GET /api/v1/meta/localities?countryCode=US&settlementsOnly=false&type=county
+```
+
+Rules:
+
+- `settlementsOnly` defaults to `true`.
+- Global locality search is capped to max `limit = 20`.
+- `settlementsOnly=false` includes admin-like and non-settlement records from the source dataset.
 
 ## Currencies
 

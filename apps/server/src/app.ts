@@ -1,7 +1,8 @@
 import express, { type Application } from "express";
-import dotenv from "dotenv";
 
+import compression from "compression";
 import cookieParser from "cookie-parser";
+import helmet from "helmet";
 import morgan from "morgan";
 import { registerApi } from "./apiRegistry/index.js";
 
@@ -11,7 +12,6 @@ import { errorMiddleware, notFoundHandler } from "./middleware/error.js";
 import configureCors from "./config/cors.js";
 
 const app: Application = express();
-dotenv.config({ debug: false });
 
 //Middlewares
 app.use(
@@ -26,6 +26,9 @@ app.use(
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.set("trust proxy", 1);
+app.disable("x-powered-by");
+app.use(helmet());
+app.use(compression());
 app.use(configureCors());
 
 if (process.env.NODE_ENV !== "production") {

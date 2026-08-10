@@ -1,9 +1,12 @@
 import { Router } from "express";
 
 import {
+  getGeoStates,
+  listAdminAreas,
   listCities,
   listCountries,
   listCurrencies,
+  listLocalities,
   listRegions,
   listStates,
   listTimezones,
@@ -18,10 +21,14 @@ router.use(metaRateLimit);
 router.use(requireApiKey);
 
 /*************************** META READ ROUTES ***************************/
+router.get("/geo=:country", getGeoStates);
+router.get("/geo", getGeoStates);
 router.get("/regions", listRegions);
 router.get("/countries", listCountries);
 router.get("/states", listStates);
 router.get("/cities", listCities);
+router.get("/admin-areas", listAdminAreas);
+router.get("/localities", listLocalities);
 router.get("/currencies", listCurrencies);
 router.get("/timezones", listTimezones);
 

@@ -2,19 +2,17 @@
 
 ## Root `.env`
 
-Used by Flyway database migration scripts.
+Used by Drizzle migrations, database seeds, and other root database commands.
 
 ```env
-DATABASE_URL=""
-DATABASE_USER=""
-DATABASE_PASSWORD=""
+DATABASE_URI="postgresql://postgres.<project-ref>:<database-password>@aws-0-<region>.pooler.supabase.com:5432/postgres?sslmode=require"
 ```
 
 Notes:
 
-- `DATABASE_URL` should be the JDBC-style PostgreSQL URL expected by Flyway.
-- `DATABASE_USER` is the PostgreSQL user.
-- `DATABASE_PASSWORD` is the PostgreSQL password.
+- `DATABASE_URI` should be a single PostgreSQL connection string.
+- For Supabase session pooler, use the Session Pooler URL from Supabase, not the Transaction Pooler URL.
+- Keep `sslmode=require` in the URL.
 
 ## Server `apps/server/.env`
 
@@ -29,6 +27,7 @@ APP_NAME=Atlaskit
 DATABASE_URI=""
 
 REDIS_HOST=host.docker.internal
+REDIS_ENABLED=false
 REDIS_PORT=6379
 REDIS_URL=redis://127.0.0.1:6379
 REDIS_TLS=false
@@ -39,6 +38,7 @@ EMAIL_QUEUE_CONCURRENCY=5
 WEB_URL=http://localhost:3000
 ATLASKIT_API_URL=http://localhost:5000
 
+
 META_API_KEY="<strong-random-secret>"
 META_RATE_LIMIT_MAX=120
 META_RATE_LIMIT_WINDOW_MS=60000
@@ -48,7 +48,11 @@ META_RATE_LIMIT_WINDOW_MS=60000
 
 `DATABASE_URI`
 
-PostgreSQL connection string used by the Node server.
+PostgreSQL connection string used by the Node server, Drizzle migrations, and seed scripts.
+
+`REDIS_ENABLED`
+
+Set `false` for MVP/single-instance deployments. Set `true` only when Redis is available for distributed rate limiting and queues.
 
 `WEB_URL`
 
@@ -57,6 +61,10 @@ Browser client origin allowed by CORS.
 `ATLASKIT_API_URL`
 
 Server/API origin allowed by CORS when needed.
+
+`ATLASKIT_API_KEY`
+
+API key used by this server when it calls Atlaskit as an external meta microservice. If omitted, the client falls back to `META_API_KEY`.
 
 `META_API_KEY`
 

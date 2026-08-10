@@ -2,7 +2,7 @@ import { z } from "zod";
 
 const paginationDto = z.object({
   search: z.string().trim().min(1).optional(),
-  limit: z.coerce.number().int().min(1).max(100).default(50),
+  limit: z.coerce.number().int().min(1).max(250).optional(),
   offset: z.coerce.number().int().min(0).default(0),
 });
 
@@ -32,6 +32,24 @@ export const listCitiesDto = paginationDto.extend({
   countryCode: z.string().trim().length(2).optional(),
 });
 
+/*************************** LIST ADMIN AREAS ***************************/
+export const listAdminAreasDto = paginationDto.extend({
+  countryId: z.coerce.number().int().positive().optional(),
+  countryCode: z.string().trim().length(2).optional(),
+  parentId: z.coerce.number().int().positive().optional(),
+  type: z.string().trim().min(1).optional(),
+  level: z.coerce.number().int().min(1).optional(),
+});
+
+/*************************** LIST LOCALITIES ***************************/
+export const listLocalitiesDto = paginationDto.extend({
+  countryId: z.coerce.number().int().positive().optional(),
+  countryCode: z.string().trim().length(2).optional(),
+  adminAreaId: z.coerce.number().int().positive().optional(),
+  type: z.string().trim().min(1).optional(),
+  settlementsOnly: z.coerce.boolean().default(true),
+});
+
 /*************************** LIST CURRENCIES ***************************/
 export const listCurrenciesDto = paginationDto;
 
@@ -45,5 +63,7 @@ export type ListRegionsInput = z.infer<typeof listRegionsDto>;
 export type ListCountriesInput = z.infer<typeof listCountriesDto>;
 export type ListStatesInput = z.infer<typeof listStatesDto>;
 export type ListCitiesInput = z.infer<typeof listCitiesDto>;
+export type ListAdminAreasInput = z.infer<typeof listAdminAreasDto>;
+export type ListLocalitiesInput = z.infer<typeof listLocalitiesDto>;
 export type ListCurrenciesInput = z.infer<typeof listCurrenciesDto>;
 export type ListTimezonesInput = z.infer<typeof listTimezonesDto>;

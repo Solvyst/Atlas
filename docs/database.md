@@ -1,56 +1,162 @@
-# Database Migrations and Data Files
+# Database Migrations
 
-## Migration Command
+## Migration Commands
 
 ```sh
-pnpm db:migrate:sh
+pnpm db:generate
+pnpm db:migrate
 ```
 
-## Migration Folders
+Other useful Drizzle commands:
+
+```sh
+pnpm db:push
+pnpm db:pull
+pnpm db:check
+pnpm db:studio
+```
+
+## Migration Folder
 
 ```txt
-db/migrations/regions
-db/migrations/countries
-db/migrations/states
-db/migrations/cities
-db/migrations/currencies
-db/migrations/timezones
+packages/database/drizzle
+```
+
+## Seed Commands
+
+Seed files are generated from:
+
+```txt
+/Users/anilmoharana/Postman/countries-states-cities-database
+```
+
+Build generated SQL seed files:
+
+```sh
+pnpm db:seed:build
+```
+
+Run generated SQL seed files:
+
+```sh
+pnpm db:seed
+```
+
+Build and run in one command:
+
+```sh
+pnpm db:seed:rebuild
+```
+
+Override the source repo when needed:
+
+```sh
+CSC_DB_SOURCE_DIR=/path/to/countries-states-cities-database pnpm db:seed:build
+```
+
+Generated seed files live in:
+
+```txt
+packages/database/seeds/generated
+```
+
+## Schema Package
+
+```txt
+packages/database/src/schema
 ```
 
 ## Meta Tables
 
 ```txt
 meta.regions
+meta.subregions
 meta.countries
 meta.states
 meta.cities
+meta.admin_areas
+meta.localities
 meta.currencies
 meta.timezones
 ```
 
-## Excel Data Exports
+## Scalable Geography Model
 
-Seed data is also exported as `.xlsx` files:
+`meta.states` and `meta.cities` are kept for backward-compatible country/state/city APIs.
+
+Use these tables for future scalable metadata:
 
 ```txt
-db/migrations/regions/regions.xlsx
-db/migrations/countries/countries.xlsx
-db/migrations/states/states.xlsx
-db/migrations/cities/cities.xlsx
-db/migrations/currencies/currencies.xlsx
-db/migrations/timezones/timezones.xlsx
+meta.admin_areas
+meta.localities
 ```
 
-Current export counts:
+`meta.admin_areas` is a generic hierarchy table for subdivisions such as:
 
-| File | Rows |
+```txt
+state
+province
+region
+district
+county
+parish
+subdistrict
+municipality
+```
+
+Important columns:
+
+```txt
+country_id
+country_code
+parent_id
+type
+level
+code
+iso3166_2
+```
+
+`meta.localities` stores populated places and place-like records. It includes:
+
+```txt
+admin_area_id
+type
+is_settlement
+latitude
+longitude
+population
+```
+
+For product dropdowns:
+
+```sql
+-- Children of a state/province/district/county
+SELECT *
+FROM meta.admin_areas
+WHERE parent_id = $1
+ORDER BY level, name;
+
+-- Cities/towns/villages under an admin area
+SELECT *
+FROM meta.localities
+WHERE admin_area_id = $1
+  AND is_settlement = 1
+ORDER BY name;
+```
+
+Current generated seed counts:
+
+| Table | Rows |
 | --- | ---: |
-| regions.xlsx | 6 |
-| countries.xlsx | 250 |
-| states.xlsx | 5,308 |
-| cities.xlsx | 146,890 |
-| currencies.xlsx | 155 |
-| timezones.xlsx | 432 |
+| meta.regions | 6 |
+| meta.subregions | 22 |
+| meta.countries | 250 |
+| meta.states | 5,308 |
+| meta.cities | 152,970 |
+| meta.admin_areas | 8,365 |
+| meta.localities | 152,970 |
+| meta.currencies | 154 |
+| meta.timezones | 432 |
 
 ## Important Rules
 
