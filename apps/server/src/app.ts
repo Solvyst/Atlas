@@ -35,6 +35,12 @@ if (process.env.NODE_ENV !== "production") {
   app.use(morgan("dev"));
 } // HTTP request logger middleware for development environment
 
+/*************************** SOLVYST ATLAS ROOT ***************************/
+app.get("/", (_req, res) => {
+  res.type("text/plain");
+
+  return res.status(200).send(`\n  **********************************************************************\n  *                                                                    *\n  *                    S O L V Y S T   A T L A S                       *\n  *                                                                    *\n  *                Production Metadata API is running                   *\n  *                                                                    *\n  **********************************************************************\n\n  STATUS   ONLINE\n  VERSION  v1\n  HEALTH   /health\n  BASE     /api/v1/meta\n`);
+});
 // API Gateway
 app.use("/health", healthRoutes);
 registerApi(app);

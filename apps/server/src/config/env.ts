@@ -17,6 +17,21 @@ const optionalUrl = z
   .optional()
   .transform((value) => (value ? value : undefined));
 
+const optionalBoolean = z
+  .union([z.boolean(), z.string(), z.number()])
+  .optional()
+  .transform((value) => {
+    if (value === undefined) return undefined;
+    if (typeof value === "boolean") return value;
+    if (typeof value === "number") return value === 1;
+
+    const normalized = value.trim().toLowerCase();
+    if (["true", "1", "yes", "on"].includes(normalized)) return true;
+    if (["false", "0", "no", "off", ""].includes(normalized)) return false;
+
+    return undefined;
+  });
+
 const envSchema = z
   .object({
     APP_NAME: z.string().trim().min(1).default("Solvyst Atlas"),
@@ -37,12 +52,12 @@ const envSchema = z
       .int()
       .positive()
       .default(60_000),
-    REDIS_ENABLED: z.coerce.boolean().default(false),
+    REDIS_ENABLED: optionalBoolean.default(false),
     REDIS_HOST: z.string().trim().default("127.0.0.1"),
     REDIS_PORT: z.coerce.number().int().positive().default(6379),
     REDIS_URL: optionalUrl,
     REDIS_PASSWORD: z.string().trim().optional(),
-    REDIS_TLS: z.coerce.boolean().default(false),
+    REDIS_TLS: optionalBoolean.default(false),
     BULL_PREFIX: z.string().trim().optional(),
     EMAIL_QUEUE_RETRY: z.coerce.number().int().positive().default(3),
     EMAIL_QUEUE_CONCURRENCY: z.coerce.number().int().positive().default(5),
