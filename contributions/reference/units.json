@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mass-kg",
+    "category": "mass",
+    "code": "kg",
+    "name": "kilogram",
+    "symbol": "kg",
+    "system": "si",
+    "quantity_kind": "mass",
+    "base_unit_code": "kg",
+    "conversion_factor_to_base": 1,
+    "common_uses": [
+      "shipping",
+      "inventory",
+      "commerce"
+    ],
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "mass-g",
+    "category": "mass",
+    "code": "g",
+    "name": "gram",
+    "symbol": "g",
+    "system": "si",
+    "quantity_kind": "mass",
+    "base_unit_code": "kg",
+    "conversion_factor_to_base": 0.001,
+    "common_uses": [
+      "food",
+      "medicine",
+      "inventory"
+    ],
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "length-m",
+    "category": "length",
+    "code": "m",
+    "name": "meter",
+    "symbol": "m",
+    "system": "si",
+    "quantity_kind": "length",
+    "base_unit_code": "m",
+    "conversion_factor_to_base": 1,
+    "common_uses": [
+      "dimensions",
+      "construction"
+    ],
+    "source": "Solvyst Atlas community reference contribution"
+  }
+]

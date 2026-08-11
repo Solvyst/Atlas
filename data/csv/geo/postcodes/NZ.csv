@@ -1,0 +1,901 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+820802,0101,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.74872870,174.31084150,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820803,0110,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.73647822,174.32806168,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820804,0112,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.69636701,174.31469009,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820805,0114,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.59783240,174.28677215,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820806,0116,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.88266820,174.45118160,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820807,0118,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.82714155,174.45830390,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820808,0143,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.74531640,174.27314180,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820809,0170,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.75477037,174.20820433,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820810,0171,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.89868410,174.44054730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820811,0173,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.65339123,174.40218053,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820812,0174,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.78037574,174.48745422,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820813,0179,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.75196390,174.23106340,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820814,0181,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.51386610,174.45337430,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820815,0182,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.54167720,174.27688070,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820816,0184,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.37834370,174.31686030,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820817,0192,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.76247100,174.54031360,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820818,0202,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.26264993,174.12269009,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820819,0204,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.26060990,174.04870490,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820820,0210,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.38217586,174.06746578,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820821,0211,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.38940417,174.01604110,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820822,0230,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.22476831,173.95426789,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820823,0247,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.27815335,174.08619490,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820824,0252,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.28118960,174.09240830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820825,0293,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.24221539,173.93490538,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820826,0294,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.18481353,173.94368294,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820827,0295,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.20714186,173.92962660,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820828,0310,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-35.93716645,173.87039941,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820829,0312,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.62365120,174.67080910,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820830,0381,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-35.82196870,174.04847470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820831,0405,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.40703022,173.80130266,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820832,0410,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-35.11440219,173.26308721,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820833,0420,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-34.99091118,173.51284244,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820834,0441,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-35.11453770,173.26442780,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820835,0444,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.53193360,173.39022740,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820836,0448,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.09982410,173.77862900,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820837,0451,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-35.04112660,173.25612880,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820838,0452,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.40317280,173.50596200,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820839,0453,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.36114445,173.54420590,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820840,0462,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.26054280,173.39319290,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820841,0472,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.34841052,173.92905810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820842,0473,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.39361230,173.50472537,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820843,0475,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.31040403,173.78771813,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820844,0476,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.28525600,173.57428150,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820845,0478,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.10095890,173.78199250,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820846,0479,158,NZ,4059,NTL,,"Bay of Islands-Whangaroa Community, Far North District",full,-35.03880480,173.71951620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820847,0481,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-35.16742827,173.15639067,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820848,0482,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-35.09999137,173.29985680,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820849,0483,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-35.02493560,173.33066920,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820850,0484,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-34.70604364,173.02243746,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820851,0486,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-35.00935715,173.27265935,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820852,0491,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.35921870,173.54607740,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820853,0492,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.37984560,173.38196280,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820854,0494,158,NZ,4059,NTL,,"Te Hiku Community, Far North District",full,-34.98905640,173.53552700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820855,0496,158,NZ,4059,NTL,,"Kaikohe-Hokianga Community, Far North District",full,-35.33694540,173.28926060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820856,0505,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.11157920,174.58188595,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820857,0510,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-35.98810720,174.44335550,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820858,0520,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.10583367,174.35435863,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820859,0530,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.12588460,174.01696750,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820860,0542,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.15896070,174.44570940,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820861,0571,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.09772120,174.24243550,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820862,0573,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.16362650,174.44347110,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820863,0582,158,NZ,4059,NTL,,"Whangarei District, Northland",full,-36.02329180,174.42313450,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820864,0587,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.16096310,174.36894955,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820865,0592,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.08722980,173.99149960,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820866,0593,158,NZ,4059,NTL,,"Kaipara District, Northland",full,-36.14733695,174.18481215,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820867,0602,158,NZ,4072,AUK,,"Waitākere Ranges, Auckland",full,-36.90307628,174.65038767,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820868,0604,158,NZ,4072,AUK,,"Waitākere Ranges, Auckland",full,-36.93435871,174.65703259,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820869,0610,158,NZ,4072,AUK,,"Henderson-Massey, Auckland",full,-36.85688457,174.64021655,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820870,0612,158,NZ,4072,AUK,,"Henderson-Massey, Auckland",full,-36.88021747,174.61882897,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820871,0614,158,NZ,4072,AUK,,"Henderson-Massey, Auckland",full,-36.83842498,174.60463426,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820872,0618,158,NZ,4072,AUK,,"Upper Harbour, Auckland",full,-36.80650812,174.63898052,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820873,0620,158,NZ,4072,AUK,,"Devonport-Takapuna, Auckland",full,-36.77052337,174.75651241,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820874,0622,158,NZ,4072,AUK,,"Devonport-Takapuna, Auckland",full,-36.79618062,174.77668147,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820875,0624,158,NZ,4072,AUK,,"Devonport-Takapuna, Auckland",full,-36.82690941,174.79757424,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820876,0626,158,NZ,4072,AUK,,"Kaipātiki, Auckland",full,-36.79919353,174.70551137,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820877,0627,158,NZ,4072,AUK,,"Kaipātiki, Auckland",full,-36.79475618,174.74158168,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820878,0629,158,NZ,4072,AUK,,"Kaipātiki, Auckland",full,-36.78228521,174.71731243,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820879,0630,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.72273971,174.74188732,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820880,0632,158,NZ,4072,AUK,,"Upper Harbour, Auckland",full,-36.72541931,174.70217253,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820881,0650,158,NZ,4072,AUK,,"Henderson-Massey, Auckland",full,-36.88898470,174.62140810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820882,0732,158,NZ,4072,AUK,,"Upper Harbour, Auckland",full,-36.73945150,174.74032140,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820883,0793,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.73416692,174.64538739,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820884,0794,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.66769170,174.63900930,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820885,0810,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.77226477,174.54500772,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820886,0812,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.76896765,174.49213846,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820887,0814,158,NZ,4072,AUK,,"Henderson-Massey, Auckland",full,-36.81401025,174.60564375,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820888,0816,158,NZ,4072,AUK,,"Waitākere Ranges, Auckland",full,-36.85448300,174.55912130,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820889,0830,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.66327265,174.43409580,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820890,0841,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.78853830,174.57857920,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820891,0843,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.61731055,174.49360595,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820892,0871,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.63524385,174.55070715,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820893,0873,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.54406350,174.70583575,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820894,0874,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.59699555,174.36423040,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820895,0875,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.68456335,174.47009340,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820896,0881,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.79381596,174.46665132,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820897,0882,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.74754005,174.51110378,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820898,0891,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.77543770,174.51744000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820899,0892,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.77537744,174.57627566,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820900,0910,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.40132185,174.66311291,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820901,0920,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.42317566,174.71418700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820902,0930,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.62181018,174.77931868,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820903,0931,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.58960518,174.69282699,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820904,0932,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.61892603,174.70637059,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820905,0944,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.61363240,174.67795920,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820906,0951,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.50462570,174.63768330,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820907,0972,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.26492780,174.72701930,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820908,0974,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.23072840,174.63332680,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820909,0975,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.14613225,174.58712115,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820910,0981,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.41375197,174.61209329,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820911,0982,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.40030810,174.74282180,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820912,0983,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.47593353,174.70641290,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820913,0984,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.40752370,174.54652745,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820914,0985,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.32945202,174.74781647,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820915,0986,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.32268890,174.75669695,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820916,0991,158,NZ,4072,AUK,,"Aotea Great Barrier, Auckland",full,-36.24492960,175.46970793,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820917,0992,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.62004775,174.66540825,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820918,0993,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.62748440,174.68097438,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820919,0994,158,NZ,4072,AUK,,"Rodney, Auckland",full,-36.55613450,174.61922845,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820920,1001,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.84661803,174.75799960,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820921,1002,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.85919030,174.75528820,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820922,1010,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.85083578,174.76329889,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820923,1011,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.85347026,174.74760733,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820924,1021,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.86393343,174.74693111,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820925,1022,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.85726282,174.72147483,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820926,1023,158,NZ,4072,AUK,,"Albert-Eden, Auckland",full,-36.87315370,174.77172275,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820927,1024,158,NZ,4072,AUK,,"Albert-Eden, Auckland",full,-36.87303926,174.75873474,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820928,1025,158,NZ,4072,AUK,,"Albert-Eden, Auckland",full,-36.88703947,174.72630378,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820929,1026,158,NZ,4072,AUK,,"Albert-Eden, Auckland",full,-36.87953978,174.69873045,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820930,1040,158,NZ,4072,AUK,,"Ōrākei, Auckland",full,-36.88851465,174.79937080,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820931,1041,158,NZ,4072,AUK,,"Puketāpapa, Auckland",full,-36.90865972,174.73447854,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820932,1042,158,NZ,4072,AUK,,"Puketāpapa, Auckland",full,-36.92265617,174.75669419,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820933,1050,158,NZ,4072,AUK,,"Ōrākei, Auckland",full,-36.87560885,174.79815154,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820934,1051,158,NZ,4072,AUK,,"Maungakiekie-Tāmaki, Auckland",full,-36.89626311,174.80265317,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820935,1052,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.85882649,174.78182455,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820936,1053,158,NZ,4072,AUK,,"Waitematā, Auckland",full,-36.85124660,174.77808490,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820937,1060,158,NZ,4072,AUK,,"Maungakiekie-Tāmaki, Auckland",full,-36.91235204,174.83775005,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820938,1061,158,NZ,4072,AUK,,"Maungakiekie-Tāmaki, Auckland",full,-36.91482180,174.79777788,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820939,1062,158,NZ,4072,AUK,,"Māngere-Ōtāhuhu, Auckland",full,-36.94444961,174.84008161,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820940,1063,158,NZ,4072,AUK,,"Māngere-Ōtāhuhu, Auckland",full,-36.95259170,174.84649880,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820941,1071,158,NZ,4072,AUK,,"Ōrākei, Auckland",full,-36.85562077,174.83608588,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820942,1072,158,NZ,4072,AUK,,"Ōrākei, Auckland",full,-36.87883788,174.84964231,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820943,1074,158,NZ,4072,AUK,,"Ōrākei, Auckland",full,-36.85099820,174.87327510,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820944,1081,158,NZ,4072,AUK,,"Waiheke, Auckland",full,-36.79035411,175.04364884,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820945,1530,158,NZ,4072,AUK,,"Henderson-Massey, Auckland",full,-36.83986690,174.65323050,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820946,1733,158,NZ,4072,AUK,,"Ōtara-Papatoetoe, Auckland",full,-36.95124860,174.89314280,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820947,1741,158,NZ,4072,AUK,,"Maungakiekie-Tāmaki, Auckland",full,-36.90094340,174.84195670,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820948,1971,158,NZ,4072,AUK,,"Waiheke, Auckland",full,-36.80195123,175.09384960,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820949,2010,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.91092072,174.88643447,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820950,2012,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.88932618,174.90022857,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820951,2013,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.93784597,174.89777662,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820952,2014,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.90075381,174.92953204,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820953,2016,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.95069154,174.91250769,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820954,2018,158,NZ,4072,AUK,,"Franklin, Auckland",full,-36.88456018,175.00593645,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820955,2019,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.97298320,174.91182250,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820956,2020,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.19762740,174.89223210,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820957,2022,158,NZ,4072,AUK,,"Māngere-Ōtāhuhu, Auckland",full,-36.98990980,174.79336081,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820958,2023,158,NZ,4072,AUK,,"Ōtara-Papatoetoe, Auckland",full,-36.96747986,174.88327024,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820959,2024,158,NZ,4072,AUK,,"Māngere-Ōtāhuhu, Auckland",full,-36.96533785,174.82034868,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820960,2025,158,NZ,4072,AUK,,"Ōtara-Papatoetoe, Auckland",full,-36.97147996,174.86088539,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820961,2102,158,NZ,4072,AUK,,"Manurewa, Auckland",full,-37.02116948,174.89314160,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820962,2103,158,NZ,4072,AUK,,"Manurewa, Auckland",full,-37.03962293,174.87208155,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820963,2104,158,NZ,4072,AUK,,"Ōtara-Papatoetoe, Auckland",full,-36.99278587,174.87693631,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820964,2105,158,NZ,4072,AUK,,"Manurewa, Auckland",full,-37.01714685,174.90843809,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820965,2110,158,NZ,4072,AUK,,"Papakura, Auckland",full,-37.06103285,174.94331428,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820966,2112,158,NZ,4072,AUK,,"Papakura, Auckland",full,-37.04491960,174.92233110,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820967,2113,158,NZ,4072,AUK,,"Papakura, Auckland",full,-37.08598684,174.94457815,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820968,2120,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.20027160,174.90451248,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820969,2121,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.25863643,174.94784414,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820970,2122,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.13565825,174.69985525,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820971,2123,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.24997888,174.73102313,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820972,2143,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.90122027,174.89758467,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820973,2161,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.93980240,174.87660700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820974,2163,158,NZ,4072,AUK,,"Howick, Auckland",full,-36.94395063,174.90438017,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820975,2241,158,NZ,4072,AUK,,"Ōtara-Papatoetoe, Auckland",full,-36.99377870,174.88426620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820976,2343,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.16997620,175.06455240,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820977,2471,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.22651738,175.17407496,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820978,2472,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.24333500,175.01455100,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820979,2473,158,NZ,4061,WKO,,"Hauraki District, Waikato",full,-37.08977451,175.30278598,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820980,2474,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.27553360,175.05832830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820981,2571,158,NZ,4072,AUK,,"Franklin, Auckland",full,-36.91958060,174.97408100,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820982,2576,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.00343633,174.95716987,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820983,2577,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.11701610,174.96525470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820984,2578,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.12353008,174.95044526,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820985,2579,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.15011222,174.97019772,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820986,2580,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.09389687,174.88299478,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820987,2582,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.02081633,174.98778923,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820988,2585,158,NZ,4072,AUK,,"Franklin, Auckland",full,-36.94835424,175.16796552,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820989,2591,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-36.91487930,175.77652760,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820990,2627,158,NZ,4072,AUK,,"Kaipātiki, Auckland",full,-36.80641750,174.75679280,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820991,2675,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.19011534,174.98506150,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820992,2676,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.16419317,174.89645393,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820993,2677,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.22893340,174.92642850,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820994,2678,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.22369323,174.84342980,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820995,2679,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.16243715,174.79234970,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820996,2681,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.22203460,174.76582020,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820997,2682,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.29449995,174.77299980,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820998,2683,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.21430450,174.67580550,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+820999,2684,158,NZ,4072,AUK,,"Franklin, Auckland",full,-37.10320392,174.63211401,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821000,2695,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.54352530,174.83217150,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821001,2696,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.36501530,175.01933253,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821002,2697,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.33142640,174.91544230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821003,3010,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.14443168,176.25677169,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821004,3015,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.13261724,176.22602717,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821005,3025,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-38.45758913,176.70654857,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821006,3040,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.13187593,176.24890807,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821007,3042,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.13545730,176.29991680,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821008,3046,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-38.60633840,176.95788380,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821009,3072,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.13364690,176.15096710,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821010,3073,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.36230550,176.53194280,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821011,3074,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.04087995,176.39919755,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821012,3075,158,NZ,4074,BOP,,"Kawerau District, Bay of Plenty",full,-38.07189480,176.71874475,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821013,3077,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.36133520,176.16271970,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821014,3078,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.46856890,175.90965140,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821015,3079,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-38.54977393,176.85084323,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821016,3083,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-38.43678110,176.34258240,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821017,3085,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-37.97000250,177.04907860,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821018,3096,158,NZ,4074,BOP,,"Rotorua Lakes District, Bay of Plenty",full,-37.99618730,176.23455220,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821019,3110,158,NZ,4074,BOP,,"Tauranga City, Bay of Plenty",full,-37.68570962,176.14455184,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821020,3112,158,NZ,4074,BOP,,"Tauranga City, Bay of Plenty",full,-37.72744976,176.14422426,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821021,3114,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.63875985,176.03956185,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821022,3116,158,NZ,4074,BOP,,"Tauranga City, Bay of Plenty",full,-37.66094524,176.20293079,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821023,3118,158,NZ,4074,BOP,,"Tauranga City, Bay of Plenty",full,-37.70026377,176.28367620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821024,3119,158,NZ,4074,BOP,,Bay of Plenty,full,-37.81259748,177.50654538,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821025,3120,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-37.95706553,176.98198595,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821026,3121,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-37.96973489,177.05228672,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821027,3122,158,NZ,4074,BOP,,"Ōpōtiki District, Bay of Plenty",full,-38.00720205,177.28620479,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821028,3123,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-38.06252740,177.00414060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821029,3127,158,NZ,4074,BOP,,"Kawerau District, Bay of Plenty",full,-38.08391318,176.70065137,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821030,3129,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.55162407,175.92017980,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821031,3143,158,NZ,4074,BOP,,"Tauranga City, Bay of Plenty",full,-37.68313390,176.16842100,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821032,3149,158,NZ,4074,BOP,,"Tauranga City, Bay of Plenty",full,-37.65579720,176.20242680,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821033,3158,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-37.94993790,177.00211210,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821034,3162,158,NZ,4074,BOP,,"Ōpōtiki District, Bay of Plenty",full,-37.87313100,177.58392690,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821035,3166,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.56080580,175.91416790,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821036,3167,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-38.03406490,176.79750770,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821037,3171,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.77705720,176.05997755,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821038,3172,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.66257045,176.02937105,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821039,3173,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.79582650,176.13066478,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821040,3175,158,NZ,4074,BOP,,"Tauranga City, Bay of Plenty",full,-37.70358803,176.20991870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821041,3176,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.67559860,176.07636550,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821042,3177,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.43167340,175.95512250,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821043,3178,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.56855293,175.90811177,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821044,3179,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.72038010,175.99326525,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821045,3180,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.65497690,175.99643890,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821046,3181,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.59714450,175.94702480,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821047,3182,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.80582070,176.31484300,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821048,3183,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.77578520,176.29972810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821049,3186,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.83554260,176.50273430,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821050,3187,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.72054902,176.30262743,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821051,3189,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.78296850,176.45627103,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821052,3191,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-37.94872540,176.97398870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821053,3192,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-38.01796690,176.90258477,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821054,3193,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-37.95614560,176.81349300,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821055,3194,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-37.89352490,176.75933230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821056,3196,158,NZ,4074,BOP,,"Whakatāne District, Bay of Plenty",full,-38.13954418,177.08854413,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821057,3197,158,NZ,4074,BOP,,"Ōpōtiki District, Bay of Plenty",full,-38.02431690,177.29060350,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821058,3198,158,NZ,4074,BOP,,"Ōpōtiki District, Bay of Plenty",full,-37.99236580,177.24357320,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821059,3199,158,NZ,4074,BOP,,"Ōpōtiki District, Bay of Plenty",full,-37.70259153,177.82071677,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821060,3204,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.79092353,175.26890480,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821061,3206,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.81442863,175.28015046,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821062,3210,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.74176721,175.26962135,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821063,3214,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.76608380,175.29260654,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821064,3216,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.79416015,175.30869750,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821065,3218,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.82318560,175.22589580,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821066,3225,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.80448723,174.87526056,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821067,3241,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.73503670,175.21577020,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821068,3247,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.79110900,175.29466985,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821069,3251,158,NZ,4061,WKO,,"Hamilton City, Waikato",full,-37.80193310,175.32097780,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821070,3281,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.70871741,175.26947078,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821071,3282,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.86961563,175.32933845,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821072,3283,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.84184680,175.37184646,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821073,3284,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.71799380,175.39446993,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821074,3285,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.84282300,175.11441060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821075,3286,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.77554278,175.34832060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821076,3287,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.77894095,175.43714480,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821077,3288,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.73698704,175.18004739,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821078,3289,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.78093010,175.18181665,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821079,3290,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.82800300,175.16841385,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821080,3296,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.88108580,174.86682870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821081,3297,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.82662010,174.82614600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821082,3320,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.54232320,175.70831948,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821083,3330,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.68930167,176.08317614,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821084,3334,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.98303325,175.81580046,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821085,3351,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.68635670,176.06594700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821086,3371,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.73967790,175.58336100,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821087,3373,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.48518370,175.49971530,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821088,3375,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.60197120,175.43016990,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821089,3377,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.68594570,176.07063850,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821090,3378,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.70464178,176.08166445,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821091,3379,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.88744740,176.39312730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821092,3380,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.53280410,175.56779640,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821093,3381,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.89514780,175.71292850,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821094,3382,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.88988527,175.95445088,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821095,3385,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.68774490,175.98418430,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821096,3391,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.63150010,175.76377650,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821097,3410,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-37.97434333,175.75505153,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821098,3411,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-38.04954130,175.77930731,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821099,3420,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-38.22857238,175.86300345,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821100,3421,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.36985270,175.77090810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821101,3432,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.91135016,175.47404938,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821102,3434,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.88874777,175.46542444,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821103,3440,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.81192950,175.77725690,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821104,3444,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-38.21507745,175.86777825,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821105,3474,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.72349350,175.77882320,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821106,3475,158,NZ,4061,WKO,,"Matamata Piako District, Waikato",full,-37.73324590,175.69724560,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821107,3481,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-38.14394760,175.68913390,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821108,3482,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-38.10506820,175.81128390,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821109,3485,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-37.95354310,175.80380630,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821110,3491,158,NZ,4061,WKO,,"South Waikato District, Waikato",full,-38.22123200,175.85948545,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821111,3492,158,NZ,4061,WKO,,"Taupō District, Waikato",full,-38.44520910,175.79571000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821112,3493,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.86928380,175.44711425,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821113,3494,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.94628110,175.60406748,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821114,3495,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.93275075,175.42402835,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821115,3496,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.80691910,175.54543470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821116,3503,158,NZ,4061,WKO,,"Hauraki District, Waikato",full,-37.27634017,175.49382230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821117,3506,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-36.75046900,175.50129083,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821118,3508,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.00294660,175.84876084,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821119,3510,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-36.83525654,175.70055131,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821120,3543,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-36.76087750,175.49749950,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821121,3546,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.01861865,175.85875000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821122,3573,158,NZ,4061,WKO,,"Hauraki District, Waikato",full,-37.24201810,175.56936470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821123,3575,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.01324060,175.51055600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821124,3576,158,NZ,4061,WKO,,"Hauraki District, Waikato",full,-37.23649730,175.39284470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821125,3577,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.14507680,175.60591810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821126,3578,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.22951170,175.63881690,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821127,3579,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.01866080,175.85492197,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821128,3584,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-36.63635600,175.47696725,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821129,3591,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-36.85021718,175.78014320,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821130,3592,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-36.73094330,175.69961640,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821131,3610,158,NZ,4061,WKO,,"Hauraki District, Waikato",full,-37.39086130,175.84249594,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821132,3611,158,NZ,4074,BOP,,"Western Bay of Plenty District, Bay of Plenty",full,-37.40228899,175.93473060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821133,3620,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.19301486,175.86486734,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821134,3647,158,NZ,4061,WKO,,"Thames-Coromandel District, Waikato",full,-37.29530490,175.65712160,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821135,3671,158,NZ,4061,WKO,,"Hauraki District, Waikato",full,-37.29666050,175.54025360,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821136,3681,158,NZ,4061,WKO,,"Hauraki District, Waikato",full,-37.42676470,175.86933910,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821137,3710,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.40007090,175.15034890,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821138,3720,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.67112225,175.15237235,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821139,3721,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.61196785,175.18668420,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821140,3771,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.62261140,175.03331400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821141,3772,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.52767690,175.04138460,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821142,3781,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.40301320,175.18200620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821143,3782,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.41259110,175.12742730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821144,3791,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.66159580,175.16136750,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821145,3792,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.55477140,175.31548520,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821146,3793,158,NZ,4061,WKO,,"Waikato District, Waikato",full,-37.67643963,175.00572987,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821147,3802,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.99140795,175.20512661,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821148,3840,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-38.00738223,175.31779597,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821149,3843,158,NZ,4061,WKO,,"Otorohanga District, Waikato",full,-38.06183010,174.82047250,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821150,3844,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.98864990,175.20310930,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821151,3873,158,NZ,4061,WKO,,"Otorohanga District, Waikato",full,-38.14387270,175.40891290,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821152,3876,158,NZ,4061,WKO,,"Otorohanga District, Waikato",full,-38.01117190,175.16907353,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821153,3877,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-38.15782210,175.57199747,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821154,3879,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-38.03658620,175.40902900,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821155,3880,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-38.06543700,175.55822270,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821156,3882,158,NZ,4061,WKO,,"Waipa District, Waikato",full,-37.87556570,175.25246730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821157,3889,158,NZ,4061,WKO,,"Otorohanga District, Waikato",full,-38.06370920,174.82256400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821158,3910,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.33440195,175.16553000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821159,3912,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.46933217,175.01603627,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821160,3920,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.88159090,175.26439743,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821161,3924,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.88704240,175.32003610,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821162,3926,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.84400200,174.98535380,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821163,3941,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.32896250,175.16000900,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821164,3948,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-39.17287840,175.39772840,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821165,3972,158,NZ,4061,WKO,,"Otorohanga District, Waikato",full,-38.21728160,175.38659140,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821166,3974,158,NZ,4061,WKO,,"Otorohanga District, Waikato",full,-38.16188600,175.27677700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821167,3977,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.25646205,175.14446695,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821168,3981,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.28265830,175.09836870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821169,3985,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.36317720,175.05127160,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821170,3987,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.52080996,175.36430214,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821171,3988,158,NZ,4061,WKO,,"Waitomo District, Waikato",full,-38.15778900,174.82349890,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821172,3991,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.94335040,175.17418600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821173,3992,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.91154120,175.24485990,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821174,3994,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.82210950,175.31488320,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821175,3997,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-38.71558750,175.28353200,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821176,4001,158,NZ,4075,HKB,,"Napier City, Hawke's Bay",full,-39.49235600,176.91882090,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821177,4010,158,NZ,4068,GIS,,Gisborne,full,-38.65842696,178.01101639,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821178,4020,158,NZ,4068,GIS,,Gisborne,full,-38.66900810,178.03274710,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821179,4032,158,NZ,4068,GIS,,Gisborne,full,-37.92767200,178.26018450,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821180,4046,158,NZ,4068,GIS,,Gisborne,full,-38.37224135,178.30011560,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821181,4054,158,NZ,4068,GIS,,Gisborne,full,-37.59815490,178.30100530,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821182,4071,158,NZ,4068,GIS,,Gisborne,full,-38.62516327,177.94111723,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821183,4072,158,NZ,4068,GIS,,Gisborne,full,-38.67999635,177.90880290,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821184,4073,158,NZ,4068,GIS,,Gisborne,full,-38.55669520,178.21523750,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821185,4075,158,NZ,4068,GIS,,Gisborne,full,-38.35978800,177.53375310,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821186,4078,158,NZ,4075,HKB,,"Wairoa District, Hawke's Bay",full,-38.98473700,177.79035550,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821187,4079,158,NZ,4068,GIS,,Gisborne,full,-38.05353930,178.30879060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821188,4087,158,NZ,4068,GIS,,Gisborne,full,-37.63383873,178.37160270,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821189,4102,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.57818565,176.92131020,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821190,4104,158,NZ,4075,HKB,,"Napier City, Hawke's Bay",full,-39.42155470,176.86738740,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821191,4108,158,NZ,4075,HKB,,"Wairoa District, Hawke's Bay",full,-39.03615958,177.42097971,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821192,4110,158,NZ,4075,HKB,,"Napier City, Hawke's Bay",full,-39.49178531,176.91108476,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821193,4112,158,NZ,4075,HKB,,"Napier City, Hawke's Bay",full,-39.52786785,176.86152911,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821194,4118,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.36926960,175.62166480,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821195,4120,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.63037468,176.82648649,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821196,4122,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.64398627,176.84856337,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821197,4130,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.67053361,176.87112364,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821198,4141,158,NZ,4075,HKB,,"Tamatea, Napier City",full,-39.50921460,176.86846320,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821199,4142,158,NZ,4075,HKB,,"Napier City, Hawke's Bay",full,-39.54587700,176.83856675,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821200,4144,158,NZ,4075,HKB,,"Central Hawke's Bay District, Hawke's Bay",full,-39.91862345,176.25007880,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821201,4154,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.62477640,176.78482980,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821202,4165,158,NZ,4075,HKB,,"Wairoa District, Hawke's Bay",full,-39.04187290,177.74130445,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821203,4171,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.65208930,176.71849660,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821204,4172,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.66517475,176.88816288,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821205,4174,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.66299400,176.78280750,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821206,4175,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.61193794,176.75248084,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821207,4178,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.68785930,176.78658040,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821208,4180,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.62984890,176.97003960,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821209,4183,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.55942990,176.82763490,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821210,4193,158,NZ,4075,HKB,,"Wairoa District, Hawke's Bay",full,-39.00357680,177.39779135,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821211,4195,158,NZ,4075,HKB,,"Wairoa District, Hawke's Bay",full,-38.79156490,177.27921960,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821212,4196,158,NZ,4075,HKB,,"Wairoa District, Hawke's Bay",full,-39.00657680,177.40654060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821213,4198,158,NZ,4075,HKB,,"Wairoa District, Hawke's Bay",full,-39.08891360,177.87666147,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821214,4203,158,NZ,4075,HKB,,"Central Hawke's Bay District, Hawke's Bay",full,-40.02762990,176.34516140,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821215,4210,158,NZ,4075,HKB,,"Central Hawke's Bay District, Hawke's Bay",full,-39.94344913,176.58667344,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821216,4276,158,NZ,4075,HKB,,"Central Hawke's Bay District, Hawke's Bay",full,-39.82802850,176.63870540,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821217,4287,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.07518210,176.27610170,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821218,4294,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.67960067,176.93893333,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821219,4295,158,NZ,4075,HKB,,"Hastings District, Hawke's Bay",full,-39.75767640,176.86242950,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821220,4310,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.06394642,174.06836436,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821221,4312,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.05182077,174.11074422,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821222,4314,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.11933530,173.95742130,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821223,4320,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.00069900,174.24415385,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821224,4322,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.42958290,174.29744615,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821225,4330,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.15631084,174.20062948,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821226,4332,158,NZ,4060,MWT,,"Stratford District, Manawatū-Whanganui",full,-39.33615294,174.28329314,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821227,4335,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.19304420,173.88044175,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821228,4346,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-38.99356370,174.24329000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821229,4347,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.15755640,174.21018650,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821230,4371,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.08811145,174.07353015,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821231,4373,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.04798295,174.18547217,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821232,4374,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.09303780,174.01888700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821233,4375,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-38.99920110,174.39090820,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821234,4377,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-38.98493057,174.41308630,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821235,4378,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-38.85826740,174.60711920,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821236,4381,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.17614335,174.07913940,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821237,4383,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.03461620,174.27906900,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821238,4390,158,NZ,4069,TKI,,"New Plymouth District, Taranaki",full,-39.23600245,174.32903905,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821239,4395,158,NZ,4060,MWT,,"Stratford District, Manawatū-Whanganui",full,-39.26069160,174.56811850,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821240,4410,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.35823825,175.63026859,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821241,4412,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.36557709,175.58663415,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821242,4414,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.33824303,175.62859419,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821243,4440,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.35728680,175.60669063,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821244,4442,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.31326690,175.62972730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821245,4470,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.29116045,175.71147510,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821246,4472,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.39731172,175.60152833,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821247,4473,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.33085300,175.41157690,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821248,4474,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.47495740,175.51126950,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821249,4475,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.33137235,175.55264870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821250,4476,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.29499429,175.43207321,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821251,4477,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.40902300,175.37732660,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821252,4478,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.28222340,175.62850200,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821253,4479,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.22886900,175.41484830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821254,4481,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.28107120,175.63172670,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821255,4501,158,NZ,4060,MWT,,"Whanganui District, Manawatū-Whanganui",full,-39.93288875,175.02084288,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821256,4510,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.76412518,174.62962075,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821257,4520,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.75788575,174.47483278,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821258,4571,158,NZ,4060,MWT,,"Whanganui District, Manawatū-Whanganui",full,-39.89235150,175.00718990,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821259,4572,158,NZ,4060,MWT,,"Whanganui District, Manawatū-Whanganui",full,-39.96010625,175.14969330,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821260,4574,158,NZ,4060,MWT,,"Whanganui District, Manawatū-Whanganui",full,-39.87275300,174.91386887,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821261,4575,158,NZ,4060,MWT,,"Whanganui District, Manawatū-Whanganui",full,-39.86914640,175.11444780,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821262,4581,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-40.04779250,175.21502000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821263,4598,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.70683040,174.44712440,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821264,4610,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.58708122,174.27795130,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821265,4612,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.54825848,174.12485630,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821266,4614,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.54037990,174.27281600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821267,4616,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.45402253,173.85675998,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821268,4625,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-39.41450754,175.40729628,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821269,4632,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-39.42948370,175.28028695,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821270,4642,158,NZ,4060,MWT,,"Stratford District, Manawatū-Whanganui",full,-39.34472520,174.11365010,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821271,4645,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.45008265,173.86032630,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821272,4672,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.62600370,174.36948400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821273,4678,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.48266900,174.04523510,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821274,4697,158,NZ,4069,TKI,,"South Taranaki District, Taranaki",full,-39.42775530,174.14881220,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821275,4702,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.22266442,175.56444068,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821276,4710,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-40.07311788,175.37734785,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821277,4720,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-39.67634940,175.80120750,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821278,4730,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-39.93366360,175.56393190,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821279,4770,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.04136690,175.64277410,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821280,4771,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-39.97231260,175.87387490,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821281,4774,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-39.97646680,175.83834780,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821282,4775,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.20419610,175.59866198,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821283,4777,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.13186652,175.67231438,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821284,4779,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.11908266,175.55506229,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821285,4789,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-40.08691680,175.30933860,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821286,4791,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-39.65127190,175.72074720,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821287,4792,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-39.58082300,175.86388930,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821288,4797,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-39.80868315,175.78967335,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821289,4810,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.29127970,175.75409363,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821290,4814,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.47199300,175.28355238,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821291,4815,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.46009110,175.22681220,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821292,4818,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-40.17533480,175.38557530,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821293,4820,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.41149180,175.59183050,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821294,4821,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.54791310,175.41365002,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821295,4822,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.29556343,175.24498697,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821296,4825,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-39.47560050,175.66604610,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821297,4826,158,NZ,4060,MWT,,"Ruapehu District, Manawatū-Whanganui",full,-39.46918100,175.67303520,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821298,4864,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.47005790,175.50931480,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821299,4867,158,NZ,4060,MWT,,"Palmerston North City, Manawatū-Whanganui",full,-40.28206020,175.63315490,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821300,4884,158,NZ,4060,MWT,,"Manawatū District, Manawatū-Whanganui",full,-40.16045705,175.81113655,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821301,4891,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.42243070,175.30163590,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821302,4894,158,NZ,4060,MWT,,"Rangitīkei District, Manawatū-Whanganui",full,-40.23233020,175.31961230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821303,4910,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.45117393,175.83952383,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821304,4920,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.33985841,175.86547777,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821305,4930,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.20536345,176.10199845,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821306,4970,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.49217269,176.55962683,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821307,4972,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.19341610,176.06239740,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821308,4974,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.06899210,176.21398960,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821309,4981,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.61425160,175.87975010,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821310,4982,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.42117140,175.86170500,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821311,4986,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.60628843,175.93162660,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821312,4989,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.53201380,176.01469720,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821313,4991,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.59197198,176.40732097,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821314,4993,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.62241550,175.85632055,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821315,4996,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.67943140,175.88633026,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821316,4998,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.33908100,175.88112310,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821317,4999,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.33628190,175.83387725,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821318,5010,158,NZ,4065,WGN,,"Moera, Lower Hutt",full,-41.23446550,174.90853858,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821319,5011,158,NZ,4065,WGN,,"Lower Hutt City, Wellington",full,-41.19367166,174.94490618,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821320,5012,158,NZ,4065,WGN,,"Petone, Lower Hutt",full,-41.22471611,174.88137780,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821321,5013,158,NZ,4065,WGN,,Wellington,full,-41.28252379,174.90202509,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821322,5014,158,NZ,4065,WGN,,"Lower Hutt City, Wellington",full,-41.25188727,174.97163025,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821323,5018,158,NZ,4065,WGN,,"Upper Hutt City, Wellington",full,-41.12683148,175.05903388,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821324,5019,158,NZ,4065,WGN,,"Upper Hutt City, Wellington",full,-41.15418403,175.00282026,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821325,5022,158,NZ,4065,WGN,,"Elsdon, Porirua",full,-41.13140600,174.83371792,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821326,5024,158,NZ,4065,WGN,,"Waitangirua, Porirua",full,-41.12625696,174.87827435,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821327,5025,158,NZ,4065,WGN,,"Aotea, Porirua",full,-41.12518858,174.86662802,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821328,5026,158,NZ,4065,WGN,,"Plimmerton, Porirua",full,-41.07094142,174.87213853,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821329,5028,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.18026815,174.82913609,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821330,5032,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.90700491,174.99867454,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821331,5034,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.98115897,174.95594760,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821332,5035,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.86131080,175.02477500,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821333,5036,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.87018734,175.04784228,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821334,5037,158,NZ,4065,WGN,,"Whitby, Porirua",full,-41.11756040,174.89441690,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821335,5040,158,NZ,4065,WGN,,"Lower Hutt Central, Lower Hutt",full,-41.20565273,174.91507007,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821336,5045,158,NZ,4065,WGN,,"Petone, Lower Hutt",full,-41.22155800,174.88639930,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821337,5218,158,NZ,4065,WGN,,"Upper Hutt City, Wellington",full,-41.12710475,175.06056940,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821338,5245,158,NZ,4065,WGN,,"Whitby, Porirua",full,-41.12071855,174.89974020,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821339,5252,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.89842650,174.98091530,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821340,5371,158,NZ,4065,WGN,,"Upper Hutt City, Wellington",full,-41.15941147,175.05875137,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821341,5372,158,NZ,4065,WGN,,"Upper Hutt City, Wellington",full,-41.07618680,175.22994850,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821342,5373,158,NZ,4065,WGN,,"Lower Hutt City, Wellington",full,-41.23802520,174.97977640,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821343,5381,158,NZ,4065,WGN,,"Pauatahanui, Porirua",full,-41.10076136,174.91704759,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821344,5391,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.90175310,175.08671810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821345,5510,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.62657985,175.28691378,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821346,5512,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.75945133,175.15143337,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821347,5570,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.67108287,175.24645667,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821348,5571,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.59212295,175.34538240,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821349,5573,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.71410030,175.21944220,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821350,5575,158,NZ,4060,MWT,,"Horowhenua District, Manawatū-Whanganui",full,-40.56085370,175.33534260,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821351,5581,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.78975163,175.12814487,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821352,5582,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.82168930,175.19527230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821353,5583,158,NZ,4065,WGN,,"Kapiti Coast District, Wellington",full,-40.80386560,175.11927733,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821354,5710,158,NZ,4065,WGN,,"Featherston Community, South Wairarapa District",full,-41.11422765,175.33995543,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821355,5711,158,NZ,4065,WGN,,"Martinborough, Martinborough Community",full,-41.21819010,175.45917828,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821356,5712,158,NZ,4065,WGN,,"Greytown Community, South Wairarapa District",full,-41.08211876,175.45848672,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821357,5713,158,NZ,4065,WGN,,"Carterton District, Wellington",full,-41.02760923,175.52631390,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821358,5744,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-44.24793960,170.11326380,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821359,5771,158,NZ,4065,WGN,,"Featherston Community, South Wairarapa District",full,-41.16140190,175.35740830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821360,5772,158,NZ,4065,WGN,,"Martinborough Community, South Wairarapa District",full,-41.39820270,175.20428692,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821361,5784,158,NZ,4065,WGN,,"Martinborough Community, South Wairarapa District",full,-41.29439910,175.64734920,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821362,5791,158,NZ,4065,WGN,,"Carterton District, Wellington",full,-40.96560078,175.57772916,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821363,5792,158,NZ,4065,WGN,,"Carterton District, Wellington",full,-41.08981103,175.59428540,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821364,5794,158,NZ,4065,WGN,,"Greytown Community, South Wairarapa District",full,-41.07162636,175.48077413,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821365,5810,158,NZ,4065,WGN,,"Masterton District, Wellington",full,-40.96041812,175.64260072,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821366,5871,158,NZ,4065,WGN,,"Masterton District, Wellington",full,-40.90658623,175.67354510,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821367,5872,158,NZ,4065,WGN,,"Masterton District, Wellington",full,-41.17022660,175.98211830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821368,5881,158,NZ,4060,MWT,,"Tararua District, Manawatū-Whanganui",full,-40.72341420,175.63761620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821369,5882,158,NZ,4065,WGN,,"Masterton District, Wellington",full,-40.76548170,175.68319020,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821370,5883,158,NZ,4065,WGN,,"Carterton District, Wellington",full,-41.13910223,175.67805538,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821371,5884,158,NZ,4065,WGN,,"Carterton District, Wellington",full,-41.08023520,175.65413830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821372,5887,158,NZ,4065,WGN,,"Carterton District, Wellington",full,-40.99694460,175.58427390,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821373,5888,158,NZ,4065,WGN,,"Masterton District, Wellington",full,-40.93471600,175.61857060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821374,5889,158,NZ,4065,WGN,,"Masterton District, Wellington",full,-40.90198250,176.07783945,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821375,5894,158,NZ,4065,WGN,,"Masterton District, Wellington",full,-40.87542240,176.07132120,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821376,6007,158,NZ,4065,WGN,,"Upper Hutt City, Wellington",full,-41.11164400,175.10093350,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821377,6011,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.28834362,174.77753590,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821378,6012,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.28205156,174.75288447,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821379,6021,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.30414099,174.77288995,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821380,6022,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.23702635,174.81240141,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821381,6023,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.32942732,174.77129828,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821382,6035,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.25051460,174.79407346,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821383,6037,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.21997949,174.80867544,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821384,6040,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.28972120,174.77473400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821385,6140,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.28271855,174.77130790,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821386,6145,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.28510010,174.77423030,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821387,6242,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.32385320,174.77248710,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821388,6441,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.24228860,174.78997330,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821389,6442,158,NZ,4065,WGN,,"Wellington City, Wellington",full,-41.22298560,174.82390620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821390,7005,158,NZ,4073,TAS,,Tasman,full,-41.25283031,173.09713153,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821391,7007,158,NZ,4073,TAS,,Tasman,full,-41.80058940,172.32531230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821392,7010,158,NZ,4070,NSN,,Nelson,full,-41.27395887,173.28406367,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821393,7011,158,NZ,4070,NSN,,Nelson,full,-41.30024968,173.23890679,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821394,7020,158,NZ,4073,TAS,,Tasman,full,-41.33894311,173.18329434,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821395,7022,158,NZ,4073,TAS,,Tasman,full,-41.36588968,173.09940653,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821396,7025,158,NZ,4073,TAS,,Tasman,full,-41.40573182,173.04676384,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821397,7030,158,NZ,4070,NSN,,Nelson,full,-41.26557525,173.27951815,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821398,7040,158,NZ,4070,NSN,,Nelson,full,-41.27333050,173.28291465,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821399,7042,158,NZ,4070,NSN,,Nelson,full,-41.27451080,173.28771850,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821400,7050,158,NZ,4064,WTC,,"Westland District, West Coast",full,-43.18130955,170.92979805,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821401,7053,158,NZ,4073,TAS,,Tasman,full,-41.80498550,172.84555640,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821402,7062,158,NZ,4064,WTC,,"Buller District, West Coast",full,-42.18803250,172.22134475,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821403,7071,158,NZ,4070,NSN,,Nelson,full,-41.29476449,173.29904589,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821404,7072,158,NZ,4073,TAS,,Tasman,full,-41.80221591,172.84801769,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821405,7073,158,NZ,4073,TAS,,Tasman,full,-40.67186539,172.67999031,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821406,7081,158,NZ,4073,TAS,,Tasman,full,-41.32259440,173.12566905,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821407,7085,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.44779220,171.20612360,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821408,7091,158,NZ,4073,TAS,,Tasman,full,-41.38424713,173.09590273,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821409,7096,158,NZ,4073,TAS,,Tasman,full,-41.36647660,172.79017393,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821410,7110,158,NZ,4073,TAS,,Tasman,full,-40.85852730,172.80663912,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821411,7120,158,NZ,4073,TAS,,Tasman,full,-41.11653031,173.00808037,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821412,7142,158,NZ,4073,TAS,,Tasman,full,-40.85939708,172.81798844,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821413,7143,158,NZ,4073,TAS,,Tasman,full,-41.10969520,173.01132510,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821414,7145,158,NZ,4073,TAS,,Tasman,full,-41.15455030,172.99480870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821415,7173,158,NZ,4073,TAS,,Tasman,full,-41.40863792,173.15283237,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821416,7175,158,NZ,4073,TAS,,Tasman,full,-41.24983867,172.97616435,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821417,7182,158,NZ,4073,TAS,,Tasman,full,-40.73934480,172.69660600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821418,7183,158,NZ,4073,TAS,,Tasman,full,-40.84687313,172.88133757,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821419,7191,158,NZ,4073,TAS,,Tasman,full,-41.80047580,172.32376480,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821420,7193,158,NZ,4063,MBH,,Marlborough,full,-40.97003945,173.88616123,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821421,7195,158,NZ,4063,MBH,,Marlborough,full,-41.07108700,173.77295600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821422,7196,158,NZ,4073,TAS,,Tasman,full,-41.20451585,172.88834285,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821423,7197,158,NZ,4073,TAS,,Tasman,full,-41.00156672,173.00592032,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821424,7198,158,NZ,4073,TAS,,Tasman,full,-41.07105176,172.99416435,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821425,7201,158,NZ,4063,MBH,,Marlborough,full,-41.51817996,173.95288125,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821426,7202,158,NZ,4063,MBH,,Marlborough,full,-41.45816360,173.96900610,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821427,7204,158,NZ,4063,MBH,,Marlborough,full,-41.50749860,173.83026385,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821428,7206,158,NZ,4063,MBH,,Marlborough,full,-41.50990777,173.86196015,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821429,7210,158,NZ,4063,MBH,,Marlborough,full,-41.67303766,174.07470624,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821430,7220,158,NZ,4063,MBH,,Marlborough,full,-41.28951430,174.00972244,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821431,7240,158,NZ,4063,MBH,,"Camden Station, Marlborough",full,-41.85815900,173.68416830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821432,7246,158,NZ,4063,MBH,,Marlborough,full,-41.42919570,173.96212390,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821433,7248,158,NZ,4063,MBH,,Marlborough,full,-41.82772280,174.13318130,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821434,7271,158,NZ,4063,MBH,,Marlborough,full,-41.56198315,173.53768400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821435,7272,158,NZ,4063,MBH,,Marlborough,full,-41.53624120,173.88916530,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821436,7273,158,NZ,4063,MBH,,Marlborough,full,-41.47820970,173.87070505,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821437,7281,158,NZ,4063,MBH,,Marlborough,full,-41.26713699,173.91064712,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821438,7282,158,NZ,4063,MBH,,Marlborough,full,-41.22322630,173.97284330,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821439,7284,158,NZ,4063,MBH,,Marlborough,full,-41.02048490,174.13710420,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821440,7285,158,NZ,4063,MBH,,Marlborough,full,-41.87728130,174.11322405,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821441,7301,158,NZ,4063,MBH,,Marlborough,full,-41.51451270,173.95627730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821442,7310,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.81091995,173.27220185,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821443,7332,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.65368165,173.04377520,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821444,7334,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.52177730,172.82766901,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821445,7345,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.77042930,172.84847700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821446,7348,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.92424560,172.63705610,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821447,7371,158,NZ,4066,CAN,,"Kaikōura District, Canterbury",full,-42.23648893,173.78471940,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821448,7379,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.69812803,172.94862800,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821449,7385,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.90502295,172.63873455,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821450,7391,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.76951833,172.92027774,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821451,7392,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.76913456,172.83740191,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821452,7395,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.65841350,173.04232320,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821453,7410,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-43.15518966,172.72810532,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821454,7420,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.96929772,172.70126915,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821455,7430,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.29363900,172.19662950,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821456,7441,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-43.15464750,172.73311750,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821457,7445,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.24651970,172.67263710,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821458,7471,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.31017214,172.45567416,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821459,7472,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.24897800,172.53276000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821460,7473,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.24479130,172.34697620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821461,7474,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.23379820,172.38574220,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821462,7475,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.36185430,172.48151210,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821463,7481,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-43.19362201,172.73496730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821464,7482,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-43.12028690,172.71840150,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821465,7483,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-43.02453254,172.81579686,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821466,7491,158,NZ,4066,CAN,,"Hurunui District, Canterbury",full,-42.96454870,172.61171630,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821467,7495,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.29887580,172.07212990,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821468,7510,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.48979169,172.10846364,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821469,7520,158,NZ,4066,CAN,,"Akaroa, Banks Peninsula Community",full,-43.81345301,172.96356199,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821470,7542,158,NZ,4066,CAN,,"Akaroa, Banks Peninsula Community",full,-43.81005470,172.97824665,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821471,7572,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.53579463,171.92427568,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821472,7575,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.34950270,172.36059510,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821473,7580,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.20880810,171.71456436,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821474,7581,158,NZ,4066,CAN,,"Duvauchelle, Banks Peninsula Community",full,-43.75014050,172.93277240,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821475,7582,158,NZ,4066,CAN,,"Wainui, Banks Peninsula Community",full,-43.79106800,172.91117980,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821476,7583,158,NZ,4066,CAN,,"Le Bons Bay, Banks Peninsula Community",full,-43.73650160,173.05041765,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821477,7591,158,NZ,4066,CAN,,"Little River, Banks Peninsula Community",full,-43.79313655,172.74912582,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821478,7602,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.80850540,172.25237830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821479,7604,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.58009495,172.51132988,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821480,7608,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.64002422,172.48540815,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821481,7610,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.31838533,172.66921913,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821482,7612,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.31491160,172.69129310,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821483,7614,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.59443995,172.38716298,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821484,7615,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.62405913,172.39061782,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821485,7616,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.64464250,172.42500360,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821486,7618,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.51702590,172.36853160,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821487,7630,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.38214423,172.65644687,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821488,7632,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.76236311,172.29605244,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821489,7643,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.60526070,172.38676460,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821490,7647,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.64714690,172.45668440,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821491,7648,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.30960815,172.67445810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821492,7649,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.33652690,171.93182010,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821493,7654,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-42.94411395,171.56387400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821494,7671,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.57276910,172.08428430,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821495,7672,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.64412732,172.55284552,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821496,7673,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.48211010,171.93297470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821497,7674,158,NZ,4066,CAN,,"Christchurch, Christchurch City",full,-43.60702254,172.53981531,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821498,7675,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.57041300,172.40295670,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821499,7676,158,NZ,4066,CAN,,"Hornby South, Halswell-Hornby-Riccarton Community",full,-43.55882830,172.51098902,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821500,7677,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.59908890,172.34692430,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821501,7678,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.60988069,172.39446261,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821502,7682,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-43.66366770,172.19565400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821503,7691,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.35722007,172.63885233,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821504,7692,158,NZ,4066,CAN,,"Waimakariri District, Canterbury",full,-43.38821240,172.58486595,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821505,7710,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.75383855,172.02096610,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821506,7730,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.63394165,171.64791062,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821507,7746,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.70580200,171.40191970,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821508,7771,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.72043545,171.50718775,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821509,7772,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.83674880,171.89446677,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821510,7773,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.98987645,171.62971940,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821511,7775,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.97980455,171.46115990,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821512,7777,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.91407370,171.77104000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821513,7778,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.81986820,171.42330360,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821514,7781,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.87134485,172.10120235,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821515,7782,158,NZ,4066,CAN,,"Ashburton District, Canterbury",full,-43.62318030,171.64756310,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821516,7801,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.44854290,171.20983580,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821517,7804,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.36497845,171.41077685,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821518,7805,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.49876702,171.24092943,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821519,7810,158,NZ,4064,WTC,,"Westland District, West Coast",full,-42.71804392,170.97084688,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821520,7812,158,NZ,4064,WTC,,"Westland District, West Coast",full,-42.89770290,170.81675930,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821521,7825,158,NZ,4064,WTC,,"Buller District, West Coast",full,-41.75349690,171.60600538,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821522,7830,158,NZ,4064,WTC,,"Buller District, West Coast",full,-42.11557334,171.86399590,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821523,7832,158,NZ,4064,WTC,,"Westland District, West Coast",full,-42.63204217,171.18640253,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821524,7840,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.44759150,171.20449000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821525,7842,158,NZ,4064,WTC,,"Westland District, West Coast",full,-42.72441130,170.97877970,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821526,7843,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.34712500,171.53889940,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821527,7845,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.57601520,171.48166500,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821528,7853,158,NZ,4066,CAN,,"Okains Bay, Banks Peninsula Community",full,-43.67595540,172.99785620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821529,7856,158,NZ,4064,WTC,,"Westland District, West Coast",full,-43.38770250,170.18296595,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821530,7859,158,NZ,4064,WTC,,"Westland District, West Coast",full,-43.46007897,170.00217897,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821531,7864,158,NZ,4064,WTC,,"Buller District, West Coast",full,-41.24927510,172.11681140,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821532,7871,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.34788262,171.54752409,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821533,7873,158,NZ,4064,WTC,,"Grey District, West Coast",full,-42.14740560,171.33577803,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821534,7875,158,NZ,4066,CAN,,"Selwyn District, Canterbury",full,-42.93921900,171.56186060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821535,7882,158,NZ,4064,WTC,,"Westland District, West Coast",full,-42.69153205,170.99502340,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821536,7883,158,NZ,4064,WTC,,"Westland District, West Coast",full,-42.80926260,170.92073510,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821537,7884,158,NZ,4064,WTC,,"Westland District, West Coast",full,-43.14245950,170.55234740,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821538,7886,158,NZ,4064,WTC,,"Westland District, West Coast",full,-43.38230087,170.18176473,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821539,7891,158,NZ,4064,WTC,,"Buller District, West Coast",full,-41.38161819,172.08351529,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821540,7893,158,NZ,4064,WTC,,"Buller District, West Coast",full,-41.25128240,172.12833870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821541,7895,158,NZ,4073,TAS,,Tasman,full,-41.90432420,172.07531512,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821542,7901,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-44.25792660,170.09915410,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821543,7903,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.25980045,171.13233325,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821544,7910,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.38555468,171.23430507,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821545,7912,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.48667670,171.21167360,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821546,7920,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.24252940,171.28913837,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821547,7924,158,NZ,4066,CAN,,"Waimate District, Canterbury",full,-44.73347704,171.04587369,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821548,7925,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-44.09938319,170.82733701,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821549,7930,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.08901499,171.24417051,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821550,7945,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-43.93957753,170.38611338,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821551,7946,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-43.73429055,170.09669460,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821552,7952,158,NZ,4064,WTC,,"Westland District, West Coast",full,-43.38486070,170.18445370,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821553,7969,158,NZ,4071,STL,,"Fiordland Community, Southland District",full,-45.56602410,167.60956710,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821554,7972,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.43449750,171.13039110,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821555,7973,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.34438600,171.23707110,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821556,7978,158,NZ,4066,CAN,,"Waimate District, Canterbury",full,-44.66649475,171.08001570,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821557,7980,158,NZ,4066,CAN,,"Waimate District, Canterbury",full,-44.91413110,171.09846710,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821558,7984,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-44.26276658,170.88822673,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821559,7987,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-44.09288880,170.84627620,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821560,7992,158,NZ,4066,CAN,,"Timaru District, Canterbury",full,-44.04893180,171.25601375,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821561,7999,158,NZ,4066,CAN,,"Mackenzie District, Canterbury",full,-44.05058369,170.30446400,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821562,8004,158,NZ,4066,CAN,,"Halswell-Hornby-Riccarton Community, Christchurch City",full,-43.54980050,172.54082720,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821563,8007,158,NZ,4066,CAN,,"Ferrymead, Linwood-Central-Heathcote Community",full,-43.55808780,172.70470350,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821564,8011,158,NZ,4066,CAN,,"Central City, Christchurch",full,-43.53544288,172.63752220,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821565,8013,158,NZ,4066,CAN,,"Papanui-Innes Community, Christchurch City",full,-43.51553069,172.64708409,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821566,8014,158,NZ,4066,CAN,,"Merivale, Christchurch",full,-43.51743998,172.62000632,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821567,8016,158,NZ,4067,CIT,,Chatham Islands,full,-43.95356650,-176.55611500,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821568,8022,158,NZ,4066,CAN,,"Cashmere, Spreydon-Cashmere Community",full,-43.57282049,172.63898397,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821569,8023,158,NZ,4066,CAN,,"Beckenham, Spreydon-Cashmere Community",full,-43.56035143,172.64234892,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821570,8024,158,NZ,4066,CAN,,"Spreydon, Christchurch",full,-43.55689745,172.61798652,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821571,8025,158,NZ,4066,CAN,,"Halswell-Hornby-Riccarton Community, Christchurch City",full,-43.57200288,172.57224120,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821572,8041,158,NZ,4066,CAN,,"Halswell-Hornby-Riccarton Community, Christchurch City",full,-43.52581911,172.57867427,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821573,8042,158,NZ,4066,CAN,,"Sockburn, Halswell-Hornby-Riccarton Community",full,-43.53294224,172.54429770,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821574,8051,158,NZ,4066,CAN,,"Styx, Christchurch",full,-43.47272788,172.60475217,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821575,8052,158,NZ,4066,CAN,,"Saint Albans, Christchurch",full,-43.50558659,172.61767275,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821576,8053,158,NZ,4066,CAN,,"Fendalton-Waimari-Harewood Community, Christchurch City",full,-43.49619908,172.58137370,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821577,8061,158,NZ,4066,CAN,,"Wainoni, Coastal-Burwood Community",full,-43.51501832,172.69100896,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821578,8062,158,NZ,4066,CAN,,"Bromley, Linwood-Central-Heathcote Community",full,-43.53911204,172.70072790,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821579,8064,158,NZ,4066,CAN,,"Shirley, Papanui-Innes Community",full,-43.50620850,172.66218600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821580,8073,158,NZ,4072,AUK,,"Hibiscus and Bays, Auckland",full,-36.54302950,174.70038940,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821581,8081,158,NZ,4066,CAN,,"Redcliffs, Linwood-Central-Heathcote Community",full,-43.56273724,172.73427630,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821582,8082,158,NZ,4066,CAN,,"Banks Peninsula Community, Christchurch City",full,-43.60140421,172.71964527,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821583,8083,158,NZ,4066,CAN,,"Parklands, Coastal-Burwood Community",full,-43.48247012,172.69906844,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821584,8140,158,NZ,4066,CAN,,"Christchurch, Christchurch City",full,-43.51965253,172.61538588,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821585,8146,158,NZ,4066,CAN,,"Merivale, Christchurch",full,-43.51249990,172.62121500,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821586,8149,158,NZ,4066,CAN,,"Addington, Christchurch",full,-43.54028488,172.60561678,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821587,8240,158,NZ,4066,CAN,,"Waltham, Christchurch",full,-43.54777900,172.65760720,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821588,8440,158,NZ,4066,CAN,,"Riccarton, Christchurch",full,-43.52696350,172.61184920,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821589,8443,158,NZ,4066,CAN,,"Sockburn, Halswell-Hornby-Riccarton Community",full,-43.53978380,172.56774810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821590,8640,158,NZ,4066,CAN,,"Dallington, Coastal-Burwood Community",full,-43.50722440,172.67287230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821591,8942,158,NZ,4067,CIT,,Chatham Islands,full,-43.95094910,-176.56071570,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821592,8971,158,NZ,4066,CAN,,"Banks Peninsula Community, Christchurch City",full,-43.61887928,172.67155155,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821593,8972,158,NZ,4066,CAN,,"Diamond Harbour, Banks Peninsula Community",full,-43.64536620,172.77530330,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821594,9001,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.89773960,170.52938225,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821595,9010,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.85395475,170.50585708,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821596,9011,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.87951929,170.47608784,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821597,9012,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.89952002,170.49457186,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821598,9013,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.89222095,170.52686521,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821599,9014,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.86740180,170.59794080,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821600,9016,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.86938820,170.50829323,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821601,9018,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.90063468,170.43459133,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821602,9023,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.81769242,170.62139840,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821603,9024,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.87737840,170.35025165,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821604,9035,158,NZ,4062,OTA,,"Vincent Community, Central Otago District",full,-45.32576958,169.73957998,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821605,9054,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.88437010,170.49878050,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821606,9059,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.87214800,170.51845280,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821607,9067,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.50557610,170.11907440,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821608,9081,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.77456240,170.61757515,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821609,9092,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.84890420,170.34208630,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821610,9210,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.28511860,169.84354350,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821611,9220,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.11420504,169.93034862,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821612,9230,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.23798891,169.73787045,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821613,9231,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.24851970,169.77992680,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821614,9240,158,NZ,4071,STL,,Southland,full,-46.73562408,168.52306833,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821615,9243,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.03172650,170.09500090,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821616,9247,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.09468360,169.55090060,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821617,9271,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.35556300,169.71761230,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821618,9291,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.08503760,170.00894550,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821619,9302,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-44.94021188,168.83333164,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821620,9304,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-45.00559670,168.77755410,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821621,9305,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-44.69544449,169.13965931,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821622,9310,158,NZ,4062,OTA,,"Cromwell Community, Central Otago District",full,-45.03752944,169.20799168,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821623,9320,158,NZ,4062,OTA,,"Vincent Community, Central Otago District",full,-45.24928079,169.39222101,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821624,9330,158,NZ,4062,OTA,,"Vincent Community, Central Otago District",full,-45.18992705,169.31816055,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821625,9332,158,NZ,4062,OTA,,"Maniototo Community, Central Otago District",full,-45.12749533,170.09819487,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821626,9342,158,NZ,4062,OTA,,"Cromwell Community, Central Otago District",full,-45.04576380,169.20934680,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821627,9343,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-44.24742220,169.22415730,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821628,9346,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-44.23224740,169.23260810,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821629,9348,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-45.03204598,168.66125325,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821630,9371,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-45.06492651,168.75177994,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821631,9372,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-44.84572774,168.35895401,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821632,9376,158,NZ,4062,OTA,,"Vincent Community, Central Otago District",full,-45.10119470,169.59693970,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821633,9377,158,NZ,4062,OTA,,"Vincent Community, Central Otago District",full,-44.97459270,169.78646520,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821634,9381,158,NZ,4062,OTA,,"Queenstown-Lakes District, Otago",full,-44.87795280,169.10459090,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821635,9382,158,NZ,4062,OTA,,"Mount Burke Station, Queenstown-Lakes District",full,-44.61940779,169.23022930,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821636,9383,158,NZ,4062,OTA,,"Cromwell Community, Central Otago District",full,-44.92464083,169.31974600,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821637,9384,158,NZ,4062,OTA,,"Cromwell Community, Central Otago District",full,-45.01273075,169.20765555,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821638,9387,158,NZ,4062,OTA,,"Maniototo Community, Central Otago District",full,-45.05783530,169.75860110,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821639,9391,158,NZ,4062,OTA,,"Vincent Community, Central Otago District",full,-45.23135984,169.38028656,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821640,9393,158,NZ,4062,OTA,,"Vincent Community, Central Otago District",full,-45.23817387,169.41131920,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821641,9396,158,NZ,4062,OTA,,"Maniototo Community, Central Otago District",full,-45.02739500,170.14425070,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821642,9401,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.09165265,170.93717590,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821643,9410,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.32676110,170.81432470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821644,9412,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-44.48136770,169.96922960,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821645,9430,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.48202026,170.71623014,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821646,9435,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-44.73785505,170.46677865,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821647,9444,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.10073160,170.97002155,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821648,9449,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.70912920,170.59659080,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821649,9460,158,NZ,4071,STL,,"Fiordland Community, Southland District",full,-45.42481720,167.71936767,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821650,9471,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.71741420,170.56969100,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821651,9481,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.49014030,170.70608220,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821652,9482,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.35779226,170.85598712,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821653,9492,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.06122900,170.96814020,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821654,9493,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-44.94550400,171.13062460,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821655,9494,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-44.89983208,170.81378313,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821656,9495,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-45.14334575,170.86598880,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821657,9498,158,NZ,4066,CAN,,"Waitaki District, Canterbury",full,-44.74101170,170.47443850,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821658,9510,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.60259245,170.66635885,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821659,9522,158,NZ,4062,OTA,,"Clutha District, Otago",full,-45.94263310,169.26037361,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821660,9532,158,NZ,4062,OTA,,"Clutha District, Otago",full,-45.91385259,169.68736571,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821661,9534,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.20118480,169.37846450,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821662,9535,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.44946415,169.66340635,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821663,9572,158,NZ,4062,OTA,,"Teviot Valley Community, Central Otago District",full,-45.66160870,169.40986225,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821664,9584,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.21597910,169.48955280,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821665,9586,158,NZ,4062,OTA,,"Clutha District, Otago",full,-46.58354890,169.38972540,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821666,9597,158,NZ,4062,OTA,,"Dunedin City, Otago",full,-45.50603660,170.12262460,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821667,9610,158,NZ,4071,STL,,"Wallace Takitimu Community, Southland District",full,-46.14316225,167.99606315,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821668,9620,158,NZ,4071,STL,,"Tuatapere Te Waewae Community, Southland District",full,-46.12927230,167.68963590,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821669,9630,158,NZ,4071,STL,,"Wallace Takitimu Community, Southland District",full,-45.97520230,168.03365910,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821670,9672,158,NZ,4071,STL,,"Fiordland Community, Southland District",full,-45.54480080,167.89466160,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821671,9679,158,NZ,4071,STL,,"Fiordland Community, Southland District",full,-45.42319278,167.72264310,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821672,9683,158,NZ,4071,STL,,"Wallace Takitimu Community, Southland District",full,-46.15227770,168.14988670,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821673,9710,158,NZ,4071,STL,,"Gore District, Southland",full,-46.10215759,168.94852104,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821674,9712,158,NZ,4071,STL,,"Gore District, Southland",full,-46.19291491,168.86543907,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821675,9720,158,NZ,4071,STL,,"Oreti Community, Southland District",full,-46.14578105,168.32545338,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821676,9730,158,NZ,4071,STL,,"Northern Community, Southland District",full,-45.73982338,168.44469817,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821677,9740,158,NZ,4071,STL,,"Gore District, Southland",full,-46.10229450,168.93918700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821678,9743,158,NZ,4071,STL,,"Gore District, Southland",full,-45.92136567,169.01500337,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821679,9745,158,NZ,4071,STL,,"Southland District, Southland",full,-45.72376370,168.84783470,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821680,9747,158,NZ,4071,STL,,"Northern Community, Southland District",full,-45.66793520,168.23806140,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821681,9773,158,NZ,4071,STL,,"Gore District, Southland",full,-45.91959310,169.01341340,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821682,9781,158,NZ,4071,STL,,"Oreti Community, Southland District",full,-46.20618900,168.33547830,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821683,9783,158,NZ,4071,STL,,"Wallace Takitimu Community, Southland District",full,-46.07726610,168.15398010,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821684,9791,158,NZ,4071,STL,,"Oreti Community, Southland District",full,-45.89839058,168.36852362,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821685,9793,158,NZ,4071,STL,,"Northern Community, Southland District",full,-45.46686140,168.68382200,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821686,9810,158,NZ,4071,STL,,"Invercargill City, Southland",full,-46.40372358,168.36498050,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821687,9812,158,NZ,4071,STL,,"Invercargill City, Southland",full,-46.42399921,168.37081472,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821688,9814,158,NZ,4071,STL,,"Invercargill City, Southland",full,-46.59980865,168.34033677,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821689,9816,158,NZ,4071,STL,,"Oreti Community, Southland District",full,-46.33265310,168.29024430,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821690,9818,158,NZ,4071,STL,,"Stewart Island/Rakiura Community, Southland District",full,-46.89862686,168.12829478,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821691,9822,158,NZ,4071,STL,,"Southland District, Southland",full,-46.36040346,168.01682437,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821692,9831,158,NZ,4071,STL,,"Waihopai Toetoe Community, Southland District",full,-46.32781507,168.84686000,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821693,9846,158,NZ,4071,STL,,"Stewart Island/Rakiura Community, Southland District",full,-46.90006520,168.12598190,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821694,9871,158,NZ,4071,STL,,"Waihopai Toetoe Community, Southland District",full,-46.35926510,168.55841490,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821695,9872,158,NZ,4071,STL,,"Invercargill City, Southland",full,-46.37759787,168.41717213,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821696,9874,158,NZ,4071,STL,,"Oreti Community, Southland District",full,-46.29647410,168.25215410,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821697,9876,158,NZ,4071,STL,,"Invercargill City, Southland",full,-46.35056905,168.38018690,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821698,9877,158,NZ,4071,STL,,"Invercargill City, Southland",full,-46.44495280,168.39993500,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821699,9879,158,NZ,4071,STL,,"Invercargill City, Southland",full,-46.43084750,168.29043050,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821700,9883,158,NZ,4071,STL,,"Southland District, Southland",full,-46.31112775,168.06271700,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821701,9884,158,NZ,4071,STL,,"Waihopai Toetoe Community, Southland District",full,-46.66214630,169.09612870,osm-via-waimate-wihongi,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

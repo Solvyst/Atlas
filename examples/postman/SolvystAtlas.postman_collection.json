@@ -1,0 +1,735 @@
+{
+  "info": {
+    "name": "Solvyst Atlas API",
+    "description": "Ready-to-run examples for Solvyst Atlas Meta and Reference APIs. Set BASE_URL and META_API_KEY collection variables before sending requests.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "auth": {
+    "type": "noauth"
+  },
+  "item": [
+    {
+      "name": "Meta API",
+      "item": [
+        {
+          "name": "Geo States",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/geo?country=india",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "geo"
+              ],
+              "query": [
+                {
+                  "key": "country",
+                  "value": "india"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Regions",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/regions?search=asia",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "regions"
+              ],
+              "query": [
+                {
+                  "key": "search",
+                  "value": "asia"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Countries",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/countries?search=india",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "countries"
+              ],
+              "query": [
+                {
+                  "key": "search",
+                  "value": "india"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "States",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/states?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "states"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Cities",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/cities?search=bhubaneswar",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "cities"
+              ],
+              "query": [
+                {
+                  "key": "search",
+                  "value": "bhubaneswar"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Admin Areas",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/admin-areas?countryCode=US&type=county",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "admin-areas"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "US"
+                },
+                {
+                  "key": "type",
+                  "value": "county"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Localities",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/localities?countryCode=IN&search=bhubaneswar",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "localities"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                },
+                {
+                  "key": "search",
+                  "value": "bhubaneswar"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Phone Codes",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/phone-codes?dialCode=%2B91",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "phone-codes"
+              ],
+              "query": [
+                {
+                  "key": "dialCode",
+                  "value": "+91"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Languages",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/languages?code=hi",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "languages"
+              ],
+              "query": [
+                {
+                  "key": "code",
+                  "value": "hi"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Locales",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/locales?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "locales"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Postal Code Rules",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/postal-code-rules?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "postal-code-rules"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Phone Number Rules",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/phone-number-rules?dialCode=%2B91",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "phone-number-rules"
+              ],
+              "query": [
+                {
+                  "key": "dialCode",
+                  "value": "+91"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Address Formats",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/address-formats?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "address-formats"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Currencies",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/currencies?search=INR",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "currencies"
+              ],
+              "query": [
+                {
+                  "key": "search",
+                  "value": "INR"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Timezones",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/meta/timezones?countryId=101",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "meta",
+                "timezones"
+              ],
+              "query": [
+                {
+                  "key": "countryId",
+                  "value": "101"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reference API",
+      "item": [
+        {
+          "name": "Currency Formats",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/currency-formats?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "currency-formats"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Phone Number Rules",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/phone-number-rules?dialCode=%2B91",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "phone-number-rules"
+              ],
+              "query": [
+                {
+                  "key": "dialCode",
+                  "value": "+91"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Business Identifiers",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/business-identifiers?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "business-identifiers"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Banking Rules",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/banking-rules?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "banking-rules"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Date-Time Formats",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/date-time-formats?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "date-time-formats"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Company Types",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/company-types?countryCode=IN",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "company-types"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Units",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/units?category=mass",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "units"
+              ],
+              "query": [
+                {
+                  "key": "category",
+                  "value": "mass"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Holidays",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "{{META_API_KEY}}"
+              }
+            ],
+            "url": {
+              "raw": "{{BASE_URL}}/api/v1/reference/holidays?countryCode=IN&nationalOnly=true",
+              "host": [
+                "{{BASE_URL}}"
+              ],
+              "path": [
+                "api",
+                "v1",
+                "reference",
+                "holidays"
+              ],
+              "query": [
+                {
+                  "key": "countryCode",
+                  "value": "IN"
+                },
+                {
+                  "key": "nationalOnly",
+                  "value": "true"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "BASE_URL",
+      "value": "http://localhost:3100"
+    },
+    {
+      "key": "META_API_KEY",
+      "value": "replace-with-your-meta-api-key",
+      "type": "secret"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+844243,00802,242,VI,5072,ST,,Charlotte Amalie,full,18.34293900,-64.92510200,us-census-via-vi-mirror,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844244,00820,242,VI,5074,SC,,Christiansted,full,17.73662700,-64.70821500,us-census-via-vi-mirror,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844245,00830,242,VI,5073,SJ,,Coral Bay,full,18.33855900,-64.73653000,us-census-via-vi-mirror,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844246,00840,242,VI,5074,SC,,Northcentral,full,17.72471000,-64.84852200,us-census-via-vi-mirror,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844247,00850,242,VI,5074,SC,,Southcentral,full,17.72682200,-64.79224500,us-census-via-vi-mirror,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844248,00851,242,VI,5074,SC,,Sion Farm,full,17.74752500,-64.78743900,us-census-via-vi-mirror,,2026-05-24T12:02:13,2026-05-24T12:02:13,1

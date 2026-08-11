@@ -1,0 +1,3 @@
+id,country_code,country_name,subdivision_code,name,local_name,type,date_rule,month,day,observed_rule,is_national,effective_from,effective_to,source
+IN-REPUBLIC-DAY,IN,India,,Republic Day,,public,fixed,1,26,same_day,true,1950-01-26,,Solvyst Atlas community reference contribution
+US-INDEPENDENCE-DAY,US,United States,,Independence Day,,federal,fixed,7,4,nearest_weekday,true,,,Solvyst Atlas community reference contribution

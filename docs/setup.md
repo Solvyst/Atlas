@@ -5,8 +5,8 @@
 - Node.js compatible with the server TypeScript setup
 - pnpm
 - PostgreSQL database
-- Redis for queue-related server features
-- Drizzle migrations through `@atlaskit/database`
+- Redis only when queue/distributed-rate-limit features are enabled
+- Drizzle migrations through `@solvyst-atlas/database`
 
 ## Install
 
@@ -32,28 +32,32 @@ apps/server/.env
 
 See [Environment Keys](./env-keys.md).
 
-## Database Migrations
+## Database Setup
 
-Generate and run Drizzle migrations from the root:
+For a fresh database, run migrations first, then validate/import JSON contribution data:
+
+```sh
+pnpm db:migrate
+pnpm db:contrib:validate
+pnpm db:import
+```
+
+Generate a migration after schema changes:
 
 ```sh
 pnpm db:generate
-pnpm db:migrate
 ```
 
-Build and run meta seed data:
-
-```sh
-pnpm db:seed:build
-pnpm db:seed
-```
-
-Other useful commands:
+Other useful database commands:
 
 ```sh
 pnpm db:check
 pnpm db:studio
+pnpm data
+pnpm data:export:csv
 ```
+
+See [Commands](./commands.md) for the full command list.
 
 ## Run Server
 
@@ -64,19 +68,21 @@ pnpm dev:server
 Default local URL:
 
 ```txt
-http://localhost:5000
+http://localhost:3100
 ```
 
 Health check:
 
 ```sh
-curl "http://localhost:5000/health"
+curl "http://localhost:3100/health"
 ```
 
-## Typecheck
+## Typecheck And Build
 
 ```sh
-pnpm --filter @atlaskit/server typecheck
+pnpm --filter @solvyst-atlas/database typecheck
+pnpm --filter @solvyst-atlas/server typecheck
+pnpm --filter @solvyst-atlas/server build
 ```
 
 ## API Testing Examples
@@ -84,8 +90,8 @@ pnpm --filter @atlaskit/server typecheck
 Import these files for local testing:
 
 ```txt
-examples/postman/Atlaskit.postman_collection.json
-examples/requestly/Atlaskit.requestly.json
+examples/postman/SolvystAtlas.postman_collection.json
+examples/requestly/SolvystAtlas.requestly.json
 ```
 
 See [Examples](./examples.md).

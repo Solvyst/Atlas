@@ -1,0 +1,32 @@
+[
+  {
+    "country_code": "IN",
+    "country_name": "India",
+    "date_format": "DD/MM/YYYY",
+    "time_format": "12h",
+    "datetime_format": "DD/MM/YYYY hh:mm A",
+    "first_day_of_week": 1,
+    "weekend_days": [
+      "saturday",
+      "sunday"
+    ],
+    "default_timezone": "Asia/Kolkata",
+    "timezone_strategy": "single",
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "country_code": "US",
+    "country_name": "United States",
+    "date_format": "MM/DD/YYYY",
+    "time_format": "12h",
+    "datetime_format": "MM/DD/YYYY hh:mm A",
+    "first_day_of_week": 0,
+    "weekend_days": [
+      "saturday",
+      "sunday"
+    ],
+    "default_timezone": "America/New_York",
+    "timezone_strategy": "multiple",
+    "source": "Solvyst Atlas community reference contribution"
+  }
+]

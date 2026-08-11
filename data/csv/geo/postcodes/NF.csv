@@ -1,0 +1,2 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+816728,2899,163,NF,,,,Norfolk Island,full,-29.04080000,167.95473500,australia-post-via-matthewproctor,,2026-05-24T12:02:11,2026-05-24T12:02:11,1

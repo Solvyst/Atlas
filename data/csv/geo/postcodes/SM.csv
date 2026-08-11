@@ -1,0 +1,10 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+600336,47890,192,SM,58,07,,San Marino,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600337,47891,192,SM,65,09,,Serravalle,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600338,47892,192,SM,59,01,,Acquaviva,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600339,47893,192,SM,61,06,,Borgo Maggiore,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600340,47894,192,SM,60,02,,Chiesanuova,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600341,47895,192,SM,64,03,,Domagnano,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600342,47896,192,SM,62,04,,Faetano,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600343,47897,192,SM,66,05,,Fiorentino,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600344,47898,192,SM,63,08,,Montegiardino,full,,,manual,,2026-04-28T06:49:19,2026-04-28T06:49:19,1

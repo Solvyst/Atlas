@@ -1,0 +1,8 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+668793,96910,89,GU,5257,04,,Chalan Pago-Ordot Village,full,13.45051100,144.75070600,us-census-via-gu-mirror,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668794,96913,89,GU,5256,03,,Barrigada Village,full,13.47831100,144.81505800,us-census-via-gu-mirror,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668795,96915,89,GU,5267,14,,Santa Rita Village,full,13.37445200,144.70812500,us-census-via-gu-mirror,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668796,96916,89,GU,5262,09,,Merizo Village,full,13.26589700,144.68916100,us-census-via-gu-mirror,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668797,96917,89,GU,5261,08,,Inarajan Village,full,13.28246400,144.74268800,us-census-via-gu-mirror,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668798,96928,89,GU,5259,06,,Agat Village,full,13.35591700,144.65730500,us-census-via-gu-mirror,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668799,96929,89,GU,5271,18,,Chaguian,full,13.56732600,144.87805900,us-census-via-gu-mirror,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

@@ -1,0 +1,918 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+345761,10100,154,NP,,,,Darchula,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345762,10101,154,NP,,,,"Rapla, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345763,10102,154,NP,,,,"Duhuti, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345764,10104,154,NP,,,,"Malikarjun, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345765,10105,154,NP,,,,"Joljibi, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345766,10106,154,NP,,,,"Dandakot, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345767,10107,154,NP,,,,"Ritha Chaupata, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345768,10108,154,NP,,,,"Gokule, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345769,10109,154,NP,,,,"Sitola, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345770,10110,154,NP,,,,"Marmalatinath, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345771,10111,154,NP,,,,"Sipti, Darchula",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345772,10200,154,NP,,,,Baitadi,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345773,10201,154,NP,,,,"Kesharpur, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345774,10202,154,NP,,,,"Patan, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345775,10203,154,NP,,,,"Khodpe, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345776,10204,154,NP,,,,"Mulkhatali, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345777,10205,154,NP,,,,"Gajari Changgad, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345778,10207,154,NP,,,,"Dehimandau, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345779,10209,154,NP,,,,"Sharmali, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345780,10210,154,NP,,,,"Srikot, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345781,10211,154,NP,,,,"Dilasaini, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345782,10212,154,NP,,,,"Swopana Taladehi, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345783,10213,154,NP,,,,"Purchaudihat, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345784,10214,154,NP,,,,"Sitad, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345785,10215,154,NP,,,,"Dhungad, Baitadi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345786,10300,154,NP,,,,Dadeldhura,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345787,10302,154,NP,,,,"Ugratara, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345788,10303,154,NP,,,,"Dandaban, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345789,10304,154,NP,,,,"Ganeshpur, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345790,10305,154,NP,,,,"Gaira Ganesh, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345791,10306,154,NP,,,,"Jogbudha, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345792,10307,154,NP,,,,"Lamikande, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345793,10308,154,NP,,,,"Chipur, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345794,10309,154,NP,,,,"Ajayameru, Dadeldhura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345795,10400,154,NP,,,,Kanchanpur,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345796,10401,154,NP,,,,"Krishnapur, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345797,10402,154,NP,,,,"Kalika, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345798,10403,154,NP,,,,"Punarbas, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345799,10404,154,NP,,,,"Beldadi, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345800,10405,154,NP,,,,"Pipaladi, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345801,10406,154,NP,,,,Kanchanpur,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345802,10407,154,NP,,,,"Chandani, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345803,10409,154,NP,,,,"Airport, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345804,10410,154,NP,,,,"Suda, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345805,10411,154,NP,,,,"Jhalari, Kanchanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345806,10500,154,NP,,,,Bajhang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345807,10501,154,NP,,,,"Talkot, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345808,10502,154,NP,,,,"Jamatola, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345809,10505,154,NP,,,,"Jaya Prithivi Nagar, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345810,10506,154,NP,,,,"Chhanna, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345811,10507,154,NP,,,,"Chaudhari, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345812,10508,154,NP,,,,"Rayal, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345813,10509,154,NP,,,,"Thalara, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345814,10510,154,NP,,,,"Bungal, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345815,10511,154,NP,,,,"Shayadi, Bajhang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345816,10600,154,NP,,,,Bajura,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345817,10602,154,NP,,,,"Dandakot, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345818,10603,154,NP,,,,"Jukot, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345819,10604,154,NP,,,,"Faiti, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345820,10605,154,NP,,,,"Kolti, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345821,10606,154,NP,,,,"Manakot, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345822,10607,154,NP,,,,"Dogadi, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345823,10608,154,NP,,,,"Tate, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345824,10609,154,NP,,,,"Chhatara, Bajura",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345825,10700,154,NP,,,,Achham,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345826,10701,154,NP,,,,"Chaurpati, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345827,10702,154,NP,,,,"Srikot, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345828,10703,154,NP,,,,"Thanti, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345829,10704,154,NP,,,,"Mellekh, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345830,10705,154,NP,,,,"Bayalpata, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345831,10706,154,NP,,,,"Bhatakatiya, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345832,10707,154,NP,,,,"Jayagadh, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345833,10709,154,NP,,,,"Kalagaun, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345834,10710,154,NP,,,,"Kuchikot, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345835,10711,154,NP,,,,"Kamal bazar, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345836,10712,154,NP,,,,"Dhakari, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345837,10713,154,NP,,,,"Turmakhad, Achham",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345838,10800,154,NP,,,,Doti,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345839,10801,154,NP,,,,"Silgadhi, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345840,10802,154,NP,,,,"Sanagaun, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345841,10803,154,NP,,,,"Daund, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345842,10804,154,NP,,,,"Mauwa Nagardaha, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345843,10805,154,NP,,,,"Banedungrasen, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345844,10806,154,NP,,,,"Jorayal, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345845,10807,154,NP,,,,"Gadhshera, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345846,10808,154,NP,,,,"Lanakedareswor, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345847,10809,154,NP,,,,"Boktan, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345848,10810,154,NP,,,,"Byal, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345849,10811,154,NP,,,,"Mudbhara, Doti",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345850,10900,154,NP,,,,Kailali,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345851,10901,154,NP,,,,"Tikapur, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345852,10902,154,NP,,,,"Munuwa, Kailal",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345853,10903,154,NP,,,,"Dododhara, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345854,10904,154,NP,,,,"Lamki, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345855,10905,154,NP,,,,"Masuriya, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345856,10906,154,NP,,,,"Pahalmanpur, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345857,10907,154,NP,,,,"Hasuliya, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345858,10908,154,NP,,,,"Bhajani, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345859,10909,154,NP,,,,"Joshipur, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345860,10910,154,NP,,,,"Phulbari, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345861,10911,154,NP,,,,"Atariya, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345862,10912,154,NP,,,,"Chaumala, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345863,10914,154,NP,,,,"Phaltude, Kailali",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345864,21000,154,NP,,,,Humla,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345865,21003,154,NP,,,,"Muchu, Humla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345866,21004,154,NP,,,,"Lali, Humla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345867,21005,154,NP,,,,"Sarkegadh, Humla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345868,21007,154,NP,,,,"Darma, Humla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345869,21008,154,NP,,,,"Srinagar, Humla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345870,21100,154,NP,,,,Mugu,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345871,21102,154,NP,,,,"Rowa, Mugu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345872,21103,154,NP,,,,"Pulu, Mugu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345873,21105,154,NP,,,,"Sorubarma, Mugu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345874,21106,154,NP,,,,"Rara, Mugu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345875,21107,154,NP,,,,"Sukhadhik, Mugu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345876,21109,154,NP,,,,"Gumtha, Mugu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345877,21110,154,NP,,,,"Dhainkot, Mugu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345878,21200,154,NP,,,,Jumla,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345879,21202,154,NP,,,,"Dillichaur, Jumla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345880,21204,154,NP,,,,"Tatopani, Jumla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345881,21205,154,NP,,,,"Malikathata, Jumla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345882,21206,154,NP,,,,"Kalikakhetu, Jumla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345883,21207,154,NP,,,,"Narakot, Jumla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345884,21208,154,NP,,,,"Hatsinja, Jumla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345885,21209,154,NP,,,,"Chautha, Jumla",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345886,21300,154,NP,,,,Kalikot,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345887,21303,154,NP,,,,"Sanniraskot, Kalikot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345888,21304,154,NP,,,,"Mehalmudi, Kalikot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345889,21305,154,NP,,,,"Kotbada, Kalikot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345890,21306,154,NP,,,,Kalikot,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345891,21307,154,NP,,,,"Padamghat, Kalikot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345892,21308,154,NP,,,,"Jubitha, Kalikot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345893,21309,154,NP,,,,"Thirpu, Kalikot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345894,21400,154,NP,,,,Dolpa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345895,21401,154,NP,,,,"Juphal, Dolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345896,21402,154,NP,,,,"Tripurakot, Dolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345897,21403,154,NP,,,,"Liku, Dolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345898,21404,154,NP,,,,"Sarmi, Dolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345899,21405,154,NP,,,,"Kaigaun, Dolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345900,21406,154,NP,,,,"Foksundo, Dolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345901,21407,154,NP,,,,"Namdo, Dolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345902,21500,154,NP,,,,Jajarkot,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345903,21503,154,NP,,,,"Dhime, Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345904,21504,154,NP,,,,"Dalli, Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345905,21505,154,NP,,,,"Ragda, Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345906,21506,154,NP,,,,"Rokaya gaun (Limsa), Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345907,21508,154,NP,,,,"Dashera, Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345908,21509,154,NP,,,,"Thalaraikar, Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345909,21510,154,NP,,,,"Garkhakot, Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345910,21511,154,NP,,,,"Karkigaun, Jajarkot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345911,21600,154,NP,,,,Dailekh,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345912,21602,154,NP,,,,"Gaidabaj, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345913,21603,154,NP,,,,"Naumule, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345914,21604,154,NP,,,,"Byastada, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345915,21605,154,NP,,,,"Dhungeshwor, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345916,21607,154,NP,,,,"Malika, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345917,21608,154,NP,,,,"Dullu, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345918,21609,154,NP,,,,"Jambu Kandha, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345919,21610,154,NP,,,,"Rakam Karnali, Dailekh",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345920,21700,154,NP,,,,Surkhet,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345921,21701,154,NP,,,,"Chhinchu, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345922,21702,154,NP,,,,"Ramghat, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345923,21703,154,NP,,,,"Sahare, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345924,21704,154,NP,,,,"Gumi, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345925,21705,154,NP,,,,"Bheriganga, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345926,21706,154,NP,,,,"Matela, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345927,21707,154,NP,,,,"Garpan, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345928,21709,154,NP,,,,"Kunathari, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345929,21710,154,NP,,,,"Babiyachaur, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345930,21711,154,NP,,,,"Gutu, Surkhet",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345931,21800,154,NP,,,,Bardiya,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345932,21801,154,NP,,,,"Jamuni, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345933,21802,154,NP,,,,"Mainapokhar, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345934,21803,154,NP,,,,"Motipur, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345935,21804,154,NP,,,,"Magaragadi, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345936,21808,154,NP,,,,"Baganaha, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345937,21809,154,NP,,,,"Bhurigaun, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345938,21811,154,NP,,,,"Rajapur, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345939,21813,154,NP,,,,"Pashupatinagar, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345940,21814,154,NP,,,,"Sanoshri, Bardiya",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345941,21900,154,NP,,,,Banke,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345942,21901,154,NP,,,,"Suiya, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345943,21902,154,NP,,,,"Bhojbhagawanpur, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345944,21903,154,NP,,,,"Khaskusma, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345945,21904,154,NP,,,,"Kohalapur, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345946,21905,154,NP,,,,"Ramjha, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345947,21907,154,NP,,,,"Udayapur, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345948,21910,154,NP,,,,"Chisapani, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345949,21911,154,NP,,,,"Godahana, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345950,21912,154,NP,,,,"Jayaspur, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345951,21913,154,NP,,,,"Khajura, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345952,21914,154,NP,,,,"Chandranagar, Banke",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345953,22000,154,NP,,,,Rukum,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345954,22002,154,NP,,,,"Rukumkot, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345955,22004,154,NP,,,,"Riwangchaur, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345956,22005,154,NP,,,,"Kol, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345957,22007,154,NP,,,,"Peugha, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345958,22008,154,NP,,,,"Chaurjahari, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345959,22009,154,NP,,,,"Simli, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345960,22010,154,NP,,,,"Radijyula, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345961,22011,154,NP,,,,"Baphikot, Rukum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345962,22100,154,NP,,,,Rolpa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345963,22102,154,NP,,,,"Khungri, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345964,22103,154,NP,,,,"Sirpa, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345965,22106,154,NP,,,,"Thawang, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345966,22107,154,NP,,,,"Himtakura, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345967,22108,154,NP,,,,"Ghartigaun, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345968,22110,154,NP,,,,"Nerpa, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345969,22111,154,NP,,,,"Dahaban, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345970,22112,154,NP,,,,"Shulichaur, Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345971,22113,154,NP,,,,"Jhenam (Holeri), Rolpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345972,22200,154,NP,,,,Salyan,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345973,22201,154,NP,,,,"Kalimati Kalche, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345974,22202,154,NP,,,,"Luham, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345975,22203,154,NP,,,,"Dhanbang, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345976,22204,154,NP,,,,"Mahaneta, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345977,22207,154,NP,,,,"Malneta, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345978,22208,154,NP,,,,"Maidu, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345979,22209,154,NP,,,,"Ragechour, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345980,22210,154,NP,,,,"Bhalchaur, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345981,22211,154,NP,,,,"Tharmare, Salyan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345982,22300,154,NP,,,,Pyuthan,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345983,22301,154,NP,,,,"Dakhaquadi, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345984,22303,154,NP,,,,"Bhingri, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345985,22304,154,NP,,,,"Wangesal, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345986,22305,154,NP,,,,"Baraula, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345987,22307,154,NP,,,,"Majuwa, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345988,22308,154,NP,,,,"Machchhi, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345989,22309,154,NP,,,,"Thulabesi, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345990,22310,154,NP,,,,"Lungbahane, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345991,22311,154,NP,,,,"Bijuwar, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345992,22312,154,NP,,,,"Naya Gaun, Pyuthan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345993,22400,154,NP,,,,Dang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345994,22402,154,NP,,,,"Hapur, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345995,22403,154,NP,,,,"Jumlepani, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345996,22404,154,NP,,,,"Bhaluwang, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345997,22405,154,NP,,,,"Koilabas, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345998,22406,154,NP,,,,"Jangrahawa, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+345999,22407,154,NP,,,,"Rampur, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346000,22408,154,NP,,,,"Urahari, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346001,22409,154,NP,,,,"Hekuli, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346002,22410,154,NP,,,,"Panchakule, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346003,22411,154,NP,,,,"Shantinagar, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346004,22412,154,NP,,,,"Tulsipur, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346005,22413,154,NP,,,,"Manpur, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346006,22414,154,NP,,,,"Lamahi, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346007,22415,154,NP,,,,"Ghoraha, Dang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346008,32500,154,NP,,,,Palpa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346009,32501,154,NP,,,,"Sahalkot, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346010,32502,154,NP,,,,"Rampur, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346011,32503,154,NP,,,,"Hungi, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346012,32504,154,NP,,,,"Jalpa, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346013,32505,154,NP,,,,"Tahu, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346014,32506,154,NP,,,,"Jhadewa, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346015,32507,154,NP,,,,"Aryabhanjyang, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346016,32508,154,NP,,,,"Madanpokhara, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346017,32509,154,NP,,,,"Khasyauli, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346018,32510,154,NP,,,,"Argali, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346019,32511,154,NP,,,,"Chhahara, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346020,32512,154,NP,,,,"Palungmainadi, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346021,32513,154,NP,,,,"Baldengadi, Palpa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346022,32600,154,NP,,,,Gulmi,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346023,32601,154,NP,,,,"Purtighat, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346024,32602,154,NP,,,,"Bharse, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346025,32603,154,NP,,,,"Chandrakot, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346026,32604,154,NP,,,,"Majuwa, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346027,32605,154,NP,,,,"Ridi, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346028,32606,154,NP,,,,"Sringa, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346029,32607,154,NP,,,,"Birabas, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346030,32609,154,NP,,,,"Wami, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346031,32610,154,NP,,,,"Ismadohali, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346032,32611,154,NP,,,,"Dhurkot, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346033,32612,154,NP,,,,"Purkotadha, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346034,32613,154,NP,,,,"Arje, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346035,32614,154,NP,,,,"Manabhak, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346036,32615,154,NP,,,,"Pipaldanda, Gulmi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346037,32700,154,NP,,,,Arghakhanchi,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346038,32701,154,NP,,,,"Balkot, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346039,32702,154,NP,,,,"Arghatosh, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346040,32703,154,NP,,,,"Khana, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346041,32704,154,NP,,,,"Wangla, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346042,32705,154,NP,,,,"Hamshapur, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346043,32706,154,NP,,,,"Thada, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346044,32708,154,NP,,,,"Khilji, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346045,32709,154,NP,,,,"Khidim, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346046,32710,154,NP,,,,"Pali, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346047,32711,154,NP,,,,"Dhikura, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346048,32712,154,NP,,,,"Argha, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346049,32713,154,NP,,,,"Subarnakhal, Arghakhanchi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346050,32800,154,NP,,,,Kapilbastu,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346051,32801,154,NP,,,,"Pipara, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346052,32802,154,NP,,,,"Patariya, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346053,32804,154,NP,,,,"Pakadi, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346054,32805,154,NP,,,,"Kopawa, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346055,32808,154,NP,,,,"Gotihawa, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346056,32809,154,NP,,,,"Gorusinge, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346057,32810,154,NP,,,,"Pattharkot, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346058,32811,154,NP,,,,"Thuniya, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346059,32812,154,NP,,,,"Maharajgunj, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346060,32813,154,NP,,,,"Ganeshpur, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346061,32814,154,NP,,,,"Chanauta, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346062,32815,154,NP,,,,"Krishnanagar, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346063,32816,154,NP,,,,"Shiva Raj, Kapilbastu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346064,32900,154,NP,,,,Rupandehi,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346065,32901,154,NP,,,,"Siktahan, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346066,32902,154,NP,,,,"Dhakadhai, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346067,32903,154,NP,,,,"Manigram, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346068,32904,154,NP,,,,"Kotihawa, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346069,32905,154,NP,,,,"Thutipipal, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346070,32907,154,NP,,,,"Butwal, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346071,32908,154,NP,,,,"Parroha, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346072,32909,154,NP,,,,"Sauraha Pharsa, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346073,32910,154,NP,,,,"Amuwa, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346074,32911,154,NP,,,,"Saljhandi, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346075,32912,154,NP,,,,"Suryapura, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346076,32913,154,NP,,,,"Tenuhawa, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346077,32914,154,NP,,,,"Lumbini, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346078,32915,154,NP,,,,"Betkuiya, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346079,32916,154,NP,,,,"Mahadehiya, Rupandehi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346080,33000,154,NP,,,,Nawalparasi,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346081,33001,154,NP,,,,"Rakuwa, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346082,33002,154,NP,,,,"Bulingtar, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346083,33003,154,NP,,,,"Gaindakot, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346084,33004,154,NP,,,,"Dumkauli, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346085,33005,154,NP,,,,"Shergunj, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346086,33006,154,NP,,,,"Naya Belhani, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346087,33007,154,NP,,,,"Tribeni, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346088,33008,154,NP,,,,"Semari, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346089,33009,154,NP,,,,"Guthi persauni, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346090,33010,154,NP,,,,"Bhujahawa, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346091,33011,154,NP,,,,"Makar, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346092,33012,154,NP,,,,"Tilakpur, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346093,33013,154,NP,,,,"Maheshpur, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346094,33015,154,NP,,,,"Sunawal, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346095,33016,154,NP,,,,"Pithauli, Nawalparasi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346096,33100,154,NP,,,,Mustang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346097,33102,154,NP,,,,"Marpha, Mustang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346098,33103,154,NP,,,,"Kagbeni, Mustang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346099,33104,154,NP,,,,"Charang, Mustang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346100,33105,154,NP,,,,Mustang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346101,33106,154,NP,,,,"Chhoser, Mustang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346102,33107,154,NP,,,,"Muktinath, Mustang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346103,33108,154,NP,,,,"Lete, Mustang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346104,33109,154,NP,,,,"Thak Tukuche, Mustang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346105,33200,154,NP,,,,Myagdi,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346106,33202,154,NP,,,,"Xyamarukot, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346107,33203,154,NP,,,,"Galeswor, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346108,33204,154,NP,,,,"Rakhu Bhagawati, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346109,33205,154,NP,,,,"Sikha, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346110,33206,154,NP,,,,"Dana, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346111,33207,154,NP,,,,"Babiyachaur, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346112,33208,154,NP,,,,"Darbang, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346113,33209,154,NP,,,,"Pakhapani, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346114,33210,154,NP,,,,"Takam, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346115,33211,154,NP,,,,"Lulang, Myagdi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346116,33300,154,NP,,,,Baglung,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346117,33302,154,NP,,,,"Pala, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346118,33303,154,NP,,,,"Bihukot, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346119,33304,154,NP,,,,"Harichaur, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346120,33305,154,NP,,,,"Balewa Payupata, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346121,33306,154,NP,,,,"Jaidi Belbagar, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346122,33307,154,NP,,,,"Bereng, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346123,33308,154,NP,,,,"Galkot, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346124,33309,154,NP,,,,"Pandavkhani, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346125,33310,154,NP,,,,"Arnakot, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346126,33311,154,NP,,,,"Khrwang, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346127,33312,154,NP,,,,"Bongadovan, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346128,33313,154,NP,,,,"Jhimpa, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346129,33314,154,NP,,,,"Kusmi Shera, Baglung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346130,33400,154,NP,,,,Parbat,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346131,33401,154,NP,,,,"Salija, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346132,33402,154,NP,,,,"Khurkot, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346133,33403,154,NP,,,,"Deurali, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346134,33405,154,NP,,,,"Thulipokhari, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346135,33406,154,NP,,,,"Karkineta, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346136,33407,154,NP,,,,"Devisthan, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346137,33408,154,NP,,,,"Bachchha, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346138,33409,154,NP,,,,"Lankhudeurali, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346139,33410,154,NP,,,,"Hubas, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346140,33411,154,NP,,,,"Khor Pokhara, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346141,33412,154,NP,,,,"Setibeni, Parbat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346142,33500,154,NP,,,,Manang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346143,33502,154,NP,,,,"Pisang, Manang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346144,33503,154,NP,,,,"Bhakra, Manang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346145,33504,154,NP,,,,"Mathillo Manang, Manang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346146,33507,154,NP,,,,"Nar, Manang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346147,33509,154,NP,,,,"Dharapani, Manang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346148,33600,154,NP,,,,Lamjung,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346149,33602,154,NP,,,,"Maling, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346150,33603,154,NP,,,,"Sundar Bazar, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346151,33604,154,NP,,,,"Sotipasal, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346152,33605,154,NP,,,,"Kunchha, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346153,33606,154,NP,,,,"Gilung, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346154,33607,154,NP,,,,"Khudi, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346155,33608,154,NP,,,,"Phaliyasanghu, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346156,33609,154,NP,,,,"Bharate, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346157,33610,154,NP,,,,"Gaunda, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346158,33611,154,NP,,,,"Tarkughat, Lamjung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346159,33700,154,NP,,,,Kaski,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346160,33701,154,NP,,,,"Rupakot, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346161,33702,154,NP,,,,"Gagan Gaunda, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346162,33703,154,NP,,,,"Makaikhola, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346163,33704,154,NP,,,,"Majhathana, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346164,33705,154,NP,,,,"Sildujure, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346165,33706,154,NP,,,,"Nirmalpokhari, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346166,33707,154,NP,,,,"Pardibandh, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346167,33708,154,NP,,,,"Bhalam, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346168,33709,154,NP,,,,"Chapakot, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346169,33710,154,NP,,,,"Birethanti, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346170,33711,154,NP,,,,"Naudanda, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346171,33712,154,NP,,,,"Ghachok, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346172,33713,154,NP,,,,"Purunchaur, Kaski",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346173,33800,154,NP,,,,"Syangja, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346174,33802,154,NP,,,,"Kolma, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346175,33803,154,NP,,,,"Kichnas, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346176,33804,154,NP,,,,"Jharkham, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346177,33805,154,NP,,,,"Arjunchaupari, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346178,33806,154,NP,,,,"Panchamul, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346179,33807,154,NP,,,,"Rangethanti, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346180,33808,154,NP,,,,"Fedikhola, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346181,33811,154,NP,,,,"Bhumare, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346182,33812,154,NP,,,,"Kyakmi, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346183,33813,154,NP,,,,"Waidha Bhanjhyang, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346184,33814,154,NP,,,,"Chapakot, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346185,33815,154,NP,,,,"Galyang, Syanja",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346186,33900,154,NP,,,,Tanahun,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346187,33902,154,NP,,,,"Tuhure Pasal, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346188,33903,154,NP,,,,"Manechauka, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346189,33904,154,NP,,,,"Bandipur, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346190,33905,154,NP,,,,"Aanbu Khaireni, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346191,33906,154,NP,,,,"Baidi, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346192,33907,154,NP,,,,"Kahunshivapur, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346193,33908,154,NP,,,,"Rising Ranipokhari, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346194,33909,154,NP,,,,"Ghiring Sundhara, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346195,33910,154,NP,,,,"Bhimad, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346196,33911,154,NP,,,,"Lamagaun, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346197,33912,154,NP,,,,"Khairenitar, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346198,33913,154,NP,,,,"Shisha Ghat, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346199,33914,154,NP,,,,"Dumre, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346200,33915,154,NP,,,,"Devaghat, Tanahun",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346201,34000,154,NP,,,,Gorkha,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346202,34002,154,NP,,,,"Bungkot, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346203,34003,154,NP,,,,"Manakamana, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346204,34004,154,NP,,,,"Batase, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346205,34005,154,NP,,,,"Luintel, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346206,34006,154,NP,,,,"Anapipal, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346207,34007,154,NP,,,,"Jaubari, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346208,34008,154,NP,,,,"Bhachchek, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346209,34009,154,NP,,,,"Saurpani, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346210,34010,154,NP,,,,"Ghyampesal, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346211,34011,154,NP,,,,"Aarughat, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346212,34012,154,NP,,,,"Gumda, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346213,34013,154,NP,,,,"Sirdibash, Gorkha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346214,44100,154,NP,,,,Makawanpur,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346215,44101,154,NP,,,,"Phaparbari, Makawanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346216,44102,154,NP,,,,"Ritha Chhatibwn, Makawanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346217,44103,154,NP,,,,"Hatiya, Makabanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346218,44104,154,NP,,,,"Aambhanjyang, Makabanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346219,44106,154,NP,,,,"Manahari, Makabanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346220,44107,154,NP,,,,"Hetauda I.A., Makawanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346221,44108,154,NP,,,,"Basamadi, Makabanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346222,44110,154,NP,,,,"Palung, Makawanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346223,44111,154,NP,,,,"Bhainse, Makawanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346224,44112,154,NP,,,,"Bhimphedi, Makawanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346225,44113,154,NP,,,,"Markhu, Makabanpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346226,44200,154,NP,,,,"Chitwan, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346227,44202,154,NP,,,,"Bhandara, Chitwan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346228,44203,154,NP,,,,"Khairahani, Chitwan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346229,44204,154,NP,,,,"Ratnanagar, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346230,44205,154,NP,,,,"Jutpani, Chitwan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346231,44206,154,NP,,,,"Mugling, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346232,44207,154,NP,,,,"Narayangadh, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346233,44208,154,NP,,,,"Phulbari, Chitwan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346234,44209,154,NP,,,,"Rampur, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346235,44210,154,NP,,,,"Meghauli, Chitwan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346236,44211,154,NP,,,,"Patihani, Chitwan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346237,44212,154,NP,,,,"Soshi Bazar, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346238,44213,154,NP,,,,"Harinagar, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346239,44214,154,NP,,,,"Madi, Chitawan",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346240,44300,154,NP,,,,Parsa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346241,44301,154,NP,,,,"Aadarshanagar, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346242,44303,154,NP,,,,"Parbanipur, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346243,44304,154,NP,,,,"Bindabasini, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346244,44305,154,NP,,,,"Bahuari Pidari, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346245,44306,154,NP,,,,"Shirsiya Khalwatola, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346246,44307,154,NP,,,,"Biruwaguthi, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346247,44308,154,NP,,,,"Pakahamainpur, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346248,44309,154,NP,,,,"Phokhariya, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346249,44310,154,NP,,,,"Ranigunj, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346250,44311,154,NP,,,,"Paterwa Sugauli, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346251,44312,154,NP,,,,"Viswa, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346252,44313,154,NP,,,,"Janakitol, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346253,44314,154,NP,,,,"Jeetpur, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346254,44315,154,NP,,,,"Thori, Parsa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346255,44400,154,NP,,,,Bara,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346256,44401,154,NP,,,,"Nijgadh, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346257,44402,154,NP,,,,"Mahendra Adarsha, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346258,44403,154,NP,,,,"Simraungadh, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346259,44404,154,NP,,,,"Umjan, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346260,44405,154,NP,,,,"Bariyarpur, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346261,44406,154,NP,,,,"Kabahigoth, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346262,44408,154,NP,,,,"Dumarwana, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346263,44410,154,NP,,,,"Pipradhigoth, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346264,44411,154,NP,,,,"Basantapur, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346265,44412,154,NP,,,,"Simara, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346266,44413,154,NP,,,,"Parsoni, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346267,44416,154,NP,,,,"Amalekhgunj, Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346268,44417,154,NP,,,,"Jeetpur (Bhavanipur), Bara",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346269,44500,154,NP,,,,Rautahat,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346270,44502,154,NP,,,,"Saruatha, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346271,44503,154,NP,,,,"Pipra bazar, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346272,44504,154,NP,,,,"Madhopur, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346273,44506,154,NP,,,,"Rajpurpharahadawa, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346274,44508,154,NP,,,,"Patharabudhram, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346275,44509,154,NP,,,,"Sitalpur, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346276,44510,154,NP,,,,"Shivanagar, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346277,44511,154,NP,,,,"Laxminiya, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346278,44512,154,NP,,,,"Katahariya, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346279,44513,154,NP,,,,"Samanpur, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346280,44515,154,NP,,,,"Chandra Nigahapur, Rautahat",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346281,44600,154,NP,,,,Kathmandu,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346282,44601,154,NP,,,,"Sankhu, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346283,44602,154,NP,,,,"Chabahil, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346284,44603,154,NP,,,,"Sundarijal, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346285,44604,154,NP,,,,"Gauchar, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346286,44605,154,NP,,,,"Dillibazar, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346287,44606,154,NP,,,,"Bansbari, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346288,44608,154,NP,,,,"Tokha Saraswati, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346289,44609,154,NP,,,,"Sachibalaya, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346290,44610,154,NP,,,,"Manmaiju, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346291,44611,154,NP,,,,"Balaju, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346292,44613,154,NP,,,,"Tribhuvan University, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346293,44614,154,NP,,,,"Kalimati, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346294,44615,154,NP,,,,"Pharping, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346295,44616,154,NP,,,,"Baluwatar, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346296,44617,154,NP,,,,"Sarbochcha Adalat, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346297,44618,154,NP,,,,"Kirtipur, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346298,44619,154,NP,,,,"Thankot, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346299,44620,154,NP,,,,"Swayambhu, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346300,44621,154,NP,,,,"Pashupati, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346301,44622,154,NP,,,,"Budhanilkantha, Kathmandu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346302,44700,154,NP,,,,Lalitpur,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346303,44703,154,NP,,,,"Dhapakhel, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346304,44705,154,NP,,,,"Imadol, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346305,44707,154,NP,,,,"Darabartole, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346306,44708,154,NP,,,,"Lubhu, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346307,44709,154,NP,,,,"Godawari, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346308,44710,154,NP,,,,"Chapagaun, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346309,44711,154,NP,,,,"Gotikhel, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346310,44712,154,NP,,,,"Bhattedanda, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346311,44713,154,NP,,,,"Pyutar, Lalitpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346312,44800,154,NP,,,,Bhaktapur,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346313,44802,154,NP,,,,"Dubakot, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346314,44804,154,NP,,,,"Kharipati, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346315,44805,154,NP,,,,"Tathali, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346316,44806,154,NP,,,,"Jorpati, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346317,44809,154,NP,,,,"Gamcha, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346318,44810,154,NP,,,,"Dibyashwori, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346319,44811,154,NP,,,,"Thimi, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346320,44812,154,NP,,,,"Nagarkot, Bhaktapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346321,44900,154,NP,,,,Nuwakot,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346322,44902,154,NP,,,,"Thansingh, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346323,44903,154,NP,,,,"Ranipauwa, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346324,44905,154,NP,,,,"Taruka, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346325,44906,154,NP,,,,"Deurali, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346326,44907,154,NP,,,,"Kahule, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346327,44908,154,NP,,,,Nuwakot,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346328,44909,154,NP,,,,"Chokade, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346329,44910,154,NP,,,,"Kharanitar, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346330,44911,154,NP,,,,"Bhadratar, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346331,44912,154,NP,,,,"Ramabati, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346332,44913,154,NP,,,,"Rautbesi, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346333,44914,154,NP,,,,"Pokharichapadanda, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346334,44915,154,NP,,,,"Devighat, Nuwakot",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346335,45000,154,NP,,,,Rasuwa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346336,45003,154,NP,,,,"Dhaibung, Rasuwa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346337,45004,154,NP,,,,"Ramkali, Rasuwa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346338,45007,154,NP,,,,Rasuwa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346339,45009,154,NP,,,,"Syaphru Besi, Rasuwa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346340,45100,154,NP,,,,Dhading,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346341,45101,154,NP,,,,"Lapa, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346342,45102,154,NP,,,,"Sertung, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346343,45103,154,NP,,,,"Phulkharka, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346344,45104,154,NP,,,,"Tripureshwor, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346345,45105,154,NP,,,,"Katunje, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346346,45106,154,NP,,,,"Sunkhani, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346347,45108,154,NP,,,,"Sunaulabazar, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346348,45109,154,NP,,,,"Maidi, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346349,45110,154,NP,,,,"Khanikhola, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346350,45111,154,NP,,,,"Bhumisthan, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346351,45112,154,NP,,,,"Gajuri, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346352,45113,154,NP,,,,"Malekhu, Dhading",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346353,45200,154,NP,,,,Kavrepalanchok,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346354,45201,154,NP,,,,"Ghartichhap, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346355,45202,154,NP,,,,"Mangaltar, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346356,45203,154,NP,,,,"Pokharinarayanshthan, Kaverpalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346357,45204,154,NP,,,,"Gumati Bhanjyang, Kaverpalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346358,45205,154,NP,,,,"Dapcha, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346359,45209,154,NP,,,,"Panauti, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346360,45210,154,NP,,,,"Banepa, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346361,45212,154,NP,,,,"Panchkhal, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346362,45213,154,NP,,,,"Mahadevasthan, Kaverpalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346363,45214,154,NP,,,,"Phalante, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346364,45215,154,NP,,,,"Dolal Ghat, Kavrepalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346365,45216,154,NP,,,,"Khopasi, Kaverpalanchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346366,45300,154,NP,,,,Sindhupalchok,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346367,45301,154,NP,,,,"Kodari, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346368,45302,154,NP,,,,"Barabise, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346369,45304,154,NP,,,,"Atarpur, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346370,45305,154,NP,,,,"Lamosanghu, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346371,45306,154,NP,,,,"Nawalpur, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346372,45307,154,NP,,,,"Pangtang, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346373,45308,154,NP,,,,"Jalbire, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346374,45309,154,NP,,,,"Bhotsipa, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346375,45310,154,NP,,,,"Melamchi Bahunepati, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346376,45311,154,NP,,,,"Gyalthum, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346377,45312,154,NP,,,,"Thangapaldhap, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346378,45313,154,NP,,,,"Dubachaur, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346379,45314,154,NP,,,,"Balephi, Sindhupalchok",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346380,45400,154,NP,,,,Ramechhap,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346381,45401,154,NP,,,,"Those, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346382,45402,154,NP,,,,"Duragaun, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346383,45403,154,NP,,,,"Betali, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346384,45404,154,NP,,,,"Khimti, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346385,45405,154,NP,,,,"Saghutar, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346386,45406,154,NP,,,,"Kathjor, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346387,45408,154,NP,,,,"Puranagaun, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346388,45409,154,NP,,,,"Doramba, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346389,45410,154,NP,,,,"Hiledevi, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346390,45411,154,NP,,,,"Bhirpani, Ramechhap",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346391,45500,154,NP,,,,Dolakha,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346392,45501,154,NP,,,,"Khahare, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346393,45502,154,NP,,,,"Namdu, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346394,45503,154,NP,,,,"Jiri, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346395,45505,154,NP,,,,"Japhekalapani, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346396,45506,154,NP,,,,"Melung, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346397,45507,154,NP,,,,"Bhusapheda, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346398,45509,154,NP,,,,"Sunkhani, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346399,45510,154,NP,,,,"Khopachangu, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346400,45511,154,NP,,,,"Lamabagar, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346401,45512,154,NP,,,,"Chitre, Dolakha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346402,45600,154,NP,,,,Dhanusha,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346403,45601,154,NP,,,,"Khajuri, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346404,45602,154,NP,,,,"Tinkoriya, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346405,45603,154,NP,,,,"Yadukuha, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346406,45604,154,NP,,,,"Duhabi, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346407,45605,154,NP,,,,"Chakkar, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346408,45606,154,NP,,,,"Raghunathpur, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346409,45607,154,NP,,,,"Godar Chisapani, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346410,45608,154,NP,,,,"Dhanushadham, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346411,45610,154,NP,,,,"Bagachauda, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346412,45611,154,NP,,,,"Jatahi, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346413,45612,154,NP,,,,"Phulgama, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346414,45616,154,NP,,,,"Sankhuwa Mahendranagar, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346415,45617,154,NP,,,,"Dhalkebar, Dhanusha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346416,45700,154,NP,,,,Mahottari,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346417,45701,154,NP,,,,"Bardibash, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346418,45702,154,NP,,,,"Bhangaha, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346419,45703,154,NP,,,,"Loharpatti, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346420,45704,154,NP,,,,"Pipara, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346421,45705,154,NP,,,,"Matihani, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346422,45707,154,NP,,,,"Ramgopalpur, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346423,45708,154,NP,,,,"Balawa, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346424,45710,154,NP,,,,"Laxminiya, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346425,45711,154,NP,,,,"Gaushala, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346426,45712,154,NP,,,,"Shreepur, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346427,45713,154,NP,,,,"Samsi, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346428,45714,154,NP,,,,"Manara, Mahottari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346429,45800,154,NP,,,,Sarlahi,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346430,45801,154,NP,,,,"Lalbandi, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346431,45802,154,NP,,,,"Bayalbas, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346432,45803,154,NP,,,,"Haripurwa, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346433,45804,154,NP,,,,"Hariaun, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346434,45805,154,NP,,,,"Haripur, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346435,45806,154,NP,,,,"Brahmapuri, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346436,45809,154,NP,,,,"Kaudena, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346437,45810,154,NP,,,,"Barahathawa, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346438,45811,154,NP,,,,"Sundarpur, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346439,45813,154,NP,,,,"Dumariya, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346440,45814,154,NP,,,,"Karmaiya, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346441,45815,154,NP,,,,"Harkathawa, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346442,45816,154,NP,,,,"Ramnagar(Bahuarwa), Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346443,45817,154,NP,,,,"Chhatauna, Sarlahi",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346444,45900,154,NP,,,,Sindhuli,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346445,45901,154,NP,,,,"Solpa, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346446,45902,154,NP,,,,"Bahun Tilpung, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346447,45903,154,NP,,,,"Dudhauli, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346448,45904,154,NP,,,,"Dakaha, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346449,45905,154,NP,,,,"Gwaltar, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346450,45906,154,NP,,,,"Khurkot, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346451,45907,154,NP,,,,"Belghari, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346452,45909,154,NP,,,,"Bhiman, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346453,45910,154,NP,,,,"Jhanga Jholi, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346454,45911,154,NP,,,,"Netrakali, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346455,45912,154,NP,,,,"Kapilakot, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346456,45913,154,NP,,,,"Pipalmadhiratanpur, Sindhuli",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346457,56000,154,NP,,,,Solukhumbu,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346458,56002,154,NP,,,,"Namche Bazar, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346459,56004,154,NP,,,,"Sotang, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346460,56005,154,NP,,,,"Jubu, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346461,56006,154,NP,,,,"Nele, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346462,56007,154,NP,,,,"Necha, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346463,56008,154,NP,,,,"Shishakhola, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346464,56009,154,NP,,,,"Himaganga, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346465,56010,154,NP,,,,"Lukla, Solukhumbu",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346466,56100,154,NP,,,,Okhaldhunga,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346467,56101,154,NP,,,,"Khani Bhanjyang, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346468,56102,154,NP,,,,"Rumjatar, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346469,56104,154,NP,,,,"Rampur, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346470,56105,154,NP,,,,"Bigutar, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346471,56106,154,NP,,,,"Khiji Phalate, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346472,56107,154,NP,,,,"Gamanangtar, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346473,56108,154,NP,,,,"Ghorakhori, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346474,56109,154,NP,,,,"Chyanam, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346475,56110,154,NP,,,,"Mane Bhanjyang, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346476,56111,154,NP,,,,"Moli, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346477,56112,154,NP,,,,"Ragani, Okhaldhunga",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346478,56200,154,NP,,,,Khotang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346479,56201,154,NP,,,,"Wakshila, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346480,56202,154,NP,,,,"Aiselukharka, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346481,56204,154,NP,,,,"Jalpa, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346482,56205,154,NP,,,,"Lamidanda, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346483,56206,154,NP,,,,"Halesi mahadevasthan, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346484,56208,154,NP,,,,"Buipa, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346485,56209,154,NP,,,,"Manebhanjyang, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346486,56210,154,NP,,,,"Sapteshworichhitapokhari, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346487,56211,154,NP,,,,Khotang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346488,56212,154,NP,,,,"Chisapani, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346489,56214,154,NP,,,,"Simpani, Khotang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346490,56300,154,NP,,,,Udayapur,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346491,56301,154,NP,,,,"Ratapani (Thoksila), Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346492,56302,154,NP,,,,"Beltar, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346493,56303,154,NP,,,,"Hadiya, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346494,56305,154,NP,,,,"Pokhari, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346495,56306,154,NP,,,,"Baraha, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346496,56307,154,NP,,,,"Bhutar, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346497,56308,154,NP,,,,"Rampur Jhilke, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346498,56309,154,NP,,,,"Udayapur Gadhi, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346499,56310,154,NP,,,,"Katari, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346500,56311,154,NP,,,,"Sorung Chhabise, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346501,56312,154,NP,,,,"Rauta Murkuchi, Udayapur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346502,56400,154,NP,,,,Saptari,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346503,56401,154,NP,,,,"Hanuman Nagar, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346504,56402,154,NP,,,,"Bairaba, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346505,56403,154,NP,,,,"Phattepur, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346506,56404,154,NP,,,,"Kanchanpur, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346507,56405,154,NP,,,,"Praswani, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346508,56406,154,NP,,,,"Bhagawatpur, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346509,56407,154,NP,,,,"Koiladi, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346510,56408,154,NP,,,,"Chhinnamasta, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346511,56409,154,NP,,,,"Bishnupur, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346512,56411,154,NP,,,,"Rupani, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346513,56412,154,NP,,,,"Pato, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346514,56413,154,NP,,,,"Arnaha, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346515,56414,154,NP,,,,"Kalyanpur, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346516,56415,154,NP,,,,"Bodebarsain, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346517,56416,154,NP,,,,"Sisawa, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346518,56417,154,NP,,,,"Kadarwona, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346519,56418,154,NP,,,,"Bhardaha, Saptari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346520,56500,154,NP,,,,Siraha,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346521,56501,154,NP,,,,"Bastipur, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346522,56502,154,NP,,,,"Lahan, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346523,56503,154,NP,,,,"Bhagawanpur, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346524,56504,154,NP,,,,"Dhanagadhi, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346525,56505,154,NP,,,,"Maheshpur patari, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346526,56506,154,NP,,,,"Bariyarpatti, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346527,56508,154,NP,,,,"Golbazar (Asanpur), Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346528,56509,154,NP,,,,"Sukhipur, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346529,56511,154,NP,,,,"Bishnupur, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346530,56512,154,NP,,,,"Belha, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346531,56513,154,NP,,,,"Madar, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346532,56515,154,NP,,,,"Mirchaiya, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346533,56516,154,NP,,,,"Bandipur, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346534,56517,154,NP,,,,"Kalyanpur, Siraha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346535,56600,154,NP,,,,Morang,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346536,56601,154,NP,,,,"Chunimari, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346537,56602,154,NP,,,,"Rangeli, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346538,56603,154,NP,,,,"Sanischare, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346539,56604,154,NP,,,,"Urlabari, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346540,56605,154,NP,,,,"Madhumalla, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346541,56606,154,NP,,,,"Bayarban, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346542,56607,154,NP,,,,"Sorabhag, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346543,56608,154,NP,,,,"Dadarberiya, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346544,56609,154,NP,,,,"Letang, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346545,56610,154,NP,,,,"Kerabari, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346546,56611,154,NP,,,,"Haraincha, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346547,56612,154,NP,,,,"Bhaudaha, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346548,56613,154,NP,,,,"Biratnagar Bazar, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346549,56614,154,NP,,,,"Rani Sikiyahi, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346550,56615,154,NP,,,,"Jhorahat, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346551,56616,154,NP,,,,"Banigama, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346552,56617,154,NP,,,,"Bansbari, Morang",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346553,56700,154,NP,,,,Sunsari,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346554,56702,154,NP,,,,"Mangalbare, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346555,56703,154,NP,,,,"Chatara, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346556,56704,154,NP,,,,"Bakalauri, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346557,56705,154,NP,,,,"Itahari, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346558,56706,154,NP,,,,"Simariya, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346559,56707,154,NP,,,,"Duhabi, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346560,56708,154,NP,,,,"Chimadi, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346561,56709,154,NP,,,,"Jhumka, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346562,56710,154,NP,,,,"Inarauwa, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346563,56711,154,NP,,,,"Aurabari, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346564,56712,154,NP,,,,"Dewangunj, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346565,56713,154,NP,,,,"Madhuvan, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346566,56714,154,NP,,,,"Laukahee, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346567,56715,154,NP,,,,"Bhutaha, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346568,56716,154,NP,,,,"Mahendra Nagar, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346569,56717,154,NP,,,,"Chhitaha, Sunsari",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346570,56800,154,NP,,,,Dhankuta,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346571,56801,154,NP,,,,"Mudhebash, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346572,56802,154,NP,,,,"Rajarani, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346573,56803,154,NP,,,,"Dandabazar, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346574,56804,154,NP,,,,"Bhedetar, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346575,56805,154,NP,,,,"Ankhisalla, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346576,56806,154,NP,,,,"Hile, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346577,56807,154,NP,,,,"Muga, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346578,56808,154,NP,,,,"Teliya, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346579,56809,154,NP,,,,"Pakhribash, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346580,56810,154,NP,,,,"Leguwa, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346581,56811,154,NP,,,,"Mare Katahare, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346582,56812,154,NP,,,,"Arknaule, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346583,56813,154,NP,,,,"Chungmang, Dhankuta",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346584,56900,154,NP,,,,Sankhuwasabha,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346585,56901,154,NP,,,,"Hatiya, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346586,56902,154,NP,,,,"Hedangana, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346587,56903,154,NP,,,,"Tamku, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346588,56904,154,NP,,,,"Chandanpur, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346589,56905,154,NP,,,,"Bahrabishe, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346590,56906,154,NP,,,,"Tumlingtar, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346591,56907,154,NP,,,,"Wana, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346592,56908,154,NP,,,,"Shidhakali, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346593,56909,154,NP,,,,"Madi, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346594,56910,154,NP,,,,"Ankhibhui, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346595,56911,154,NP,,,,"Mamling, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346596,56912,154,NP,,,,"Manebhanjyang, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346597,56913,154,NP,,,,"Chainpur, Sankhuwasabha",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346598,57000,154,NP,,,,Bhojpur,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346599,57001,154,NP,,,,"Kulung Agrakhe, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346600,57002,154,NP,,,,"Dingla, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346601,57003,154,NP,,,,"Deurali, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346602,57004,154,NP,,,,"Pyauli, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346603,57005,154,NP,,,,"Yaku, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346604,57006,154,NP,,,,"Bastim, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346605,57008,154,NP,,,,"Timma, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346606,57009,154,NP,,,,"Dilpa Annapurna, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346607,57010,154,NP,,,,"Bhulke, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346608,57011,154,NP,,,,"Baikunthe, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346609,57012,154,NP,,,,"Ranibas, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346610,57013,154,NP,,,,"Walangkha, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346611,57014,154,NP,,,,"Tiwari Bhanjyang, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346612,57015,154,NP,,,,"Dobhane, Bhojpur",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346613,57100,154,NP,,,,Terhathum,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346614,57102,154,NP,,,,"Jirikhimti, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346615,57103,154,NP,,,,"Tinjure, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346616,57104,154,NP,,,,"Basantapur, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346617,57105,154,NP,,,,"Sudap, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346618,57106,154,NP,,,,"Hamarjung, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346619,57107,154,NP,,,,"Morahang, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346620,57108,154,NP,,,,"Pokalawang, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346621,57110,154,NP,,,,"Mulpani, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346622,57111,154,NP,,,,"Iwa, Terhathum",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346623,57200,154,NP,,,,Jhapa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346624,57201,154,NP,,,,"Baniyani, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346625,57202,154,NP,,,,"Goldhap, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346626,57203,154,NP,,,,"Chandragadhi, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346627,57204,154,NP,,,,"Birtamod, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346628,57205,154,NP,,,,"Sanishchare, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346629,57206,154,NP,,,,"Budhabare, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346630,57207,154,NP,,,,"Dhulabari, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346631,57208,154,NP,,,,"Kankarbhitta, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346632,57209,154,NP,,,,"Rajgadh, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346633,57210,154,NP,,,,"Durgapur, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346634,57211,154,NP,,,,Jhapa,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346635,57212,154,NP,,,,"Dudhe, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346636,57213,154,NP,,,,"Shivagunj, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346637,57214,154,NP,,,,"Topagachhi, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346638,57215,154,NP,,,,"Gaurigunj, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346639,57216,154,NP,,,,"Gauradaha, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346640,57217,154,NP,,,,"Damak, Jhapa",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346641,57300,154,NP,,,,Ilam,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346642,57302,154,NP,,,,"Nayabazar, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346643,57303,154,NP,,,,"Pashupatinagar, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346644,57304,154,NP,,,,"Aaitabare, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346645,57305,154,NP,,,,"Harkatebazar, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346646,57306,154,NP,,,,"Gajurmukhi, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346647,57307,154,NP,,,,"Mangal Bare, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346648,57308,154,NP,,,,"Nepaltar, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346649,57309,154,NP,,,,"Jamuna, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346650,57310,154,NP,,,,"Gitpur, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346651,57311,154,NP,,,,"Cheesa Pani Panchami, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346652,57312,154,NP,,,,"Phikal, Ilam",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346653,57400,154,NP,,,,Panchthar,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346654,57401,154,NP,,,,"Chyangthapu, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346655,57402,154,NP,,,,"Ambarpur, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346656,57403,154,NP,,,,"Namluwa, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346657,57404,154,NP,,,,"Yangnam, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346658,57406,154,NP,,,,"Nawamidanda, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346659,57407,154,NP,,,,"Mehelbote, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346660,57408,154,NP,,,,"Yasok, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346661,57409,154,NP,,,,"Mauwa, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346662,57410,154,NP,,,,"Rabi, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346663,57411,154,NP,,,,"Limba, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346664,57412,154,NP,,,,"Medibung, Panchthar",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346665,57500,154,NP,,,,Taplejung,full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346666,57501,154,NP,,,,"Khewang, Taplajung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346667,57502,154,NP,,,,"Sadeba, Taplajung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346668,57503,154,NP,,,,"Sinam, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346669,57504,154,NP,,,,"Pedang, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346670,57505,154,NP,,,,"Thechambu, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346671,57506,154,NP,,,,"Siwang, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346672,57507,154,NP,,,,"Khokling, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346673,57508,154,NP,,,,"Olangchunggola, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346674,57509,154,NP,,,,"Thokimba, Taplajung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346675,57510,154,NP,,,,"Dobhan, Taplajung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346676,57511,154,NP,,,,"Change, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346677,57512,154,NP,,,,"Hangpang, Taplejung",full,,,nepal-post-via-sprupak07,,2026-04-28T06:49:10,2026-04-28T06:49:10,1

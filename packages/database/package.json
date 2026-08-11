@@ -1,5 +1,5 @@
 {
-  "name": "@atlaskit/database",
+  "name": "@solvyst-atlas/database",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -25,9 +25,15 @@
     "db:pull": "drizzle-kit pull",
     "db:check": "drizzle-kit check",
     "db:studio": "drizzle-kit studio",
-    "seed:build": "node ./scripts/build-meta-seeds.mjs",
-    "seed:run": "node ./scripts/run-meta-seeds.mjs",
-    "seed:rebuild": "pnpm seed:build && pnpm seed:run"
+    "contrib:validate:reference": "node ./bin/scripts/validation/reference-contributions.mjs",
+    "contrib:validate:geo": "node ./bin/scripts/validation/geo-contributions.mjs",
+    "contrib:validate": "pnpm contrib:validate:geo && pnpm contrib:validate:reference",
+    "import:geo": "pnpm contrib:validate:geo && node ./bin/scripts/import/geo.mjs",
+    "import:reference": "pnpm contrib:validate:reference && node ./bin/scripts/import/reference.mjs",
+    "import:all": "pnpm import:geo && pnpm import:reference",
+    "cli": "node ./bin/console.mjs",
+    "export:csv": "pnpm contrib:validate && node ./bin/scripts/export/csv.mjs",
+    "export:all": "pnpm export:csv"
   },
   "dependencies": {
     "dotenv": "^17.4.2",

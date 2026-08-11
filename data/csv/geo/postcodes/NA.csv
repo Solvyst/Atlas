@@ -1,0 +1,150 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+816579,10000,152,NA,44,KH,,Windhoek Office of Exchange,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816580,10001,152,NA,44,KH,,Parcel Depot,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816581,10002,152,NA,44,KH,,Omeya Kiosk,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816582,10003,152,NA,44,KH,,GAME Kiosk,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816583,10004,152,NA,44,KH,,Hybrid Mail,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816584,10005,152,NA,44,KH,,Windhoek,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816585,10006,152,NA,44,KH,,Wika Service Station Kiosk,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816586,10007,152,NA,44,KH,,Bachbrecht,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816587,10008,152,NA,44,KH,,Dordabis,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816588,10009,152,NA,44,KH,,Eros,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816589,10010,152,NA,44,KH,,Government Office Park Kiosk,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816590,10011,152,NA,44,KH,,Khomasdal,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816591,10012,152,NA,44,KH,,Klein Windhoek,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816592,10013,152,NA,44,KH,,Wernhill Pick n Pay,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816593,10014,152,NA,44,KH,,Rocky Crest,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816594,10015,152,NA,44,KH,,Windhoek Central Prison,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816595,10016,152,NA,44,KH,,Hosea Kutako Airport,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816596,10017,152,NA,44,KH,,Ausspannplatz,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816597,10018,152,NA,44,KH,,Auas Valley,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816598,10019,152,NA,44,KH,,Kleine Kuppe,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816599,10020,152,NA,44,KH,,Maerua Mall,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816600,10021,152,NA,44,KH,,Olympia,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816601,10022,152,NA,44,KH,,Pelican Square,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816602,10023,152,NA,44,KH,,Pionierspark,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816603,10024,152,NA,44,KH,,Pionierspark Motors Kiosk,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816604,10025,152,NA,44,KH,,Prosperita,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816605,10026,152,NA,44,KH,,University of Namibia,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816606,10027,152,NA,44,KH,,Craft Center,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816607,10028,152,NA,44,KH,,Katutura,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816608,10029,152,NA,44,KH,,China Town,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816609,10030,152,NA,44,KH,,Goreangab,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816610,10031,152,NA,44,KH,,Okuryangava,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816611,10032,152,NA,44,KH,,Otjomuise,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816612,10033,152,NA,44,KH,,Soweto,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816613,10034,152,NA,44,KH,,Wanaheda,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816614,11001,152,NA,41,OH,,Gobabis,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816615,11002,152,NA,41,OH,,Aminius,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816616,11003,152,NA,41,OH,,Epukiro,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816617,11004,152,NA,41,OH,,Leonardville,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816618,11005,152,NA,41,OH,,Tallismanus,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816619,11006,152,NA,41,OH,,Witvlei,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816620,11007,152,NA,41,OH,,Omitara,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816621,11008,152,NA,41,OH,,Otjinene,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816622,12001,152,NA,46,OD,,Otjiwarongo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816623,12002,152,NA,46,OD,,Hochfeld,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816624,12003,152,NA,46,OD,,Okahandja West,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816625,12004,152,NA,46,OD,,Okahandja,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816626,12005,152,NA,46,OD,,Okakarara,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816627,12006,152,NA,46,OD,,Okamatapati,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816628,12007,152,NA,46,OD,,Okondjatu,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816629,12008,152,NA,46,OD,,Osire,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816630,12009,152,NA,46,OD,,Kalkfeld,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816631,12010,152,NA,46,OD,,Grootfontein,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816632,12011,152,NA,46,OD,,Tsumkwe,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816633,12012,152,NA,46,OD,,Kombat,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816634,12013,152,NA,46,OD,,Otavi,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816635,13001,152,NA,43,ER,,Swakopmund,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816636,13002,152,NA,43,ER,,Woermann & Brock Centre Kiosk,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816637,13003,152,NA,43,ER,,Vineta,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816638,13004,152,NA,43,ER,,Mondesa,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816639,13005,152,NA,43,ER,,Henties Bay,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816640,13006,152,NA,43,ER,,Arandis,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816641,13007,152,NA,43,ER,,Usakos,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816642,13008,152,NA,43,ER,,Karibib,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816643,13009,152,NA,43,ER,,Omaruru,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816644,13010,152,NA,43,ER,,Uis,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816645,13011,152,NA,43,ER,,Omatjete,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816646,13012,152,NA,43,ER,,Okombahe,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816647,13013,152,NA,43,ER,,Walvis Bay,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816648,13014,152,NA,43,ER,,Narraville,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816649,13015,152,NA,43,ER,,Kuisebmund,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816650,14001,152,NA,42,OT,,Omuthiya,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816651,14002,152,NA,42,OT,,Tsumeb,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816652,14003,152,NA,42,OT,,Oshivelo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816653,14004,152,NA,42,OT,,Onandjokwe,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816654,14005,152,NA,42,OT,,Oshigambo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816655,14006,152,NA,42,OT,,Onayena,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816656,14007,152,NA,42,OT,,Okankolo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816657,14008,152,NA,42,OT,,Onankali,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816658,14009,152,NA,42,OT,,Omuntele,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816659,14010,152,NA,42,OT,,Onyaanya,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816660,14011,152,NA,42,OT,,Okaukuejo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816661,15001,152,NA,37,ON,,Oshakati,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816662,15002,152,NA,37,ON,,Ondangwa,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816663,15003,152,NA,37,ON,,Oluno,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816664,15004,152,NA,37,ON,,Oshakati Pick n Pay,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816665,15005,152,NA,37,ON,,Oshakati Spar,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816666,15006,152,NA,37,ON,,Ongwediva,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816667,16001,152,NA,39,OS,,Outapi,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816668,16002,152,NA,39,OS,,Onandjaba,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816669,16003,152,NA,39,OS,,Oshikuku,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816670,16004,152,NA,39,OS,,Onesi,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816671,16005,152,NA,39,OS,,Onawa,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816672,16006,152,NA,39,OS,,Ruacana,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816673,16007,152,NA,39,OS,,Onaanda,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816674,16008,152,NA,39,OS,,Okahao,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816675,16009,152,NA,39,OS,,Tsandi,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816676,16010,152,NA,39,OS,,Ogongo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816677,17001,152,NA,40,OW,,Eenhana,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816678,17002,152,NA,40,OW,,Ondobe,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816679,17003,152,NA,40,OW,,Okongo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816680,17004,152,NA,40,OW,,Ongha,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816681,17005,152,NA,40,OW,,Ohangwena,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816682,17006,152,NA,40,OW,,Omungwelume,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816683,17007,152,NA,40,OW,,Ongenga,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816684,17008,152,NA,40,OW,,Oshikango,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816685,17009,152,NA,40,OW,,Oshikango Savings Bank,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816686,17010,152,NA,40,OW,,Endola,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816687,18001,152,NA,35,KW,,Nkurenkuru,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816688,18002,152,NA,35,KW,,Mpungu,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816689,19001,152,NA,36,KE,,Rundu,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816690,19002,152,NA,36,KE,,Divundu,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816691,20001,152,NA,47,CA,,Ngweze,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816692,20002,152,NA,47,CA,,Katima Mulilo Kiosk,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816693,20003,152,NA,47,CA,,Mayuni,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816694,20004,152,NA,47,CA,,Bukalo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816695,20005,152,NA,47,CA,,Chincimane,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816696,21001,152,NA,34,KU,,Opuwo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816697,21002,152,NA,34,KU,,Khorixas,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816698,21003,152,NA,34,KU,,Fransfontein,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816699,21004,152,NA,34,KU,,Kamanjab,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816700,21005,152,NA,34,KU,,Outjo,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816701,21006,152,NA,34,KU,,Sesfontein,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816702,22001,152,NA,38,HA,,Mariental,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816703,22002,152,NA,38,HA,,Kalkrand,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816704,22003,152,NA,38,HA,,Stampriet,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816705,22004,152,NA,38,HA,,Aranos,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816706,22005,152,NA,38,HA,,Gochas,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816707,22006,152,NA,38,HA,,Gibeon,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816708,22007,152,NA,38,HA,,Maltahöhe,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816709,22008,152,NA,38,HA,,Rehoboth,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816710,22009,152,NA,38,HA,,Klein Aub,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816711,23001,152,NA,45,KA,,Keetmanshoop,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816712,23002,152,NA,45,KA,,Tses,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816713,23003,152,NA,45,KA,,Berseba,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816714,23004,152,NA,45,KA,,Koës,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816715,23005,152,NA,45,KA,,Aroab,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816716,23006,152,NA,45,KA,,Bethanie,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816717,23007,152,NA,45,KA,,Helmeringhausen,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816718,23008,152,NA,45,KA,,Karasburg,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816719,23009,152,NA,45,KA,,Grünau,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816720,23010,152,NA,45,KA,,Ariamsvlei,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816721,23011,152,NA,45,KA,,Warmbad,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816722,23012,152,NA,45,KA,,Noordoewer,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816723,23013,152,NA,45,KA,,Aussenkehr,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816724,23014,152,NA,45,KA,,Rosh Pinah,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816725,23015,152,NA,45,KA,,Oranjemund,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816726,23016,152,NA,45,KA,,Lüderitz,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1
+816727,23017,152,NA,45,KA,,Aus,full,,,nampost-via-kuberkode,,2026-05-24T12:02:11,2026-05-24T12:02:11,1

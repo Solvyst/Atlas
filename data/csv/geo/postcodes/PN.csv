@@ -1,0 +1,2 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+824463,PCRN 1ZZ,175,PN,,,,Pitcairn Islands,full,,,wikipedia-singleton-territory,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

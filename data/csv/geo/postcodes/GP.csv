@@ -1,0 +1,5 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+118688,97100,88,GP,5384,01,,Basse-Terre,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118689,97110,88,GP,5385,02,,Pointe-a-Pitre,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118690,97120,88,GP,5384,01,,Saint-Claude,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118691,97122,88,GP,5384,01,,Baie-Mahault,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1

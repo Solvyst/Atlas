@@ -1,0 +1,2 @@
+id,name,state_id,state_code,country_id,country_code,type,level,parent_id,latitude,longitude,native,population,timezone,translations,created_at,updated_at,flag,wikiDataId
+162131,Marigot,5820,01,190,MF,,,,18.07310000,-63.08220000,Marigot,,America/Marigot,,2026-04-28T06:48:54,2026-04-28T06:48:54,1,Q200605

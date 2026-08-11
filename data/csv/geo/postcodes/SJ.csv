@@ -1,0 +1,9 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+833243,8099,211,SJ,,,,Jan Mayen,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833244,9170,211,SJ,,,,Longyearbyen,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833245,9171,211,SJ,,,,Longyearbyen,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833246,9173,211,SJ,,,,Ny-Ålesund,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833247,9174,211,SJ,,,,Hopen,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833248,9175,211,SJ,,,,Sveagruva,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833249,9176,211,SJ,,,,Bjørnøya,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833250,9178,211,SJ,,,,Barentsburg,full,,,bring-via-sj-mirror,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

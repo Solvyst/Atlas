@@ -1,0 +1,1392 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+346678,1000,174,PH,5324,00,,Ermita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346679,1001,174,PH,5324,00,,Quiapo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346680,1002,174,PH,5324,00,,Intramuros,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346681,1003,174,PH,5324,00,,Sta. Cruz (South),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346682,1004,174,PH,5324,00,,Malate,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346683,1007,174,PH,5324,00,,Paco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346684,1008,174,PH,5324,00,,Sampaloc (East),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346685,1009,174,PH,5324,00,,Sta. Ana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346686,1010,174,PH,5324,00,,San Nicolas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346687,1011,174,PH,5324,00,,Pandacan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346688,1012,174,PH,5324,00,,Tondo (South),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346689,1013,174,PH,5324,00,,Tondo (North),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346690,1014,174,PH,5324,00,,Sta. Cruz (North),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346691,1015,174,PH,5324,00,,Sampaloc (West),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346692,1016,174,PH,5324,00,,Sta. Mesa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346693,1017,174,PH,5324,00,,San Andres Bukid,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346694,1018,174,PH,5324,00,,Port Area (South),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346695,1100,174,PH,5324,00,,Piñahan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346696,1100,174,PH,5324,00,,Project 6,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346697,1100,174,PH,5324,00,,Quezon City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346698,1100,174,PH,5324,00,,Quezon City CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346699,1101,174,PH,5324,00,,Botocan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346700,1101,174,PH,5324,00,,Diliman,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346701,1101,174,PH,5324,00,,Krus Na Ligas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346702,1101,174,PH,5324,00,,Malaya,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346703,1101,174,PH,5324,00,,Old Capitol Site,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346704,1101,174,PH,5324,00,,San Vicente,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346705,1101,174,PH,5324,00,,Sikatuna Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346706,1101,174,PH,5324,00,,Teachers Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346707,1101,174,PH,5324,00,,UP Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346708,1101,174,PH,5324,00,,Univ. of the Phils. PO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346709,1102,174,PH,5324,00,,Amihan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346710,1102,174,PH,5324,00,,Claro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346711,1102,174,PH,5324,00,,Duyan-duyan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346712,1102,174,PH,5324,00,,E. Rodriguez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346713,1102,174,PH,5324,00,,Kamias,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346714,1102,174,PH,5324,00,,Quirino Dist. (Proj. 2 & 3),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346715,1102,174,PH,5324,00,,Silangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346716,1103,174,PH,5324,00,,Kamuning,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346717,1103,174,PH,5324,00,,Langing Handa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346718,1103,174,PH,5324,00,,Obrero,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346719,1103,174,PH,5324,00,,Paligsahan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346720,1103,174,PH,5324,00,,Roxas District,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346721,1103,174,PH,5324,00,,Sacred Heart,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346722,1103,174,PH,5324,00,,South Triangle,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346723,1104,174,PH,5324,00,,Damayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346724,1104,174,PH,5324,00,,Mariblo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346725,1104,174,PH,5324,00,,Nayon Kaunlaran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346726,1104,174,PH,5324,00,,Paraiso,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346727,1104,174,PH,5324,00,,Phil-am,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346728,1104,174,PH,5324,00,,Santa Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346729,1104,174,PH,5324,00,,Talayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346730,1105,174,PH,5324,00,,Alicia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346731,1105,174,PH,5324,00,,Bagong Pag-asa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346732,1105,174,PH,5324,00,,Bungad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346733,1105,174,PH,5324,00,,Del Monte,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346734,1105,174,PH,5324,00,,Katipunan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346735,1105,174,PH,5324,00,,Paltok,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346736,1105,174,PH,5324,00,,Project 7,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346737,1105,174,PH,5324,00,,Ramon Magsaysay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346738,1105,174,PH,5324,00,,San Antonio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346739,1105,174,PH,5324,00,,Sto. Cristo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346740,1105,174,PH,5324,00,,Veterans Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346741,1106,174,PH,5324,00,,Apolonio Samson,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346742,1106,174,PH,5324,00,,Baesa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346743,1106,174,PH,5324,00,,Bahay Toro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346744,1106,174,PH,5324,00,,Balumbato,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346745,1106,174,PH,5324,00,,Project 8,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346746,1106,174,PH,5324,00,,Salumbato,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346747,1106,174,PH,5324,00,,Unang Sigaw,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346748,1107,174,PH,5324,00,,New Era,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346749,1107,174,PH,5324,00,,Pasong Tamo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346750,1108,174,PH,5324,00,,Loyola Heights,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346751,1108,174,PH,5324,00,,Pansol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346752,1109,174,PH,5324,00,,Bagong Buhay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346753,1109,174,PH,5324,00,,Bayanihan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346754,1109,174,PH,5324,00,,Blue Ridge,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346755,1109,174,PH,5324,00,,Cubao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346756,1109,174,PH,5324,00,,Dioquino Zobel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346757,1109,174,PH,5324,00,,Escopa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346758,1109,174,PH,5324,00,,Mangga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346759,1109,174,PH,5324,00,,Marilag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346760,1109,174,PH,5324,00,,Masagana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346761,1109,174,PH,5324,00,,Milagrosa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346762,1109,174,PH,5324,00,,Project 4,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346763,1109,174,PH,5324,00,,San Roque,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346764,1109,174,PH,5324,00,,Socorro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346765,1109,174,PH,5324,00,,Tagumpay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346766,1109,174,PH,5324,00,,Villa Maria Clara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346767,1110,174,PH,5324,00,,Bagong Bayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346768,1110,174,PH,5324,00,,Camp. Aguinaldo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346769,1110,174,PH,5324,00,,Libis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346770,1110,174,PH,5324,00,,St. Ignatius,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346771,1110,174,PH,5324,00,,Talampas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346772,1110,174,PH,5324,00,,Ugong Norte,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346773,1111,174,PH,5324,00,,Bagong Lipunan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346774,1111,174,PH,5324,00,,Crame,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346775,1111,174,PH,5324,00,,Immaculate Concepcion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346776,1111,174,PH,5324,00,,Kaunlaran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346777,1111,174,PH,5324,00,,Pinagkaisahan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346778,1111,174,PH,5324,00,,St. Martin De Porres,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346779,1112,174,PH,5324,00,,Damayan Lagi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346780,1112,174,PH,5324,00,,Horseshoe,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346781,1112,174,PH,5324,00,,Kalusugan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346782,1112,174,PH,5324,00,,Kristong Hari,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346783,1112,174,PH,5324,00,,Mariana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346784,1112,174,PH,5324,00,,Valencia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346785,1113,174,PH,5324,00,,Don Manuel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346786,1113,174,PH,5324,00,,Doña Aurora,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346787,1113,174,PH,5324,00,,Doña Imelda,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346788,1113,174,PH,5324,00,,Doña Josefa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346789,1113,174,PH,5324,00,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346790,1113,174,PH,5324,00,,Santol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346791,1113,174,PH,5324,00,,Sto. Nino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346792,1113,174,PH,5324,00,,Tatalon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346793,1114,174,PH,5324,00,,Gintong Silahis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346794,1114,174,PH,5324,00,,La Loma,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346795,1114,174,PH,5324,00,,Lourdes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346796,1114,174,PH,5324,00,,Maharlika,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346797,1114,174,PH,5324,00,,Matalahib,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346798,1114,174,PH,5324,00,,Paang Bundok,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346799,1114,174,PH,5324,00,,Salvacion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346800,1114,174,PH,5324,00,,San Isidro Labrador,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346801,1114,174,PH,5324,00,,Santa Teresita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346802,1114,174,PH,5324,00,,Sienna,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346803,1114,174,PH,5324,00,,St. Peter,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346804,1115,174,PH,5324,00,,Balingasa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346805,1115,174,PH,5324,00,,Damar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346806,1115,174,PH,5324,00,,Manresa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346807,1115,174,PH,5324,00,,Masambong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346808,1115,174,PH,5324,00,,Pag-ibig Sa Nayon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346809,1115,174,PH,5324,00,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346810,1116,174,PH,5324,00,,Bagbag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346811,1116,174,PH,5324,00,,San Bartolome,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346812,1116,174,PH,5324,00,,Sangandaan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346813,1116,174,PH,5324,00,,Sauyo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346814,1116,174,PH,5324,00,,Talipapa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346815,1116,174,PH,5324,00,,Tandang Sora,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346816,1117,174,PH,5324,00,,Capri,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346817,1117,174,PH,5324,00,,Gulod,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346818,1117,174,PH,5324,00,,San Agustin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346819,1117,174,PH,5324,00,,Santa Lucia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346820,1117,174,PH,5324,00,,Santa Monica,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346821,1118,174,PH,5324,00,,Fairview,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346822,1118,174,PH,5324,00,,Pasong Putik,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346823,1119,174,PH,5324,00,,Bagong Silangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346824,1119,174,PH,5324,00,,Matandang Balara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346825,1119,174,PH,5324,00,,Payatas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346826,1120,174,PH,5324,00,,BF Homes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346827,1121,174,PH,5324,00,,Commonwealth,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346828,1121,174,PH,5324,00,,Fairview (North),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346829,1121,174,PH,5324,00,,Novaliches Proper,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346830,1122,174,PH,5324,00,,Fairview (South),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346831,1123,174,PH,5324,00,,Damong Maliit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346832,1125,174,PH,5324,00,,Doña Faustina Subd.,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346833,1125,174,PH,5324,00,,Nagkaisang Nayon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346834,1126,174,PH,5324,00,,Batasan Hills,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346835,1126,174,PH,5324,00,,Capitol Hills/Park,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346836,1127,174,PH,5324,00,,Holy Spirit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346837,1128,174,PH,5324,00,,Culiat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346838,1128,174,PH,5324,00,,Vasra,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346839,1200,174,PH,5324,00,,"Makati CPO (Inc, Buendia Up To)",full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346840,1202,174,PH,5324,00,,Fort Bonifacio Naval Stn.,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346841,1203,174,PH,5324,00,,San Antonio Village (Inc. Malu),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346842,1204,174,PH,5324,00,,La Paz-Singkamas-Tejeros,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346843,1205,174,PH,5324,00,,Sta. Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346844,1206,174,PH,5324,00,,Kasilawan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346845,1207,174,PH,5324,00,,Olympia And Carmona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346846,1208,174,PH,5324,00,,"Valenzuela (Inc. Santiago, San Miguel & Rizal Vill.)",full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346847,1209,174,PH,5324,00,,Bel-air,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346848,1210,174,PH,5324,00,,Poblacion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346849,1211,174,PH,5324,00,,Guadalupe Viejo (Inc. Palm Vil),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346850,1212,174,PH,5324,00,,Guadalupe Nuevo (Inc. Visayan),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346851,1213,174,PH,5324,00,,Pinagkaisahan-pitogo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346852,1214,174,PH,5324,00,,Cembo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346853,1215,174,PH,5324,00,,Rembo (West),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346854,1216,174,PH,5324,00,,Rembo (East) & Malapad Na Bato,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346855,1217,174,PH,5324,00,,Comembo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346856,1218,174,PH,5324,00,,Pembo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346857,1219,174,PH,5324,00,,Forbes Park (North),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346858,1220,174,PH,5324,00,,Forbes Park (South),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346859,1221,174,PH,5324,00,,Dasmarinas Village (North),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346860,1222,174,PH,5324,00,,Dasmarinas Village (South),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346861,1223,174,PH,5324,00,,San Lorenzo Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346862,1224,174,PH,5324,00,,Commercial Center,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346863,1225,174,PH,5324,00,,Urdaneta Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346864,1226,174,PH,5324,00,,Ayala - Paseo De Roxas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346865,1227,174,PH,5324,00,,Salcedo Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346866,1228,174,PH,5324,00,,Greenbelt,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346867,1229,174,PH,5324,00,,Legaspi Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346868,1230,174,PH,5324,00,,Pio Del Pilar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346869,1231,174,PH,5324,00,,"Pasong Tamo 2000 Up, Ecology V",full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346870,1232,174,PH,5324,00,,Magallanes Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346871,1233,174,PH,5324,00,,Bangkal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346872,1234,174,PH,5324,00,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346873,1235,174,PH,5324,00,,Palanan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346874,1300,174,PH,5324,00,,Pasay City CPO Malibay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346875,1301,174,PH,5324,00,,Domestic Airport PO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346876,1302,174,PH,5324,00,,San Rafael,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346877,1303,174,PH,5324,00,,San Roque,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346878,1304,174,PH,5324,00,,Santa Clara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346879,1305,174,PH,5324,00,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346880,1306,174,PH,5324,00,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346881,1307,174,PH,5324,00,,PICC (Reclamation Area),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346882,1308,174,PH,5324,00,,Manila Bay (Reclamation),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346883,1309,174,PH,5324,00,,Villamor Airbase,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346884,1400,174,PH,5324,00,,Caloocan City CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346885,1401,174,PH,5324,00,,Baesa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346886,1402,174,PH,5324,00,,Sta. Quiteria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346887,1403,174,PH,5324,00,,Grace Park (East),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346888,1404,174,PH,5324,00,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346889,1405,174,PH,5324,00,,1st Ave. to 7th Ave. - West,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346890,1406,174,PH,5324,00,,Grace Park (West),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346891,1407,174,PH,5324,00,,University Hills,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346892,1408,174,PH,5324,00,,Sangandaan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346893,1409,174,PH,5324,00,,Kaunlaran Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346894,1410,174,PH,5324,00,,Maypajo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346895,1411,174,PH,5324,00,,Fish Market,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346896,1412,174,PH,5324,00,,Isla De Cocomo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346897,1413,174,PH,5324,00,,Kapitbahayan (East),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346898,1420,174,PH,5324,00,,Kaybiga/Deparo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346899,1421,174,PH,5324,00,,Bagumbong/Pag-asa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346900,1422,174,PH,5324,00,,Novaliches North (Camarin North),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346901,1423,174,PH,5324,00,,Lilles Ville Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346902,1424,174,PH,5324,00,,Capitol Parkland Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346903,1425,174,PH,5324,00,,Amparo Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346904,1426,174,PH,5324,00,,Bankers Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346905,1427,174,PH,5324,00,,Tala Leprosarium,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346906,1427,174,PH,5324,00,,Victory Heights,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346907,1428,174,PH,5324,00,,Bagong Silang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346908,1440,174,PH,5324,00,,Malinta CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346909,1441,174,PH,5324,00,,Karuhatan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346910,1442,174,PH,5324,00,,Fortune Vil. - Paso De Blas - Gen. T. De Leon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346911,1443,174,PH,5324,00,,Dalandan - West Canumay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346912,1444,174,PH,5324,00,,Arkong Bato-Rincon-Pasolo-Malanday-Mabolo-Polo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346913,1445,174,PH,5324,00,,Balangkas-Caloong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346914,1446,174,PH,5324,00,,Lingunan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346915,1447,174,PH,5324,00,,East Canumay - Lawang Bato Pun,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346916,1448,174,PH,5324,00,,Mapulang Lupa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346917,1469,174,PH,5324,00,,Valenzuela P.O. Boxes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346918,1470,174,PH,5324,00,,Malabon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346919,1471,174,PH,5324,00,,Flores,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346920,1472,174,PH,5324,00,,Longos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346921,1473,174,PH,5324,00,,Tonsuya,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346922,1474,174,PH,5324,00,,Acacia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346923,1475,174,PH,5324,00,,Potrero,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346924,1476,174,PH,5324,00,,Araneta Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346925,1477,174,PH,5324,00,,Maysilo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346926,1478,174,PH,5324,00,,Santolan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346927,1479,174,PH,5324,00,,Muzon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346928,1480,174,PH,5324,00,,Dampalit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346929,1485,174,PH,5324,00,,Navotas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346930,1489,174,PH,5324,00,,Tangos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346931,1490,174,PH,5324,00,,Tanza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346932,1500,174,PH,5324,00,,San Juan CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346933,1502,174,PH,5324,00,,Greenhills PO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346934,1503,174,PH,5324,00,,Greenhills North,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346935,1504,174,PH,5324,00,,Eisenhower-Crame,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346936,1550,174,PH,5324,00,,Mandaluyong CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346937,1551,174,PH,5324,00,,Vergara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346938,1552,174,PH,5324,00,,Shaw Boulevard,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346939,1553,174,PH,5324,00,,Phil. Natl. Mental Hospital,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346940,1554,174,PH,5324,00,,East Edsa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346941,1555,174,PH,5324,00,,Wack Wack Golf,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346942,1556,174,PH,5324,00,,Greenhills South,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346943,1600,174,PH,5324,00,,Pasig CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346944,1601,174,PH,5324,00,,San Joaquin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346945,1602,174,PH,5324,00,,Pinagbuhatan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346946,1603,174,PH,5324,00,,Kapitolyo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346947,1604,174,PH,5324,00,,Ugong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346948,1605,174,PH,5324,00,,Ortigas PO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346949,1606,174,PH,5324,00,,Caniogan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346950,1607,174,PH,5324,00,,Maybunga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346951,1608,174,PH,5324,00,,Sta. Lucia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346952,1609,174,PH,5324,00,,Rosario,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346953,1610,174,PH,5324,00,,Santolan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346954,1611,174,PH,5324,00,,Manggahan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346955,1612,174,PH,5324,00,,Green Park,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346956,1620,174,PH,5324,00,,Aguho,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346957,1621,174,PH,5324,00,,Sta. Ana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346958,1630,174,PH,5324,00,,Bicutan Western,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346959,1631,174,PH,5324,00,,Bicutan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346960,1632,174,PH,5324,00,,Bicutan Lower,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346961,1633,174,PH,5324,00,,Bicutan Upper,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346962,1635,174,PH,5324,00,,Bonifacio Global City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346963,1636,174,PH,5324,00,,Bay Breeze Exec. Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346964,1637,174,PH,5324,00,,Tuktukan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346965,1639,174,PH,5324,00,,Ususan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346966,1700,174,PH,5324,00,,Parañaque CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346967,1701,174,PH,5324,00,,Tambo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346968,1702,174,PH,5324,00,,Baclaran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346969,1703,174,PH,5324,00,,Marina Subd. (Reclamation),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346970,1704,174,PH,5324,00,,Sto. Nino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346971,1705,174,PH,5324,00,,Ninoy Aquino Int’l. Airport,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346972,1706,174,PH,5324,00,,Pulo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346973,1707,174,PH,5324,00,,San Antonio Valley 11 & 12,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346974,1708,174,PH,5324,00,,Multinational Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346975,1709,174,PH,5324,00,,Merville Park,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346976,1709,174,PH,5324,00,,Moonwalk,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346977,1709,174,PH,5324,00,,South Admiral Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346978,1710,174,PH,5324,00,,Executive Heights Subd.,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346979,1711,174,PH,5324,00,,Better Living Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346980,1712,174,PH,5324,00,,Miramar Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346981,1713,174,PH,5324,00,,United Subd.,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346982,1714,174,PH,5324,00,,Aeropark Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346983,1714,174,PH,5324,00,,Ireneville Ii,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346984,1715,174,PH,5324,00,,San Antonio Valley I,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346985,1716,174,PH,5324,00,,Maywood Village Ii,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346986,1717,174,PH,5324,00,,Manila Memorial Park,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346987,1718,174,PH,5324,00,,Bf Homes 2,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346988,1719,174,PH,5324,00,,Ireneville Subdivision I & Ii,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346989,1719,174,PH,5324,00,,Maywood I,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346990,1720,174,PH,5324,00,,Bf Homes 1,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346991,1740,174,PH,5324,00,,Las Piñas CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346992,1741,174,PH,5324,00,,Remarville Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346993,1742,174,PH,5324,00,,Pulang Lupa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346994,1742,174,PH,5324,00,,Zapote,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346995,1743,174,PH,5324,00,,Cut-cut,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346996,1744,174,PH,5324,00,,Manuyo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346997,1745,174,PH,5324,00,,Gatchalian Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346998,1746,174,PH,5324,00,,Verdant Acres Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+346999,1747,174,PH,5324,00,,"Talon, Moonwalk",full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347000,1748,174,PH,5324,00,,Manila Doctors Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347001,1749,174,PH,5324,00,,Angela Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347002,1750,174,PH,5324,00,,Almanza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347003,1751,174,PH,5324,00,,T. S. Cruz Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347004,1752,174,PH,5324,00,,Soldiers Hills Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347005,1770,174,PH,5324,00,,Muntinlupa CPO,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347006,1771,174,PH,5324,00,,Bule/Cupang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347007,1772,174,PH,5324,00,,Bayanan/Putatan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347008,1773,174,PH,5324,00,,Tunasan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347009,1774,174,PH,5324,00,,Susana Heights,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347010,1775,174,PH,5324,00,,Pearl Heights,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347011,1776,174,PH,5324,00,,Poblacion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347012,1777,174,PH,5324,00,,Pleasant Village,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347013,1780,174,PH,5324,00,,Ayala Alabang Subdivision,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347014,1781,174,PH,5324,00,,Filinvest Corp. City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347015,1799,174,PH,5324,00,,Ayala Alabang P.O. Boxes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347016,1800,174,PH,5324,00,,Marikina CPO - Sta. Elena - Sto. Niño,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347017,1801,174,PH,5324,00,,San Roque - Calumpang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347018,1802,174,PH,5324,00,,Industrial Valley,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347019,1803,174,PH,5324,00,,Barangka,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347020,1803,174,PH,5324,00,,Tañong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347021,1804,174,PH,5324,00,,J. De La Peña,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347022,1805,174,PH,5324,00,,Malanday,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347023,1806,174,PH,5324,00,,Tumana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347024,1807,174,PH,5324,00,,Concepcion 1,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347025,1808,174,PH,5324,00,,Nangka,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347026,1809,174,PH,5324,00,,Parang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347027,1810,174,PH,5324,00,,Marikina Heights,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347028,1811,174,PH,5324,00,,Concepcion 2,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347029,1812,174,PH,5324,00,,Fortune,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347030,1850,174,PH,1271,RIZ,,San Mateo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347031,1860,174,PH,1271,RIZ,,Rodriguez (Montalban),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347032,1870,174,PH,1271,RIZ,,Antipolo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347033,1871,174,PH,1271,RIZ,,Mayamot,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347034,1872,174,PH,1271,RIZ,,Bagong Nayon (Cogeo),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347035,1874,174,PH,1271,RIZ,,Langhaya,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347036,1875,174,PH,1271,RIZ,,Mambagat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347037,1880,174,PH,1271,RIZ,,Teresa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347038,1900,174,PH,1271,RIZ,,Cainta,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347039,1910,174,PH,1271,RIZ,,Pililla,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347040,1920,174,PH,1271,RIZ,,Taytay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347041,1930,174,PH,1271,RIZ,,Angono,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347042,1940,174,PH,1271,RIZ,,Binangonan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347043,1950,174,PH,1271,RIZ,,Cardona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347044,1960,174,PH,1271,RIZ,,Morong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347045,1970,174,PH,1271,RIZ,,Baras,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347046,1980,174,PH,1271,RIZ,,Tanay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347047,1990,174,PH,1271,RIZ,,Jalajala,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347048,2000,174,PH,1365,PAM,,San Fernando,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347049,2001,174,PH,1365,PAM,,Bacolor,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347050,2002,174,PH,1365,PAM,,Santa Rita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347051,2003,174,PH,1365,PAM,,Guagua,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347052,2004,174,PH,1365,PAM,,Sasmuan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347053,2005,174,PH,1365,PAM,,Lubao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347054,2006,174,PH,1365,PAM,,Floridablanca,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347055,2007,174,PH,1365,PAM,,Basa airbase,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347056,2008,174,PH,1365,PAM,,Porac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347057,2009,174,PH,1365,PAM,,Angeles City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347058,2010,174,PH,1365,PAM,,Mabalacat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347059,2011,174,PH,1365,PAM,,Magalang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347060,2012,174,PH,1365,PAM,,Arayat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347061,2013,174,PH,1365,PAM,,Candaba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347062,2014,174,PH,1365,PAM,,San Luis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347063,2015,174,PH,1365,PAM,,San Simon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347064,2016,174,PH,1365,PAM,,Apalit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347065,2017,174,PH,1365,PAM,,Masantol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347066,2018,174,PH,1365,PAM,,Macabebe,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347067,2019,174,PH,1365,PAM,,Minalin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347068,2020,174,PH,1365,PAM,,Santo Tomas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347069,2021,174,PH,1365,PAM,,Mexico,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347070,2022,174,PH,1365,PAM,,Santa Ana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347071,2023,174,PH,1365,PAM,,"CSEZ, Clark",full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347072,2025,174,PH,1365,PAM,,"Santa Cruz, Lubao",full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347073,2026,174,PH,1365,PAM,,"Dau, Mabalacat",full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347074,2100,174,PH,1344,BAN,,Balanga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347075,2103,174,PH,1344,BAN,,Limay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347076,2104,174,PH,1344,BAN,,Lamao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347077,2106,174,PH,1344,BAN,,FAB (Freefort Area of Bataan),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347078,2107,174,PH,1344,BAN,,Bagac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347079,2109,174,PH,1344,BAN,,Cabcaben,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347080,2110,174,PH,1344,BAN,,Dinalupihan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347081,2111,174,PH,1344,BAN,,Hermosa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347082,2114,174,PH,1344,BAN,,Abucay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347083,2200,174,PH,1297,ZMB,,Olongapo City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347084,2201,174,PH,1297,ZMB,,Iba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347085,2202,174,PH,1297,ZMB,,Botolan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347086,2203,174,PH,1297,ZMB,,Cabangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347087,2204,174,PH,1297,ZMB,,San Felipe,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347088,2205,174,PH,1297,ZMB,,San Narciso,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347089,2206,174,PH,1297,ZMB,,San Antonio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347090,2207,174,PH,1297,ZMB,,San Marcelino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347091,2208,174,PH,1297,ZMB,,Castillejos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347092,2209,174,PH,1297,ZMB,,Subic,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347093,2210,174,PH,1297,ZMB,,Palauig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347094,2212,174,PH,1297,ZMB,,Candelaria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347095,2213,174,PH,1297,ZMB,,Sta. Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347096,2300,174,PH,1295,TAR,,Tarlac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347097,2302,174,PH,1295,TAR,,Gerona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347098,2303,174,PH,1295,TAR,,Sta. Ignacia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347099,2304,174,PH,1295,TAR,,Mayantoc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347100,2305,174,PH,1295,TAR,,San Clemente,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347101,2306,174,PH,1295,TAR,,Camiling,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347102,2307,174,PH,1295,TAR,,Paniqui,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347103,2308,174,PH,1295,TAR,,Moncada,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347104,2309,174,PH,1295,TAR,,San Manuel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347105,2310,174,PH,1295,TAR,,Anao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347106,2311,174,PH,1295,TAR,,Ramos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347107,2312,174,PH,1295,TAR,,Pura,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347108,2313,174,PH,1295,TAR,,Victoria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347109,2314,174,PH,1295,TAR,,La Paz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347110,2315,174,PH,1295,TAR,,Capas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347111,2316,174,PH,1295,TAR,,Concepcion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347112,2317,174,PH,1295,TAR,,Bamban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347113,2318,174,PH,1295,TAR,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347114,2403,174,PH,1364,PAN,,Sual,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347115,2404,174,PH,1364,PAN,,Alaminos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347116,2405,174,PH,1364,PAN,,Anda,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347117,2408,174,PH,1364,PAN,,Agno,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347118,2413,174,PH,1364,PAN,,Mangatarem,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347119,2414,174,PH,1364,PAN,,Urbiztondo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347120,2415,174,PH,1364,PAN,,Aguilar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347121,2419,174,PH,1364,PAN,,Santa Barbara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347122,2420,174,PH,1364,PAN,,San Carlos City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347123,2425,174,PH,1364,PAN,,Alcala,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347124,2426,174,PH,1364,PAN,,Santo Tomas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347125,2427,174,PH,1364,PAN,,Villasis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347126,2428,174,PH,1364,PAN,,Urdaneta,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347127,2429,174,PH,1364,PAN,,Mapandan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347128,2431,174,PH,1364,PAN,,San Jacinto,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347129,2432,174,PH,1364,PAN,,Mangaldan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347130,2433,174,PH,1364,PAN,,San Fabian,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347131,2434,174,PH,1364,PAN,,Sison,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347132,2435,174,PH,1364,PAN,,Pozorrubio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347133,2438,174,PH,1364,PAN,,San Manuel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347134,2440,174,PH,1364,PAN,,Santa Maria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347135,2441,174,PH,1364,PAN,,Rosales,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347136,2443,174,PH,1364,PAN,,Umingan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347137,2444,174,PH,1364,PAN,,San Quintin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347138,2445,174,PH,1364,PAN,,Tayug,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347139,2446,174,PH,1364,PAN,,Natividad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347140,2447,174,PH,1364,PAN,,San Nicolas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347141,2500,174,PH,1317,LUN,,San Fernando City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347142,2501,174,PH,1317,LUN,,Bauang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347143,2502,174,PH,1317,LUN,,Caba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347144,2503,174,PH,1317,LUN,,Aringay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347145,2504,174,PH,1317,LUN,,Agoo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347146,2505,174,PH,1317,LUN,,Santo Tomas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347147,2506,174,PH,1317,LUN,,Rosario,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347148,2508,174,PH,1317,LUN,,Pugo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347149,2509,174,PH,1317,LUN,,Tubao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347150,2510,174,PH,1317,LUN,,Burgos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347151,2511,174,PH,1317,LUN,,Naguilian,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347152,2512,174,PH,1317,LUN,,Bagulin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347153,2513,174,PH,1317,LUN,,San Gabriel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347154,2514,174,PH,1317,LUN,,San Juan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347155,2515,174,PH,1317,LUN,,Bacnotan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347156,2516,174,PH,1317,LUN,,Santol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347157,2517,174,PH,1317,LUN,,Balaoan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347158,2518,174,PH,1317,LUN,,Luna,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347159,2519,174,PH,1317,LUN,,Bangar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347160,2520,174,PH,1317,LUN,,Sudipen,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347161,2600,174,PH,1363,BEN,,Baguio City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347162,2601,174,PH,1363,BEN,,La Trinidad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347163,2602,174,PH,1363,BEN,,Philippine Military Academy (PMA),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347164,2603,174,PH,1363,BEN,,Tuba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347165,2604,174,PH,1363,BEN,,Itogon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347166,2605,174,PH,1363,BEN,,Bokod,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347167,2606,174,PH,1363,BEN,,Kabayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347168,2607,174,PH,1363,BEN,,Buguias,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347169,2608,174,PH,1363,BEN,,Mankayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347170,2610,174,PH,1363,BEN,,Bakun,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347171,2611,174,PH,1363,BEN,,Kibungan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347172,2612,174,PH,1363,BEN,,Atok,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347173,2613,174,PH,1363,BEN,,Kapangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347174,2614,174,PH,1363,BEN,,Sablan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347175,2615,174,PH,1363,BEN,,Tublay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347176,2700,174,PH,1321,ILS,,Vigan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347177,2701,174,PH,1321,ILS,,Santa Catalina,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347178,2702,174,PH,1321,ILS,,Caoayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347179,2703,174,PH,1321,ILS,,Santa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347180,2704,174,PH,1321,ILS,,Narvacan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347181,2705,174,PH,1321,ILS,,Santa Maria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347182,2706,174,PH,1321,ILS,,San Esteban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347183,2707,174,PH,1321,ILS,,Santiago,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347184,2708,174,PH,1321,ILS,,Banayoyo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347185,2709,174,PH,1321,ILS,,Galimuyod,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347186,2710,174,PH,1321,ILS,,Candon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347187,2711,174,PH,1321,ILS,,Salcedo (Baugen),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347188,2712,174,PH,1321,ILS,,Santa Lucia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347189,2713,174,PH,1321,ILS,,Santa Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347190,2714,174,PH,1321,ILS,,Tagudin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347191,2715,174,PH,1321,ILS,,Suyo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347192,2716,174,PH,1321,ILS,,Alilem,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347193,2717,174,PH,1321,ILS,,Sugpon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347194,2718,174,PH,1321,ILS,,Cervantes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347195,2719,174,PH,1321,ILS,,Sigay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347196,2720,174,PH,1321,ILS,,Gregorio del Pilar (Concepcion),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347197,2721,174,PH,1321,ILS,,Quirino (Angkaki),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347198,2722,174,PH,1321,ILS,,San Emilio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347199,2723,174,PH,1321,ILS,,Lidlidda,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347200,2724,174,PH,1321,ILS,,Burgos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347201,2725,174,PH,1321,ILS,,Nagbukel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347202,2726,174,PH,1321,ILS,,San Vicente,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347203,2727,174,PH,1321,ILS,,Bantay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347204,2728,174,PH,1321,ILS,,San Ildefonso,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347205,2729,174,PH,1321,ILS,,Santo Domingo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347206,2730,174,PH,1321,ILS,,Magsingal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347207,2731,174,PH,1321,ILS,,San Juan (Lapog),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347208,2732,174,PH,1321,ILS,,Cabugao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347209,2733,174,PH,1321,ILS,,Sinait,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347210,2800,174,PH,1324,ABR,,Bangued,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347211,2801,174,PH,1324,ABR,,Dolores,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347212,2802,174,PH,1324,ABR,,Lagangilang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347213,2803,174,PH,1324,ABR,,Tayum,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347214,2804,174,PH,1324,ABR,,Peñarrubia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347215,2805,174,PH,1324,ABR,,Bucay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347216,2806,174,PH,1324,ABR,,Pidigan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347217,2807,174,PH,1324,ABR,,Langiden,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347218,2808,174,PH,1324,ABR,,San Quintin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347219,2809,174,PH,1324,ABR,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347220,2810,174,PH,1324,ABR,,Manabo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347221,2811,174,PH,1324,ABR,,Villaviciosa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347222,2812,174,PH,1324,ABR,,Pilar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347223,2813,174,PH,1324,ABR,,Luba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347224,2814,174,PH,1324,ABR,,Tubo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347225,2815,174,PH,1324,ABR,,Boliney,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347226,2816,174,PH,1324,ABR,,Daguioman,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347227,2817,174,PH,1324,ABR,,Bucloc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347228,2818,174,PH,1324,ABR,,Sallapadan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347229,2819,174,PH,1324,ABR,,Licuan-Baay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347230,2820,174,PH,1324,ABR,,Malibcong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347231,2821,174,PH,1324,ABR,,Lacub,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347232,2822,174,PH,1324,ABR,,Tineg,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347233,2823,174,PH,1324,ABR,,San Juan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347234,2824,174,PH,1324,ABR,,Lagayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347235,2825,174,PH,1324,ABR,,Danglas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347236,2826,174,PH,1324,ABR,,La Paz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347237,2900,174,PH,1298,ILN,,Laoag City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347238,2901,174,PH,1298,ILN,,San Nicolas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347239,2902,174,PH,1298,ILN,,Paoay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347240,2903,174,PH,1298,ILN,,Currimao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347241,2904,174,PH,1298,ILN,,Badoc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347242,2905,174,PH,1298,ILN,,Pinili,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347243,2906,174,PH,1298,ILN,,Batac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347244,2907,174,PH,1298,ILN,,Marcos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347245,2908,174,PH,1298,ILN,,Banna (formerly Espiritu),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347246,2909,174,PH,1298,ILN,,Nueva Era,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347247,2910,174,PH,1298,ILN,,Solsona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347248,2911,174,PH,1298,ILN,,Carasi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347249,2912,174,PH,1298,ILN,,Piddig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347250,2913,174,PH,1298,ILN,,Dingras,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347251,2914,174,PH,1298,ILN,,Sarrat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347252,2915,174,PH,1298,ILN,,Vintar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347253,2916,174,PH,1298,ILN,,Bacarra,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347254,2917,174,PH,1298,ILN,,Pasuquin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347255,2918,174,PH,1298,ILN,,Burgos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347256,2919,174,PH,1298,ILN,,Pagudpud,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347257,2920,174,PH,1298,ILN,,Bangui,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347258,2921,174,PH,1298,ILN,,Dumalneg,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347259,2922,174,PH,1298,ILN,,Adams,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347260,3000,174,PH,1278,BUL,,Malolos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347261,3001,174,PH,1278,BUL,,Paombong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347262,3002,174,PH,1278,BUL,,Hagonoy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347263,3003,174,PH,1278,BUL,,Calumpit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347264,3004,174,PH,1278,BUL,,Plaridel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347265,3005,174,PH,1278,BUL,,Pulilan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347266,3006,174,PH,1278,BUL,,Baliuag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347267,3007,174,PH,1278,BUL,,Bustos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347268,3008,174,PH,1278,BUL,,San Rafael,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347269,3009,174,PH,1278,BUL,,Doña Remedios Trinidad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347270,3010,174,PH,1278,BUL,,San Ildefonso,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347271,3011,174,PH,1278,BUL,,San Miguel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347272,3012,174,PH,1278,BUL,,Angat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347273,3013,174,PH,1278,BUL,,Norzagaray,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347274,3014,174,PH,1278,BUL,,Pandi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347275,3015,174,PH,1278,BUL,,Guiguinto,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347276,3016,174,PH,1278,BUL,,Balagtas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347277,3017,174,PH,1278,BUL,,Bulacan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347278,3018,174,PH,1278,BUL,,Bocaue,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347279,3019,174,PH,1278,BUL,,Marilao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347280,3020,174,PH,1278,BUL,,Meycauayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347281,3021,174,PH,1278,BUL,,Obando,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347282,3022,174,PH,1278,BUL,,Sta. Maria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347283,3023,174,PH,1278,BUL,,San Jose Del Monte,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347284,3024,174,PH,1278,BUL,,Sapang Palay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347285,3025,174,PH,1278,BUL,,Cruz Na Daan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347286,3100,174,PH,1360,NUE,,Cabanatuan City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347287,3101,174,PH,1360,NUE,,Sta. Rosa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347288,3102,174,PH,1360,NUE,,San Leonardo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347289,3103,174,PH,1360,NUE,,Peñaranda,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347290,3104,174,PH,1360,NUE,,Gen. Tinio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347291,3105,174,PH,1360,NUE,,Gapan City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347292,3106,174,PH,1360,NUE,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347293,3107,174,PH,1360,NUE,,Cabiao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347294,3108,174,PH,1360,NUE,,San Antonio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347295,3109,174,PH,1360,NUE,,Jaen,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347296,3110,174,PH,1360,NUE,,Zaragoza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347297,3111,174,PH,1360,NUE,,Aliaga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347298,3112,174,PH,1360,NUE,,Licab,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347299,3113,174,PH,1360,NUE,,Quezon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347300,3114,174,PH,1360,NUE,,Talavera,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347301,3115,174,PH,1360,NUE,,Guimba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347302,3116,174,PH,1360,NUE,,Nampicuan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347303,3117,174,PH,1360,NUE,,Cuyapo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347304,3118,174,PH,1360,NUE,,Talugtog,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347305,3119,174,PH,1360,NUE,,Muñoz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347306,3120,174,PH,1360,NUE,,Central Luzon State University,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347307,3121,174,PH,1360,NUE,,San Jose City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347308,3122,174,PH,1360,NUE,,Lupao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347309,3123,174,PH,1360,NUE,,Carrangalan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347310,3124,174,PH,1360,NUE,,Pantabangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347311,3125,174,PH,1360,NUE,,Gen. M. Natividad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347312,3126,174,PH,1360,NUE,,Llanera,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347313,3127,174,PH,1360,NUE,,Rizal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347314,3128,174,PH,1360,NUE,,Bongabon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347315,3129,174,PH,1360,NUE,,Laur,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347316,3130,174,PH,1360,NUE,,Fort Magsaysay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347317,3131,174,PH,1360,NUE,,Gabaldon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347318,3132,174,PH,1360,NUE,,Palayan City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347319,3133,174,PH,1360,NUE,,Sto. Domingo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347320,3200,174,PH,1341,AUR,,Baler,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347321,3201,174,PH,1341,AUR,,San Luis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347322,3202,174,PH,1341,AUR,,Maria Aurora,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347323,3203,174,PH,1341,AUR,,Dipaculao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347324,3204,174,PH,1341,AUR,,Casiguran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347325,3205,174,PH,1341,AUR,,Dilasag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347326,3206,174,PH,1341,AUR,,Dinalungan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347327,3207,174,PH,1341,AUR,,Dingalan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347328,3300,174,PH,1313,ISA,,City of Ilagan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347329,3301,174,PH,1313,ISA,,Gamu,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347330,3302,174,PH,1313,ISA,,Naguillan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347331,3303,174,PH,1313,ISA,,Reina Mercedes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347332,3304,174,PH,1313,ISA,,Luna,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347333,3305,174,PH,1313,ISA,,City of Cauayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347334,3306,174,PH,1313,ISA,,Alicia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347335,3307,174,PH,1313,ISA,,Angadanan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347336,3308,174,PH,1313,ISA,,San Guillermo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347337,3309,174,PH,1313,ISA,,Echague,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347338,3310,174,PH,1313,ISA,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347339,3311,174,PH,1313,ISA,,Santiago CIty,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347340,3312,174,PH,1313,ISA,,Cordon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347341,3313,174,PH,1313,ISA,,Jones,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347342,3314,174,PH,1313,ISA,,San Agustin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347343,3315,174,PH,1313,ISA,,Cabatuan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347344,3316,174,PH,1313,ISA,,Aurora,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347345,3317,174,PH,1313,ISA,,San Manuel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347346,3318,174,PH,1313,ISA,,San Mateo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347347,3319,174,PH,1313,ISA,,Ramon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347348,3320,174,PH,1313,ISA,,Roxas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347349,3321,174,PH,1313,ISA,,Quirino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347350,3322,174,PH,1313,ISA,,Burgos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347351,3323,174,PH,1313,ISA,,Mallig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347352,3324,174,PH,1313,ISA,,Quezon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347353,3325,174,PH,1313,ISA,,Tumauini,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347354,3326,174,PH,1313,ISA,,Delfin Albano,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347355,3327,174,PH,1313,ISA,,Sto. Tomas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347356,3328,174,PH,1313,ISA,,Cabagan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347357,3329,174,PH,1313,ISA,,San Pablo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347358,3330,174,PH,1313,ISA,,Sta. Maria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347359,3331,174,PH,1313,ISA,,Benito Soliven,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347360,3332,174,PH,1313,ISA,,San Mariano,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347361,3333,174,PH,1313,ISA,,Maconacon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347362,3334,174,PH,1313,ISA,,Palanan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347363,3335,174,PH,1313,ISA,,Divilacan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347364,3336,174,PH,1313,ISA,,Dinapigue,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347365,3400,174,PH,1273,QUI,,Cabarroguis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347366,3401,174,PH,1273,QUI,,Diffun,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347367,3402,174,PH,1273,QUI,,Saguday,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347368,3403,174,PH,1273,QUI,,Aglipay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347369,3404,174,PH,1273,QUI,,Maddela,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347370,3405,174,PH,1273,QUI,,Nagtipunan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347371,3500,174,PH,1279,CAG,,Tuguegarao City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347372,3501,174,PH,1279,CAG,,Enrile,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347373,3502,174,PH,1279,CAG,,Peñablanca,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347374,3503,174,PH,1279,CAG,,Solana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347375,3504,174,PH,1279,CAG,,Iguig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347376,3505,174,PH,1279,CAG,,Amulung,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347377,3506,174,PH,1279,CAG,,Baggao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347378,3507,174,PH,1279,CAG,,Alcala,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347379,3508,174,PH,1279,CAG,,Gattaran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347380,3509,174,PH,1279,CAG,,Lal-lo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347381,3510,174,PH,1279,CAG,,Camalaniugan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347382,3511,174,PH,1279,CAG,,Buguey,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347383,3512,174,PH,1279,CAG,,Sta. Teresita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347384,3513,174,PH,1279,CAG,,Gonzaga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347385,3514,174,PH,1279,CAG,,Sta. Ana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347386,3515,174,PH,1279,CAG,,Aparri,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347387,3516,174,PH,1279,CAG,,Ballesteros,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347388,3517,174,PH,1279,CAG,,Abulug,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347389,3518,174,PH,1279,CAG,,Sanchez-Mira,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347390,3519,174,PH,1279,CAG,,Claveria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347391,3520,174,PH,1279,CAG,,Calayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347392,3521,174,PH,1279,CAG,,Santa Praxedes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347393,3522,174,PH,1279,CAG,,Pamplona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347394,3523,174,PH,1279,CAG,,Allacapan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347395,3524,174,PH,1279,CAG,,Lasam,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347396,3525,174,PH,1279,CAG,,Santo Niño,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347397,3526,174,PH,1279,CAG,,Rizal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347398,3527,174,PH,1279,CAG,,Piat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347399,3528,174,PH,1279,CAG,,Tuao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347400,3600,174,PH,1300,IFU,,Lagawe,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347401,3601,174,PH,1300,IFU,,Banaue,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347402,3602,174,PH,1300,IFU,,Mayoyao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347403,3603,174,PH,1300,IFU,,Hungduan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347404,3604,174,PH,1300,IFU,,Kiangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347405,3605,174,PH,1300,IFU,,Lamut,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347406,3606,174,PH,1300,IFU,,Aguinaldo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347407,3607,174,PH,1300,IFU,,Hingyon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347408,3608,174,PH,1300,IFU,,Alfonso Lista (formerly Potia),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347409,3609,174,PH,1300,IFU,,Tinoc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347410,3610,174,PH,1300,IFU,,Asipulo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347411,3700,174,PH,1358,NUV,,Bayombong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347412,3701,174,PH,1358,NUV,,Ambaguio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347413,3702,174,PH,1358,NUV,,Bambang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347414,3703,174,PH,1358,NUV,,Kasibu,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347415,3704,174,PH,1358,NUV,,Aritao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347416,3705,174,PH,1358,NUV,,Sta. Fe,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347417,3706,174,PH,1358,NUV,,Dupax del Norte,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347418,3707,174,PH,1358,NUV,,Dupax del Sur,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347419,3708,174,PH,1358,NUV,,Kayapa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347420,3709,174,PH,1358,NUV,,Solano,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347421,3711,174,PH,1358,NUV,,Bagabag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347422,3712,174,PH,1358,NUV,,Diadi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347423,3713,174,PH,1358,NUV,,Quezon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347424,3714,174,PH,1358,NUV,,Alfonso Castañeda,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347425,3800,174,PH,1312,KAL,,Tabuk City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347426,3801,174,PH,1312,KAL,,Balbalan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347427,3802,174,PH,1312,KAL,,Lubuagan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347428,3803,174,PH,1312,KAL,,Pasil,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347429,3804,174,PH,1312,KAL,,Tinglayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347430,3805,174,PH,1312,KAL,,Tanudan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347431,3806,174,PH,1312,KAL,,Pinukpok,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347432,3807,174,PH,1334,APA,,Conner,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347433,3808,174,PH,1312,KAL,,Rizal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347434,3809,174,PH,1334,APA,,Kabugao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347435,3810,174,PH,1334,APA,,Flora,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347436,3811,174,PH,1334,APA,,Santa Marcela,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347437,3812,174,PH,1334,APA,,Pudtol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347438,3813,174,PH,1334,APA,,Luna,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347439,3814,174,PH,1334,APA,,Calanasan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347440,3900,174,PH,1352,BTN,,Basco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347441,3901,174,PH,1352,BTN,,Mahatao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347442,3902,174,PH,1352,BTN,,Ivana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347443,3903,174,PH,1352,BTN,,Uyugan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347444,3904,174,PH,1352,BTN,,Sabtang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347445,3905,174,PH,1352,BTN,,Itbayat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347446,4000,174,PH,1328,LAG,,San Pablo City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347447,4001,174,PH,1328,LAG,,Alaminos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347448,4002,174,PH,1328,LAG,,Nagcarlan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347449,4003,174,PH,1328,LAG,,Rizal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347450,4004,174,PH,1328,LAG,,Liliw,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347451,4005,174,PH,1328,LAG,,Majayjay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347452,4006,174,PH,1328,LAG,,Botocan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347453,4007,174,PH,1328,LAG,,Magdalena,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347454,4008,174,PH,1328,LAG,,Pagsanjan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347455,4009,174,PH,1328,LAG,,Sta. Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347456,4010,174,PH,1328,LAG,,Pila,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347457,4011,174,PH,1328,LAG,,Victoria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347458,4012,174,PH,1328,LAG,,Caluan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347459,4013,174,PH,1328,LAG,,Cavinti,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347460,4014,174,PH,1328,LAG,,Lumban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347461,4015,174,PH,1328,LAG,,Kalayaan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347462,4016,174,PH,1328,LAG,,Paete,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347463,4017,174,PH,1328,LAG,,Pakil,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347464,4018,174,PH,1328,LAG,,Pangil,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347465,4019,174,PH,1328,LAG,,Siniloan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347466,4020,174,PH,1328,LAG,,Mabitac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347467,4021,174,PH,1328,LAG,,Famy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347468,4022,174,PH,1328,LAG,,Sta. Maria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347469,4023,174,PH,1328,LAG,,San Pedro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347470,4024,174,PH,1328,LAG,,Biñan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347471,4025,174,PH,1328,LAG,,Cabuyao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347472,4026,174,PH,1328,LAG,,Sta. Rosa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347473,4027,174,PH,1328,LAG,,Calamba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347474,4030,174,PH,1328,LAG,,Los Baños,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347475,4031,174,PH,1328,LAG,,College Los Baños,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347476,4032,174,PH,1328,LAG,,Luisiana,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347477,4033,174,PH,1328,LAG,,Bay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347478,4034,174,PH,1328,LAG,,Laguna Technopark,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347479,4100,174,PH,1307,CAV,,Cavite City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347480,4102,174,PH,1307,CAV,,Bacoor,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347481,4103,174,PH,1307,CAV,,Imus,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347482,4104,174,PH,1307,CAV,,Kawit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347483,4105,174,PH,1307,CAV,,Noveleta,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347484,4106,174,PH,1307,CAV,,Rosario,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347485,4107,174,PH,1307,CAV,,Gen. Trias,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347486,4108,174,PH,1307,CAV,,Tanza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347487,4109,174,PH,1307,CAV,,Trece Martirez City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347488,4110,174,PH,1307,CAV,,Naic,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347489,4111,174,PH,1307,CAV,,Ternate,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347490,4112,174,PH,1307,CAV,,Maragondon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347491,4113,174,PH,1307,CAV,,Magallanes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347492,4114,174,PH,1307,CAV,,Dasmariñas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347493,4115,174,PH,1307,CAV,,Dasmariñas Resettlement Area,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347494,4116,174,PH,1307,CAV,,Carmona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347495,4117,174,PH,1307,CAV,,Gen. Mariano Alvarez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347496,4118,174,PH,1307,CAV,,Silang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347497,4119,174,PH,1307,CAV,,Amadeo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347498,4120,174,PH,1307,CAV,,Tagaytay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347499,4121,174,PH,1307,CAV,,Mendez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347500,4122,174,PH,1307,CAV,,Indang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347501,4123,174,PH,1307,CAV,,Alfonso,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347502,4124,174,PH,1307,CAV,,Gen. Aguinaldo (Bailen),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347503,4135,174,PH,1307,CAV,,Molino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347504,4200,174,PH,1359,BTG,,Batangas City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347505,4201,174,PH,1359,BTG,,Bauan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347506,4202,174,PH,1359,BTG,,Mabini,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347507,4203,174,PH,1359,BTG,,Tingloy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347508,4204,174,PH,1359,BTG,,San Pascual,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347509,4205,174,PH,1359,BTG,,Alitagtag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347510,4206,174,PH,1359,BTG,,Sta. Teresita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347511,4207,174,PH,1359,BTG,,San Nicolas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347512,4208,174,PH,1359,BTG,,Taal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347513,4209,174,PH,1359,BTG,,Lemery,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347514,4210,174,PH,1359,BTG,,San Luis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347515,4211,174,PH,1359,BTG,,Agoncillo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347516,4212,174,PH,1359,BTG,,Calaca,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347517,4213,174,PH,1359,BTG,,Balayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347518,4214,174,PH,1359,BTG,,Tuy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347519,4215,174,PH,1359,BTG,,Calatagan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347520,4216,174,PH,1359,BTG,,Lian,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347521,4217,174,PH,1359,BTG,,Lipa City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347522,4218,174,PH,1359,BTG,,Fernando Airbase,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347523,4219,174,PH,1359,BTG,,Balete,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347524,4220,174,PH,1359,BTG,,Talisay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347525,4221,174,PH,1359,BTG,,Laurel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347526,4222,174,PH,1359,BTG,,Cuenca,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347527,4223,174,PH,1359,BTG,,Mataas na Kahoy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347528,4224,174,PH,1359,BTG,,Padre Garcia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347529,4225,174,PH,1359,BTG,,Rosario,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347530,4226,174,PH,1359,BTG,,San Juan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347531,4227,174,PH,1359,BTG,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347532,4228,174,PH,1359,BTG,,Taysan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347533,4229,174,PH,1359,BTG,,Lobo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347534,4230,174,PH,1359,BTG,,Ibaan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347535,4231,174,PH,1359,BTG,,Nasugbu,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347536,4232,174,PH,1359,BTG,,Tanauan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347537,4233,174,PH,1359,BTG,,Malvar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347538,4234,174,PH,1359,BTG,,Sto. Tomas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347539,4300,174,PH,1275,QUE,,Quezon Capitol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347540,4301,174,PH,1275,QUE,,Lucena City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347541,4302,174,PH,1275,QUE,,Pagbilao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347542,4303,174,PH,1275,QUE,,Padre Burgos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347543,4304,174,PH,1275,QUE,,Agdangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347544,4305,174,PH,1275,QUE,,Unisan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347545,4306,174,PH,1275,QUE,,Plaridel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347546,4307,174,PH,1275,QUE,,Gumaca,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347547,4308,174,PH,1275,QUE,,Pitogo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347548,4309,174,PH,1275,QUE,,Macalelon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347549,4310,174,PH,1275,QUE,,General Luna,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347550,4311,174,PH,1275,QUE,,Catanauan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347551,4312,174,PH,1275,QUE,,Mulanay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347552,4313,174,PH,1275,QUE,,San Narciso,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347553,4314,174,PH,1275,QUE,,San Andres,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347554,4315,174,PH,1275,QUE,,San Francisco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347555,4316,174,PH,1275,QUE,,Lopez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347556,4317,174,PH,1275,QUE,,Hondagua,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347557,4318,174,PH,1275,QUE,,Calauag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347558,4319,174,PH,1275,QUE,,Guinayangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347559,4320,174,PH,1275,QUE,,Buenavista,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347560,4321,174,PH,1275,QUE,,Tagkawayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347561,4322,174,PH,1275,QUE,,Sariaya,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347562,4323,174,PH,1275,QUE,,Candelaria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347563,4324,174,PH,1275,QUE,,San Antonio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347564,4325,174,PH,1275,QUE,,Tiaong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347565,4326,174,PH,1275,QUE,,Dolores,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347566,4327,174,PH,1275,QUE,,Tayabas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347567,4328,174,PH,1275,QUE,,Lucban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347568,4329,174,PH,1275,QUE,,Sampaloc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347569,4330,174,PH,1275,QUE,,Mauban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347570,4331,174,PH,1275,QUE,,Atimonan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347571,4332,174,PH,1275,QUE,,Quezon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347572,4333,174,PH,1275,QUE,,Alabat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347573,4334,174,PH,1275,QUE,,Perez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347574,4335,174,PH,1275,QUE,,Real,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347575,4336,174,PH,1275,QUE,,Infanta,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347576,4337,174,PH,1275,QUE,,Panukulan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347577,4338,174,PH,1275,QUE,,General Nakar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347578,4339,174,PH,1275,QUE,,Polilio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347579,4340,174,PH,1275,QUE,,Burdeos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347580,4341,174,PH,1275,QUE,,Patnanungan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347581,4342,174,PH,1275,QUE,,Jomalig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347582,4400,174,PH,1287,CAS,,Naga City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347583,4401,174,PH,1287,CAS,,Camaligan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347584,4402,174,PH,1287,CAS,,Canaman,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347585,4403,174,PH,1287,CAS,,Magarao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347586,4404,174,PH,1287,CAS,,Bombon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347587,4405,174,PH,1287,CAS,,Calabanga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347588,4406,174,PH,1287,CAS,,Cabusao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347589,4407,174,PH,1287,CAS,,Libmanan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347590,4408,174,PH,1287,CAS,,Sipocot,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347591,4409,174,PH,1287,CAS,,Lupi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347592,4410,174,PH,1287,CAS,,Ragay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347593,4411,174,PH,1287,CAS,,Del Gallego,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347594,4412,174,PH,1287,CAS,,Gainza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347595,4413,174,PH,1287,CAS,,Milaor,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347596,4414,174,PH,1287,CAS,,Minalabac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347597,4415,174,PH,1287,CAS,,San Fernando,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347598,4416,174,PH,1287,CAS,,Pamplona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347599,4417,174,PH,1287,CAS,,Pasacao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347600,4418,174,PH,1287,CAS,,Pili,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347601,4419,174,PH,1287,CAS,,Ocampo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347602,4420,174,PH,1287,CAS,,Tigaon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347603,4421,174,PH,1287,CAS,,Sagnay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347604,4422,174,PH,1287,CAS,,Goa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347605,4423,174,PH,1287,CAS,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347606,4424,174,PH,1287,CAS,,Presentacion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347607,4425,174,PH,1287,CAS,,Lagonoy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347608,4426,174,PH,1287,CAS,,Tinambac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347609,4427,174,PH,1287,CAS,,Siruma,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347610,4428,174,PH,1287,CAS,,Garchitorena,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347611,4429,174,PH,1287,CAS,,Caramoan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347612,4430,174,PH,1287,CAS,,Bula,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347613,4431,174,PH,1287,CAS,,Iriga City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347614,4432,174,PH,1287,CAS,,Baao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347615,4433,174,PH,1287,CAS,,Buhi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347616,4434,174,PH,1287,CAS,,Nabua,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347617,4435,174,PH,1287,CAS,,Bato,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347618,4436,174,PH,1287,CAS,,Balatan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347619,4500,174,PH,1337,ALB,,Legazpi City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347620,4501,174,PH,1337,ALB,,Daraga (Locsin),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347621,4502,174,PH,1337,ALB,,Camalig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347622,4503,174,PH,1337,ALB,,Guinobatan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347623,4504,174,PH,1337,ALB,,Ligao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347624,4505,174,PH,1337,ALB,,Oas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347625,4506,174,PH,1337,ALB,,Polangui,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347626,4507,174,PH,1337,ALB,,Libon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347627,4508,174,PH,1337,ALB,,Sto. Domingo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347628,4509,174,PH,1337,ALB,,Bacacay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347629,4510,174,PH,1337,ALB,,Malilipot,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347630,4511,174,PH,1337,ALB,,Tabaco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347631,4512,174,PH,1337,ALB,,Malinao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347632,4513,174,PH,1337,ALB,,Tiwi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347633,4514,174,PH,1337,ALB,,Manito,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347634,4515,174,PH,1337,ALB,,Jovellar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347635,4516,174,PH,1337,ALB,,Pio Duran (Malacbalac),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347636,4517,174,PH,1337,ALB,,Rapu-Rapu,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347637,4600,174,PH,1283,CAN,,Daet,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347638,4601,174,PH,1283,CAN,,Mercedes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347639,4602,174,PH,1283,CAN,,Talisay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347640,4603,174,PH,1283,CAN,,Vinzons,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347641,4604,174,PH,1283,CAN,,Labo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347642,4605,174,PH,1283,CAN,,Paracale,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347643,4606,174,PH,1283,CAN,,Jose Panganiban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347644,4607,174,PH,1283,CAN,,Capalonga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347645,4608,174,PH,1283,CAN,,Basud,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347646,4609,174,PH,1283,CAN,,San Vicente,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347647,4610,174,PH,1283,CAN,,San Lorenzo Ruiz (formerly Imelda),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347648,4611,174,PH,1283,CAN,,Sta. Elena,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347649,4612,174,PH,1283,CAN,,Tulay na Lupa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347650,4700,174,PH,1281,SOR,,Sorsogon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347651,4701,174,PH,1281,SOR,,Bacon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347652,4702,174,PH,1281,SOR,,Casiguran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347653,4703,174,PH,1281,SOR,,Juban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347654,4704,174,PH,1281,SOR,,Bulusan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347655,4705,174,PH,1281,SOR,,Magallanes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347656,4706,174,PH,1281,SOR,,Bulan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347657,4707,174,PH,1281,SOR,,Irosin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347658,4708,174,PH,1281,SOR,,Matnog,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347659,4709,174,PH,1281,SOR,,Sta. Magdalena,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347660,4710,174,PH,1281,SOR,,Gubat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347661,4711,174,PH,1281,SOR,,Prieto Diaz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347662,4712,174,PH,1281,SOR,,Barcelona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347663,4713,174,PH,1281,SOR,,Castilla,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347664,4714,174,PH,1281,SOR,,Pilar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347665,4715,174,PH,1281,SOR,,Donsol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347666,4800,174,PH,1301,CAT,,Virac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347667,4801,174,PH,1301,CAT,,Bato,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347668,4802,174,PH,1301,CAT,,San Miguel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347669,4803,174,PH,1301,CAT,,Baras,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347670,4804,174,PH,1301,CAT,,Gigmoto,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347671,4805,174,PH,1301,CAT,,Viga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347672,4806,174,PH,1301,CAT,,Panganiban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347673,4807,174,PH,1301,CAT,,Bagamanoc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347674,4808,174,PH,1301,CAT,,Caramoran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347675,4809,174,PH,1301,CAT,,Pandan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347676,4810,174,PH,1301,CAT,,San Andres,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347677,4900,174,PH,1329,MAD,,Boac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347678,4901,174,PH,1329,MAD,,Mogpog,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347679,4902,174,PH,1329,MAD,,Sta. Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347680,4903,174,PH,1329,MAD,,Torrijos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347681,4904,174,PH,1329,MAD,,Buenavista,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347682,4905,174,PH,1329,MAD,,Gasan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347683,5100,174,PH,1356,MDC,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347684,5101,174,PH,1356,MDC,,Magsaysay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347685,5102,174,PH,1356,MDC,,Calintaan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347686,5103,174,PH,1356,MDC,,Rizal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347687,5104,174,PH,1356,MDC,,Sablayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347688,5105,174,PH,1356,MDC,,Sta. Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347689,5106,174,PH,1356,MDC,,Mamburao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347690,5107,174,PH,1356,MDC,,Palauan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347691,5108,174,PH,1356,MDC,,Abra de Ilog,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347692,5109,174,PH,1356,MDC,,Lubang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347693,5110,174,PH,1356,MDC,,Tilik,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347694,5111,174,PH,1356,MDC,,Looc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347695,5200,174,PH,1354,MDR,,Calapan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347696,5201,174,PH,1354,MDR,,Baco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347697,5202,174,PH,1354,MDR,,San Teodoro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347698,5203,174,PH,1354,MDR,,Puerto Galera,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347699,5204,174,PH,1354,MDR,,Naujan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347700,5205,174,PH,1354,MDR,,Victoria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347701,5206,174,PH,1354,MDR,,Pola,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347702,5207,174,PH,1354,MDR,,Socorro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347703,5208,174,PH,1354,MDR,,Pinamalayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347704,5209,174,PH,1354,MDR,,Gloria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347705,5210,174,PH,1354,MDR,,Bansud,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347706,5211,174,PH,1354,MDR,,Bongabong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347707,5212,174,PH,1354,MDR,,Roxas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347708,5213,174,PH,1354,MDR,,Mansalay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347709,5214,174,PH,1354,MDR,,Bulalacao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347710,5300,174,PH,1361,PLW,,Puerto Princesa City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347711,5301,174,PH,1361,PLW,,Iwahig Penal Colony,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347712,5302,174,PH,1361,PLW,,Aborlan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347713,5303,174,PH,1361,PLW,,Narra (Panacan),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347714,5304,174,PH,1361,PLW,,Quezon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347715,5305,174,PH,1361,PLW,,Brooke's Point,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347716,5306,174,PH,1361,PLW,,Batazara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347717,5307,174,PH,1361,PLW,,Balabac,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347718,5308,174,PH,1361,PLW,,Roxas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347719,5309,174,PH,1361,PLW,,San Vicente,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347720,5310,174,PH,1361,PLW,,Dumaran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347721,5311,174,PH,1361,PLW,,Araceli,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347722,5312,174,PH,1361,PLW,,Taytay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347723,5313,174,PH,1361,PLW,,El Nido (Baquit),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347724,5314,174,PH,1361,PLW,,Linapacan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347725,5315,174,PH,1361,PLW,,Culion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347726,5316,174,PH,1361,PLW,,Coron,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347727,5317,174,PH,1361,PLW,,Busuanga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347728,5318,174,PH,1361,PLW,,Cuyo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347729,5319,174,PH,1361,PLW,,Magsaysay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347730,5320,174,PH,1361,PLW,,Agutaya,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347731,5321,174,PH,1361,PLW,,Cagayancillo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347732,5322,174,PH,1361,PLW,,Kalayaan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347733,5323,174,PH,1361,PLW,,Rizal (Marcos),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347734,5324,174,PH,1361,PLW,,Sofronio Española,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347735,5400,174,PH,1338,MAS,,Masbate,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347736,5401,174,PH,1338,MAS,,Mobo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347737,5402,174,PH,1338,MAS,,Uson,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347738,5403,174,PH,1338,MAS,,Dimasalang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347739,5404,174,PH,1338,MAS,,Palanas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347740,5405,174,PH,1338,MAS,,Cataingan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347741,5406,174,PH,1338,MAS,,Pio V. Corpuz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347742,5407,174,PH,1338,MAS,,Esperanza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347743,5408,174,PH,1338,MAS,,Placer,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347744,5409,174,PH,1338,MAS,,Cawayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347745,5410,174,PH,1338,MAS,,Milagros,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347746,5411,174,PH,1338,MAS,,Mandaon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347747,5412,174,PH,1338,MAS,,Balud,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347748,5413,174,PH,1338,MAS,,Baleno,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347749,5414,174,PH,1338,MAS,,Aroroy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347750,5415,174,PH,1338,MAS,,Batuan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347751,5416,174,PH,1338,MAS,,San Fernando,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347752,5417,174,PH,1338,MAS,,San Jacinto,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347753,5418,174,PH,1338,MAS,,Monreal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347754,5419,174,PH,1338,MAS,,Claveria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347755,5420,174,PH,1338,MAS,,San Pascual,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347756,5500,174,PH,1269,ROM,,Romblon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347757,5501,174,PH,1269,ROM,,San Agustin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347758,5502,174,PH,1269,ROM,,Sta. Maria (formerly Imelda),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347759,5503,174,PH,1269,ROM,,Calatrava,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347760,5504,174,PH,1269,ROM,,San Andres,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347761,5505,174,PH,1269,ROM,,Odiongan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347762,5506,174,PH,1269,ROM,,Ferrol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347763,5507,174,PH,1269,ROM,,Looc,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347764,5508,174,PH,1269,ROM,,Sta. Fe,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347765,5509,174,PH,1269,ROM,,Alcantara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347766,5510,174,PH,1269,ROM,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347767,5511,174,PH,1269,ROM,,Magdiwang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347768,5513,174,PH,1269,ROM,,San fernando,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347769,5514,174,PH,1269,ROM,,Corcuera,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347770,5515,174,PH,1269,ROM,,Banton (Jones),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347771,5516,174,PH,1269,ROM,,Concepcion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347772,6700,174,PH,5115,WSA,,Catbalogan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347773,6701,174,PH,5115,WSA,,Jiabong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347774,6702,174,PH,5115,WSA,,Motiong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347775,6703,174,PH,5115,WSA,,Wright,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347776,6704,174,PH,5115,WSA,,Tarangnan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347777,6705,174,PH,5115,WSA,,Pagsanghan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347778,6706,174,PH,5115,WSA,,Gandara,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347779,6707,174,PH,5115,WSA,,San Jorge,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347780,6708,174,PH,5115,WSA,,Matuguinao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347781,6709,174,PH,5115,WSA,,Sta. Margarita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347782,6710,174,PH,5115,WSA,,Calbayog City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347783,6711,174,PH,5115,WSA,,Sto. Niño,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347784,6712,174,PH,5115,WSA,,Tagapul-an,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347785,6713,174,PH,5115,WSA,,Hinabangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347786,6714,174,PH,5115,WSA,,San Sebastian,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347787,6715,174,PH,5115,WSA,,Calbiga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347788,6716,174,PH,5115,WSA,,Pinabacdao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347789,6717,174,PH,5115,WSA,,Villareal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347790,6718,174,PH,5115,WSA,,Sta. Rita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347791,6719,174,PH,5115,WSA,,Talalora,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347792,6720,174,PH,5115,WSA,,Basey,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347793,6721,174,PH,5115,WSA,,Marabut,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347794,6722,174,PH,5115,WSA,,Daram,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347795,6723,174,PH,5115,WSA,,San Jose de Buan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347796,6724,174,PH,5115,WSA,,Almagro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347797,6725,174,PH,5115,WSA,,Zumarraga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347798,7200,174,PH,1343,MSC,,Ozamis City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347799,7201,174,PH,1343,MSC,,Clarin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347800,7202,174,PH,1343,MSC,,Tudela,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347801,7203,174,PH,1343,MSC,,Sinacaban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347802,7204,174,PH,1343,MSC,,Jimenez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347803,7205,174,PH,1343,MSC,,Panaon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347804,7206,174,PH,1343,MSC,,Aloran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347805,7207,174,PH,1343,MSC,,Oroquieta City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347806,7208,174,PH,1343,MSC,,Lopez Jaena,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347807,7209,174,PH,1343,MSC,,Plaridel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347808,7210,174,PH,1343,MSC,,Calamba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347809,7211,174,PH,1343,MSC,,Baliangao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347810,7212,174,PH,1341,AUR,,Sapang dalaga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347811,7213,174,PH,1343,MSC,,Concepcion,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347812,7214,174,PH,1343,MSC,,Tangub City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347813,7215,174,PH,1343,MSC,,Bonifacio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347814,7216,174,PH,1343,MSC,,Don Victoriano Chiongbian,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347815,8000,174,PH,1318,DAS,,Davao City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347816,8001,174,PH,1318,DAS,,Santa Cruz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347817,8002,174,PH,1318,DAS,,Digos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347818,8003,174,PH,1318,DAS,,Matanao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347819,8004,174,PH,1318,DAS,,Magsaysay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347820,8005,174,PH,1318,DAS,,Bansalan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347821,8006,174,PH,1318,DAS,,Hagonoy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347822,8007,174,PH,1318,DAS,,Padada,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347823,8008,174,PH,1318,DAS,,Kiblawan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347824,8009,174,PH,1318,DAS,,Sulop,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347825,8010,174,PH,1318,DAS,,Malalag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347826,8011,174,PH,1309,DVO,,Santa Maria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347827,8012,174,PH,1309,DVO,,Malita,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347828,8013,174,PH,1309,DVO,,Don Marcelino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347829,8014,174,PH,1309,DVO,,Jose Abad Santos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347830,8015,174,PH,1309,DVO,,Sarangani,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347831,8016,174,PH,1318,DAS,,Ateneo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347832,8017,174,PH,1318,DAS,,Bunawan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347833,8018,174,PH,1318,DAS,,Calinan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347834,8019,174,PH,1318,DAS,,Davao International Airport,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347835,8020,174,PH,1318,DAS,,Mandug,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347836,8021,174,PH,1318,DAS,,Matina,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347837,8022,174,PH,1318,DAS,,Mintal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347838,8023,174,PH,1318,DAS,,Talomo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347839,8024,174,PH,1318,DAS,,Tibungco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347840,8025,174,PH,1318,DAS,,Toril,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347841,8026,174,PH,1318,DAS,,University of Mindanao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347842,8100,174,PH,1319,DAV,,Tagum,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347843,8101,174,PH,1319,DAV,,Carmen,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347844,8102,174,PH,1319,DAV,,Asuncion (formerly Saug),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347845,8104,174,PH,1319,DAV,,New Corella,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347846,8105,174,PH,1319,DAV,,Panabo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347847,8106,174,PH,1319,DAV,,Braulio E. Dujali,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347848,8107,174,PH,1319,DAV,,Talaingod,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347849,8112,174,PH,1319,DAV,,Santo Tomas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347850,8113,174,PH,1319,DAV,,Kapalong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347851,8118,174,PH,1319,DAV,,Babak,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347852,8119,174,PH,1319,DAV,,Samal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347853,8120,174,PH,1319,DAV,,Kaputian,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347854,8121,174,PH,1319,DAV,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347855,8200,174,PH,1289,DAO,,Mati,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347856,8201,174,PH,1289,DAO,,Tarragona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347857,8202,174,PH,1289,DAO,,Manay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347858,8203,174,PH,1289,DAO,,Caraga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347859,8204,174,PH,1289,DAO,,Baganga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347860,8205,174,PH,1289,DAO,,Cateel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347861,8206,174,PH,1289,DAO,,Boston,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347862,8207,174,PH,1289,DAO,,Lupon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347863,8208,174,PH,1289,DAO,,Banaybanay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347864,8209,174,PH,1289,DAO,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347865,8210,174,PH,1289,DAO,,Gov. Generoso,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347866,8300,174,PH,1296,SUR,,Tandag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347867,8301,174,PH,1296,SUR,,San Miguel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347868,8302,174,PH,1296,SUR,,Tago,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347869,8303,174,PH,1296,SUR,,Bayabas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347870,8304,174,PH,1296,SUR,,Cagwait,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347871,8305,174,PH,1296,SUR,,San Agustin,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347872,8306,174,PH,1296,SUR,,Marihatag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347873,8307,174,PH,1296,SUR,,Lianga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347874,8308,174,PH,1296,SUR,,Tagbina,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347875,8309,174,PH,1296,SUR,,Barobo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347876,8310,174,PH,1296,SUR,,Hinatuan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347877,8311,174,PH,1296,SUR,,Bislig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347878,8312,174,PH,1296,SUR,,Lingig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347879,8313,174,PH,1296,SUR,,Cortez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347880,8314,174,PH,1296,SUR,,Lanuza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347881,8315,174,PH,1286,SUN,,Carmen,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347882,8316,174,PH,1296,SUR,,Madrid,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347883,8317,174,PH,1296,SUR,,Cantilan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347884,8318,174,PH,1296,SUR,,Carrascal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347885,8319,174,PH,1296,SUR,,Malixi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347886,8400,174,PH,1286,SUN,,Surigao City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347887,8401,174,PH,1286,SUN,,San Francisco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347888,8402,174,PH,1286,SUN,,Malimono,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347889,8403,174,PH,1286,SUN,,Tagana-an,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347890,8404,174,PH,1286,SUN,,Sison,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347891,8405,174,PH,1286,SUN,,Placer,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347892,8406,174,PH,1286,SUN,,Tubod,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347893,8407,174,PH,1286,SUN,,Mainit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347894,8408,174,PH,1286,SUN,,Bacuag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347895,8409,174,PH,1286,SUN,,Gigaquit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347896,8410,174,PH,1286,SUN,,Claver,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347897,8411,174,PH,1291,DIN,,Cagdianao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347898,8412,174,PH,1291,DIN,,Dinagat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347899,8413,174,PH,1291,DIN,,Basilisa (formerly Rizal),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347900,8414,174,PH,1291,DIN,,Libjo (formerly Albor,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347901,8415,174,PH,1291,DIN,,Loreto,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347902,8416,174,PH,1286,SUN,,Socorro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347903,8417,174,PH,1286,SUN,,Dapa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347904,8418,174,PH,1286,SUN,,Del Carmen,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347905,8419,174,PH,1286,SUN,,Gen. Luna,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347906,8420,174,PH,1286,SUN,,Pilar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347907,8421,174,PH,1286,SUN,,San Isidro,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347908,8422,174,PH,1286,SUN,,Sta. Monica,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347909,8423,174,PH,1286,SUN,,San Benito,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347910,8424,174,PH,1286,SUN,,Burgos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347911,8425,174,PH,1286,SUN,,Alegria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347912,8426,174,PH,1291,DIN,,Tubajon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347913,8427,174,PH,1291,DIN,,San Jose,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347914,8500,174,PH,1326,AGS,,Prosperidad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347915,8501,174,PH,1326,AGS,,San Francisco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347916,8502,174,PH,1326,AGS,,Bayugan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347917,8503,174,PH,1326,AGS,,Sibagat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347918,8504,174,PH,1326,AGS,,Rosario,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347919,8505,174,PH,1326,AGS,,Trento,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347920,8506,174,PH,1326,AGS,,Bunawan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347921,8507,174,PH,1326,AGS,,Loreto,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347922,8508,174,PH,1326,AGS,,La Paz,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347923,8509,174,PH,1326,AGS,,Veruela,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347924,8510,174,PH,1326,AGS,,Talacogon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347925,8511,174,PH,1326,AGS,,San Luis,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347926,8512,174,PH,1326,AGS,,Sta. Josefa,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347927,8513,174,PH,1326,AGS,,Esperanza,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347928,8600,174,PH,1323,AGN,,Butuan City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347929,8601,174,PH,1323,AGN,,Buenavista,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347930,8602,174,PH,1323,AGN,,Nasipit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347931,8603,174,PH,1323,AGN,,Carmen,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347932,8604,174,PH,1323,AGN,,Magallanes,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347933,8605,174,PH,1323,AGN,,Cabadbaran,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347934,8606,174,PH,1323,AGN,,Tubay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347935,8607,174,PH,1323,AGN,,Jabonga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347936,8608,174,PH,1323,AGN,,Santiago,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347937,8609,174,PH,1323,AGN,,Kitcharao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347938,8610,174,PH,1323,AGN,,Las Nieves,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347939,8611,174,PH,1323,AGN,,Remedios T. Romualdez,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347940,8700,174,PH,1270,BUK,,Malaybalay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347941,8701,174,PH,1270,BUK,,Sumilao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347942,8703,174,PH,1270,BUK,,Manolo Fortich,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347943,8704,174,PH,1270,BUK,,Malitbog,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347944,8705,174,PH,1270,BUK,,Phillips,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347945,8706,174,PH,1270,BUK,,Libona,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347946,8708,174,PH,1270,BUK,,Talakag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347947,8709,174,PH,1270,BUK,,Valencia,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347948,8710,174,PH,1270,BUK,,Musuan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347949,8711,174,PH,1270,BUK,,San Fernando,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347950,8714,174,PH,1270,BUK,,Maramag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347951,8715,174,PH,1270,BUK,,Quezon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347952,8716,174,PH,1323,AGN,,Kitaotao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347953,8717,174,PH,1270,BUK,,Pangantucan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347954,8722,174,PH,1323,AGN,,Lantapan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347955,8800,174,PH,1311,COM,,Nabunturan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347956,8801,174,PH,1311,COM,,Montevista,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347957,8802,174,PH,1311,COM,,Mawab,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347958,8803,174,PH,1311,COM,,Compostela,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347959,8804,174,PH,1311,COM,,New Bataan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347960,8805,174,PH,1311,COM,,Monkayo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347961,8806,174,PH,1311,COM,,Maco,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347962,8807,174,PH,1311,COM,,Mabini,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347963,8808,174,PH,1311,COM,,Maragusan (formerly San Mariano),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347964,8809,174,PH,1311,COM,,Pantukan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347965,8810,174,PH,1311,COM,,Laak (formerly San Vicente),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347966,9000,174,PH,1348,MSR,,Cagayan de Oro City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347967,9001,174,PH,1341,AUR,,Tagoloan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347968,9002,174,PH,1348,MSR,,Villanueva,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347969,9003,174,PH,1348,MSR,,Jasaan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347970,9004,174,PH,1348,MSR,,Claveria,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347971,9005,174,PH,1348,MSR,,Balingasag,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347972,9006,174,PH,1348,MSR,,Lagonglong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347973,9007,174,PH,1348,MSR,,Salay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347974,9008,174,PH,1348,MSR,,Binuangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347975,9009,174,PH,1348,MSR,,Sugbongcogon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347976,9010,174,PH,1348,MSR,,Kinoguitan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347977,9011,174,PH,1348,MSR,,Balingoan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347978,9012,174,PH,1348,MSR,,Talisayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347979,9013,174,PH,1348,MSR,,Medina,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347980,9014,174,PH,1348,MSR,,Gingoog City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347981,9015,174,PH,1348,MSR,,Magsaysay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347982,9016,174,PH,1348,MSR,,Opol,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347983,9017,174,PH,1348,MSR,,El Salvador,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347984,9018,174,PH,1348,MSR,,Alubijid,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347985,9019,174,PH,1348,MSR,,Laguindingan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347986,9020,174,PH,1348,MSR,,Gitagum,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347987,9021,174,PH,1348,MSR,,Libertad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347988,9022,174,PH,1348,MSR,,Initao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347989,9023,174,PH,1348,MSR,,Naawan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347990,9024,174,PH,1348,MSR,,Manticao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347991,9025,174,PH,1348,MSR,,Lugait,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347992,9100,174,PH,1285,CAM,,Mambajao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347993,9101,174,PH,1285,CAM,,Mahinog,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347994,9102,174,PH,1285,CAM,,Guinsiliban,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347995,9103,174,PH,1285,CAM,,Sagay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347996,9104,174,PH,1285,CAM,,Catarman,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347997,9200,174,PH,1327,LAN,,Iligan City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347998,9201,174,PH,1327,LAN,,Linamon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+347999,9202,174,PH,1327,LAN,,Kauswagan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348000,9203,174,PH,1327,LAN,,Matungao,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348001,9204,174,PH,1327,LAN,,Poona Piagapo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348002,9205,174,PH,1327,LAN,,Bacolod,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348003,9206,174,PH,1327,LAN,,Maigo,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348004,9207,174,PH,1327,LAN,,Kolambugan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348005,9208,174,PH,1327,LAN,,Pantao Ragat,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348006,9209,174,PH,1327,LAN,,Tubod,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348007,9210,174,PH,1327,LAN,,Baroy,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348008,9211,174,PH,1327,LAN,,Lala,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348009,9212,174,PH,1327,LAN,,Salvador,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348010,9213,174,PH,1327,LAN,,Sapad,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348011,9214,174,PH,1327,LAN,,Kapatagan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348012,9215,174,PH,1327,LAN,,Sultan Naga Dimaporo (formerly Karomatan),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348013,9216,174,PH,1327,LAN,,Nunungan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348014,9217,174,PH,1327,LAN,,Baloi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348015,9218,174,PH,1327,LAN,,Pantar,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348016,9219,174,PH,1327,LAN,,Munai,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348017,9220,174,PH,1327,LAN,,Tangcal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348018,9221,174,PH,1327,LAN,,Magsaysay,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348019,9222,174,PH,1327,LAN,,Tagoloan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348020,9400,174,PH,1320,NCO,,Kidapawan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348021,9401,174,PH,1320,NCO,,Makilala,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348022,9402,174,PH,1320,NCO,,M'lang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348023,9403,174,PH,1320,NCO,,Tulunan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348024,9404,174,PH,1320,NCO,,Magpet,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348025,9405,174,PH,1320,NCO,,Pre. Roxas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348026,9406,174,PH,1320,NCO,,Matalam,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348027,9407,174,PH,1320,NCO,,Kabacan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348028,9408,174,PH,1320,NCO,,Carmen,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348029,9409,174,PH,1320,NCO,,Pikit,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348030,9410,174,PH,1320,NCO,,Midsayap,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348031,9411,174,PH,1320,NCO,,Libungan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348032,9412,174,PH,1320,NCO,,Pigkawayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348033,9413,174,PH,1320,NCO,,Alamada,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348034,9414,174,PH,1320,NCO,,Antipas,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348035,9415,174,PH,1320,NCO,,Aleosan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348036,9416,174,PH,1320,NCO,,Banisilan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348037,9417,174,PH,1320,NCO,,Arakan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348038,9500,174,PH,1280,SCO,,Gen. Santos City,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348039,9501,174,PH,1277,SAR,,Alabel,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348040,9502,174,PH,1277,SAR,,Maasim,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348041,9503,174,PH,1277,SAR,,Malungon,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348042,9504,174,PH,1280,SCO,,Polomolok,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348043,9505,174,PH,1280,SCO,,Tupi,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348044,9506,174,PH,1280,SCO,,Koronadal,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348045,9507,174,PH,1280,SCO,,Tampakan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348046,9508,174,PH,1280,SCO,,Norala,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348047,9509,174,PH,1280,SCO,,Sto. Niño,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348048,9510,174,PH,1280,SCO,,Tantangan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348049,9511,174,PH,1280,SCO,,Banga,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348050,9512,174,PH,1280,SCO,,Surallah,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348051,9513,174,PH,1323,AGN,,T'boli,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348052,9514,174,PH,1323,AGN,,Kiamba,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348053,9515,174,PH,1277,SAR,,Maitum,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348054,9516,174,PH,1277,SAR,,Malapatan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348055,9517,174,PH,1277,SAR,,Glan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348056,9518,174,PH,1280,SCO,,Lake Sebu,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348057,9800,174,PH,1282,SUK,,Tacurong,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348058,9801,174,PH,1282,SUK,,Columbio,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348059,9802,174,PH,1282,SUK,,Mariano Marcos,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348060,9803,174,PH,1282,SUK,,Lutayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348061,9804,174,PH,1282,SUK,,Pres. Quirino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348062,9805,174,PH,1282,SUK,,Isulan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348063,9806,174,PH,1282,SUK,,Esperanza (Ampatuan),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348064,9807,174,PH,1282,SUK,,Lebak (Salaman),full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348065,9808,174,PH,1282,SUK,,Kalamansig,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348066,9809,174,PH,1282,SUK,,Palimbang,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348067,9810,174,PH,1282,SUK,,Bagumbayan,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1
+348068,9811,174,PH,1282,SUK,,Sen. Ninoy Aquino,full,,,phlpost-via-jayson-panganiban,,2026-04-28T06:49:10,2026-04-28T06:49:10,1

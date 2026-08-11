@@ -1,0 +1,12 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+660439,CR 01,25,BM,,,,Hamilton city centre (CR),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660440,DD 01,25,BM,,,,Devonshire (DV),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660441,FL 01,25,BM,,,,Sandys Parish (FL),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660442,GE 01,25,BM,,,,St George's Parish (GE),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660443,HM 01,25,BM,,,,Hamilton Parish (HM),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660444,HS 01,25,BM,,,,Hamilton (HM Sandys),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660445,MA 01,25,BM,,,,Pembroke (MA),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660446,PG 01,25,BM,,,,Paget Parish (PG),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660447,SB 01,25,BM,,,,Southampton Parish (SB),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660448,SN 01,25,BM,,,,Smith's Parish (SN),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660449,WK 01,25,BM,,,,Warwick Parish (WK),area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

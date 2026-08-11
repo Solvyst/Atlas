@@ -1,0 +1,6 @@
+id,name,state_id,state_code,country_id,country_code,type,level,parent_id,latitude,longitude,native,population,timezone,translations,created_at,updated_at,flag,wikiDataId
+160552,Forest Parish,5387,02,91,GG,city,,,49.42983000,-2.60168000,,1624,Europe/Guernsey,,2014-01-01T17:31:01,2025-12-02T19:41:07,1,
+160553,Saint Peter Port,5391,06,91,GG,city,,,49.45981000,-2.53527000,,16488,Europe/Guernsey,,2014-01-01T17:31:01,2025-12-02T19:41:07,1,
+160554,Vale Parish,5393,08,91,GG,city,,,49.49440000,-2.51790000,,9646,Europe/Guernsey,,2014-01-01T17:31:01,2025-12-02T19:41:07,1,
+160555,Saint Pierre du Bois Parish,5393,08,91,GG,city,,,49.45399000,-2.63808000,,2001,Europe/Guernsey,,2014-01-01T17:31:01,2025-12-02T19:41:07,1,
+160556,Saint Sampson,5394,09,91,GG,city,,,49.48389000,-2.52333000,,8966,Europe/Guernsey,,2014-01-01T17:31:01,2025-12-02T19:41:07,1,

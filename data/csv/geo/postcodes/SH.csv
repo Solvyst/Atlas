@@ -1,0 +1,4 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+833240,ASCN 1ZZ,184,SH,,,,Ascension Island,full,,,wikipedia-singleton-territory,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833241,STHL 1ZZ,184,SH,,,,Saint Helena,full,,,wikipedia-singleton-territory,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+833242,TDCU 1ZZ,184,SH,,,,Tristan da Cunha,full,,,wikipedia-singleton-territory,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

@@ -1,0 +1,8 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+844236,VG1110,241,VG,,,,"Road Town, Tortola",area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844237,VG1120,241,VG,,,,Tortola,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844238,VG1130,241,VG,,,,Tortola,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844239,VG1140,241,VG,,,,Tortola,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844240,VG1150,241,VG,,,,Virgin Gorda,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844241,VG1160,241,VG,,,,Anegada,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844242,VG1170,241,VG,,,,Jost Van Dyke,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1

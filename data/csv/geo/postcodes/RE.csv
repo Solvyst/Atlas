@@ -1,0 +1,5 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+567185,97400,180,RE,5437,02,,Saint-Denis,full,,,manual,,2026-04-28T06:49:18,2026-04-28T06:49:18,1
+567186,97410,180,RE,5439,04,,Saint-Pierre,full,,,manual,,2026-04-28T06:49:18,2026-04-28T06:49:18,1
+567187,97460,180,RE,5438,03,,Saint-Paul,full,,,manual,,2026-04-28T06:49:18,2026-04-28T06:49:18,1
+567188,97470,180,RE,5436,01,,Saint-Benoit,full,,,manual,,2026-04-28T06:49:18,2026-04-28T06:49:18,1

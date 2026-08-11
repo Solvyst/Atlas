@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: atlaskit-server:local
+    image: solvyst-atlas-server:local
     env_file:
       - .env
     environment:

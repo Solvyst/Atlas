@@ -1,0 +1,971 @@
+{
+  "meta": {
+    "version": "1.1.0",
+    "exportedAt": "2026-08-11T12:10:39.820Z",
+    "exportedUsing": "Solvyst Atlas generated examples"
+  },
+  "records": [
+    {
+      "id": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "name": "Solvyst Atlas - Meta API",
+      "description": "Geography and localization metadata endpoints.",
+      "type": "collection",
+      "parentId": null,
+      "deleted": false,
+      "data": {
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a0"
+    },
+    {
+      "id": "13190b1e-d1be-3928-0b0e-fdc278b99611",
+      "name": "Geo States",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/geo?country=india",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "country",
+              "value": "india",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a01"
+    },
+    {
+      "id": "0c125207-5374-442d-5ff0-5560cc40896e",
+      "name": "Regions",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/regions?search=asia",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "search",
+              "value": "asia",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a02"
+    },
+    {
+      "id": "76d69dde-69e6-e66b-e553-95fb377f09e1",
+      "name": "Countries",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/countries?search=india",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "search",
+              "value": "india",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a03"
+    },
+    {
+      "id": "885f1c01-e467-38f6-d408-37b58f7fdd5b",
+      "name": "States",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/states?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a04"
+    },
+    {
+      "id": "2acca388-e9bb-bf4f-a1e1-ecc987891f11",
+      "name": "Cities",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/cities?search=bhubaneswar",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "search",
+              "value": "bhubaneswar",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a05"
+    },
+    {
+      "id": "a4c7b8a3-8705-6821-87e0-bbec49b25c7b",
+      "name": "Admin Areas",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/admin-areas?countryCode=US&type=county",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "US",
+              "isEnabled": true
+            },
+            {
+              "id": 2,
+              "key": "type",
+              "value": "county",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a06"
+    },
+    {
+      "id": "f389aad9-96d5-4c19-882d-e9454ce806b0",
+      "name": "Localities",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/localities?countryCode=IN&search=bhubaneswar",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            },
+            {
+              "id": 2,
+              "key": "search",
+              "value": "bhubaneswar",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a07"
+    },
+    {
+      "id": "76965f04-277b-55cc-a273-6891a6603f10",
+      "name": "Phone Codes",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/phone-codes?dialCode=%2B91",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "dialCode",
+              "value": "+91",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a08"
+    },
+    {
+      "id": "3bb0f0fb-71dc-26eb-436d-1f3c19c6071e",
+      "name": "Languages",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/languages?code=hi",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "code",
+              "value": "hi",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a09"
+    },
+    {
+      "id": "2582b811-3852-0a08-8e22-fa967b915e51",
+      "name": "Locales",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/locales?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a10"
+    },
+    {
+      "id": "7562745b-def1-b21b-1ca2-4958f74c8831",
+      "name": "Postal Code Rules",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/postal-code-rules?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a11"
+    },
+    {
+      "id": "505ee960-735f-78d6-0f22-bb9a0cb21135",
+      "name": "Phone Number Rules",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/phone-number-rules?dialCode=%2B91",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "dialCode",
+              "value": "+91",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a12"
+    },
+    {
+      "id": "cc40556e-19ee-0b6a-b3b5-8198f47ac8ba",
+      "name": "Address Formats",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/address-formats?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a13"
+    },
+    {
+      "id": "674f9936-4354-1bb3-7b70-308d343c2bd3",
+      "name": "Currencies",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/currencies?search=INR",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "search",
+              "value": "INR",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a14"
+    },
+    {
+      "id": "3971cf76-0d1d-47e9-2ce7-3b6bfe7bc18f",
+      "name": "Timezones",
+      "type": "api",
+      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/meta/timezones?countryId=101",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryId",
+              "value": "101",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "a15"
+    },
+    {
+      "id": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "name": "Solvyst Atlas - Reference API",
+      "description": "Business reference datasets outside the Meta namespace.",
+      "type": "collection",
+      "parentId": null,
+      "deleted": false,
+      "data": {
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b0"
+    },
+    {
+      "id": "50c15c0e-2468-b6b7-a324-e53b12e0e2b2",
+      "name": "Currency Formats",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/currency-formats?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b01"
+    },
+    {
+      "id": "f5404640-4a26-5f0d-9f37-8098559eaf78",
+      "name": "Phone Number Rules",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/phone-number-rules?dialCode=%2B91",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "dialCode",
+              "value": "+91",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b02"
+    },
+    {
+      "id": "c956bdcf-3927-9e60-7643-e2acd7873ec9",
+      "name": "Business Identifiers",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/business-identifiers?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b03"
+    },
+    {
+      "id": "2cfb19ff-f22f-6b85-0b3a-6e0f11628f54",
+      "name": "Banking Rules",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/banking-rules?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b04"
+    },
+    {
+      "id": "94ac00ea-f80e-9b30-012a-e27e74a37a73",
+      "name": "Date-Time Formats",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/date-time-formats?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b05"
+    },
+    {
+      "id": "bb37edb4-06a3-fce7-98de-8f44907207d1",
+      "name": "Company Types",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/company-types?countryCode=IN",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b06"
+    },
+    {
+      "id": "d36ae463-677f-757f-bbab-712009738e39",
+      "name": "Units",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/units?category=mass",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "category",
+              "value": "mass",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b07"
+    },
+    {
+      "id": "d6e9cd12-4c9b-b3af-9d4b-03dc05423923",
+      "name": "Holidays",
+      "type": "api",
+      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "deleted": false,
+      "data": {
+        "type": "http",
+        "request": {
+          "url": "{{BASE_URL}}/api/v1/reference/holidays?countryCode=IN&nationalOnly=true",
+          "method": "GET",
+          "headers": [
+            {
+              "id": 1,
+              "key": "x-api-key",
+              "value": "{{META_API_KEY}}",
+              "isEnabled": true
+            }
+          ],
+          "queryParams": [
+            {
+              "id": 1,
+              "key": "countryCode",
+              "value": "IN",
+              "isEnabled": true
+            },
+            {
+              "id": 2,
+              "key": "nationalOnly",
+              "value": "true",
+              "isEnabled": true
+            }
+          ],
+          "pathVariables": [],
+          "body": {
+            "contentType": "none"
+          },
+          "contentType": "none"
+        },
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b08"
+    }
+  ],
+  "environments": [
+    {
+      "id": "54506abc-d116-5960-0bf7-bb2713b7076a",
+      "name": "Local",
+      "variables": {
+        "BASE_URL": {
+          "syncValue": "http://localhost:3100",
+          "localValue": "",
+          "type": "string"
+        },
+        "META_API_KEY": {
+          "syncValue": "replace-with-your-meta-api-key",
+          "localValue": "",
+          "type": "string"
+        }
+      }
+    }
+  ],
+  "packages": []
+}

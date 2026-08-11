@@ -1,0 +1,10 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+669917,KY1-1000,41,KY,5251,01,,George Town,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669918,KY1-1200,41,KY,5251,01,,Seven Mile Beach,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669919,KY1-1200,41,KY,5251,01,,West Bay,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669920,KY1-1600,41,KY,5251,01,,Bodden Town,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669921,KY1-1700,41,KY,5251,01,,East End,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669922,KY1-1800,41,KY,5251,01,,North Side,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669923,KY2-2000,41,KY,5252,02,,West End,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669924,KY2-2001,41,KY,5252,02,,Spot Bay,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669925,KY3-2500,41,KY,5253,03,,Blossom Village,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

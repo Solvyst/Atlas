@@ -1,0 +1,482 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+84219,10101,53,CR,1214,SJ,,"Carmen, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84220,10102,53,CR,1214,SJ,,"Merced, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84221,10103,53,CR,1214,SJ,,"Hospital, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84222,10104,53,CR,1214,SJ,,"Catedral, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84223,10105,53,CR,1214,SJ,,"Zapote, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84224,10106,53,CR,1214,SJ,,"San Francisco de Dos Ríos, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84225,10107,53,CR,1214,SJ,,"Uruca, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84226,10108,53,CR,1214,SJ,,"Mata Redonda, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84227,10109,53,CR,1214,SJ,,"Pavas, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84228,10110,53,CR,1214,SJ,,"Hatillo, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84229,10111,53,CR,1214,SJ,,"San Sebastian, San José",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84230,10201,53,CR,1214,SJ,,"Escazú, Escazú",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84231,10202,53,CR,1214,SJ,,"San Antonio, Escazú",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84232,10203,53,CR,1214,SJ,,"San Rafael, Escazú",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84233,10301,53,CR,1214,SJ,,"Desamparados, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84234,10302,53,CR,1214,SJ,,"San Miguel, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84235,10303,53,CR,1214,SJ,,"San Juan de Dios, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84236,10304,53,CR,1214,SJ,,"San Rafael Arriba, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84237,10305,53,CR,1214,SJ,,"San Antonio, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84238,10306,53,CR,1214,SJ,,"Frailes, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84239,10307,53,CR,1214,SJ,,"Patarra, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84240,10308,53,CR,1214,SJ,,"San Cristobal, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84241,10309,53,CR,1214,SJ,,"Rosario, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84242,10310,53,CR,1214,SJ,,"Damas, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84243,10311,53,CR,1214,SJ,,"San Rafael Abajo, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84244,10312,53,CR,1214,SJ,,"Gravilias, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84245,10313,53,CR,1214,SJ,,"Los Guido, Desamparados",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84246,10401,53,CR,1214,SJ,,"Santiago, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84247,10402,53,CR,1214,SJ,,"Mercedes Sur, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84248,10403,53,CR,1214,SJ,,"Barbacoas, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84249,10404,53,CR,1214,SJ,,"Grifo Alto, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84250,10405,53,CR,1214,SJ,,"San Rafael, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84251,10406,53,CR,1214,SJ,,"Candelaria, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84252,10407,53,CR,1214,SJ,,"Desamparaditos, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84253,10408,53,CR,1214,SJ,,"San Antonio, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84254,10409,53,CR,1214,SJ,,"Chires, Puriscal",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84255,10501,53,CR,1214,SJ,,"San Marcos, Tarrazu",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84256,10502,53,CR,1214,SJ,,"San Lorenzo, Tarrazu",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84257,10503,53,CR,1214,SJ,,"San Carlos, Tarrazu",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84258,10601,53,CR,1214,SJ,,"Aserrí, Aserrí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84259,10602,53,CR,1214,SJ,,"Tarbaca, Aserrí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84260,10603,53,CR,1214,SJ,,"Vuelta de Jorco, Aserrí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84261,10604,53,CR,1214,SJ,,"San Gabriel, Aserrí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84262,10605,53,CR,1214,SJ,,"Legua, Aserrí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84263,10606,53,CR,1214,SJ,,"Monterrey, Aserrí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84264,10607,53,CR,1214,SJ,,"Salitrillos, Aserrí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84265,10701,53,CR,1214,SJ,,"Colón, Mora",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84266,10702,53,CR,1214,SJ,,"Guayabo, Mora",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84267,10703,53,CR,1214,SJ,,"Tabarcia, Mora",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84268,10704,53,CR,1214,SJ,,"Piedras Negras, Mora",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84269,10705,53,CR,1214,SJ,,"Picagres, Mora",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84270,10706,53,CR,1214,SJ,,"Jaris, Mora",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84271,10707,53,CR,1214,SJ,,"Quitirrisi, Mora",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84272,10801,53,CR,1214,SJ,,"Guadalupe, Goicoechea",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84273,10802,53,CR,1214,SJ,,"San Francisco, Goicoechea",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84274,10803,53,CR,1214,SJ,,"Calle Blancos, Goicoechea",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84275,10804,53,CR,1214,SJ,,"Mata de Platano, Goicoechea",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84276,10805,53,CR,1214,SJ,,"Ipis, Goicoechea",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84277,10806,53,CR,1214,SJ,,"Rancho Redondo, Goicoechea",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84278,10807,53,CR,1214,SJ,,"Purral, Goicoechea",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84279,10901,53,CR,1214,SJ,,"Santa Ana, Santa Ana",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84280,10902,53,CR,1214,SJ,,"Salitral, Santa Ana",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84281,10903,53,CR,1214,SJ,,"Pozos, Santa Ana",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84282,10904,53,CR,1214,SJ,,"Uruca, Santa Ana",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84283,10905,53,CR,1214,SJ,,"Piedades, Santa Ana",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84284,10906,53,CR,1214,SJ,,"Brasil, Santa Ana",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84285,11001,53,CR,1214,SJ,,"Alajuelita, Alajuelita",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84286,11002,53,CR,1214,SJ,,"San Josecito, Alajuelita",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84287,11003,53,CR,1214,SJ,,"San Antonio, Alajuelita",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84288,11004,53,CR,1214,SJ,,"Concepción, Alajuelita",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84289,11005,53,CR,1214,SJ,,"San Felipe, Alajuelita",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84290,11101,53,CR,1214,SJ,,"San Isidro, Vázquez de Coronado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84291,11102,53,CR,1214,SJ,,"San Rafael, Vázquez de Coronado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84292,11103,53,CR,1214,SJ,,"Dulce Nombre de Jesús, Vázquez de Coronado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84293,11104,53,CR,1214,SJ,,"Patalillo, Vázquez de Coronado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84294,11105,53,CR,1214,SJ,,"Cascajal, Vázquez de Coronado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84295,11201,53,CR,1214,SJ,,"San Ignacio de Acosta, Acosta",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84296,11202,53,CR,1214,SJ,,"Guaitil, Acosta",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84297,11203,53,CR,1214,SJ,,"Palmichal, Acosta",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84298,11204,53,CR,1214,SJ,,"Cangrejal, Acosta",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84299,11205,53,CR,1214,SJ,,"Sabanillas, Acosta",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84300,11301,53,CR,1214,SJ,,"San Juan, Tibás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84301,11302,53,CR,1214,SJ,,"Cinco esquinas, Tibás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84302,11303,53,CR,1214,SJ,,"Anselmo Llorente, Tibás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84303,11304,53,CR,1214,SJ,,"Leon XIII, Tibás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84304,11305,53,CR,1214,SJ,,"Colima, Tibás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84305,11401,53,CR,1214,SJ,,"San Vicente, Moravia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84306,11402,53,CR,1214,SJ,,"San Jeronimo, Moravia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84307,11403,53,CR,1214,SJ,,"Trinidad, Moravia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84308,11501,53,CR,1214,SJ,,"San Pedro, Montes de Oca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84309,11502,53,CR,1214,SJ,,"Sabanilla, Montes de Oca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84310,11503,53,CR,1214,SJ,,"Mercedes, Montes de Oca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84311,11504,53,CR,1214,SJ,,"San Rafael, Montes de Oca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84312,11601,53,CR,1214,SJ,,"San Pablo, Turrubares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84313,11602,53,CR,1214,SJ,,"San Pedro, Turrubares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84314,11603,53,CR,1214,SJ,,"San Juan de Mata, Turrubares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84315,11604,53,CR,1214,SJ,,"San Luis, Turrubares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84316,11605,53,CR,1214,SJ,,"Carara, Turrubares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84317,11701,53,CR,1214,SJ,,"Santa María, Dota",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84318,11702,53,CR,1214,SJ,,"Jardin, Dota",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84319,11703,53,CR,1214,SJ,,"Copey, Dota",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84320,11801,53,CR,1214,SJ,,"Curridabat, Curridabat",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84321,11802,53,CR,1214,SJ,,"Granadilla, Curridabat",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84322,11803,53,CR,1214,SJ,,"Sánchez, Curridabat",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84323,11804,53,CR,1214,SJ,,"Tirrases, Curridabat",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84324,11901,53,CR,1214,SJ,,"San Isidro del General, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84325,11902,53,CR,1214,SJ,,"El General, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84326,11903,53,CR,1214,SJ,,"Daniel Flores, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84327,11904,53,CR,1214,SJ,,"Rivas, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84328,11905,53,CR,1214,SJ,,"San Pedro, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84329,11906,53,CR,1214,SJ,,"Platanares, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84330,11907,53,CR,1214,SJ,,"Pejibaye, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84331,11908,53,CR,1214,SJ,,"Cajón, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84332,11909,53,CR,1214,SJ,,"Barú, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84333,11910,53,CR,1214,SJ,,"Río Nuevo, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84334,11911,53,CR,1214,SJ,,"Páramo, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84335,11912,53,CR,1214,SJ,,"La Amistad, Pérez Zeledón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84336,12001,53,CR,1214,SJ,,"San Pablo, León Cortés",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84337,12002,53,CR,1214,SJ,,"San Andres, León Cortés",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84338,12003,53,CR,1214,SJ,,"Llano Bonito, León Cortés",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84339,12004,53,CR,1214,SJ,,"San Isidro, León Cortés",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84340,12005,53,CR,1214,SJ,,"Santa Cruz, León Cortés",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84341,12006,53,CR,1214,SJ,,"San Antonio, León Cortés",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84342,20101,53,CR,1215,A,,"Alajuela, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84343,20102,53,CR,1215,A,,"San José, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84344,20103,53,CR,1215,A,,"Carrizal, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84345,20104,53,CR,1215,A,,"San Antonio, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84346,20105,53,CR,1215,A,,"Guacima, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84347,20106,53,CR,1215,A,,"San Isidro, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84348,20107,53,CR,1215,A,,"Sabanilla, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84349,20108,53,CR,1215,A,,"San Rafael, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84350,20109,53,CR,1215,A,,"Río Segundo, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84351,20110,53,CR,1215,A,,"Desamparados, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84352,20111,53,CR,1215,A,,"Turrucares, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84353,20112,53,CR,1215,A,,"Tambor, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84354,20113,53,CR,1215,A,,"Garita, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84355,20114,53,CR,1215,A,,"Sarapiquí, Alajuela",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84356,20201,53,CR,1215,A,,"San Ramón, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84357,20202,53,CR,1215,A,,"Santiago, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84358,20203,53,CR,1215,A,,"San Juan, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84359,20204,53,CR,1215,A,,"Piedades Norte, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84360,20205,53,CR,1215,A,,"Piedades Sur, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84361,20206,53,CR,1215,A,,"San Rafael, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84362,20207,53,CR,1215,A,,"San Isidro, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84363,20208,53,CR,1215,A,,"Ángeles, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84364,20209,53,CR,1215,A,,"Alfaro, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84365,20210,53,CR,1215,A,,"Volio, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84366,20211,53,CR,1215,A,,"Concepción, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84367,20212,53,CR,1215,A,,"Zapotal, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84368,20213,53,CR,1215,A,,"Peñas Blancas, San Ramón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84369,20301,53,CR,1215,A,,"Grecia, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84370,20302,53,CR,1215,A,,"San Isidro, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84371,20303,53,CR,1215,A,,"San José, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84372,20304,53,CR,1215,A,,"San Roque, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84373,20305,53,CR,1215,A,,"Tacares, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84374,20306,53,CR,1215,A,,"Río Cuarto, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84375,20307,53,CR,1215,A,,"Puente de Piedra, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84376,20308,53,CR,1215,A,,"Bolivar, Grecia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84377,20401,53,CR,1215,A,,"San Mateo, San Mateo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84378,20402,53,CR,1215,A,,"Desmonte, San Mateo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84379,20403,53,CR,1215,A,,"Jesús María, San Mateo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84380,20404,53,CR,1215,A,,"Labrador, San Mateo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84381,20501,53,CR,1215,A,,"Atenas, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84382,20502,53,CR,1215,A,,"Jesús, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84383,20503,53,CR,1215,A,,"Mercedes, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84384,20504,53,CR,1215,A,,"San Isidro, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84385,20505,53,CR,1215,A,,"Concepcion, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84386,20506,53,CR,1215,A,,"San José, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84387,20507,53,CR,1215,A,,"Santa Eulalia, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84388,20508,53,CR,1215,A,,"Escobal, Atenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84389,20601,53,CR,1215,A,,"Naranjo, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84390,20602,53,CR,1215,A,,"San Miguel, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84391,20603,53,CR,1215,A,,"San José, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84392,20604,53,CR,1215,A,,"Cirri Sur, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84393,20605,53,CR,1215,A,,"San Jeronimo, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84394,20606,53,CR,1215,A,,"San Juan, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84395,20607,53,CR,1215,A,,"Rosario, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84396,20608,53,CR,1215,A,,"Palmitos, Naranjo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84397,20701,53,CR,1215,A,,"Palmares, Palmares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84398,20702,53,CR,1215,A,,"Zaragoza, Palmares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84399,20703,53,CR,1215,A,,"Buenos Aires, Palmares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84400,20704,53,CR,1215,A,,"Santiago, Palmares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84401,20705,53,CR,1215,A,,"Candelaria, Palmares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84402,20706,53,CR,1215,A,,"Esquipulas, Palmares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84403,20707,53,CR,1215,A,,"La Granja, Palmares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84404,20801,53,CR,1215,A,,"San Pedro, Poás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84405,20802,53,CR,1215,A,,"San Juan, Poás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84406,20803,53,CR,1215,A,,"San Rafael, Poás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84407,20804,53,CR,1215,A,,"Carrillos, Poás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84408,20805,53,CR,1215,A,,"Sabana Redonda, Poás",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84409,20901,53,CR,1215,A,,"Orotina, Orotina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84410,20902,53,CR,1215,A,,"Mastate, Orotina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84411,20903,53,CR,1215,A,,"Hacienda Vieja, Orotina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84412,20904,53,CR,1215,A,,"Coyolar, Orotina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84413,20905,53,CR,1215,A,,"Ceiba, Orotina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84414,21001,53,CR,1215,A,,"Quesada, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84415,21002,53,CR,1215,A,,"Florencia, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84416,21003,53,CR,1215,A,,"Buenavista, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84417,21004,53,CR,1215,A,,"Aguas Zarcas, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84418,21005,53,CR,1215,A,,"Venecia, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84419,21006,53,CR,1215,A,,"Pital, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84420,21007,53,CR,1215,A,,"Fortuna, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84421,21008,53,CR,1215,A,,"Tigra, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84422,21009,53,CR,1215,A,,"Palmera, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84423,21010,53,CR,1215,A,,"Venado, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84424,21011,53,CR,1215,A,,"Cutris, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84425,21012,53,CR,1215,A,,"Monterrey, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84426,21013,53,CR,1215,A,,"Pocosol, San Carlos",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84427,21101,53,CR,1215,A,,"Zarcero, Zarcero",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84428,21102,53,CR,1215,A,,"Laguna, Zarcero",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84429,21103,53,CR,1215,A,,"Tapezco, Zarcero",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84430,21104,53,CR,1215,A,,"Guadalupe, Zarcero",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84431,21105,53,CR,1215,A,,"Palmira, Zarcero",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84432,21106,53,CR,1215,A,,"Zapote, Zarcero",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84433,21107,53,CR,1215,A,,"Brisas, Zarcero",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84434,21201,53,CR,1215,A,,"Sarchí Norte, Sarchí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84435,21202,53,CR,1215,A,,"Sarchí Sur, Sarchí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84436,21203,53,CR,1215,A,,"Toro Amarillo, Sarchí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84437,21204,53,CR,1215,A,,"San Pedro, Sarchí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84438,21205,53,CR,1215,A,,"Rodríguez, Sarchí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84439,21301,53,CR,1215,A,,"Upala, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84440,21302,53,CR,1215,A,,"Aguas Claras, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84441,21303,53,CR,1215,A,,"San José, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84442,21304,53,CR,1215,A,,"Bijagua, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84443,21305,53,CR,1215,A,,"Delicias, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84444,21306,53,CR,1215,A,,"Dos Ríos, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84445,21307,53,CR,1215,A,,"Yolillal, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84446,21308,53,CR,1215,A,,"Canalete, Upala",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84447,21401,53,CR,1215,A,,"Los Chiles, Los Chiles",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84448,21402,53,CR,1215,A,,"Caño Negro, Los Chiles",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84449,21403,53,CR,1215,A,,"El Amparo, Los Chiles",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84450,21404,53,CR,1215,A,,"San Jorge, Los Chiles",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84451,21501,53,CR,1215,A,,"San Rafael, Guatuso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84452,21502,53,CR,1215,A,,"Buenavista, Guatuso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84453,21503,53,CR,1215,A,,"Cote, Guatuso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84454,21504,53,CR,1215,A,,"Katira, Guatuso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84455,30101,53,CR,1211,C,,"Oriental, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84456,30102,53,CR,1211,C,,"Occidental, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84457,30103,53,CR,1211,C,,"Carmen, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84458,30104,53,CR,1211,C,,"San Nicolas, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84459,30105,53,CR,1211,C,,"Aguacaliente (San Francisco), Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84460,30106,53,CR,1211,C,,"Guadalupe (Arenilla), Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84461,30107,53,CR,1211,C,,"Corralillo, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84462,30108,53,CR,1211,C,,"Tierra Blanca, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84463,30109,53,CR,1211,C,,"Dulce Nombre, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84464,30110,53,CR,1211,C,,"Llano Grande, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84465,30111,53,CR,1211,C,,"Quebradilla, Cartago",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84466,30201,53,CR,1211,C,,"Paraíso, Paraíso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84467,30202,53,CR,1211,C,,"Santiago, Paraíso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84468,30203,53,CR,1211,C,,"Orosi, Paraíso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84469,30204,53,CR,1211,C,,"Cachí, Paraíso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84470,30205,53,CR,1211,C,,"Llanos de Santa Lucia, Paraíso",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84471,30301,53,CR,1211,C,,"Tres Ríos, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84472,30302,53,CR,1211,C,,"San Diego, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84473,30303,53,CR,1211,C,,"San Juan, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84474,30304,53,CR,1211,C,,"San Rafael, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84475,30305,53,CR,1211,C,,"Concepcion, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84476,30306,53,CR,1211,C,,"Dulce Nombre, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84477,30307,53,CR,1211,C,,"San Ramón, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84478,30308,53,CR,1211,C,,"Río Azúl, La Uníón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84479,30401,53,CR,1211,C,,"Juan Viñas, Jiménez",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84480,30402,53,CR,1211,C,,"Tucurrique, Jiménez",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84481,30403,53,CR,1211,C,,"Pejibaye, Jiménez",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84482,30501,53,CR,1211,C,,"Turrialba, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84483,30502,53,CR,1211,C,,"La Suiza, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84484,30503,53,CR,1211,C,,"Peralta, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84485,30504,53,CR,1211,C,,"Santa Cruz, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84486,30505,53,CR,1211,C,,"Santa Teresita, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84487,30506,53,CR,1211,C,,"Pavones, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84488,30507,53,CR,1211,C,,"Tuis, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84489,30508,53,CR,1211,C,,"Tayutic, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84490,30509,53,CR,1211,C,,"Santa Rosa, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84491,30510,53,CR,1211,C,,"Tres Equis, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84492,30511,53,CR,1211,C,,"La Isabel, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84493,30512,53,CR,1211,C,,"Chirripo, Turrialba",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84494,30601,53,CR,1211,C,,"Pacayas, Alvarado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84495,30602,53,CR,1211,C,,"Cervantes, Alvarado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84496,30603,53,CR,1211,C,,"Capellades, Alvarado",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84497,30701,53,CR,1211,C,,"San Rafael, Oreamuno",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84498,30702,53,CR,1211,C,,"Cot, Oreamuno",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84499,30703,53,CR,1211,C,,"Potrero Cerrado, Oreamuno",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84500,30704,53,CR,1211,C,,"Cipreses, Oreamuno",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84501,30705,53,CR,1211,C,,"Santa Rosa, Oreamuno",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84502,30801,53,CR,1211,C,,"Tejar, El Guarco",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84503,30802,53,CR,1211,C,,"San Isidro, El Guarco",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84504,30803,53,CR,1211,C,,"Tobosi, El Guarco",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84505,30804,53,CR,1211,C,,"Patio de Agua, El Guarco",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84506,40101,53,CR,1212,H,,"Heredia, Heredia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84507,40102,53,CR,1212,H,,"Mercedes, Heredia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84508,40103,53,CR,1212,H,,"San Francisco, Heredia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84509,40104,53,CR,1212,H,,"Ulloa, Heredia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84510,40105,53,CR,1212,H,,"Varablanca, Heredia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84511,40201,53,CR,1212,H,,"Barva, Barva",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84512,40202,53,CR,1212,H,,"San Pedro, Barva",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84513,40203,53,CR,1212,H,,"San Pablo, Barva",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84514,40204,53,CR,1212,H,,"San Roque, Barva",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84515,40205,53,CR,1212,H,,"Santa Lucia, Barva",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84516,40206,53,CR,1212,H,,"San José de la Montaña, Barva",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84517,40301,53,CR,1212,H,,"Santo Domingo, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84518,40302,53,CR,1212,H,,"San Vicente, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84519,40303,53,CR,1212,H,,"San Miguel, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84520,40304,53,CR,1212,H,,"Paracito, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84521,40305,53,CR,1212,H,,"Santo Tomas, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84522,40306,53,CR,1212,H,,"Santa Rosa, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84523,40307,53,CR,1212,H,,"Tures, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84524,40308,53,CR,1212,H,,"Pará, Santo Domingo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84525,40401,53,CR,1212,H,,"Santa Bárbara, Santa Bárbara",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84526,40402,53,CR,1212,H,,"San Pedro, Santa Bárbara",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84527,40403,53,CR,1212,H,,"San Juan, Santa Bárbara",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84528,40404,53,CR,1212,H,,"Jesús, Santa Bárbara",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84529,40405,53,CR,1212,H,,"Santo Domingo, Santa Bárbara",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84530,40406,53,CR,1212,H,,"Purabá, Santa Bárbara",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84531,40501,53,CR,1212,H,,"San Rafael, San Rafael",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84532,40502,53,CR,1212,H,,"San Josecito, San Rafael",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84533,40503,53,CR,1212,H,,"Santiago, San Rafael",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84534,40504,53,CR,1212,H,,"Los Ángeles, San Rafael",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84535,40505,53,CR,1212,H,,"Concepción, San Rafael",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84536,40601,53,CR,1212,H,,"San Isidro, San Isidro",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84537,40602,53,CR,1212,H,,"San José, San Isidro",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84538,40603,53,CR,1212,H,,"Concepcion, San Isidro",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84539,40604,53,CR,1212,H,,"San Francisco, San Isidro",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84540,40701,53,CR,1212,H,,"San Antonio, Belén",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84541,40702,53,CR,1212,H,,"Ribera, Belén",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84542,40703,53,CR,1212,H,,"La Asunción, Belén",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84543,40801,53,CR,1212,H,,"San Joaquín de Flores, Flores",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84544,40802,53,CR,1212,H,,"Barrantes, Flores",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84545,40803,53,CR,1212,H,,"Llorente, Flores",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84546,40901,53,CR,1212,H,,"San Pablo, San Pablo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84547,40902,53,CR,1212,H,,"Rincón de Sabanilla, San Pablo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84548,41001,53,CR,1212,H,,"Puerto Viejo, Sarapiquí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84549,41002,53,CR,1212,H,,"La Virgen, Sarapiquí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84550,41003,53,CR,1212,H,,"Horquetas, Sarapiquí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84551,41004,53,CR,1212,H,,"Llanuras del Gaspar, Sarapiquí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84552,41005,53,CR,1212,H,,"Cureña, Sarapiquí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84553,50101,53,CR,1209,G,,"Liberia, Liberia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84554,50102,53,CR,1209,G,,"Cañas Dulces, Liberia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84555,50103,53,CR,1209,G,,"Mayorga, Liberia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84556,50104,53,CR,1209,G,,"Nacascolo, Liberia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84557,50105,53,CR,1209,G,,"Curubandé, Liberia",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84558,50201,53,CR,1209,G,,"Nicoya, Nicoya",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84559,50202,53,CR,1209,G,,"Mansion, Nicoya",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84560,50203,53,CR,1209,G,,"San Antonio, Nicoya",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84561,50204,53,CR,1209,G,,"Quebrada Honda, Nicoya",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84562,50205,53,CR,1209,G,,"Samara, Nicoya",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84563,50206,53,CR,1209,G,,"Nosara, Nicoya",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84564,50207,53,CR,1209,G,,"Belen de Nosarita, Nicoya",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84565,50301,53,CR,1209,G,,"Santa Cruz, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84566,50302,53,CR,1209,G,,"Bolson, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84567,50303,53,CR,1209,G,,"Veintisiete de Abril, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84568,50304,53,CR,1209,G,,"Tempate, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84569,50305,53,CR,1209,G,,"Cartagena, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84570,50306,53,CR,1209,G,,"Cuajiniquil, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84571,50307,53,CR,1209,G,,"Diria, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84572,50308,53,CR,1209,G,,"Cabo Velas, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84573,50309,53,CR,1209,G,,"Tamarindo, Santa Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84574,50401,53,CR,1209,G,,"Bagaces, Bagaces",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84575,50402,53,CR,1209,G,,"Fortuna, Bagaces",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84576,50403,53,CR,1209,G,,"Mogote, Bagaces",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84577,50404,53,CR,1209,G,,"Río Naranjo, Bagaces",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84578,50501,53,CR,1209,G,,"Filadelfia, Carrillo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84579,50502,53,CR,1209,G,,"Palmira, Carrillo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84580,50503,53,CR,1209,G,,"Sardinal, Carrillo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84581,50504,53,CR,1209,G,,"Belén, Carrillo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84582,50601,53,CR,1209,G,,"Cañas, Cañas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84583,50602,53,CR,1209,G,,"Palmira, Cañas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84584,50603,53,CR,1209,G,,"San Miguel, Cañas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84585,50604,53,CR,1209,G,,"Bebedero, Cañas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84586,50605,53,CR,1209,G,,"Porozal, Cañas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84587,50701,53,CR,1209,G,,"Juntas, Abangares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84588,50702,53,CR,1209,G,,"Sierra, Abangares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84589,50703,53,CR,1209,G,,"San Juan, Abangares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84590,50704,53,CR,1209,G,,"Colorado, Abangares",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84591,50801,53,CR,1209,G,,"Tilarán, Tilarán",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84592,50802,53,CR,1209,G,,"Quebrada Grande, Tilarán",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84593,50803,53,CR,1209,G,,"Tronadora, Tilarán",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84594,50804,53,CR,1209,G,,"Santa Rosa, Tilarán",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84595,50805,53,CR,1209,G,,"Libano, Tilarán",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84596,50806,53,CR,1209,G,,"Tierras Morenas, Tilarán",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84597,50807,53,CR,1209,G,,"Arenal, Tilarán",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84598,50901,53,CR,1209,G,,"Carmona, Nandayure",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84599,50902,53,CR,1209,G,,"Santa Rita, Nandayure",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84600,50903,53,CR,1209,G,,"Zapotal, Nandayure",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84601,50904,53,CR,1209,G,,"San Pablo, Nandayure",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84602,50905,53,CR,1209,G,,"Porvenir, Nandayure",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84603,50906,53,CR,1209,G,,"Bejuco, Nandayure",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84604,51001,53,CR,1209,G,,"La Cruz, La Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84605,51002,53,CR,1209,G,,"Santa Cecilia, La Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84606,51003,53,CR,1209,G,,"Garita, La Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84607,51004,53,CR,1209,G,,"Santa Elena, La Cruz",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84608,51101,53,CR,1209,G,,"Hojancha, Hojancha",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84609,51102,53,CR,1209,G,,"Monte Romo, Hojancha",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84610,51103,53,CR,1209,G,,"Puerto Carrillo, Hojancha",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84611,51104,53,CR,1209,G,,"Huacas, Hojancha",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84612,60101,53,CR,1210,P,,"Puntarenas, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84613,60102,53,CR,1210,P,,"Pitahaya, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84614,60103,53,CR,1210,P,,"Chomes, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84615,60104,53,CR,1210,P,,"Lepanto, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84616,60105,53,CR,1210,P,,"Paquera, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84617,60106,53,CR,1210,P,,"Manzanillo, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84618,60107,53,CR,1210,P,,"Guacimal, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84619,60108,53,CR,1210,P,,"Barranca, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84620,60109,53,CR,1210,P,,"Monte Verde, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84621,60110,53,CR,1210,P,,"Isla del Coco, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84622,60111,53,CR,1210,P,,"Cobano, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84623,60112,53,CR,1210,P,,"Chacarita, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84624,60113,53,CR,1210,P,,"Chira, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84625,60114,53,CR,1210,P,,"Acapulco, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84626,60115,53,CR,1210,P,,"El Roble, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84627,60116,53,CR,1210,P,,"Arancibia, Puntarenas",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84628,60201,53,CR,1210,P,,"Espíritu Santo, Esparza",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84629,60202,53,CR,1210,P,,"San Juan Grande, Esparza",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84630,60203,53,CR,1210,P,,"Macacona, Esparza",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84631,60204,53,CR,1210,P,,"San Rafael, Esparza",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84632,60205,53,CR,1210,P,,"San Jerónimo, Esparza",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84633,60206,53,CR,1210,P,,"Caldera, Esparza",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84634,60301,53,CR,1210,P,,"Buenos Aires, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84635,60302,53,CR,1210,P,,"Volcan, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84636,60303,53,CR,1210,P,,"Potrero Grande, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84637,60304,53,CR,1210,P,,"Boruca, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84638,60305,53,CR,1210,P,,"Pilas, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84639,60306,53,CR,1210,P,,"Colinas, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84640,60307,53,CR,1210,P,,"Changena, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84641,60308,53,CR,1210,P,,"Briolley, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84642,60309,53,CR,1210,P,,"Brunka, Buenos Aires",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84643,60401,53,CR,1210,P,,"Miramar, Montes de Oro",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84644,60402,53,CR,1210,P,,"La Uníón, Montes de Oro",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84645,60403,53,CR,1210,P,,"San Isidro, Montes de Oro",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84646,60501,53,CR,1210,P,,"Puerto Cortes, Osa",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84647,60502,53,CR,1210,P,,"Palmar, Osa",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84648,60503,53,CR,1210,P,,"Sierpe, Osa",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84649,60504,53,CR,1210,P,,"Bahia Ballena, Osa",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84650,60505,53,CR,1210,P,,"Bahía Drake, Osa",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84651,60505,53,CR,1210,P,,"Piedras Blancas, Osa",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84652,60601,53,CR,1210,P,,"Quepos, Aguirre",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84653,60602,53,CR,1210,P,,"Savegre, Aguirre",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84654,60603,53,CR,1210,P,,"Naranjito, Aguirre",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84655,60701,53,CR,1210,P,,"Golfito, Golfito",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84656,60702,53,CR,1210,P,,"Puerto Jiménez, Golfito",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84657,60703,53,CR,1210,P,,"Guaycara, Golfito",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84658,60704,53,CR,1210,P,,"Pavón, Golfito",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84659,60801,53,CR,1210,P,,"San Vito, Coto Brus",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84660,60802,53,CR,1210,P,,"Sabalito, Coto Brus",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84661,60803,53,CR,1210,P,,"Aguabuena, Coto Brus",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84662,60804,53,CR,1210,P,,"Limoncito, Coto Brus",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84663,60805,53,CR,1210,P,,"Pittier, Coto Brus",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84664,60806,53,CR,1210,P,,"Gutierrez Brown, Coto Brus",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84665,60901,53,CR,1210,P,,"Parrita, Parrita",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84666,61001,53,CR,1210,P,,"Corredor, Corredores",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84667,61002,53,CR,1210,P,,"La Cuesta, Corredores",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84668,61003,53,CR,1210,P,,"Canoas, Corredores",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84669,61004,53,CR,1210,P,,"Laurel, Corredores",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84670,61101,53,CR,1210,P,,"Jacó, Garabito",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84671,61102,53,CR,1210,P,,"Tárcoles, Garabito",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84672,70101,53,CR,1213,L,,"Limón, Limón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84673,70102,53,CR,1213,L,,"Valle La Estrella, Limón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84674,70103,53,CR,1213,L,,"Río Blanco, Limón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84675,70104,53,CR,1213,L,,"Matama, Limón",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84676,70201,53,CR,1213,L,,"Guapiles, Pococí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84677,70202,53,CR,1213,L,,"Jiménez, Pococí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84678,70203,53,CR,1213,L,,"Rita, Pococí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84679,70204,53,CR,1213,L,,"Roxana, Pococí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84680,70205,53,CR,1213,L,,"Cariari, Pococí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84681,70206,53,CR,1213,L,,"Colorado, Pococí",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84682,70301,53,CR,1213,L,,"Siquirres, Siquirres",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84683,70302,53,CR,1213,L,,"Pacuarito, Siquirres",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84684,70303,53,CR,1213,L,,"Florida, Siquirres",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84685,70304,53,CR,1213,L,,"Germania, Siquirres",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84686,70305,53,CR,1213,L,,"Cairo, Siquirres",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84687,70306,53,CR,1213,L,,"Alegría, Siquirres",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84688,70401,53,CR,1213,L,,"Bratsi, Talamanca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84689,70402,53,CR,1213,L,,"Sixaola, Talamanca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84690,70403,53,CR,1213,L,,"Cahuita, Talamanca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84691,70404,53,CR,1213,L,,"Telire, Talamanca",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84692,70501,53,CR,1213,L,,"Matina, Matina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84693,70502,53,CR,1213,L,,"Battan, Matina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84694,70503,53,CR,1213,L,,"Carrandi, Matina",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84695,70601,53,CR,1213,L,,"Guácimo, Guácimo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84696,70602,53,CR,1213,L,,"Mercedes, Guácimo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84697,70603,53,CR,1213,L,,"Pocora, Guácimo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84698,70604,53,CR,1213,L,,"Río Jiménez, Guácimo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84699,70605,53,CR,1213,L,,"Duacari, Guácimo",full,,,correos-de-costa-rica-via-llperez,,2026-04-28T06:48:59,2026-04-28T06:48:59,1

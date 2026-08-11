@@ -1,0 +1,5 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+112619,96941,143,FM,2581,PNI,,Pohnpei,full,,,manual,,2026-04-28T06:49:00,2026-04-28T06:49:00,1
+112620,96942,143,FM,2580,TRK,,Chuuk,full,,,manual,,2026-04-28T06:49:00,2026-04-28T06:49:00,1
+112621,96943,143,FM,2582,YAP,,Yap,full,,,manual,,2026-04-28T06:49:00,2026-04-28T06:49:00,1
+112622,96944,143,FM,2583,KSA,,Kosrae,full,,,manual,,2026-04-28T06:49:00,2026-04-28T06:49:00,1

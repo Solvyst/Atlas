@@ -1,0 +1,11 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+668782,GY1 1AA,91,GG,,,,St Peter Port,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668783,GY10 1AA,91,GG,,,,St Peter Port PO Box,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668784,GY2 4AA,91,GG,,,,St Sampson,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668785,GY3 5AA,91,GG,,,,Vale and Castel,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668786,GY4 6AA,91,GG,,,,St Saviour,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668787,GY5 7AA,91,GG,,,,St Andrew,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668788,GY6 8AA,91,GG,,,,Forest,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668789,GY7 9AA,91,GG,,,,St Pierre du Bois and Torteval,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668790,GY8 0AA,91,GG,,,,St Martin,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668791,GY9 3AA,91,GG,,,,"Alderney, Sark and Herm",area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

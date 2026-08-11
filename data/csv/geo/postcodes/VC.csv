@@ -1,0 +1,5 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+844232,VC0100,188,VC,,,,Kingstown,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844233,VC0200,188,VC,,,,Saint Vincent,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844234,VC0300,188,VC,,,,Bequia and Grenadines,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1
+844235,VC0400,188,VC,,,,Union Island,area,,,wikipedia-small-territory,,2026-05-24T12:02:13,2026-05-24T12:02:13,1

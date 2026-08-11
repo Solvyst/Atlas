@@ -1,0 +1,6 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+824458,98714,77,PF,5373,05,,Papeete (Tahiti),area,,,wikipedia-pf-archipelago-anchor,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+824459,98730,77,PF,5370,02,,Uturoa (Raiatea),area,,,wikipedia-pf-archipelago-anchor,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+824460,98742,77,PF,5371,03,,Taiohae (Nuku Hiva),area,,,wikipedia-pf-archipelago-anchor,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+824461,98748,77,PF,5369,01,,Mataura (Tubuai),area,,,wikipedia-pf-archipelago-anchor,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+824462,98755,77,PF,5372,04,,Avatoru (Rangiroa),area,,,wikipedia-pf-archipelago-anchor,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

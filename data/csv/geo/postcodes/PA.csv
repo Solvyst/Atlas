@@ -1,0 +1,88 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+821702,A6000,170,PA,1395,8,,Centro de Tratamiento Postal,full,9.05070000,-79.38057800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821703,A6143,170,PA,1395,8,,Estafeta de Balboa Ancón,full,8.95241300,-79.55470200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821704,A6218,170,PA,1395,8,,Estafeta de Bethania,full,9.01729100,-79.52190800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821705,A6219,170,PA,1395,8,,Estafeta de el Dorado,full,9.00622500,-79.53605000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821706,A6238,170,PA,1395,8,,Estafeta Los Pueblos 2000,full,9.06183800,-79.45257400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821707,A6239,170,PA,1395,8,,Estafeta de Plaza Tocumen,full,9.06775100,-79.42107000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821708,A6260,170,PA,1395,8,,Estafeta de Villa Lucre,full,9.04416600,-79.48158800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821709,A6347,170,PA,1395,8,,Estafeta de chilibre,full,9.17309300,-79.61505700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821710,A6350,170,PA,1395,8,,Estafeta de Milla 8,full,9.06552400,-79.51953000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821711,A7307,170,PA,1395,8,,Estafeta de Chepo,full,9.17663800,-79.08924800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821712,B7113,170,PA,1385,5,,Estafeta de Garachine,full,8.06467600,-78.36487200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821713,B7115,170,PA,1385,5,,Estafeta de Jaque,full,7.51766000,-78.16076000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821714,B7117,170,PA,1385,5,,Estafeta de puerto piña,full,7.58598800,-78.17894200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821715,B7121,170,PA,1385,5,,Estafeta de Sambu,full,8.02924900,-78.21987500,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821716,B7231,170,PA,1385,5,,Estafeta de el Real,full,8.11316300,-77.72925500,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821717,B7241,170,PA,1385,5,,Estafeta de Yaviza,full,8.16184000,-77.69674300,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821718,B7321,170,PA,1385,5,,Estafeta de Santa Fe,full,8.65892700,-78.15903000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821719,E6301,170,PA,1386,3,,"Estafeta Colón, calle 9na",full,9.35813100,-79.89746400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821720,E6302,170,PA,1386,3,,Estafeta de Zona Libre,full,9.34435500,-79.88361700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821721,E6312,170,PA,1386,3,,Estafeta de Sabanitas,full,9.33150400,-79.81096700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821722,F3201,170,PA,1392,9,,Estafeta de Atalaya,full,8.03789400,-80.93190200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821723,F3208,170,PA,1392,9,,Estafeta de Mariato,full,7.64694100,-80.99070600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821724,F3213,170,PA,1392,9,,Estafeta de Montijo,full,7.99156900,-81.05441100,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821725,F3217,170,PA,1392,9,,Estafeta de Río de Jesús,full,7.97787000,-81.16204900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821726,F3230,170,PA,1392,9,,Estafeta de Sona,full,8.01043000,-81.32691000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821727,F3303,170,PA,1392,9,,Estafeta de Calobre,full,8.32125300,-80.84378100,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821728,F3304,170,PA,1392,9,,Estafeta de Santa Fe,full,8.51231000,-81.07760600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821729,F3319,170,PA,1392,9,,Estafeta de San Francisco de la Montaña,full,8.24201300,-80.97157200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821730,H1004,170,PA,1393,1,,Estafeta de Almirante,full,9.25434300,-82.36483400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821731,H1006,170,PA,1393,1,,Estafeta de Guabito,full,9.49897400,-82.65393000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821732,H1208,170,PA,1393,1,,Estafeta de Chiriqui Grande,full,8.93193700,-82.07504800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821733,H1301,170,PA,1393,1,,Estafeta de Isla Colón,full,9.35331000,-82.25859900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821734,I2103,170,PA,1397,4,,Estafeta de Divala,full,8.41046600,-82.71514500,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821735,I2106,170,PA,1397,4,,Estafeta de Puerto Armuelles,full,8.28150700,-82.87412600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821736,I2108,170,PA,1397,4,,Estafeta de Progreso,full,8.42846900,-82.82017900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821737,I2209,170,PA,1397,4,,Estafeta de Paso Canoas,full,8.55388800,-82.82494400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821738,I2220,170,PA,1397,4,,Estafeta de cerro punta,full,8.87934500,-82.59958600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821739,I2224,170,PA,1397,4,,Estafeta de Volcan,full,8.78511500,-82.64491300,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821740,I2243,170,PA,1397,4,,Estafeta de Rio Sereno,full,8.81994800,-82.85058700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821741,I2301,170,PA,1397,4,,Estafeta de Alanje,full,8.39862300,-82.55814400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821742,I2311,170,PA,1397,4,,Estafeta de Boqueron,full,8.49417100,-82.57313900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821743,I2315,170,PA,1397,4,,Estafeta de La Concepción,full,8.49925600,-82.62444000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821744,I2413,170,PA,1397,4,,Estafeta de Boquete,full,8.70841500,-82.43781500,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821745,I2432,170,PA,1397,4,,Estafeta de Dolega,full,8.55294300,-82.41716300,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821746,I2436,170,PA,1397,4,,Estafeta de Gualaca,full,8.50553000,-82.29225700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821747,I2538,170,PA,1397,4,,Estafeta de Remedios,full,8.22976900,-81.83752400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821748,I2540,170,PA,1397,4,,Estafeta de Nancito,full,8.24161200,-81.73412500,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821749,I2544,170,PA,1397,4,,Estafeta de San Felix,full,8.29170200,-81.86510100,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821750,I2552,170,PA,1397,4,,Estafeta de San Lorenzo,full,8.30964600,-82.10372000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821751,I2554,170,PA,1397,4,,Estafeta de Tole,full,8.24042500,-81.66648900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821752,J4101,170,PA,1390,7,,Estafeta de Guararé,full,7.82217600,-80.28241900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821753,J4110,170,PA,1390,7,,Estafeta de Las Tablas,full,7.77135400,-80.27855700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821754,J4122,170,PA,1390,7,,Estafeta La Palma,full,7.69299500,-80.19088800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821755,J4140,170,PA,1390,7,,Estafeta Sabana Grande,full,7.83938700,-80.36543500,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821756,J4144,170,PA,1390,7,,Estafeta de Macaracas,full,7.73458600,-80.55221600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821757,J4149,170,PA,1390,7,,Estafeta de Pedasí,full,7.52538200,-80.01564800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821758,J4154,170,PA,1390,7,,Estafeta Purio,full,7.59946100,-80.08364600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821759,J4158,170,PA,1390,7,,Estafeta de Pocrí,full,7.65985500,-80.11962600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821760,J4166,170,PA,1390,7,,Estafeta de Tonosí,full,7.40684800,-80.43958900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821761,K4201,170,PA,1389,6,,Estafeta de Chitre,full,7.97468700,-80.41467900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821762,K4203,170,PA,1389,6,,Estafeta de La Arena,full,7.97515500,-80.46058500,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821763,K4207,170,PA,1389,6,,Estafeta de Las Minas,full,7.80099500,-80.74559200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821764,K4209,170,PA,1389,6,,Estafeta Los Pozos,full,7.78847900,-80.64472100,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821765,K4211,170,PA,1389,6,,Estafeta de Ocú,full,7.95245500,-80.77526600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821766,K4213,170,PA,1389,6,,Estafeta de Parita,full,7.99724900,-80.51973600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821767,K4215,170,PA,1389,6,,Estafeta de Pesé,full,7.91538000,-80.61255000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821768,K4217,170,PA,1389,6,,Estafeta de Santa Maria,full,8.11426000,-80.66447800,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821769,K4221,170,PA,1389,6,,Estafeta de Chupampa,full,8.08367600,-80.78302900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821770,L5029,170,PA,1387,2,,Estafeta de Penonomé,full,8.52490400,-80.35967600,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821771,L5101,170,PA,1387,2,,Estafeta de Aguadulce,full,8.24133500,-80.53492200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821772,L5103,170,PA,1387,2,,Estafeta el Cristo,full,8.25363600,-80.61736200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821773,L5105,170,PA,1387,2,,Estafeta el Roble,full,8.17529600,-80.66729400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821774,L5109,170,PA,1387,2,,Estafeta de Pocrí,full,8.26589200,-80.54903100,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821775,L5121,170,PA,1387,2,,Estafeta de Nata,full,8.33435800,-80.51908700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821776,L5212,170,PA,1387,2,,Estafeta el Valle de Anton,full,8.61400200,-80.12963200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821777,L5216,170,PA,1387,2,,Estafeta de la Pintada,full,8.59495600,-80.44816300,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821778,L5223,170,PA,1387,2,,Estafeta del Caño,full,8.40813200,-80.52829100,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821779,L5225,170,PA,1387,2,,Estafeta de Olá,full,8.41937100,-80.65311400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821780,L5231,170,PA,1387,2,,Estafeta de Río Grande,full,8.43316400,-80.49173300,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821781,L5313,170,PA,1387,2,,Estafeta de Rio Hato,full,8.39586000,-80.16738700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821782,M5303,170,PA,1394,10,,Estafeta de Arraijan,full,8.96968300,-79.64147200,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821783,M5305,170,PA,1394,10,,Estafeta de Vista Alegre,full,8.92583200,-79.71261900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821784,M5307,170,PA,1394,10,,Estafeta de Capira,full,8.76338200,-79.87809000,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821785,M5311,170,PA,1394,10,,Estafeta de Chame,full,8.58161600,-79.88722900,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821786,M5313,170,PA,1394,10,,Estafeta de Bejuco,full,8.60044200,-79.88920300,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821787,M5315,170,PA,1394,10,,Estafeta de Chorrera,full,8.89611900,-79.77659700,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+821788,M5317,170,PA,1394,10,,Estafeta de San Carlos,full,8.49688300,-79.96512400,correos-panama-via-viquezr,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

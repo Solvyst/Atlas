@@ -1,0 +1,263 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+600345,1101,66,SV,4133,SS,,"San Salvador, San Salvador Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600346,1115,66,SV,4133,SS,,"San Marcos, San Salvador Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600347,1116,66,SV,4133,SS,,"Soyapango, San Salvador Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600348,1117,66,SV,4133,SS,,"Ilopango, San Salvador Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600349,1118,66,SV,4133,SS,,"Ciudad Delgado, San Salvador Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600350,1119,66,SV,4133,SS,,"Cuscatancingo, San Salvador Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600351,1120,66,SV,4133,SS,,"Mejicanos, San Salvador Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600352,1121,66,SV,4133,SS,,"Ayutuxtepeque, San Salvador Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600353,1122,66,SV,4133,SS,,"Aguilares, San Salvador Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600354,1123,66,SV,4133,SS,,"Apopa, San Salvador Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600355,1124,66,SV,4133,SS,,"El Paisnal, San Salvador Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600356,1125,66,SV,4133,SS,,"Guazapa, San Salvador Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600357,1126,66,SV,4133,SS,,"Nejapa, San Salvador Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600358,1127,66,SV,4133,SS,,"Panchimalco, San Salvador Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600359,1128,66,SV,4133,SS,,"Rosario de Mora, San Salvador Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600360,1129,66,SV,4133,SS,,"San Martín, San Salvador Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600361,1130,66,SV,4133,SS,,"Santiago Texacuangos, San Salvador Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600362,1131,66,SV,4133,SS,,"Santo Tomás, San Salvador Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600363,1132,66,SV,4133,SS,,"Tonacatepeque, San Salvador Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600364,1201,66,SV,4132,CA,,"Sensuntepeque, Cabañas Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600365,1202,66,SV,4132,CA,,"Cinquera, Cabañas Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600366,1203,66,SV,4132,CA,,"Guacotecti, Cabañas Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600367,1204,66,SV,4132,CA,,"Ilobasco, Cabañas Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600368,1206,66,SV,4132,CA,,"Jutiapa, Cabañas Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600369,1207,66,SV,4132,CA,,"San Isidro, Cabañas Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600370,1208,66,SV,4132,CA,,"Tejutepeque, Cabañas Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600371,1209,66,SV,4132,CA,,"Dolores, Cabañas Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600372,1210,66,SV,4132,CA,,"Victoria, Cabañas Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600373,1301,66,SV,4131,CH,,"Chalatenango, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600374,1302,66,SV,4131,CH,,"Agua Caliente, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600375,1303,66,SV,4131,CH,,"Arcatao, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600376,1304,66,SV,4131,CH,,"Azacualpa, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600377,1305,66,SV,4131,CH,,"San José Cancasque, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600378,1306,66,SV,4131,CH,,"Citalá, Chalatenango Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600379,1307,66,SV,4131,CH,,"Comalapa, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600380,1308,66,SV,4131,CH,,"Concepción Quezaltepeque, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600381,1309,66,SV,4131,CH,,"Dulce Nombre de María, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600382,1311,66,SV,4131,CH,,"El Carrizal, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600383,1312,66,SV,4131,CH,,"El Paraíso, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600384,1313,66,SV,4131,CH,,"La Laguna, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600385,1314,66,SV,4131,CH,,"La Palma, Chalatenango Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600386,1315,66,SV,4131,CH,,"La Reina, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600387,1316,66,SV,4131,CH,,"San José Las Flores, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600388,1317,66,SV,4131,CH,,"Las Vueltas, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600389,1318,66,SV,4131,CH,,"Nombre de Jesús, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600390,1319,66,SV,4131,CH,,"Nueva Concepción, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600391,1320,66,SV,4131,CH,,"Nueva Trinidad, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600392,1321,66,SV,4131,CH,,"Ojos de Agua, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600393,1322,66,SV,4131,CH,,"Potonico, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600394,1324,66,SV,4131,CH,,"San Antonio de La Cruz, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600395,1325,66,SV,4131,CH,,"San Antonio Los Ranchos, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600396,1326,66,SV,4131,CH,,"San Fernando, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600397,1327,66,SV,4131,CH,,"San Francisco Lempa, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600398,1328,66,SV,4131,CH,,"San Francisco Morazán, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600399,1329,66,SV,4131,CH,,"San Ignacio, Chalatenango Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600400,1330,66,SV,4131,CH,,"San Isidro Labrador, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600401,1331,66,SV,4131,CH,,"San Luis del Carmen, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600402,1332,66,SV,4131,CH,,"San Miguel de Mercedes, Chalatenango Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600403,1333,66,SV,4131,CH,,"San Rafael, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600404,1334,66,SV,4131,CH,,"Santa Rita, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600405,1335,66,SV,4131,CH,,"Tejutla, Chalatenango Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600406,1401,66,SV,4137,CU,,"Cojutepeque, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600407,1402,66,SV,4137,CU,,"Candelaria, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600408,1403,66,SV,4137,CU,,"El Carmen, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600409,1404,66,SV,4137,CU,,"El Rosario, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600410,1405,66,SV,4137,CU,,"Monte San Juan, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600411,1406,66,SV,4137,CU,,"Oratorio de Concepción, Cuscatlán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600412,1407,66,SV,4137,CU,,"San Bartolomé Perulapán, Cuscatlán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600413,1408,66,SV,4137,CU,,"San Cristóbal, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600414,1409,66,SV,4137,CU,,"San José Guayabal, Cuscatlán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600415,1410,66,SV,4137,CU,,"San Pedro Perulapán, Cuscatlán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600416,1411,66,SV,4137,CU,,"San Rafael Cedros, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600417,1412,66,SV,4137,CU,,"San Ramón, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600418,1413,66,SV,4137,CU,,"Santa Cruz Analquito, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600419,1414,66,SV,4137,CU,,"Santa Cruz Michapa, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600420,1415,66,SV,4137,CU,,"Suchitoto, Cuscatlán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600421,1416,66,SV,4137,CU,,"Tenancingo, Cuscatlán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600422,1501,66,SV,4134,LI,,"Santa Tecla, La Libertad Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600423,1502,66,SV,4134,LI,,"Antiguo Cuscatlán, La Libertad Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600424,1504,66,SV,4134,LI,,"Ciudad Arce, La Libertad Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600425,1506,66,SV,4134,LI,,"Comasagua, La Libertad Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600426,1507,66,SV,4134,LI,,"Chiltiupán, La Libertad Costa",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600427,1508,66,SV,4134,LI,,"Huizúcar, La Libertad Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600428,1509,66,SV,4134,LI,,"Jayaque, La Libertad Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600429,1510,66,SV,4134,LI,,"Jicalapa, La Libertad Costa",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600430,1511,66,SV,4134,LI,,"La Libertad, La Libertad Costa",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600431,1512,66,SV,4134,LI,,"Colón, La Libertad Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600432,1513,66,SV,4134,LI,,"Nuevo Cuscatlán, La Libertad Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600433,1514,66,SV,4134,LI,,"San Juan Opico, La Libertad Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600434,1515,66,SV,4134,LI,,"Quezaltepeque, La Libertad Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600435,1516,66,SV,4134,LI,,"Sacacoyo, La Libertad Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600436,1517,66,SV,4134,LI,,"San José Villanueva, La Libertad Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600437,1518,66,SV,4134,LI,,"San Matías, La Libertad Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600438,1519,66,SV,4134,LI,,"San Pablo Tacachico, La Libertad Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600439,1521,66,SV,4134,LI,,"Talnique, La Libertad Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600440,1522,66,SV,4134,LI,,"Tamanique, La Libertad Costa",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600441,1523,66,SV,4134,LI,,"Teotepeque, La Libertad Costa",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600442,1524,66,SV,4134,LI,,"Tepecoyo, La Libertad Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600443,1525,66,SV,4134,LI,,"Zaragoza, La Libertad Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600444,1601,66,SV,4136,PA,,"Zacatecoluca, La Paz Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600445,1603,66,SV,4136,PA,,"Cuyultitán, La Paz Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600446,1604,66,SV,4136,PA,,"El Rosario, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600447,1605,66,SV,4136,PA,,"Jerusalén, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600448,1606,66,SV,4136,PA,,"San Luis La Herradura, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600449,1607,66,SV,4136,PA,,"Mercedes La Ceiba, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600450,1608,66,SV,4136,PA,,"Olocuilta, La Paz Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600451,1609,66,SV,4136,PA,,"Paraíso de Osorio, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600452,1610,66,SV,4136,PA,,"San Antonio Masahuat, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600453,1611,66,SV,4136,PA,,"San Emigdio, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600454,1612,66,SV,4136,PA,,"San Francisco Chinameca, La Paz Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600455,1613,66,SV,4136,PA,,"San Juan Nonualco, La Paz Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600456,1614,66,SV,4136,PA,,"San Juan Talpa, La Paz Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600457,1615,66,SV,4136,PA,,"San Juan Tepezontes, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600458,1616,66,SV,4136,PA,,"San Luis Talpa, La Paz Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600459,1617,66,SV,4136,PA,,"San Miguel Tepezontes, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600460,1618,66,SV,4136,PA,,"San Pedro Masahuat, La Paz Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600461,1619,66,SV,4136,PA,,"San Pedro Nonualco, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600462,1620,66,SV,4136,PA,,"San Rafael Obrajuelo, La Paz Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600463,1621,66,SV,4136,PA,,"Santa María Ostuma, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600464,1622,66,SV,4136,PA,,"Santiago Nonualco, La Paz Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600465,1623,66,SV,4136,PA,,"Tapalhuaca, La Paz Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600466,1701,66,SV,4127,SV,,"San Vicente, San Vicente Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600467,1702,66,SV,4127,SV,,"Apastepeque, San Vicente Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600468,1703,66,SV,4127,SV,,"Guadalupe, San Vicente Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600469,1704,66,SV,4127,SV,,"San Cayetano Istepeque, San Vicente Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600470,1705,66,SV,4127,SV,,"San Esteban Catarina, San Vicente Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600471,1706,66,SV,4127,SV,,"San Ildefonso, San Vicente Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600472,1707,66,SV,4127,SV,,"San Lorenzo, San Vicente Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600473,1708,66,SV,4127,SV,,"San Sebastián, San Vicente Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600474,1709,66,SV,4127,SV,,"Santa Clara, San Vicente Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600475,1710,66,SV,4127,SV,,"Santo Domingo, San Vicente Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600476,1711,66,SV,4127,SV,,"Tecoluca, San Vicente Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600477,1712,66,SV,4127,SV,,"Tepetitán, San Vicente Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600478,1713,66,SV,4127,SV,,"Verapaz, San Vicente Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600479,2101,66,SV,4139,AH,,"Ahuachapán, Ahuachapán Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600480,2102,66,SV,4139,AH,,"Apaneca, Ahuachapán Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600481,2103,66,SV,4139,AH,,"Atiquizaya, Ahuachapán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600482,2106,66,SV,4139,AH,,"Concepción de Ataco, Ahuachapán Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600483,2107,66,SV,4139,AH,,"El Refugio, Ahuachapán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600484,2108,66,SV,4139,AH,,"Guaymango, Ahuachapán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600485,2109,66,SV,4139,AH,,"Jujutla, Ahuachapán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600486,2113,66,SV,4139,AH,,"San Francisco Menéndez, Ahuachapán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600487,2115,66,SV,4139,AH,,"San Lorenzo, Ahuachapán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600488,2116,66,SV,4139,AH,,"San Pedro Puxtla, Ahuachapán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600489,2117,66,SV,4139,AH,,"Tacuba, Ahuachapán Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600490,2118,66,SV,4139,AH,,"Turín, Ahuachapán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600491,2201,66,SV,4128,SA,,"Santa Ana, Santa Ana Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600492,2203,66,SV,4128,SA,,"Candelaria de la Frontera, Santa Ana Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600493,2204,66,SV,4128,SA,,"Coatepeque, Santa Ana Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600494,2205,66,SV,4128,SA,,"Chalchuapa, Santa Ana Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600495,2207,66,SV,4128,SA,,"El Congo, Santa Ana Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600496,2208,66,SV,4128,SA,,"El Porvenir, Santa Ana Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600497,2210,66,SV,4128,SA,,"Masahuat, Santa Ana Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600498,2211,66,SV,4128,SA,,"Metapán, Santa Ana Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600499,2212,66,SV,4128,SA,,"San Antonio Pajonal, Santa Ana Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600500,2215,66,SV,4128,SA,,"San Sebastián Salitrillo, Santa Ana Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600501,2216,66,SV,4128,SA,,"Santa Rosa Guachipilín, Santa Ana Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600502,2217,66,SV,4128,SA,,"Santiago de La Frontera, Santa Ana Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600503,2218,66,SV,4128,SA,,"Texistepeque, Santa Ana Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600504,2301,66,SV,4140,SO,,"Sonsonate, Sonsonate Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600505,2302,66,SV,4140,SO,,"Acajutla, Sonsonate Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600506,2303,66,SV,4140,SO,,"Armenia, Sonsonate Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600507,2304,66,SV,4140,SO,,"Caluco, Sonsonate Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600508,2305,66,SV,4140,SO,,"Cuisnahuat, Sonsonate Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600509,2306,66,SV,4140,SO,,"Izalco, Sonsonate Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600510,2307,66,SV,4140,SO,,"Juayúa, Sonsonate Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600511,2311,66,SV,4140,SO,,"Nahuizalco, Sonsonate Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600512,2312,66,SV,4140,SO,,"Nahulingo, Sonsonate Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600513,2313,66,SV,4140,SO,,"Salcoatitán, Sonsonate Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600514,2314,66,SV,4140,SO,,"San Antonio del Monte, Sonsonate Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600515,2316,66,SV,4140,SO,,"San Julián, Sonsonate Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600516,2317,66,SV,4140,SO,,"Santa Catarina Masahuat, Sonsonate Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600517,2318,66,SV,4140,SO,,"Santa Isabel Ishuatán, Sonsonate Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600518,2319,66,SV,4140,SO,,"Santo Domingo de Guzmán, Sonsonate Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600519,2320,66,SV,4140,SO,,"Sonzacate, Sonsonate Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600520,3101,66,SV,4138,UN,,"La Unión, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600521,3104,66,SV,4138,UN,,"Anamorós, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600522,3105,66,SV,4138,UN,,"Bolívar, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600523,3106,66,SV,4138,UN,,"Concepción de Oriente, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600524,3107,66,SV,4138,UN,,"Conchagua, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600525,3108,66,SV,4138,UN,,"El Carmen, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600526,3109,66,SV,4138,UN,,"El Sauce, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600527,3111,66,SV,4138,UN,,"Intipucá, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600528,3112,66,SV,4138,UN,,"Lislique, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600529,3113,66,SV,4138,UN,,"Meanguera del Golfo, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600530,3114,66,SV,4138,UN,,"Nueva Esparta, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600531,3116,66,SV,4138,UN,,"Pasaquina, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600532,3117,66,SV,4138,UN,,"Polorós, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600533,3119,66,SV,4138,UN,,"San Alejo, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600534,3120,66,SV,4138,UN,,"San José La Fuente, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600535,3121,66,SV,4138,UN,,"Santa Rosa de Lima, La Unión Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600536,3122,66,SV,4138,UN,,"Yayantique, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600537,3123,66,SV,4138,UN,,"Yucuaiquín, La Unión Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600538,3201,66,SV,4130,MO,,"San Francisco Gotera, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600539,3202,66,SV,4130,MO,,"Arambala, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600540,3203,66,SV,4130,MO,,"Cacaopera, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600541,3204,66,SV,4130,MO,,"Corinto, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600542,3205,66,SV,4130,MO,,"Chilanga, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600543,3206,66,SV,4130,MO,,"Delicias de Concepción, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600544,3207,66,SV,4130,MO,,"El Divisadero, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600545,3208,66,SV,4130,MO,,"El Rosario, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600546,3209,66,SV,4130,MO,,"Gualococti, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600547,3210,66,SV,4130,MO,,"Guatajiagua, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600548,3211,66,SV,4130,MO,,"Joateca, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600549,3212,66,SV,4130,MO,,"Jocoaitique, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600550,3213,66,SV,4130,MO,,"Jocoro, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600551,3214,66,SV,4130,MO,,"Lolotiquillo, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600552,3215,66,SV,4130,MO,,"Meanguera, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600553,3216,66,SV,4130,MO,,"Osicala, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600554,3217,66,SV,4130,MO,,"Perquín, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600555,3218,66,SV,4130,MO,,"San Carlos, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600556,3219,66,SV,4130,MO,,"San Fernando, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600557,3220,66,SV,4130,MO,,"San Isidro, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600558,3221,66,SV,4130,MO,,"San Simón, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600559,3222,66,SV,4130,MO,,"Sensembra, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600560,3223,66,SV,4130,MO,,"Sociedad, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600561,3224,66,SV,4130,MO,,"Torola, Morazán Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600562,3225,66,SV,4130,MO,,"Yamabal, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600563,3226,66,SV,4130,MO,,"Yoloaiquín, Morazán Sur",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600564,3301,66,SV,4135,SM,,"San Miguel, San Miguel Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600565,3302,66,SV,4135,SM,,"Carolina, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600566,3303,66,SV,4135,SM,,"Ciudad Barrios, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600567,3304,66,SV,4135,SM,,"Comacarán, San Miguel Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600568,3305,66,SV,4135,SM,,"Chapeltique, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600569,3306,66,SV,4135,SM,,"Chinameca, San Miguel Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600570,3307,66,SV,4135,SM,,"Chirilagua, San Miguel Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600571,3309,66,SV,4135,SM,,"El Tránsito, San Miguel Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600572,3311,66,SV,4135,SM,,"Lolotique, San Miguel Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600573,3312,66,SV,4135,SM,,"Moncagua, San Miguel Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600574,3313,66,SV,4135,SM,,"Nueva Guadalupe, San Miguel Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600575,3314,66,SV,4135,SM,,"Nuevo Edén de San Juan, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600576,3315,66,SV,4135,SM,,"Quelepa, San Miguel Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600577,3316,66,SV,4135,SM,,"San Antonio del Mosco, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600578,3318,66,SV,4135,SM,,"San Gerardo, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600579,3319,66,SV,4135,SM,,"San Jorge, San Miguel Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600580,3320,66,SV,4135,SM,,"San Luis de La Reina, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600581,3322,66,SV,4135,SM,,"San Rafael Oriente, San Miguel Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600582,3323,66,SV,4135,SM,,"Sesori, San Miguel Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600583,3324,66,SV,4135,SM,,"Uluazapa, San Miguel Centro",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600584,3401,66,SV,4129,US,,"Usulután, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600585,3403,66,SV,4129,US,,"Berlín, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600586,3404,66,SV,4129,US,,"Alegría, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600587,3404,66,SV,4129,US,,"California, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600588,3405,66,SV,4129,US,,"Concepción Batres, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600589,3406,66,SV,4129,US,,"El Triunfo, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600590,3407,66,SV,4129,US,,"Ereguayquín, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600591,3408,66,SV,4129,US,,"Estanzuelas, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600592,3409,66,SV,4129,US,,"Jiquilisco, Usulután Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600593,3410,66,SV,4129,US,,"Jucuapa, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600594,3411,66,SV,4129,US,,"Jucuarán, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600595,3412,66,SV,4129,US,,"Mercedes Umaña, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600596,3413,66,SV,4129,US,,"Nueva Granada, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600597,3415,66,SV,4129,US,,"Ozatlán, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600598,3417,66,SV,4129,US,,"Puerto El Triunfo, Usulután Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600599,3418,66,SV,4129,US,,"San Agustín, Usulután Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600600,3419,66,SV,4129,US,,"San Buenaventura, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600601,3420,66,SV,4129,US,,"San Dionisio, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600602,3421,66,SV,4129,US,,"San Francisco Javier, Usulután Oeste",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600603,3422,66,SV,4129,US,,"Santa Elena, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600604,3423,66,SV,4129,US,,"Santa María, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600605,3424,66,SV,4129,US,,"Santiago de María, Usulután Norte",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+600606,3426,66,SV,4129,US,,"Tecapán, Usulután Este",full,,,correos-el-salvador-via-micryptosv,,2026-04-28T06:49:19,2026-04-28T06:49:19,1

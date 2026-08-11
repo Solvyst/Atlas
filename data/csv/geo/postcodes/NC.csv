@@ -1,0 +1,4 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+336908,98800,157,NC,5225,01,,Noumea,full,,,manual,,2026-04-28T06:49:09,2026-04-28T06:49:09,1
+336909,98860,157,NC,5226,02,,Kone,full,,,manual,,2026-04-28T06:49:09,2026-04-28T06:49:09,1
+336910,98820,157,NC,5227,03,,We,full,,,manual,,2026-04-28T06:49:09,2026-04-28T06:49:09,1

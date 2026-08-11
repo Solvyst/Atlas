@@ -1,0 +1,30 @@
+code,iso639_2,name,native_name,direction,family,is_active
+en,eng,English,English,ltr,Indo-European,1
+hi,hin,Hindi,हिन्दी,ltr,Indo-European,1
+bn,ben,Bengali,বাংলা,ltr,Indo-European,1
+te,tel,Telugu,తెలుగు,ltr,Dravidian,1
+mr,mar,Marathi,मराठी,ltr,Indo-European,1
+ta,tam,Tamil,தமிழ்,ltr,Dravidian,1
+ur,urd,Urdu,اردو,rtl,Indo-European,1
+gu,guj,Gujarati,ગુજરાતી,ltr,Indo-European,1
+kn,kan,Kannada,ಕನ್ನಡ,ltr,Dravidian,1
+ml,mal,Malayalam,മലയാളം,ltr,Dravidian,1
+pa,pan,Punjabi,ਪੰਜਾਬੀ,ltr,Indo-European,1
+or,ori,Odia,ଓଡ଼ିଆ,ltr,Indo-European,1
+as,asm,Assamese,অসমীয়া,ltr,Indo-European,1
+ar,ara,Arabic,العربية,rtl,Afro-Asiatic,1
+zh,zho,Chinese,中文,ltr,Sino-Tibetan,1
+ja,jpn,Japanese,日本語,ltr,Japonic,1
+ko,kor,Korean,한국어,ltr,Koreanic,1
+fr,fra,French,Français,ltr,Indo-European,1
+de,deu,German,Deutsch,ltr,Indo-European,1
+es,spa,Spanish,Español,ltr,Indo-European,1
+pt,por,Portuguese,Português,ltr,Indo-European,1
+ru,rus,Russian,Русский,ltr,Indo-European,1
+it,ita,Italian,Italiano,ltr,Indo-European,1
+nl,nld,Dutch,Nederlands,ltr,Indo-European,1
+tr,tur,Turkish,Türkçe,ltr,Turkic,1
+id,ind,Indonesian,Bahasa Indonesia,ltr,Austronesian,1
+ms,msa,Malay,Bahasa Melayu,ltr,Austronesian,1
+th,tha,Thai,ไทย,ltr,Kra-Dai,1
+vi,vie,Vietnamese,Tiếng Việt,ltr,Austroasiatic,1

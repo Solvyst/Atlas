@@ -1,0 +1,2 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+23192,96799,5,AS,,,,American Samoa,full,,,manual,,2026-04-28T06:48:57,2026-04-28T06:48:57,1

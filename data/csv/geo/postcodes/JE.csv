@@ -1,0 +1,6 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+669912,JE1 1AA,110,JE,,,,St Helier PO Box,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669913,JE2 3AA,110,JE,,,,St Helier,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669914,JE3 4AA,110,JE,,,,Outer Parishes,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669915,JE4 5AA,110,JE,,,,St Helier large PO Box,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669916,JE5 0AA,110,JE,,,,St Helier,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

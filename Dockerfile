@@ -16,7 +16,7 @@ FROM deps AS build
 COPY apps/server ./apps/server
 COPY packages/database ./packages/database
 RUN pnpm build
-RUN pnpm deploy --filter=@atlaskit/server --prod --legacy /prod/server
+RUN pnpm deploy --filter=@solvyst-atlas/server --prod --legacy /prod/server
 
 FROM node:24-slim AS runner
 ENV NODE_ENV=production
@@ -25,11 +25,11 @@ ENV HOST=0.0.0.0
 WORKDIR /app
 
 RUN groupadd --system --gid 1001 nodejs \
-  && useradd --system --uid 1001 --gid nodejs atlaskit
+  && useradd --system --uid 1001 --gid nodejs solvystatlas
 
-COPY --from=build --chown=atlaskit:nodejs /prod/server ./
+COPY --from=build --chown=solvystatlas:nodejs /prod/server ./
 
-USER atlaskit
+USER solvystatlas
 EXPOSE 5000
 
 HEALTHCHECK --interval=30s --timeout=5s --start-period=20s --retries=3 \

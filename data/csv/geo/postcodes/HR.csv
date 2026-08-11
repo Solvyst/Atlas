@@ -1,0 +1,906 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+668800,10000,55,HR,736,01,,Zagreb,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668801,10010,55,HR,736,01,,Zagreb-Sloboština,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668802,10020,55,HR,736,01,,Zagreb-Novi Zagreb,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668803,10040,55,HR,736,01,,Zagreb-Dubrava,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668804,10090,55,HR,736,01,,Zagreb-Susedgrad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668805,10110,55,HR,736,01,,Zagreb-Trešnjevka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668806,10250,55,HR,736,01,,Lučko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668807,10251,55,HR,736,01,,Hrvatski Leskovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668808,10253,55,HR,736,01,,Donji Dragonožec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668809,10255,55,HR,736,01,,Gornji Stupnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668810,10257,55,HR,736,01,,Brezovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668811,10290,55,HR,736,01,,Zaprešić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668812,10291,55,HR,736,01,,Prigorje Brdovečko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668813,10292,55,HR,736,01,,Šenkovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668814,10293,55,HR,736,01,,Dubravica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668815,10294,55,HR,736,01,,Donja Pušća,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668816,10295,55,HR,736,01,,Kupljenovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668817,10296,55,HR,736,01,,Luka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668818,10297,55,HR,736,01,,Jakovlje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668819,10298,55,HR,736,01,,Donja Bistra,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668820,10299,55,HR,736,01,,Marija Gorica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668821,10310,55,HR,736,01,,Ivanić-Grad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668822,10311,55,HR,736,01,,Posavski Bregi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668823,10312,55,HR,736,01,,Kloštar Ivanić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668824,10313,55,HR,736,01,,Graberje Ivaničko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668825,10314,55,HR,736,01,,Križ,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668826,10315,55,HR,736,01,,Novoselec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668827,10316,55,HR,736,01,,Lijevi Dubrovčak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668828,10340,55,HR,736,01,,Vrbovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668829,10341,55,HR,736,01,,Lonjica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668830,10342,55,HR,736,01,,Dubrava,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668831,10343,55,HR,736,01,,Nova Kapela,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668832,10344,55,HR,736,01,,Farkaševac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668833,10345,55,HR,736,01,,Gradec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668834,10346,55,HR,736,01,,Preseka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668835,10347,55,HR,736,01,,Rakovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668836,10360,55,HR,736,01,,Sesvete,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668837,10361,55,HR,736,01,,Sesvete-Kraljevec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668838,10362,55,HR,736,01,,Kašina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668839,10363,55,HR,736,01,,Belovar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668840,10370,55,HR,736,01,,Dugo Selo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668841,10372,55,HR,736,01,,Oborovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668842,10373,55,HR,736,01,,Ivanja Reka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668843,10380,55,HR,736,01,,Sveti Ivan Zelina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668844,10381,55,HR,736,01,,Bedenica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668845,10382,55,HR,736,01,,Donja Zelina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668846,10383,55,HR,736,01,,Komin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668847,10408,55,HR,736,01,,Velika Mlaka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668848,10410,55,HR,736,01,,Velika Gorica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668849,10411,55,HR,736,01,,Orle,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668850,10412,55,HR,736,01,,Donja Lomnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668851,10413,55,HR,736,01,,Kravarsko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668852,10414,55,HR,736,01,,Pokupsko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668853,10415,55,HR,736,01,,Novo Čiče,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668854,10417,55,HR,736,01,,Buševec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668855,10418,55,HR,736,01,,Dubranec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668856,10419,55,HR,736,01,,Vukovina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668857,10430,55,HR,736,01,,Samobor,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668858,10431,55,HR,736,01,,Sveta Nedjelja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668859,10432,55,HR,736,01,,Bregana,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668860,10434,55,HR,736,01,,Strmec Samoborski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668861,10435,55,HR,736,01,,Sveti Martin pod Okićem,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668862,10436,55,HR,736,01,,Rakov Potok,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668863,10437,55,HR,736,01,,Bestovje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668864,10450,55,HR,736,01,,Jastrebarsko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668865,10451,55,HR,736,01,,Pisarovina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668866,10453,55,HR,736,01,,Gorica Svetojanska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668867,10454,55,HR,736,01,,Krašić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668868,10455,55,HR,736,01,,Kostanjevac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668869,10456,55,HR,736,01,,Kalje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668870,10457,55,HR,736,01,,Sošice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668871,20000,55,HR,728,19,,Dubrovnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668872,20205,55,HR,728,19,,Topolo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668873,20207,55,HR,728,19,,Mlini,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668874,20210,55,HR,728,19,,Cavtat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668875,20213,55,HR,728,19,,Čilipi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668876,20215,55,HR,728,19,,Gruda,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668877,20216,55,HR,728,19,,Dubravka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668878,20217,55,HR,728,19,,Pridvorje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668879,20218,55,HR,728,19,,Pločice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668880,20221,55,HR,728,19,,Koločep,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668881,20222,55,HR,728,19,,Lopud,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668882,20223,55,HR,728,19,,Šipanjska Luka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668883,20224,55,HR,728,19,,Maranovići,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668884,20225,55,HR,728,19,,Babino Polje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668885,20226,55,HR,728,19,,Goveđari,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668886,20230,55,HR,728,19,,Ston,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668887,20231,55,HR,728,19,,Doli,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668888,20232,55,HR,728,19,,Slano,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668889,20233,55,HR,728,19,,Trsteno,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668890,20234,55,HR,728,19,,Orašac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668891,20235,55,HR,728,19,,Zaton Veliki,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668892,20236,55,HR,728,19,,Mokošica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668893,20240,55,HR,728,19,,Trpanj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668894,20242,55,HR,728,19,,Oskorušno,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668895,20243,55,HR,728,19,,Kuna,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668896,20244,55,HR,728,19,,Potomje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668897,20245,55,HR,728,19,,Trstenik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668898,20246,55,HR,728,19,,Janjina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668899,20247,55,HR,728,19,,Žuljana,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668900,20248,55,HR,728,19,,Putniković,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668901,20250,55,HR,728,19,,Orebić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668902,20260,55,HR,728,19,,Korčula,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668903,20263,55,HR,728,19,,Lumbarda,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668904,20264,55,HR,728,19,,Račišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668905,20267,55,HR,728,19,,Kućište,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668906,20269,55,HR,728,19,,Lovište,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668907,20270,55,HR,728,19,,Vela Luka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668908,20271,55,HR,728,19,,Blato,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668909,20272,55,HR,728,19,,Smokvica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668910,20273,55,HR,728,19,,Čara,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668911,20274,55,HR,728,19,,Pupnat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668912,20275,55,HR,728,19,,Žrnovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668913,20278,55,HR,728,19,,Nova Sela,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668914,20290,55,HR,728,19,,Lastovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668915,20340,55,HR,728,19,,Ploče,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668916,20341,55,HR,728,19,,Kula Norinska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668917,20342,55,HR,728,19,,Otrić Seoci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668918,20343,55,HR,728,19,,Rogotin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668919,20344,55,HR,728,19,,Komin (Dalma),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668920,20345,55,HR,728,19,,Staševica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668921,20350,55,HR,728,19,,Metković,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668922,20352,55,HR,728,19,,Vid,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668923,20353,55,HR,728,19,,Mlinište,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668924,20355,55,HR,728,19,,Opuzen,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668925,20356,55,HR,728,19,,Klek,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668926,20357,55,HR,728,19,,Blace,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668927,21000,55,HR,725,17,,Split,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668928,21201,55,HR,725,17,,Prgomet,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668929,21202,55,HR,725,17,,Lećevica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668930,21203,55,HR,725,17,,Donji Muć,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668931,21204,55,HR,725,17,,Dugopolje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668932,21205,55,HR,725,17,,Donji Dolac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668933,21206,55,HR,725,17,,Donje Ogorje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668934,21207,55,HR,725,17,,Kostanje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668935,21208,55,HR,725,17,,Kučiće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668936,21209,55,HR,725,17,,Mravince,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668937,21210,55,HR,725,17,,Solin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668938,21212,55,HR,725,17,,Kaštel Sućurac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668939,21213,55,HR,725,17,,Kaštel Gomilica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668940,21214,55,HR,725,17,,Kaštel Kambelovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668941,21215,55,HR,725,17,,Kaštel Lukšić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668942,21216,55,HR,725,17,,Kaštel Stari,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668943,21217,55,HR,725,17,,Kaštel Štafilić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668944,21220,55,HR,725,17,,Trogir,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668945,21222,55,HR,725,17,,Marina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668946,21223,55,HR,725,17,,Okrug Gornji,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668947,21224,55,HR,725,17,,Slatine,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668948,21225,55,HR,725,17,,Drvenik Veliki,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668949,21226,55,HR,725,17,,Vinišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668950,21227,55,HR,725,17,,Primorski Dolac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668951,21228,55,HR,725,17,,Blizna Donja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668952,21229,55,HR,725,17,,Crivac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668953,21230,55,HR,725,17,,Sinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668954,21231,55,HR,725,17,,Klis,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668955,21232,55,HR,725,17,,Dicmo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668956,21233,55,HR,725,17,,Hrvace,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668957,21236,55,HR,725,17,,Vrlika,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668958,21238,55,HR,725,17,,Otok (Dalmacija),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668959,21240,55,HR,725,17,,Trilj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668960,21241,55,HR,725,17,,Obrovac Sinjski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668961,21242,55,HR,725,17,,Grab,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668962,21243,55,HR,725,17,,Ugljane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668963,21244,55,HR,725,17,,Cista Velika,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668964,21245,55,HR,725,17,,Tijarica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668965,21246,55,HR,725,17,,Aržano,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668966,21247,55,HR,725,17,,Neorić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668967,21250,55,HR,725,17,,Šestanovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668968,21251,55,HR,725,17,,Žrnovnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668969,21252,55,HR,725,17,,Tugare,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668970,21253,55,HR,725,17,,Gata,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668971,21254,55,HR,725,17,,Blato na Cetini,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668972,21255,55,HR,725,17,,Zadvarje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668973,21256,55,HR,725,17,,Cista Provo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668974,21257,55,HR,725,17,,Lovreć,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668975,21260,55,HR,725,17,,Imotski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668976,21261,55,HR,725,17,,Runović,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668977,21262,55,HR,725,17,,Kamenmost,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668978,21263,55,HR,725,17,,Krivodol,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668979,21264,55,HR,725,17,,Donji Proložac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668980,21265,55,HR,725,17,,Studenci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668981,21266,55,HR,725,17,,Zmijavci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668982,21267,55,HR,725,17,,Ričice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668983,21270,55,HR,725,17,,Zagvozd,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668984,21271,55,HR,725,17,,Grabovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668985,21272,55,HR,725,17,,Slivno,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668986,21273,55,HR,725,17,,Župa,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668987,21275,55,HR,725,17,,Dragljane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668988,21276,55,HR,725,17,,Vrgorac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668989,21277,55,HR,725,17,,Veliki Prolog,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668990,21292,55,HR,725,17,,Srinjine,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668991,21300,55,HR,725,17,,Makarska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668992,21310,55,HR,725,17,,Omiš,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668993,21311,55,HR,725,17,,Stobreč,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668994,21312,55,HR,725,17,,Podstrana,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668995,21314,55,HR,725,17,,Jesenice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668996,21315,55,HR,725,17,,Dugi Rat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668997,21317,55,HR,725,17,,Lokva Rogoznica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668998,21318,55,HR,725,17,,Mimice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+668999,21320,55,HR,725,17,,Baška Voda,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669000,21322,55,HR,725,17,,Brela,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669001,21323,55,HR,725,17,,Promajna,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669002,21325,55,HR,725,17,,Tučepi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669003,21327,55,HR,725,17,,Podgora,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669004,21328,55,HR,725,17,,Drašnice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669005,21329,55,HR,725,17,,Igrane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669006,21330,55,HR,725,17,,Gradac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669007,21333,55,HR,725,17,,Drvenik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669008,21334,55,HR,725,17,,Zaostrog,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669009,21335,55,HR,725,17,,Podaca,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669010,21400,55,HR,725,17,,Supetar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669011,21403,55,HR,725,17,,Sutivan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669012,21404,55,HR,725,17,,Ložišća,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669013,21405,55,HR,725,17,,Milna,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669014,21410,55,HR,725,17,,Postira,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669015,21412,55,HR,725,17,,Pučišća,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669016,21413,55,HR,725,17,,Povlja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669017,21420,55,HR,725,17,,Bol,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669018,21423,55,HR,725,17,,Nerežišća,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669019,21424,55,HR,725,17,,Pražnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669020,21425,55,HR,725,17,,Selca,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669021,21430,55,HR,725,17,,Grohote,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669022,21432,55,HR,725,17,,Stomorska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669023,21450,55,HR,725,17,,Hvar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669024,21454,55,HR,725,17,,Brusje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669025,21460,55,HR,725,17,,Stari Grad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669026,21462,55,HR,725,17,,Vrbanj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669027,21463,55,HR,725,17,,Vrboska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669028,21465,55,HR,725,17,,Jelsa,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669029,21466,55,HR,725,17,,Zastražišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669030,21467,55,HR,725,17,,Gdinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669031,21469,55,HR,725,17,,Sućuraj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669032,21480,55,HR,725,17,,Vis,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669033,21483,55,HR,725,17,,Podšpilje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669034,21485,55,HR,725,17,,Komiža,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669035,22000,55,HR,730,15,,Šibenik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669036,22030,55,HR,730,15,,Šibenik-Zablaće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669037,22202,55,HR,730,15,,Primošten,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669038,22203,55,HR,730,15,,Rogoznica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669039,22204,55,HR,730,15,,Široke,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669040,22205,55,HR,730,15,,Perković,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669041,22206,55,HR,730,15,,Boraja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669042,22211,55,HR,730,15,,Vodice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669043,22212,55,HR,730,15,,Tribunj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669044,22213,55,HR,730,15,,Pirovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669045,22214,55,HR,730,15,,Čista Velika,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669046,22215,55,HR,730,15,,Zaton,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669047,22221,55,HR,730,15,,Lozovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669048,22222,55,HR,730,15,,Skradin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669049,22232,55,HR,730,15,,Zlarin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669050,22233,55,HR,730,15,,Prvić Luka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669051,22234,55,HR,730,15,,Prvić Šepurine,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669052,22235,55,HR,730,15,,Kaprije,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669053,22236,55,HR,730,15,,Žirje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669054,22240,55,HR,730,15,,Tisno,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669055,22242,55,HR,730,15,,Jezera,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669056,22243,55,HR,730,15,,Murter,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669057,22244,55,HR,730,15,,Betina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669058,22300,55,HR,730,15,,Knin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669059,22301,55,HR,730,15,,Golubić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669060,22303,55,HR,730,15,,Oklaj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669061,22305,55,HR,730,15,,Kistanje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669062,22310,55,HR,730,15,,Kijevo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669063,22320,55,HR,730,15,,Drniš,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669064,22321,55,HR,730,15,,Siverić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669065,22322,55,HR,730,15,,Ružić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669066,22323,55,HR,730,15,,Unešić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669067,22324,55,HR,730,15,,Drinovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669068,23000,55,HR,727,13,,Zadar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669069,23205,55,HR,727,13,,Bibinje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669070,23206,55,HR,727,13,,Sukošan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669071,23207,55,HR,727,13,,Sveti Filip i Jakov,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669072,23210,55,HR,727,13,,Biograd na moru,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669073,23211,55,HR,727,13,,Pakoštane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669074,23212,55,HR,727,13,,Tkon,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669075,23222,55,HR,727,13,,Zemunik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669076,23223,55,HR,727,13,,Škabrnja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669077,23226,55,HR,727,13,,Pridraga,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669078,23231,55,HR,727,13,,Petrčane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669079,23232,55,HR,727,13,,Nin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669080,23233,55,HR,727,13,,Privlaka (Dalmacija),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669081,23234,55,HR,727,13,,Vir,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669082,23235,55,HR,727,13,,Vrsi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669083,23241,55,HR,727,13,,Poličnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669084,23242,55,HR,727,13,,Posedarje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669085,23243,55,HR,727,13,,Jasenice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669086,23244,55,HR,727,13,,Starigrad Paklenica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669087,23245,55,HR,727,13,,Tribanj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669088,23247,55,HR,727,13,,Vinjerac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669089,23248,55,HR,727,13,,Ražanac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669090,23249,55,HR,727,13,,Povljana,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669091,23250,55,HR,727,13,,Pag,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669092,23251,55,HR,727,13,,Kolan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669093,23262,55,HR,727,13,,Pašman,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669094,23263,55,HR,727,13,,Ždrelac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669095,23264,55,HR,727,13,,Neviđane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669096,23271,55,HR,727,13,,Kukljica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669097,23272,55,HR,727,13,,Kali,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669098,23273,55,HR,727,13,,Preko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669099,23274,55,HR,727,13,,Lukoran,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669100,23275,55,HR,727,13,,Ugljan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669101,23281,55,HR,727,13,,Sali,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669102,23282,55,HR,727,13,,Žman,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669103,23283,55,HR,727,13,,Rava,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669104,23284,55,HR,727,13,,Veli Iž,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669105,23285,55,HR,727,13,,Brbinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669106,23286,55,HR,727,13,,Božava,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669107,23287,55,HR,727,13,,Veli Rat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669108,23291,55,HR,727,13,,Sestrunj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669109,23292,55,HR,727,13,,Molat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669110,23293,55,HR,727,13,,Ist,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669111,23294,55,HR,727,13,,Premuda,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669112,23295,55,HR,727,13,,Silba,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669113,23296,55,HR,727,13,,Olib,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669114,23312,55,HR,727,13,,Novigrad (Dalmacija),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669115,23420,55,HR,727,13,,Benkovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669116,23422,55,HR,727,13,,Stankovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669117,23423,55,HR,727,13,,Polača,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669118,23440,55,HR,727,13,,Gračac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669119,23445,55,HR,727,13,,Srb,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669120,23450,55,HR,727,13,,Obrovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669121,23452,55,HR,727,13,,Karin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669122,31000,55,HR,740,14,,Osijek,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669123,31204,55,HR,740,14,,Bijelo Brdo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669124,31205,55,HR,740,14,,Aljmaš,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669125,31206,55,HR,740,14,,Erdut,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669126,31207,55,HR,740,14,,Tenja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669127,31208,55,HR,740,14,,Petrijevci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669128,31214,55,HR,740,14,,Laslovo (Szentlászló),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669129,31215,55,HR,740,14,,Ernestinovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669130,31216,55,HR,740,14,,Antunovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669131,31220,55,HR,740,14,,Višnjevac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669132,31221,55,HR,740,14,,Josipovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669133,31222,55,HR,740,14,,Bizovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669134,31223,55,HR,740,14,,Brođanci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669135,31224,55,HR,740,14,,Koška,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669136,31225,55,HR,740,14,,Breznica Našička,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669137,31226,55,HR,740,14,,Dalj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669138,31227,55,HR,740,14,,Zelčin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669139,31300,55,HR,740,14,,Beli Manastir,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669140,31301,55,HR,740,14,,Branjin Vrh,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669141,31302,55,HR,740,14,,Kneževo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669142,31303,55,HR,740,14,,Popovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669143,31304,55,HR,740,14,,Duboševica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669144,31305,55,HR,740,14,,Draž,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669145,31306,55,HR,740,14,,Batina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669146,31307,55,HR,740,14,,Zmajevac (Vörösmart),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669147,31308,55,HR,740,14,,Suza (Csúza),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669148,31309,55,HR,740,14,,Kneževi Vinogradi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669149,31315,55,HR,740,14,,Karanac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669150,31321,55,HR,740,14,,Petlovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669151,31322,55,HR,740,14,,Baranjsko Petrovo Selo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669152,31323,55,HR,740,14,,Bolman,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669153,31324,55,HR,740,14,,Jagodnjak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669154,31325,55,HR,740,14,,Čeminac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669155,31326,55,HR,740,14,,Darda,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669156,31327,55,HR,740,14,,Bilje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669157,31328,55,HR,740,14,,Lug (Laskó),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669158,31400,55,HR,740,14,,Đakovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669159,31401,55,HR,740,14,,Viškovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669160,31402,55,HR,740,14,,Semeljci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669161,31403,55,HR,740,14,,Vuka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669162,31404,55,HR,740,14,,Vladislavci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669163,31410,55,HR,740,14,,Strizivojna,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669164,31411,55,HR,740,14,,Trnava,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669165,31415,55,HR,740,14,,Selci Đakovački,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669166,31416,55,HR,740,14,,Levanjska Varoš,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669167,31417,55,HR,740,14,,Piškorevci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669168,31418,55,HR,740,14,,Drenje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669169,31421,55,HR,740,14,,Satnica Đakovačka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669170,31422,55,HR,740,14,,Gorjani,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669171,31423,55,HR,740,14,,Bračevci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669172,31424,55,HR,740,14,,Punitovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669173,31431,55,HR,740,14,,Čepin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669174,31432,55,HR,740,14,,Budimci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669175,31433,55,HR,740,14,,Podgorač,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669176,31500,55,HR,740,14,,Našice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669177,31511,55,HR,740,14,,Đurđenovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669178,31512,55,HR,740,14,,Feričanci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669179,31513,55,HR,740,14,,Donja Motičina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669180,31530,55,HR,740,14,,Podravska Moslavina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669181,31531,55,HR,740,14,,Viljevo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669182,31540,55,HR,740,14,,Donji Miholjac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669183,31542,55,HR,740,14,,Magadenovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669184,31543,55,HR,740,14,,Miholjački Poreč,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669185,31550,55,HR,740,14,,Valpovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669186,31551,55,HR,740,14,,Belišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669187,31552,55,HR,740,14,,Podgajci Podravski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669188,31553,55,HR,740,14,,Črnkovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669189,31554,55,HR,740,14,,Gat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669190,31555,55,HR,740,14,,Marijanci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669191,32000,55,HR,741,16,,Vukovar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669192,32010,55,HR,741,16,,Vukovar - Lipovača,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669193,32100,55,HR,741,16,,Vinkovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669194,32211,55,HR,741,16,,Ostrovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669195,32212,55,HR,741,16,,Gaboš,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669196,32213,55,HR,741,16,,Markušica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669197,32214,55,HR,741,16,,Tordinci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669198,32221,55,HR,741,16,,Nuštar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669199,32222,55,HR,741,16,,Bršadin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669200,32224,55,HR,741,16,,Trpinja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669201,32225,55,HR,741,16,,Bobota,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669202,32227,55,HR,741,16,,Borovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669203,32229,55,HR,741,16,,Petrovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669204,32232,55,HR,741,16,,Sotin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669205,32233,55,HR,741,16,,Opatovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669206,32234,55,HR,741,16,,Šarengrad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669207,32235,55,HR,741,16,,Bapska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669208,32236,55,HR,741,16,,Ilok,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669209,32237,55,HR,741,16,,Lovas,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669210,32238,55,HR,741,16,,Čakovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669211,32239,55,HR,741,16,,Negoslavci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669212,32241,55,HR,741,16,,Stari Jankovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669213,32242,55,HR,741,16,,Slakovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669214,32243,55,HR,741,16,,Orolik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669215,32244,55,HR,741,16,,Đeletovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669216,32245,55,HR,741,16,,Nijemci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669217,32246,55,HR,741,16,,Lipovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669218,32247,55,HR,741,16,,Banovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669219,32248,55,HR,741,16,,Ilača,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669220,32249,55,HR,741,16,,Tovarnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669221,32251,55,HR,741,16,,Privlaka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669222,32252,55,HR,741,16,,Otok,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669223,32253,55,HR,741,16,,Komletinci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669224,32254,55,HR,741,16,,Vrbanja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669225,32255,55,HR,741,16,,Soljani,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669226,32256,55,HR,741,16,,Strošinci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669227,32257,55,HR,741,16,,Drenovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669228,32258,55,HR,741,16,,Posavski Podgajci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669229,32260,55,HR,741,16,,Gunja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669230,32261,55,HR,741,16,,Rajevo Selo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669231,32262,55,HR,741,16,,Račinovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669232,32263,55,HR,741,16,,Đurići,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669233,32270,55,HR,741,16,,Županja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669234,32271,55,HR,741,16,,Rokovci Andrijaševci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669235,32272,55,HR,741,16,,Cerna,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669236,32273,55,HR,741,16,,Gradište,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669237,32274,55,HR,741,16,,Štitar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669238,32275,55,HR,741,16,,Bošnjaci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669239,32276,55,HR,741,16,,Babina Greda,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669240,32280,55,HR,741,16,,Jarmina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669241,32281,55,HR,741,16,,Ivankovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669242,32282,55,HR,741,16,,Retkovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669243,32283,55,HR,741,16,,Vođinci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669244,32284,55,HR,741,16,,Stari Mikanovci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669245,33000,55,HR,732,10,,Virovitica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669246,33404,55,HR,732,10,,Špišić Bukovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669247,33405,55,HR,732,10,,Pitomača,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669248,33406,55,HR,732,10,,Lukač,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669249,33407,55,HR,732,10,,Gornje Bazje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669250,33410,55,HR,732,10,,Suhopolje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669251,33411,55,HR,732,10,,Gradina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669252,33412,55,HR,732,10,,Cabuna,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669253,33507,55,HR,732,10,,Crnac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669254,33513,55,HR,732,10,,Zdenci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669255,33514,55,HR,732,10,,Čačinci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669256,33515,55,HR,732,10,,Orahovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669257,33517,55,HR,732,10,,Mikleuš,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669258,33518,55,HR,732,10,,Nova Bukovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669259,33520,55,HR,732,10,,Slatina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669260,33522,55,HR,732,10,,Voćin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669261,33523,55,HR,732,10,,Čađavica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669262,33525,55,HR,732,10,,Sopje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669263,33533,55,HR,732,10,,Pivnica Slavonska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669264,34000,55,HR,724,11,,Požega,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669265,34308,55,HR,724,11,,Jakšić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669266,34310,55,HR,724,11,,Pleternica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669267,34311,55,HR,724,11,,Kuzmica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669268,34312,55,HR,724,11,,Sesvete (kod Požege),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669269,34315,55,HR,724,11,,Ratkovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669270,34322,55,HR,724,11,,Brestovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669271,34330,55,HR,724,11,,Velika,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669272,34334,55,HR,724,11,,Kaptol,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669273,34335,55,HR,724,11,,Vetovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669274,34340,55,HR,724,11,,Kutjevo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669275,34343,55,HR,724,11,,Bektež,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669276,34350,55,HR,724,11,,Čaglin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669277,34543,55,HR,724,11,,Poljana,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669278,34550,55,HR,724,11,,Pakrac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669279,34551,55,HR,724,11,,Lipik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669280,34552,55,HR,724,11,,Badljevina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669281,34553,55,HR,724,11,,Bučje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669282,35000,55,HR,737,12,,Slavonski Brod,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669283,35105,55,HR,737,12,,Slavonski Brod,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669284,35106,55,HR,737,12,,Slavonski Brod,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669285,35107,55,HR,737,12,,Podvinje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669286,35201,55,HR,737,12,,Podcrkavlje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669287,35207,55,HR,737,12,,Gornja Vrba,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669288,35208,55,HR,737,12,,Ruščica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669289,35209,55,HR,737,12,,Bukovlje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669290,35210,55,HR,737,12,,Vrpolje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669291,35211,55,HR,737,12,,Trnjani,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669292,35212,55,HR,737,12,,Garčin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669293,35213,55,HR,737,12,,Oprisavci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669294,35214,55,HR,737,12,,Donji Andrijevci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669295,35216,55,HR,737,12,,Prnjavor,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669296,35220,55,HR,737,12,,Slavonski Šamac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669297,35221,55,HR,737,12,,Velika Kopanica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669298,35222,55,HR,737,12,,Gundinci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669299,35224,55,HR,737,12,,Sikirevci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669300,35250,55,HR,737,12,,Oriovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669301,35252,55,HR,737,12,,Sibinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669302,35253,55,HR,737,12,,Brodski Stupnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669303,35254,55,HR,737,12,,Bebrina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669304,35255,55,HR,737,12,,Slavonski Kobaš,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669305,35257,55,HR,737,12,,Lužani,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669306,35400,55,HR,737,12,,Nova Gradiška,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669307,35403,55,HR,737,12,,Rešetari,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669308,35404,55,HR,737,12,,Cernik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669309,35410,55,HR,737,12,,Nova Kapela,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669310,35414,55,HR,737,12,,Vrbova,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669311,35420,55,HR,737,12,,Staro Petrovo Selo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669312,35422,55,HR,737,12,,Zapolje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669313,35423,55,HR,737,12,,Vrbje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669314,35424,55,HR,737,12,,Orubica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669315,35425,55,HR,737,12,,Davor,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669316,35428,55,HR,737,12,,Dragalić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669317,35429,55,HR,737,12,,Gornji Bogićevci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669318,35430,55,HR,737,12,,Okučani,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669319,35435,55,HR,737,12,,Stara Gradiška,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669320,40000,55,HR,726,20,,Čakovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669321,40305,55,HR,726,20,,Nedelišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669322,40306,55,HR,726,20,,Macinec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669323,40311,55,HR,726,20,,Lopatinec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669324,40312,55,HR,726,20,,Štrigova,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669325,40313,55,HR,726,20,,Sveti Martin na Muri,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669326,40314,55,HR,726,20,,Selnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669327,40315,55,HR,726,20,,Mursko Središče,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669328,40317,55,HR,726,20,,Podturen,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669329,40318,55,HR,726,20,,Dekanovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669330,40319,55,HR,726,20,,Belica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669331,40320,55,HR,726,20,,Donji Kraljevec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669332,40321,55,HR,726,20,,Mala Subotica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669333,40322,55,HR,726,20,,Orehovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669334,40323,55,HR,726,20,,Prelog,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669335,40324,55,HR,726,20,,Goričan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669336,40325,55,HR,726,20,,Draškovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669337,40326,55,HR,726,20,,Sveta Marija,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669338,40327,55,HR,726,20,,Donji Vidovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669339,40328,55,HR,726,20,,Donja Dubrava,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669340,40329,55,HR,726,20,,Kotoriba,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669341,42000,55,HR,739,05,,Varaždin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669342,42201,55,HR,739,05,,Beretinec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669343,42202,55,HR,739,05,,Trnovec Bartolovečki,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669344,42203,55,HR,739,05,,Jalžabet,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669345,42204,55,HR,739,05,,Turčin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669346,42205,55,HR,739,05,,Vidovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669347,42206,55,HR,739,05,,Petrijanec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669348,42207,55,HR,739,05,,Vinica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669349,42208,55,HR,739,05,,Cestica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669350,42209,55,HR,739,05,,Sračinec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669351,42214,55,HR,739,05,,Sveti Ilija,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669352,42220,55,HR,739,05,,Novi Marof,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669353,42222,55,HR,739,05,,Ljubeščica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669354,42223,55,HR,739,05,,Varaždinske Toplice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669355,42225,55,HR,739,05,,Breznički Hum,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669356,42230,55,HR,739,05,,Ludbreg,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669357,42231,55,HR,739,05,,Mali Bukovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669358,42232,55,HR,739,05,,Donji Martijanec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669359,42233,55,HR,739,05,,Sveti Đurđ,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669360,42240,55,HR,739,05,,Ivanec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669361,42242,55,HR,739,05,,Radovan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669362,42243,55,HR,739,05,,Maruševec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669363,42244,55,HR,739,05,,Klenovnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669364,42245,55,HR,739,05,,Donja Voća,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669365,42250,55,HR,739,05,,Lepoglava,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669366,42253,55,HR,739,05,,Bednja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669367,42254,55,HR,739,05,,Trakošćan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669368,42255,55,HR,739,05,,Donja Višnjica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669369,43000,55,HR,734,07,,Bjelovar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669370,43202,55,HR,734,07,,Zrinski Topolovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669371,43203,55,HR,734,07,,Kapela,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669372,43211,55,HR,734,07,,Predavac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669373,43212,55,HR,734,07,,Rovišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669374,43226,55,HR,734,07,,Veliko Trojstvo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669375,43227,55,HR,734,07,,Šandrovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669376,43231,55,HR,734,07,,Ivanska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669377,43232,55,HR,734,07,,Berek,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669378,43233,55,HR,734,07,,Trnovitički Popovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669379,43240,55,HR,734,07,,Čazma,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669380,43246,55,HR,734,07,,Štefanje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669381,43247,55,HR,734,07,,Narta,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669382,43251,55,HR,734,07,,Gudovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669383,43252,55,HR,734,07,,Prgomelje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669384,43270,55,HR,734,07,,Veliki Grđevac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669385,43272,55,HR,734,07,,Nova Rača,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669386,43273,55,HR,734,07,,Bulinac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669387,43274,55,HR,734,07,,Severin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669388,43280,55,HR,734,07,,Garešnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669389,43282,55,HR,734,07,,Veliko Vukovje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669390,43283,55,HR,734,07,,Kaniška Iva,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669391,43284,55,HR,734,07,,Hercegovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669392,43290,55,HR,734,07,,Grubišno Polje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669393,43293,55,HR,734,07,,Veliki Zdenci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669394,43500,55,HR,734,07,,Daruvar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669395,43505,55,HR,734,07,,Končanica (Končenice),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669396,43506,55,HR,734,07,,Dežanovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669397,43507,55,HR,734,07,,Uljanik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669398,43531,55,HR,734,07,,Veliki Bastaji,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669399,43532,55,HR,734,07,,Đulovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669400,43541,55,HR,734,07,,Sirač,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669401,44000,55,HR,733,03,,Sisak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669402,44010,55,HR,733,03,,Sisak-Caprag,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669403,44201,55,HR,733,03,,Martinska Ves,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669404,44202,55,HR,733,03,,Topolovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669405,44203,55,HR,733,03,,Gušće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669406,44204,55,HR,733,03,,Jabukovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669407,44210,55,HR,733,03,,Sunja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669408,44211,55,HR,733,03,,Blinjski Kut,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669409,44213,55,HR,733,03,,Kratečko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669410,44250,55,HR,733,03,,Petrinja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669411,44253,55,HR,733,03,,Mošćenica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669412,44272,55,HR,733,03,,Lekenik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669413,44273,55,HR,733,03,,Sela,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669414,44316,55,HR,733,03,,Velika Ludina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669415,44317,55,HR,733,03,,Popovača,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669416,44318,55,HR,733,03,,Voloder,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669417,44320,55,HR,733,03,,Kutina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669418,44321,55,HR,733,03,,Banova Jaruga,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669419,44322,55,HR,733,03,,Lipovljani,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669420,44323,55,HR,733,03,,Rajić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669421,44324,55,HR,733,03,,Jasenovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669422,44325,55,HR,733,03,,Krapje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669423,44330,55,HR,733,03,,Novska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669424,44400,55,HR,733,03,,Glina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669425,44410,55,HR,733,03,,Gvozd,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669426,44415,55,HR,733,03,,Topusko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669427,44430,55,HR,733,03,,Hrvatska Kostajnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669428,44431,55,HR,733,03,,Donji Kukuruzari,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669429,44435,55,HR,733,03,,Divuša,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669430,44440,55,HR,733,03,,Dvor,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669431,44450,55,HR,733,03,,Hrvatska Dubica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669432,47000,55,HR,5069,04,,Karlovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669433,47201,55,HR,5069,04,,Draganići,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669434,47203,55,HR,5069,04,,Rečica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669435,47204,55,HR,5069,04,,Šišljavić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669436,47206,55,HR,5069,04,,Lasinja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669437,47212,55,HR,5069,04,,Skakavac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669438,47220,55,HR,5069,04,,Vojnić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669439,47222,55,HR,5069,04,,Cetingrad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669440,47240,55,HR,5069,04,,Slunj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669441,47241,55,HR,5069,04,,Cerovac Vukmanički,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669442,47242,55,HR,5069,04,,Krnjak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669443,47245,55,HR,5069,04,,Rakovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669444,47246,55,HR,5069,04,,Drežnik Grad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669445,47250,55,HR,5069,04,,Duga Resa,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669446,47251,55,HR,5069,04,,Bosiljevo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669447,47252,55,HR,5069,04,,Barilović,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669448,47261,55,HR,5069,04,,Zvečaj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669449,47262,55,HR,5069,04,,Generalski Stol,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669450,47264,55,HR,5069,04,,Tounj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669451,47271,55,HR,5069,04,,Netretić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669452,47272,55,HR,5069,04,,Ribnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669453,47276,55,HR,5069,04,,Žakanje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669454,47280,55,HR,5069,04,,Ozalj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669455,47281,55,HR,5069,04,,Mali Erjavec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669456,47282,55,HR,5069,04,,Kamanje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669457,47283,55,HR,5069,04,,Vivodina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669458,47284,55,HR,5069,04,,Kašt,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669459,47285,55,HR,5069,04,,Radatovići,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669460,47286,55,HR,5069,04,,Mahično,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669461,47300,55,HR,5069,04,,Ogulin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669462,47302,55,HR,5069,04,,Oštarije,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669463,47303,55,HR,5069,04,,Josipdol,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669464,47304,55,HR,5069,04,,Plaški,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669465,47306,55,HR,5069,04,,Saborsko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669466,47307,55,HR,5069,04,,Gornje Zagorje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669467,47313,55,HR,5069,04,,Drežnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669468,47314,55,HR,5069,04,,Jasenak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669469,48000,55,HR,742,06,,Koprivnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669470,48214,55,HR,742,06,,Sveti Ivan Žabno,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669471,48260,55,HR,742,06,,Križevci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669472,48264,55,HR,742,06,,Kloštar Vojakovački,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669473,48265,55,HR,742,06,,Raven,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669474,48267,55,HR,742,06,,Orehovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669475,48268,55,HR,742,06,,Gornja Rijeka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669476,48269,55,HR,742,06,,Kalnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669477,48306,55,HR,742,06,,Sokolovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669478,48311,55,HR,742,06,,Kunovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669479,48312,55,HR,742,06,,Rasinja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669480,48314,55,HR,742,06,,Koprivnički Ivanec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669481,48316,55,HR,742,06,,Đelekovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669482,48317,55,HR,742,06,,Legrad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669483,48321,55,HR,742,06,,Peteranec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669484,48322,55,HR,742,06,,Drnje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669485,48323,55,HR,742,06,,Hlebine,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669486,48325,55,HR,742,06,,Novigrad Podravski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669487,48326,55,HR,742,06,,Virje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669488,48327,55,HR,742,06,,Molve,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669489,48331,55,HR,742,06,,Gola,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669490,48332,55,HR,742,06,,Ždala,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669491,48350,55,HR,742,06,,Đurđevac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669492,48355,55,HR,742,06,,Novo Virje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669493,48356,55,HR,742,06,,Ferdinandovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669494,48361,55,HR,742,06,,Kalinovac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669495,48362,55,HR,742,06,,Kloštar Podravski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669496,48363,55,HR,742,06,,Podravske Sesvete,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669497,49000,55,HR,729,02,,Krapina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669498,49210,55,HR,729,02,,Zabok,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669499,49214,55,HR,729,02,,Veliko Trgovišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669500,49215,55,HR,729,02,,Tuhelj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669501,49216,55,HR,729,02,,Desinić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669502,49217,55,HR,729,02,,Krapinske Toplice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669503,49218,55,HR,729,02,,Pregrada,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669504,49221,55,HR,729,02,,Bedekovčina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669505,49222,55,HR,729,02,,Poznanovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669506,49223,55,HR,729,02,,Sveti Križ Začretje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669507,49224,55,HR,729,02,,Lepajci,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669508,49225,55,HR,729,02,,Đurmanec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669509,49228,55,HR,729,02,,Brestovec Orehovički,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669510,49231,55,HR,729,02,,Hum na Sutli,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669511,49232,55,HR,729,02,,Radoboj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669512,49233,55,HR,729,02,,Gornje Jesenje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669513,49234,55,HR,729,02,,Petrovsko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669514,49240,55,HR,729,02,,Donja Stubica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669515,49243,55,HR,729,02,,Oroslavje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669516,49244,55,HR,729,02,,Stubičke Toplice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669517,49245,55,HR,729,02,,Gornja Stubica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669518,49246,55,HR,729,02,,Marija Bistrica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669519,49247,55,HR,729,02,,Zlatar Bistrica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669520,49250,55,HR,729,02,,Zlatar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669521,49251,55,HR,729,02,,Mače,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669522,49252,55,HR,729,02,,Mihovljan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669523,49253,55,HR,729,02,,Lobor,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669524,49254,55,HR,729,02,,Belec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669525,49255,55,HR,729,02,,Novi Golubovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669526,49282,55,HR,729,02,,Konjščina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669527,49283,55,HR,729,02,,Hraščina-Trgovišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669528,49284,55,HR,729,02,,Budinšćina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669529,49290,55,HR,729,02,,Klanjec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669530,49294,55,HR,729,02,,Kraljevec na Sutli,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669531,49295,55,HR,729,02,,Kumrovec,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669532,49296,55,HR,729,02,,Zagorska Sela,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669533,51000,55,HR,735,08,,Rijeka,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669534,51211,55,HR,735,08,,Matulji,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669535,51212,55,HR,735,08,,Vele Mune,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669536,51213,55,HR,735,08,,Jurdani,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669537,51214,55,HR,735,08,,Šapjane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669538,51215,55,HR,735,08,,Kastav,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669539,51216,55,HR,735,08,,Viškovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669540,51217,55,HR,735,08,,Klana,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669541,51218,55,HR,735,08,,Dražice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669542,51221,55,HR,735,08,,Kostrena,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669543,51222,55,HR,735,08,,Bakar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669544,51223,55,HR,735,08,,Škrljevo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669545,51224,55,HR,735,08,,Krasica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669546,51225,55,HR,735,08,,Praputnjak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669547,51226,55,HR,735,08,,Hreljin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669548,51227,55,HR,735,08,,Kukuljanovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669549,51241,55,HR,735,08,,Križišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669550,51242,55,HR,735,08,,Drivenik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669551,51243,55,HR,735,08,,Tribalj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669552,51244,55,HR,735,08,,Grižane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669553,51250,55,HR,735,08,,Novi Vinodolski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669554,51251,55,HR,735,08,,Ledenice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669555,51252,55,HR,735,08,,Klenovica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669556,51253,55,HR,735,08,,Bribir,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669557,51260,55,HR,735,08,,Crikvenica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669558,51261,55,HR,735,08,,Bakarac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669559,51262,55,HR,735,08,,Kraljevica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669560,51263,55,HR,735,08,,Šmrika,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669561,51264,55,HR,735,08,,Jadranovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669562,51265,55,HR,735,08,,Dramalj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669563,51266,55,HR,735,08,,Selce,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669564,51280,55,HR,735,08,,Rab,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669565,51281,55,HR,735,08,,Lopar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669566,51300,55,HR,735,08,,Delnice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669567,51301,55,HR,735,08,,Brod na Kupi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669568,51302,55,HR,735,08,,Kuželj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669569,51303,55,HR,735,08,,Plešce,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669570,51304,55,HR,735,08,,Gerovo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669571,51305,55,HR,735,08,,Tršće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669572,51306,55,HR,735,08,,Čabar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669573,51307,55,HR,735,08,,Prezid,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669574,51311,55,HR,735,08,,Skrad,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669575,51312,55,HR,735,08,,Brod Moravice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669576,51313,55,HR,735,08,,Kupjak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669577,51314,55,HR,735,08,,Ravna Gora,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669578,51315,55,HR,735,08,,Mrkopalj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669579,51316,55,HR,735,08,,Lokve,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669580,51317,55,HR,735,08,,Crni Lug,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669581,51322,55,HR,735,08,,Fužine,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669582,51323,55,HR,735,08,,Lič,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669583,51324,55,HR,735,08,,Zlobin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669584,51325,55,HR,735,08,,Moravice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669585,51326,55,HR,735,08,,Vrbovsko,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669586,51327,55,HR,735,08,,Gomirje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669587,51328,55,HR,735,08,,Lukovdol,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669588,51329,55,HR,735,08,,Severin na Kupi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669589,51410,55,HR,735,08,,Opatija,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669590,51414,55,HR,735,08,,Ičići,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669591,51415,55,HR,735,08,,Lovran,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669592,51417,55,HR,735,08,,Mošćenička Draga,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669593,51418,55,HR,735,08,,Brseč,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669594,51500,55,HR,735,08,,Krk,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669595,51511,55,HR,735,08,,Malinska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669596,51512,55,HR,735,08,,Njivice,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669597,51513,55,HR,735,08,,Omišalj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669598,51514,55,HR,735,08,,Dobrinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669599,51515,55,HR,735,08,,Šilo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669600,51516,55,HR,735,08,,Vrbnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669601,51517,55,HR,735,08,,Kornić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669602,51521,55,HR,735,08,,Punat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669603,51522,55,HR,735,08,,Draga Bašćanska,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669604,51523,55,HR,735,08,,Baška,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669605,51550,55,HR,735,08,,Mali Lošinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669606,51551,55,HR,735,08,,Veli Lošinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669607,51552,55,HR,735,08,,Ilovik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669608,51554,55,HR,735,08,,Nerezine,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669609,51555,55,HR,735,08,,Belej,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669610,51556,55,HR,735,08,,Martinšćica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669611,51557,55,HR,735,08,,Cres,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669612,51559,55,HR,735,08,,Beli,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669613,51561,55,HR,735,08,,Susak,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669614,51562,55,HR,735,08,,Unije,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669615,51564,55,HR,735,08,,Ćunski,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669616,52000,55,HR,743,18,,Pazin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669617,52100,55,HR,743,18,,Pula (Pola),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669618,52203,55,HR,743,18,,Medulin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669619,52204,55,HR,743,18,,Ližnjan (Lisignano),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669620,52206,55,HR,743,18,,Marčana,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669621,52207,55,HR,743,18,,Barban,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669622,52208,55,HR,743,18,,Krnica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669623,52210,55,HR,743,18,,Rovinj (Rovigno),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669624,52211,55,HR,743,18,,Bale (Valle),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669625,52212,55,HR,743,18,,Fažana (Fasana),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669626,52215,55,HR,743,18,,Vodnjan (Dignano),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669627,52216,55,HR,743,18,,Galižana (Gallesano),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669628,52220,55,HR,743,18,,Labin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669629,52221,55,HR,743,18,,Rabac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669630,52222,55,HR,743,18,,Koromačno,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669631,52223,55,HR,743,18,,Raša,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669632,52224,55,HR,743,18,,Trget,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669633,52231,55,HR,743,18,,Nedešćina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669634,52232,55,HR,743,18,,Kršan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669635,52233,55,HR,743,18,,Šušnjevica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669636,52234,55,HR,743,18,,Plomin,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669637,52332,55,HR,743,18,,Pićan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669638,52333,55,HR,743,18,,Podpićan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669639,52341,55,HR,743,18,,Žminj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669640,52342,55,HR,743,18,,Svetvinčenat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669641,52352,55,HR,743,18,,Kanfanar,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669642,52402,55,HR,743,18,,Cerovlje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669643,52403,55,HR,743,18,,Gračišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669644,52404,55,HR,743,18,,Sveti Petar u šumi,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669645,52420,55,HR,743,18,,Buzet,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669646,52422,55,HR,743,18,,Lanišće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669647,52423,55,HR,743,18,,Karojba,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669648,52424,55,HR,743,18,,Motovun (Montana),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669649,52425,55,HR,743,18,,Roč,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669650,52426,55,HR,743,18,,Lupoglav,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669651,52427,55,HR,743,18,,Livade (Levade),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669652,52428,55,HR,743,18,,Oprtalj (Portole),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669653,52429,55,HR,743,18,,Grožnjan (Grisignana),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669654,52434,55,HR,743,18,,Boljun,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669655,52440,55,HR,743,18,,Poreč (Parenzo),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669656,52444,55,HR,743,18,,Tinjan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669657,52445,55,HR,743,18,,Baderna,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669658,52446,55,HR,743,18,,Nova Vas,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669659,52447,55,HR,743,18,,Vižinada (Visinada),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669660,52448,55,HR,743,18,,Sveti Lovreč,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669661,52449,55,HR,743,18,,Červar Porat,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669662,52450,55,HR,743,18,,Vrsar (Orsera),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669663,52452,55,HR,743,18,,Funtana (Fontane),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669664,52460,55,HR,743,18,,Buje (Buie),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669665,52462,55,HR,743,18,,Momjan (Momiano),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669666,52463,55,HR,743,18,,Višnjan (Visignano),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669667,52464,55,HR,743,18,,Kaštelir (Castelliere),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669668,52465,55,HR,743,18,,Tar (Torre),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669669,52466,55,HR,743,18,,Novigrad (Cittanova),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669670,52470,55,HR,743,18,,Umag (Umago),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669671,52474,55,HR,743,18,,Brtonigla (Verteneglio),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669672,52475,55,HR,743,18,,Savudrija (Salvore),full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669673,53000,55,HR,731,09,,Gospić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669674,53201,55,HR,731,09,,Lički Osik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669675,53202,55,HR,731,09,,Perušić,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669676,53203,55,HR,731,09,,Kosinj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669677,53206,55,HR,731,09,,Brušane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669678,53211,55,HR,731,09,,Smiljan,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669679,53212,55,HR,731,09,,Klanac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669680,53213,55,HR,731,09,,Donje Pazarište,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669681,53220,55,HR,731,09,,Otočac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669682,53223,55,HR,731,09,,Vrhovine,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669683,53224,55,HR,731,09,,Ličko Lešće,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669684,53230,55,HR,731,09,,Korenica,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669685,53231,55,HR,731,09,,Plitvička Jezera,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669686,53233,55,HR,731,09,,Ličko Petrovo Selo,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669687,53234,55,HR,731,09,,Udbina,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669688,53236,55,HR,731,09,,Podlapača,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669689,53244,55,HR,731,09,,Lovinac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669690,53250,55,HR,731,09,,Donji Lapac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669691,53260,55,HR,731,09,,Brinje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669692,53261,55,HR,731,09,,Križpolje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669693,53262,55,HR,731,09,,Jezerane,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669694,53270,55,HR,731,09,,Senj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669695,53271,55,HR,731,09,,Krivi Put,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669696,53273,55,HR,731,09,,Vratnik,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669697,53274,55,HR,731,09,,Krasno,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669698,53284,55,HR,731,09,,Sveti Juraj,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669699,53287,55,HR,731,09,,Jablanac,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669700,53288,55,HR,731,09,,Karlobag,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669701,53289,55,HR,731,09,,Lukovo Šugarje,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669702,53291,55,HR,731,09,,Novalja,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669703,53294,55,HR,731,09,,Lun,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669704,53296,55,HR,731,09,,Zubovići,full,,,hrvatska-posta-via-mislavcimpersak,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

@@ -1,0 +1,4 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+305340,96950,164,MP,,,,Saipan,full,,,manual,,2026-04-28T06:49:08,2026-04-28T06:49:08,1
+305341,96951,164,MP,,,,Rota,full,,,manual,,2026-04-28T06:49:08,2026-04-28T06:49:08,1
+305342,96952,164,MP,,,,Tinian,full,,,manual,,2026-04-28T06:49:08,2026-04-28T06:49:08,1

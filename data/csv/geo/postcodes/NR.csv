@@ -1,0 +1,2 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+820801,NRU68,153,NR,,,,Nauru,full,,,wikipedia-singleton-territory,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

@@ -1,0 +1,263 @@
+[
+  {
+    "code": "en",
+    "iso639_2": "eng",
+    "name": "English",
+    "native_name": "English",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "hi",
+    "iso639_2": "hin",
+    "name": "Hindi",
+    "native_name": "हिन्दी",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "bn",
+    "iso639_2": "ben",
+    "name": "Bengali",
+    "native_name": "বাংলা",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "te",
+    "iso639_2": "tel",
+    "name": "Telugu",
+    "native_name": "తెలుగు",
+    "direction": "ltr",
+    "family": "Dravidian",
+    "is_active": 1
+  },
+  {
+    "code": "mr",
+    "iso639_2": "mar",
+    "name": "Marathi",
+    "native_name": "मराठी",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "ta",
+    "iso639_2": "tam",
+    "name": "Tamil",
+    "native_name": "தமிழ்",
+    "direction": "ltr",
+    "family": "Dravidian",
+    "is_active": 1
+  },
+  {
+    "code": "ur",
+    "iso639_2": "urd",
+    "name": "Urdu",
+    "native_name": "اردو",
+    "direction": "rtl",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "gu",
+    "iso639_2": "guj",
+    "name": "Gujarati",
+    "native_name": "ગુજરાતી",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "kn",
+    "iso639_2": "kan",
+    "name": "Kannada",
+    "native_name": "ಕನ್ನಡ",
+    "direction": "ltr",
+    "family": "Dravidian",
+    "is_active": 1
+  },
+  {
+    "code": "ml",
+    "iso639_2": "mal",
+    "name": "Malayalam",
+    "native_name": "മലയാളം",
+    "direction": "ltr",
+    "family": "Dravidian",
+    "is_active": 1
+  },
+  {
+    "code": "pa",
+    "iso639_2": "pan",
+    "name": "Punjabi",
+    "native_name": "ਪੰਜਾਬੀ",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "or",
+    "iso639_2": "ori",
+    "name": "Odia",
+    "native_name": "ଓଡ଼ିଆ",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "as",
+    "iso639_2": "asm",
+    "name": "Assamese",
+    "native_name": "অসমীয়া",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "ar",
+    "iso639_2": "ara",
+    "name": "Arabic",
+    "native_name": "العربية",
+    "direction": "rtl",
+    "family": "Afro-Asiatic",
+    "is_active": 1
+  },
+  {
+    "code": "zh",
+    "iso639_2": "zho",
+    "name": "Chinese",
+    "native_name": "中文",
+    "direction": "ltr",
+    "family": "Sino-Tibetan",
+    "is_active": 1
+  },
+  {
+    "code": "ja",
+    "iso639_2": "jpn",
+    "name": "Japanese",
+    "native_name": "日本語",
+    "direction": "ltr",
+    "family": "Japonic",
+    "is_active": 1
+  },
+  {
+    "code": "ko",
+    "iso639_2": "kor",
+    "name": "Korean",
+    "native_name": "한국어",
+    "direction": "ltr",
+    "family": "Koreanic",
+    "is_active": 1
+  },
+  {
+    "code": "fr",
+    "iso639_2": "fra",
+    "name": "French",
+    "native_name": "Français",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "de",
+    "iso639_2": "deu",
+    "name": "German",
+    "native_name": "Deutsch",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "es",
+    "iso639_2": "spa",
+    "name": "Spanish",
+    "native_name": "Español",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "pt",
+    "iso639_2": "por",
+    "name": "Portuguese",
+    "native_name": "Português",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "ru",
+    "iso639_2": "rus",
+    "name": "Russian",
+    "native_name": "Русский",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "it",
+    "iso639_2": "ita",
+    "name": "Italian",
+    "native_name": "Italiano",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "nl",
+    "iso639_2": "nld",
+    "name": "Dutch",
+    "native_name": "Nederlands",
+    "direction": "ltr",
+    "family": "Indo-European",
+    "is_active": 1
+  },
+  {
+    "code": "tr",
+    "iso639_2": "tur",
+    "name": "Turkish",
+    "native_name": "Türkçe",
+    "direction": "ltr",
+    "family": "Turkic",
+    "is_active": 1
+  },
+  {
+    "code": "id",
+    "iso639_2": "ind",
+    "name": "Indonesian",
+    "native_name": "Bahasa Indonesia",
+    "direction": "ltr",
+    "family": "Austronesian",
+    "is_active": 1
+  },
+  {
+    "code": "ms",
+    "iso639_2": "msa",
+    "name": "Malay",
+    "native_name": "Bahasa Melayu",
+    "direction": "ltr",
+    "family": "Austronesian",
+    "is_active": 1
+  },
+  {
+    "code": "th",
+    "iso639_2": "tha",
+    "name": "Thai",
+    "native_name": "ไทย",
+    "direction": "ltr",
+    "family": "Kra-Dai",
+    "is_active": 1
+  },
+  {
+    "code": "vi",
+    "iso639_2": "vie",
+    "name": "Vietnamese",
+    "native_name": "Tiếng Việt",
+    "direction": "ltr",
+    "family": "Austroasiatic",
+    "is_active": 1
+  }
+]

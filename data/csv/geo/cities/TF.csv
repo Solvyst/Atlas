@@ -1,0 +1,6 @@
+id,name,state_id,state_code,country_id,country_code,type,level,parent_id,latitude,longitude,native,population,timezone,translations,created_at,updated_at,flag,wikiDataId
+162134,Alfred Faure,5823,02,78,TF,,,,-46.43250000,51.85763889,Base Alfred-Faure,,Indian/Kerguelen,,2026-04-28T06:48:54,2026-04-28T06:48:54,1,Q940837
+162135,Dumont d'Urville Station,5822,01,78,TF,,,,-66.66277778,140.00111111,Base Dumont-d'Urville,,Antarctica/DumontDUrville,,2026-04-28T06:48:54,2026-04-28T06:48:54,1,Q610476
+162136,Martin-de-Viviès,5825,04,78,TF,,,,-37.79555556,77.57333333,Martin-de-Viviès,,Indian/Kerguelen,,2026-04-28T06:48:54,2026-04-28T06:48:54,1,Q1908459
+162137,Port-aux-Français,5824,03,78,TF,,,,-49.35000000,70.21888889,Port-aux-Français,,Indian/Kerguelen,,2026-04-28T06:48:54,2026-04-28T06:48:54,1,Q839559
+162138,Tromelin,5826,05,78,TF,,,,-15.89222222,54.52083333,Île Tromelin,,Indian/Reunion,,2026-04-28T06:48:54,2026-04-28T06:48:54,1,Q132724

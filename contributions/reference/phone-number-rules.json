@@ -1,0 +1,104 @@
+[
+  {
+    "id": "IN",
+    "country_code": "IN",
+    "country_name": "India",
+    "dial_code": "+91",
+    "national_prefix": "0",
+    "trunk_prefix": "0",
+    "min_length": 10,
+    "max_length": 10,
+    "mobile_prefix_pattern": "^[6-9]",
+    "national_format": "XXXXX XXXXX",
+    "international_format": "+91 XXXXX XXXXX",
+    "example_mobile": "9876543210",
+    "example_fixed_line": "1123456789",
+    "emergency_numbers": {
+      "police": "100",
+      "fire": "101",
+      "ambulance": "102",
+      "emergency": "112"
+    },
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "US",
+    "country_code": "US",
+    "country_name": "United States",
+    "dial_code": "+1",
+    "national_prefix": "1",
+    "trunk_prefix": "1",
+    "min_length": 10,
+    "max_length": 10,
+    "mobile_prefix_pattern": null,
+    "national_format": "(XXX) XXX-XXXX",
+    "international_format": "+1 XXX XXX XXXX",
+    "example_mobile": "2025550123",
+    "example_fixed_line": "2025550123",
+    "emergency_numbers": {
+      "emergency": "911"
+    },
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "GB",
+    "country_code": "GB",
+    "country_name": "United Kingdom",
+    "dial_code": "+44",
+    "national_prefix": "0",
+    "trunk_prefix": "0",
+    "min_length": 10,
+    "max_length": 10,
+    "mobile_prefix_pattern": "^7",
+    "national_format": "0XXXX XXXXXX",
+    "international_format": "+44 XXXX XXXXXX",
+    "example_mobile": "7400123456",
+    "example_fixed_line": "2079460123",
+    "emergency_numbers": {
+      "emergency": "999",
+      "alternate": "112"
+    },
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "AE",
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "dial_code": "+971",
+    "national_prefix": "0",
+    "trunk_prefix": "0",
+    "min_length": 8,
+    "max_length": 9,
+    "mobile_prefix_pattern": "^5",
+    "national_format": "0X XXX XXXX",
+    "international_format": "+971 X XXX XXXX",
+    "example_mobile": "501234567",
+    "example_fixed_line": "21234567",
+    "emergency_numbers": {
+      "police": "999",
+      "ambulance": "998",
+      "fire": "997"
+    },
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "SG",
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "dial_code": "+65",
+    "national_prefix": null,
+    "trunk_prefix": null,
+    "min_length": 8,
+    "max_length": 8,
+    "mobile_prefix_pattern": "^[89]",
+    "national_format": "XXXX XXXX",
+    "international_format": "+65 XXXX XXXX",
+    "example_mobile": "81234567",
+    "example_fixed_line": "61234567",
+    "emergency_numbers": {
+      "police": "999",
+      "ambulance_fire": "995"
+    },
+    "source": "Solvyst Atlas community reference contribution"
+  }
+]

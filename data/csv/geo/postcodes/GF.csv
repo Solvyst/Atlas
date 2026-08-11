@@ -1,0 +1,4 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+118674,97300,76,GF,,,,Cayenne,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118675,97310,76,GF,,,,Kourou,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118676,97320,76,GF,,,,Saint-Laurent-du-Maroni,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1

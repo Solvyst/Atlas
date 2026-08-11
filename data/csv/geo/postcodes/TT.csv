@@ -1,0 +1,27 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+838187,100101,223,TT,3363,POS,,Port of Spain,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838188,100103,223,TT,3363,POS,,St. Clair,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838189,100104,223,TT,3363,POS,,Woodbrook,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838190,100105,223,TT,3363,POS,,Newtown,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838191,110101,223,TT,3367,DMN,,Diego Martin,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838192,110105,223,TT,3367,DMN,,Westmoorings,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838193,120101,223,TT,3357,SJL,,San Juan,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838194,120201,223,TT,3357,SJL,,Barataria,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838195,130101,223,TT,3358,TUP,,Tunapuna,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838196,130102,223,TT,3358,TUP,,Trincity,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838197,130201,223,TT,3358,TUP,,Piarco,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838198,300101,223,TT,3362,ARI,,Arima,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838199,310101,223,TT,3361,SGE,,Sangre Grande,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838200,320101,223,TT,3356,MRC,,Mayaro,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838201,320201,223,TT,3356,MRC,,Rio Claro,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838202,500101,223,TT,3359,SFO,,San Fernando,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838203,500104,223,TT,3359,SFO,,Gulf View,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838204,500501,223,TT,3366,CHA,,Chaguanas,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838205,520101,223,TT,3354,CTT,,Couva,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838206,530101,223,TT,3368,PRT,,Princes Town,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838207,540101,223,TT,3365,PED,,Penal,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838208,550101,223,TT,3364,SIP,,Siparia,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838209,700101,223,TT,3360,PTF,,Point Fortin,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838210,850101,223,TT,5735,TOB,,Scarborough,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838211,850201,223,TT,5735,TOB,,Crown Point,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1
+838212,850301,223,TT,5735,TOB,,Plymouth,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:12,2026-05-24T12:02:12,1

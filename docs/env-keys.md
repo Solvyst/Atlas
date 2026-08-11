@@ -2,7 +2,7 @@
 
 ## Root `.env`
 
-Used by Drizzle migrations, database seeds, and other root database commands.
+Used by Drizzle migrations, trusted JSON import commands, and other root database commands.
 
 ```env
 DATABASE_URI="postgresql://postgres.<project-ref>:<database-password>@aws-0-<region>.pooler.supabase.com:5432/postgres?sslmode=require"
@@ -20,9 +20,9 @@ Notes:
 APP_VERSION=0.1.0
 NODE_ENV=development
 
-PORT=5000
+PORT=3100
 HOST=0.0.0.0
-APP_NAME=Atlaskit
+APP_NAME="Solvyst Atlas"
 
 DATABASE_URI=""
 
@@ -31,12 +31,12 @@ REDIS_ENABLED=false
 REDIS_PORT=6379
 REDIS_URL=redis://127.0.0.1:6379
 REDIS_TLS=false
-BULL_PREFIX=atlaskit
+BULL_PREFIX=solvyst-atlas
 EMAIL_QUEUE_RETRY=3
 EMAIL_QUEUE_CONCURRENCY=5
 
 WEB_URL=http://localhost:3000
-ATLASKIT_API_URL=http://localhost:5000
+ATLASKIT_API_URL=http://localhost:3100
 
 
 META_API_KEY="<strong-random-secret>"
@@ -48,7 +48,7 @@ META_RATE_LIMIT_WINDOW_MS=60000
 
 `DATABASE_URI`
 
-PostgreSQL connection string used by the Node server, Drizzle migrations, and seed scripts.
+PostgreSQL connection string used by the Node server, Drizzle migrations, and trusted JSON import scripts.
 
 `REDIS_ENABLED`
 
@@ -64,11 +64,11 @@ Server/API origin allowed by CORS when needed.
 
 `ATLASKIT_API_KEY`
 
-API key used by this server when it calls Atlaskit as an external meta microservice. If omitted, the client falls back to `META_API_KEY`.
+API key used by this server when it calls the Solvyst Atlas meta service as an external dependency. If omitted, the client falls back to `META_API_KEY`.
 
 `META_API_KEY`
 
-Required for all `/api/v1/meta/*` routes. Send it as:
+Required for all `/api/v1/meta/*` and `/api/v1/reference/*` routes. Send it as:
 
 ```http
 x-api-key: <META_API_KEY>

@@ -1,0 +1,2 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+654695,98600,243,WF,5707,UV,,Mata-Utu,full,,,manual,,2026-04-28T06:49:22,2026-04-28T06:49:22,1

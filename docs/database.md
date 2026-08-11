@@ -1,63 +1,197 @@
-# Database Migrations
+# Database And Data Import
+
+Solvyst Atlas uses PostgreSQL with Drizzle migrations. Contributor-editable source data lives as JSON, and trusted import commands upsert that JSON into PostgreSQL.
+
+## Current Schemas
+
+```txt
+geo         geography, localization, phone, timezone, currency metadata
+reference   business reference datasets
+drizzle     Drizzle migration history
+```
+
+The public API path remains `/api/v1/meta`, but the geography tables live in the PostgreSQL `geo` schema.
 
 ## Migration Commands
 
+Generate migrations after schema changes:
+
 ```sh
 pnpm db:generate
+```
+
+Apply migrations to the configured database:
+
+```sh
 pnpm db:migrate
 ```
 
-Other useful Drizzle commands:
+Check migration/schema state:
 
 ```sh
-pnpm db:push
-pnpm db:pull
 pnpm db:check
+```
+
+Open Drizzle Studio:
+
+```sh
 pnpm db:studio
 ```
 
-## Migration Folder
+Migration files live in:
 
 ```txt
 packages/database/drizzle
 ```
 
-## Seed Commands
+## Source Data
 
-Seed files are generated from:
-
-```txt
-/Users/anilmoharana/Postman/countries-states-cities-database
-```
-
-Build generated SQL seed files:
-
-```sh
-pnpm db:seed:build
-```
-
-Run generated SQL seed files:
-
-```sh
-pnpm db:seed
-```
-
-Build and run in one command:
-
-```sh
-pnpm db:seed:rebuild
-```
-
-Override the source repo when needed:
-
-```sh
-CSC_DB_SOURCE_DIR=/path/to/countries-states-cities-database pnpm db:seed:build
-```
-
-Generated seed files live in:
+Human-editable source data lives in:
 
 ```txt
-packages/database/seeds/generated
+contributions/geo
+contributions/reference
+```
+
+Geo contribution files include:
+
+```txt
+contributions/geo/regions/regions.json
+contributions/geo/subregions/subregions.json
+contributions/geo/countries/countries.json
+contributions/geo/states/states.json
+contributions/geo/cities/<ISO2>.json
+contributions/geo/counties/<ISO2>.json
+contributions/geo/postcodes/<ISO2>.json
+contributions/geo/languages/languages.json
+contributions/geo/phone-codes/phone-codes.json
+contributions/geo/timezones/timezones.json
+contributions/geo/locales/locales.json
+```
+
+Reference contribution files include:
+
+```txt
+contributions/reference/currency-formats.json
+contributions/reference/phone-number-rules.json
+contributions/reference/business-identifiers.json
+contributions/reference/banking-rules.json
+contributions/reference/date-time-formats.json
+contributions/reference/company-types.json
+contributions/reference/units.json
+contributions/reference/holidays.json
+```
+
+Contributors should edit JSON files only. They should not write to PostgreSQL directly.
+
+## Interactive Data CLI
+
+Run the interactive CLI from repo root:
+
+```sh
+pnpm data
+```
+
+It exposes validation, CSV export, and trusted PostgreSQL import commands in one menu. Import actions require explicit confirmation because they write to the configured database.
+
+## Validation Commands
+
+Validate all contribution data:
+
+```sh
+pnpm db:contrib:validate
+```
+
+Validate only geo data:
+
+```sh
+pnpm --filter @solvyst-atlas/database contrib:validate:geo
+```
+
+Validate only reference data:
+
+```sh
+pnpm --filter @solvyst-atlas/database contrib:validate:reference
+```
+
+Validation checks JSON shape, required fields, duplicate IDs, ISO-like country codes, and important foreign-key relationships.
+
+## CSV Export
+
+CSV exports are generated from canonical JSON contribution files:
+
+```sh
+pnpm data:export:csv
+```
+
+Output:
+
+```txt
+data/csv
+```
+
+CSV is an export format only. Contributors still edit JSON.
+
+## Import Commands
+
+Import geo JSON into PostgreSQL:
+
+```sh
+pnpm db:import:geo
+```
+
+Import reference JSON into PostgreSQL:
+
+```sh
+pnpm db:import:reference
+```
+
+Import all validated JSON:
+
+```sh
+pnpm db:import
+```
+
+Recommended order for a fresh DB:
+
+```sh
+pnpm db:migrate
+pnpm db:contrib:validate
+pnpm db:import
+```
+
+The import scripts use `INSERT ... ON CONFLICT ... DO UPDATE`, so rerunning the same import is safe.
+
+## Import Flow
+
+```txt
+Contributor JSON change
+  -> Pull request
+  -> CI validation
+  -> Merge
+  -> Staging import validation
+  -> Trusted production import
+  -> PostgreSQL
+  -> API
+```
+
+Production DB should not be blindly modified on every PR merge.
+
+## Database Automation
+
+Database scripts live in:
+
+```txt
+packages/database/bin
+```
+
+Current layout:
+
+```txt
+bin/console.mjs
+bin/scripts/export
+bin/scripts/import
+bin/scripts/validation
 ```
 
 ## Schema Package
@@ -66,103 +200,44 @@ packages/database/seeds/generated
 packages/database/src/schema
 ```
 
-## Meta Tables
+## Geo Tables
 
 ```txt
-meta.regions
-meta.subregions
-meta.countries
-meta.states
-meta.cities
-meta.admin_areas
-meta.localities
-meta.currencies
-meta.timezones
+geo.regions
+geo.subregions
+geo.countries
+geo.states
+geo.cities
+geo.admin_areas
+geo.localities
+geo.currencies
+geo.timezones
+geo.phone_codes
+geo.languages
+geo.locales
+geo.postal_code_rules
+geo.phone_number_rules
+geo.address_formats
 ```
 
-## Scalable Geography Model
-
-`meta.states` and `meta.cities` are kept for backward-compatible country/state/city APIs.
-
-Use these tables for future scalable metadata:
+## Reference Tables
 
 ```txt
-meta.admin_areas
-meta.localities
+reference.currency_formats
+reference.phone_number_rules
+reference.business_identifiers
+reference.banking_rules
+reference.date_time_formats
+reference.company_types
+reference.units
+reference.holidays
 ```
-
-`meta.admin_areas` is a generic hierarchy table for subdivisions such as:
-
-```txt
-state
-province
-region
-district
-county
-parish
-subdistrict
-municipality
-```
-
-Important columns:
-
-```txt
-country_id
-country_code
-parent_id
-type
-level
-code
-iso3166_2
-```
-
-`meta.localities` stores populated places and place-like records. It includes:
-
-```txt
-admin_area_id
-type
-is_settlement
-latitude
-longitude
-population
-```
-
-For product dropdowns:
-
-```sql
--- Children of a state/province/district/county
-SELECT *
-FROM meta.admin_areas
-WHERE parent_id = $1
-ORDER BY level, name;
-
--- Cities/towns/villages under an admin area
-SELECT *
-FROM meta.localities
-WHERE admin_area_id = $1
-  AND is_settlement = 1
-ORDER BY name;
-```
-
-Current generated seed counts:
-
-| Table | Rows |
-| --- | ---: |
-| meta.regions | 6 |
-| meta.subregions | 22 |
-| meta.countries | 250 |
-| meta.states | 5,308 |
-| meta.cities | 152,970 |
-| meta.admin_areas | 8,365 |
-| meta.localities | 152,970 |
-| meta.currencies | 154 |
-| meta.timezones | 432 |
 
 ## Important Rules
 
-States and cities can be large, so API queries are guarded:
-
-- States require `countryCode`, `countryId`, or `search`.
-- Cities require `stateId` or `search`.
-- Country-only city requests are blocked.
-- Global city search is capped to 20 results.
+- JSON in `contributions/` is the canonical open-source source of truth.
+- PostgreSQL is the runtime source used by the API.
+- Generated CSV in `data/csv` is export output, not contributor source.
+- Run migrations before imports when schema changes exist.
+- Use PR validation first, then staging import, then production sync.
+- Large/time-sensitive datasets should keep clear source/provenance fields.

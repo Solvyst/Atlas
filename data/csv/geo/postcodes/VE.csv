@@ -1,0 +1,1188 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+653445,0002,239,VE,2040,G,,Bello Monte 1,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653446,0002,239,VE,2040,G,,Los Bucares 1,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653447,0002,239,VE,2040,G,,Mendoza 1,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653448,1000,239,VE,4855,A,,Barrio Parate Bueno,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653449,1000,239,VE,4855,A,,Barrio Unidos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653450,1000,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653451,1010,239,VE,4855,A,,Barrio El Manguito San Agustin del Sur,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653452,1010,239,VE,4855,A,,Barrio Los Cujicitos San Jose,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653453,1010,239,VE,4855,A,,Barrio Puerta de Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653454,1010,239,VE,4855,A,,Barrio Sabana Del Blanco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653455,1010,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653456,1010,239,VE,4855,A,,Sabana de Blanco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653457,1020,239,VE,4855,A,,Barrio Buenos Aires El Paraiso,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653458,1020,239,VE,4855,A,,Barrio El Triángulo La Vega,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653459,1020,239,VE,4855,A,,Barrio Los Cujicitos La Vega,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653460,1020,239,VE,4855,A,,Barrio San Miguel Cota 905,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653461,1020,239,VE,4855,A,,Barrio San Rafael o Sucre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653462,1020,239,VE,2037,M,,Barrio Unión,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653463,1020,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653464,1020,239,VE,4855,A,,Otras Poblaciones o Sectores,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653465,1030,239,VE,4855,A,,Barrio El Carmen Catia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653466,1030,239,VE,4855,A,,Barrio Los Frailes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653467,1030,239,VE,4855,A,,Barrio Los Higitos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653468,1030,239,VE,2037,M,,Barrio Niño Jesús,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653469,1030,239,VE,4855,A,,Barrio Plan de Manzano,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653470,1030,239,VE,4855,A,,Barrio Ruperto Lugo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653471,1030,239,VE,4855,A,,Barrio Simon Bolívar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653472,1030,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653473,1030,239,VE,2037,M,,Ciudad Tablita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653474,1030,239,VE,2047,D,,Colonia Tovar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653475,1030,239,VE,2055,X,,El Junquito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653476,1030,239,VE,4855,A,,Los Magallanes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653477,1030,239,VE,4855,A,,Propatria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653478,1030,239,VE,4855,A,,Vista Al Mar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653479,1040,239,VE,4855,A,,Barrio El Triángulo El Cementerio,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653480,1040,239,VE,4855,A,,Barrio Providencia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653481,1040,239,VE,4855,A,,Barrio San Andrés,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653482,1040,239,VE,4855,A,,Barrio Zamora,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653483,1040,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653484,1050,239,VE,4855,A,,Barrio Quebrada Honda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653485,1050,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653486,1053,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653487,1060,239,VE,2037,M,,Barrio La Cruz Chacao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653488,1060,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653489,1061,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653490,1061,239,VE,2037,M,,Centro Comercial Plaza Las Americas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653491,1061,239,VE,2037,M,,Plaza las Américas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653492,1061,239,VE,2037,M,,Santa Paula,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653493,1061,239,VE,2037,M,,Santa Rosa de Lima,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653494,1061,239,VE,2037,M,,Sector Los Naranjos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653495,1064,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653496,1064,239,VE,2037,M,,Chuao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653497,1071,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653498,1071,239,VE,2037,M,,El Marqués,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653499,1071,239,VE,2037,M,,Los Chorros,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653500,1071,239,VE,2037,M,,Sebucán,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653501,1073,239,VE,4855,A,,Barrio Buenos Aires Petare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653502,1073,239,VE,4855,A,,Barrio Caucagüita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653503,1073,239,VE,2037,M,,Barrio El Carmen Petare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653504,1073,239,VE,2037,M,,Barrio El Manguito Petare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653505,1073,239,VE,2037,M,,Barrio La Cruz Petare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653506,1073,239,VE,2037,M,,Barrio San Blas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653507,1073,239,VE,2037,M,,Barrio San Miguel Petare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653508,1073,239,VE,4855,A,,Barrio San Pascual,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653509,1073,239,VE,4855,A,,Barrio Valle Fresco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653510,1073,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653511,1073,239,VE,2037,M,,Petare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653512,1073,239,VE,2037,M,,San Blas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653513,1080,239,VE,2037,M,,Barrio El Carmen Minas de Baruta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653514,1080,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653515,1080,239,VE,2037,M,,Los Samanes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653516,1080,239,VE,2037,M,,Prados del Este,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653517,1080,239,VE,4855,A,,Santa Gertrudis,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653518,1083,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653519,1083,239,VE,2037,M,,La Tahona,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653520,1083,239,VE,2037,M,,Lomas de la Lagunita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653521,1086,239,VE,2037,M,,U.S.B.,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653522,1090,239,VE,4855,A,,Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653523,1090,239,VE,4855,A,,El Valle,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653524,1160,239,VE,2055,X,,Anare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653525,1160,239,VE,2055,X,,Camuri Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653526,1160,239,VE,2055,X,,La Guaira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653527,1162,239,VE,2055,X,,Catia La Mar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653528,1162,239,VE,4855,A,,Chichiriviche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653529,1162,239,VE,2055,X,,Las Salinas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653530,1162,239,VE,2055,X,,Marapa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653531,1162,239,VE,2055,X,,Oricao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653532,1162,239,VE,2055,X,,Puerto Carayaca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653533,1162,239,VE,4855,A,,Taguao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653534,1162,239,VE,4855,A,,Villa Croacia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653535,1165,239,VE,2055,X,,La Guaira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653536,1166,239,VE,2037,M,,Chuspa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653537,1166,239,VE,2055,X,,La Sabana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653538,1166,239,VE,2055,X,,Los Caracas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653539,1168,239,VE,2055,X,,La Guaira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653540,1201,239,VE,4855,A,,Llanos de Miquillen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653541,1201,239,VE,2037,M,,Los Teques,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653542,1203,239,VE,2037,M,,Carrizal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653543,1204,239,VE,2037,M,,San Antonio de los Altos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653544,1204,239,VE,2037,M,,San Diego de los Altos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653545,1204,239,VE,2037,M,,San José de los Altos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653546,1204,239,VE,2037,M,,San Pedro de los Altos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653547,1209,239,VE,4855,A,,Colonia Mendoza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653548,1209,239,VE,4855,A,,Corocito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653549,1209,239,VE,4855,A,,La Democracia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653550,1209,239,VE,2037,M,,Ocumare del Tuy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653551,1209,239,VE,4855,A,,Quiripital,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653552,1210,239,VE,2037,M,,Charallave,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653553,1211,239,VE,2037,M,,Cúa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653554,1211,239,VE,2037,M,,Tacata,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653555,1212,239,VE,2037,M,,San Francisco de Yare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653556,1214,239,VE,2037,M,,Santa Lucia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653557,1215,239,VE,4855,A,,San Antonio Landér,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653558,1215,239,VE,2037,M,,Santa Teresa del Tuy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653559,1220,239,VE,2037,M,,Guarenas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653560,1221,239,VE,2037,M,,Araira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653561,1221,239,VE,2037,M,,Barrio El Rodeo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653562,1221,239,VE,2037,M,,Guatire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653563,1223,239,VE,4855,A,,Aragüita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653564,1224,239,VE,4855,A,,Tapipa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653565,1225,239,VE,2037,M,,Capaya,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653566,1225,239,VE,2037,M,,El Café,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653567,1226,239,VE,4855,A,,Panaquire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653568,1228,239,VE,2037,M,,Las González,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653569,1228,239,VE,2037,M,,Mamporal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653570,1228,239,VE,2037,M,,Tacarigua Mamporal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653571,1231,239,VE,2037,M,,Carenero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653572,1231,239,VE,2037,M,,Chirimena,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653573,1231,239,VE,2037,M,,Higuerote,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653574,1232,239,VE,4855,A,,Birongo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653575,1232,239,VE,2037,M,,Curiepe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653576,1235,239,VE,2037,M,,Pueblo Nuevo Mamporal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653577,1235,239,VE,2037,M,,San José de Barlovento,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653578,1235,239,VE,2037,M,,San José de Río Chico,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653579,1236,239,VE,2037,M,,Paparo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653580,1236,239,VE,2037,M,,Río Chico,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653581,1236,239,VE,2037,M,,Tacarigua de La Laguna,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653582,1238,239,VE,2037,M,,Cupira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653583,1241,239,VE,4855,A,,El Clavo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653584,1241,239,VE,4855,A,,Merecure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653585,1243,239,VE,2037,M,,El Guapo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653586,1243,239,VE,2037,M,,San Fernando del Guapo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653587,1243,239,VE,4855,A,,Santa Barbara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653588,1245,239,VE,2037,M,,Machurucuto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653589,1246,239,VE,2037,M,,Caucagüa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653590,1246,239,VE,2037,M,,Chuspita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653591,2001,239,VE,2040,G,,Naguanagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653592,2003,239,VE,2040,G,,3 de Mayo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653593,2003,239,VE,2040,G,,Big Low Center,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653594,2003,239,VE,2040,G,,Central Tacarigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653595,2003,239,VE,2040,G,,El Roble,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653596,2003,239,VE,2040,G,,Flor Amarilla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653597,2003,239,VE,2040,G,,Flor Amarillo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653598,2003,239,VE,2040,G,,Industrial Carabobo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653599,2003,239,VE,2040,G,,Industrial Castillito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653600,2003,239,VE,2040,G,,Industrial La Quizanda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653601,2003,239,VE,2040,G,,Industrial Municipal Norte,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653602,2003,239,VE,2040,G,,Isabelita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653603,2003,239,VE,2040,G,,La Isabelica,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653604,2003,239,VE,2040,G,,Las Agüitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653605,2003,239,VE,2040,G,,Los Cerritos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653606,2003,239,VE,2040,G,,Los Guayos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653607,2003,239,VE,2040,G,,Paraparal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653608,2003,239,VE,2040,G,,Parque Valencia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653609,2003,239,VE,2040,G,,Paso Real,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653610,2003,239,VE,2040,G,,Piedras Negras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653611,2003,239,VE,2040,G,,Vivienda Popular de los Guayos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653612,2003,239,VE,2040,G,,Zona Industrial La Isabelica,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653613,2005,239,VE,2040,G,,Bárbula,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653614,2005,239,VE,2040,G,,La Entrada,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653615,2005,239,VE,2040,G,,Las Quintas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653616,2005,239,VE,2040,G,,Las Trincheras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653617,2005,239,VE,2040,G,,Naguanagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653618,2005,239,VE,2040,G,,Santa Eduvigis,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653619,2006,239,VE,2040,G,,1º de Mayo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653620,2006,239,VE,2040,G,,Bosque Serino,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653621,2006,239,VE,2040,G,,Campo Solo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653622,2006,239,VE,2040,G,,El Morro 1 y 2,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653623,2006,239,VE,2040,G,,La Esmeralda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653624,2006,239,VE,2040,G,,Los Arales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653625,2006,239,VE,2040,G,,Los Harales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653626,2006,239,VE,2040,G,,Los Magallanes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653627,2006,239,VE,2040,G,,Monte Serino,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653628,2006,239,VE,2040,G,,Pueblo de San Diego,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653629,2006,239,VE,2040,G,,San Diego,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653630,2006,239,VE,2040,G,,Vivienda Rural los Arales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653631,2006,239,VE,2040,G,,Yuma 1 y 2,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653632,2010,239,VE,2040,G,,El Trompillo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653633,2010,239,VE,2040,G,,Güigüe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653634,2015,239,VE,2040,G,,Guacara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653635,2015,239,VE,2040,G,,Vigirima,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653636,2015,239,VE,2040,G,,Yagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653637,2016,239,VE,2040,G,,Valencia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653638,2017,239,VE,2040,G,,Pueblo de Maraira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653639,2018,239,VE,2040,G,,San Joaquín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653640,2035,239,VE,2040,G,,Barrera,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653641,2035,239,VE,2040,G,,Campo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653642,2035,239,VE,2040,G,,Carabobo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653643,2035,239,VE,2040,G,,Tocuyito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653644,2035,239,VE,2040,G,,Villa Jardín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653645,2039,239,VE,2040,G,,Pueblo de Belén,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653646,2040,239,VE,2040,G,,Bejuma,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653647,2040,239,VE,2040,G,,Canoabo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653648,2041,239,VE,2040,G,,Miranda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653649,2041,239,VE,2040,G,,Valle de Aguirre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653650,2042,239,VE,2040,G,,Montalban,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653651,2044,239,VE,2040,G,,Chirgua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653652,2050,239,VE,2040,G,,Base Naval,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653653,2050,239,VE,2040,G,,El Cambur,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653654,2050,239,VE,2040,G,,El Palito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653655,2050,239,VE,2040,G,,Goaigoaza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653656,2050,239,VE,2041,U,,La Hoya,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653657,2050,239,VE,2040,G,,La Sorpresa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653658,2050,239,VE,2040,G,,Puerto Cabello,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653659,2050,239,VE,2040,G,,Punto Nutria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653660,2050,239,VE,2040,G,,Rancho Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653661,2050,239,VE,2040,G,,Taborda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653662,2051,239,VE,2040,G,,Morón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653663,2051,239,VE,2040,G,,Urama,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653664,2052,239,VE,2040,G,,Boca de Aroa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653665,2053,239,VE,2040,G,,Boca de Tocuyo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653666,2053,239,VE,2040,G,,Tocuyo de La Costa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653667,2054,239,VE,2040,G,,Chichiriviche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653668,2054,239,VE,2035,I,,San Juan de Los Cayos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653669,2055,239,VE,2040,G,,Tucacas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653670,2101,239,VE,2047,D,,Maracay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653671,2101,239,VE,2047,D,,Tapatapa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653672,2102,239,VE,2047,D,,Maracay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653673,2103,239,VE,2047,D,,Maracay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653674,2104,239,VE,2047,D,,12 de Febrero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653675,2104,239,VE,2047,D,,Maracay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653676,2105,239,VE,2047,D,,El Limón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653677,2105,239,VE,2047,D,,Maracay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653678,2107,239,VE,2047,D,,10 de Diciembre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653679,2107,239,VE,2047,D,,19 de Abril,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653680,2107,239,VE,2047,D,,19 de Abril Maracay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653681,2110,239,VE,2047,D,,Choroní,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653682,2112,239,VE,2047,D,,Cuyagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653683,2112,239,VE,2047,D,,Ocumare de La Costa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653684,2113,239,VE,2047,D,,Puerto Colombia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653685,2114,239,VE,2047,D,,Ocumare de La Costa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653686,2115,239,VE,2047,D,,Turmero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653687,2116,239,VE,2047,D,,Turmero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653688,2117,239,VE,2047,D,,Ezequiel Zamora Palo Negro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653689,2117,239,VE,2047,D,,Palo Negro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653690,2118,239,VE,2047,D,,5 de Julio,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653691,2118,239,VE,2047,D,,El Consejo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653692,2119,239,VE,2047,D,,Tejerias,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653693,2119,239,VE,2047,D,,Tejerías,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653694,2120,239,VE,2047,D,,San Mateo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653695,2120,239,VE,2047,D,,Zamora,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653696,2121,239,VE,2047,D,,La Victoria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653697,2122,239,VE,2047,D,,Cagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653698,2122,239,VE,2047,D,,Ocumare de La Costa - Cagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653699,2122,239,VE,2047,D,,Yarabi,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653700,2122,239,VE,2047,D,,Yarabí,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653701,2123,239,VE,2047,D,,Santa Cruz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653702,2123,239,VE,2047,D,,Villa Zuica,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653703,2125,239,VE,2047,D,,San Francisco de Asís,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653704,2126,239,VE,2047,D,,Tucutunemo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653705,2126,239,VE,2047,D,,Villa de Cura,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653706,2127,239,VE,2047,D,,Zuata,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653707,2128,239,VE,2047,D,,Magdaleno,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653708,2201,239,VE,2034,H,,Agua Linda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653709,2201,239,VE,2034,H,,Apartaderos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653710,2201,239,VE,2049,E,,Arismendi,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653711,2201,239,VE,2034,H,,Cojeditos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653712,2201,239,VE,2049,E,,Guadarrama,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653713,2201,239,VE,2034,H,,San Carlos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653714,2203,239,VE,2034,H,,La Sierra,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653715,2203,239,VE,2034,H,,Manrique,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653716,2204,239,VE,2034,H,,Las Vegas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653717,2206,239,VE,2034,H,,San Carlos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653718,2207,239,VE,2034,H,,La Aguadita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653719,2207,239,VE,2034,H,,Macapo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653720,2207,239,VE,2034,H,,Vallecito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653721,2209,239,VE,2034,H,,Cojedes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653722,2209,239,VE,2034,H,,Tinaquillo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653723,2213,239,VE,2034,H,,Arismendi,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653724,2213,239,VE,2034,H,,El Baúl,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653725,2213,239,VE,2034,H,,Guadarrama,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653726,2214,239,VE,2034,H,,El Pao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653727,2216,239,VE,2034,H,,El Amparo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653728,2216,239,VE,2034,H,,Libertad de Cojedes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653729,2301,239,VE,2045,J,,Aragua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653730,2301,239,VE,2047,D,,Barbacoas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653731,2301,239,VE,2045,J,,Cambural de Cataure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653732,2301,239,VE,2045,J,,Cazorla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653733,2301,239,VE,2045,J,,Corozopando,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653734,2301,239,VE,2045,J,,Dos Caminos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653735,2301,239,VE,2045,J,,El Caro de La Negra,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653736,2301,239,VE,2045,J,,El Corozo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653737,2301,239,VE,2045,J,,El Palito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653738,2301,239,VE,2045,J,,El Punzón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653739,2301,239,VE,2045,J,,Espino,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653740,2301,239,VE,2045,J,,Francisco de Tiznado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653741,2301,239,VE,2045,J,,Guaripa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653742,2301,239,VE,2045,J,,Ipare de Orituco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653743,2301,239,VE,2045,J,,La Arboleda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653744,2301,239,VE,2045,J,,La Esperanza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653745,2301,239,VE,2045,J,,Las Minas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653746,2301,239,VE,2045,J,,Lezama,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653747,2301,239,VE,2045,J,,Libertad de Orituco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653748,2301,239,VE,2045,J,,Los Pozotes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653749,2301,239,VE,2045,J,,Mamonal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653750,2301,239,VE,2045,J,,Parapara de Ortíz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653751,2301,239,VE,2045,J,,Paso Real de Macaira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653752,2301,239,VE,2045,J,,Pirital,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653753,2301,239,VE,2045,J,,Roblecito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653754,2301,239,VE,2045,J,,Sabana Grande de Orituco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653755,2301,239,VE,2045,J,,San Francisco de Cara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653756,2301,239,VE,2045,J,,San Francisco de Macaira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653757,2301,239,VE,2045,J,,San José de Anare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653758,2301,239,VE,2045,J,,San José de Guaribe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653759,2301,239,VE,2045,J,,San Juan de los Morros,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653760,2301,239,VE,2045,J,,San Rafael de Laya,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653761,2301,239,VE,2045,J,,San Rafael de Orituco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653762,2301,239,VE,2045,J,,Santa Rita de Manapire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653763,2301,239,VE,2045,J,,Taguay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653764,2301,239,VE,2045,J,,Tucupido,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653765,2302,239,VE,2045,J,,Ortíz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653766,2303,239,VE,2045,J,,El Calvario,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653767,2304,239,VE,2045,J,,El Rastro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653768,2305,239,VE,2045,J,,San José de Tiznados,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653769,2311,239,VE,2045,J,,Carmen de Cura,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653770,2312,239,VE,2045,J,,Calabozo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653771,2312,239,VE,2049,E,,La Unión,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653772,2316,239,VE,2045,J,,Guardatinaja,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653773,2319,239,VE,2045,J,,El Sombrero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653774,2320,239,VE,2045,J,,Altagracia de Orituco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653775,2332,239,VE,2045,J,,Zaraza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653776,2334,239,VE,2045,J,,Barbacoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653777,2335,239,VE,2047,D,,Camatagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653778,2335,239,VE,2047,D,,Carmen de Cura,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653779,2335,239,VE,2047,D,,San Francisco de Cara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653780,2335,239,VE,2047,D,,Taguay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653781,2338,239,VE,2047,D,,Guiripa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653782,2338,239,VE,2047,D,,San Casimiro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653783,2338,239,VE,2047,D,,Valle Morin,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653784,2340,239,VE,2047,D,,San Sebastian,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653785,2340,239,VE,2045,J,,San Sebastián,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653786,2350,239,VE,2050,B,,El Chaparro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653787,2350,239,VE,2045,J,,Valle La Pascua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653788,2351,239,VE,2045,J,,San Jose Unare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653789,2354,239,VE,2045,J,,Santa María de Ipire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653790,2355,239,VE,2045,J,,El Socorro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653791,2356,239,VE,2045,J,,Las Mercedes del Llano,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653792,2358,239,VE,2045,J,,Chaguaramas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653793,3001,239,VE,2038,K,,Barquisimeto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653794,3001,239,VE,2038,K,,Basarida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653795,3001,239,VE,2038,K,,Casa de Agua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653796,3001,239,VE,2038,K,,Las Casitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653797,3001,239,VE,2038,K,,Moran,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653798,3001,239,VE,2038,K,,Moroturo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653799,3004,239,VE,2038,K,,Bobare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653800,3004,239,VE,2038,K,,Matatere,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653801,3009,239,VE,2038,K,,Río Claro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653802,3015,239,VE,2038,K,,La Miel,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653803,3015,239,VE,2038,K,,Sarare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653804,3016,239,VE,2038,K,,Quibor,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653805,3023,239,VE,2038,K,,Cabudare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653806,3023,239,VE,2038,K,,Los Rastrojos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653807,3025,239,VE,2038,K,,Duaca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653808,3028,239,VE,2038,K,,Sanare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653809,3031,239,VE,2038,K,,Aguada Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653810,3032,239,VE,2038,K,,Siquisique,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653811,3033,239,VE,2038,K,,El Porvenir,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653812,3033,239,VE,2038,K,,La Vega,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653813,3033,239,VE,2038,K,,Las Guabinas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653814,3033,239,VE,2038,K,,Moyetones,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653815,3033,239,VE,2038,K,,Urucure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653816,3034,239,VE,2038,K,,Baragua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653817,3050,239,VE,2038,K,,Agua Salada,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653818,3050,239,VE,2038,K,,Arenales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653819,3050,239,VE,2038,K,,Atarigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653820,3050,239,VE,2038,K,,Barbacoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653821,3050,239,VE,2038,K,,Bocare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653822,3050,239,VE,2038,K,,Burere,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653823,3050,239,VE,2038,K,,Carora,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653824,3050,239,VE,2038,K,,Guadalupe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653825,3050,239,VE,2038,K,,La Pastora,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653826,3050,239,VE,2038,K,,Los Yabos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653827,3050,239,VE,2038,K,,Palmarito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653828,3050,239,VE,2038,K,,Puricaure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653829,3050,239,VE,2038,K,,San Pablo de Lara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653830,3051,239,VE,2038,K,,Cariragua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653831,3052,239,VE,2038,K,,Aregue,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653832,3054,239,VE,2038,K,,Río Tocuyo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653833,3055,239,VE,2038,K,,San Francisco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653834,3056,239,VE,2038,K,,San Pedro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653835,3057,239,VE,2038,K,,Guárico,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653836,3058,239,VE,2038,K,,Humocaro Alto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653837,3058,239,VE,2038,K,,Humocaro Bajo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653838,3059,239,VE,2038,K,,Villa Nueva,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653839,3060,239,VE,2038,K,,El Empedrado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653840,3060,239,VE,2038,K,,Pie de Cuesta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653841,3061,239,VE,2038,K,,Quibor,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653842,3063,239,VE,2038,K,,Cubiro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653843,3101,239,VE,2043,T,,Agua Santa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653844,3101,239,VE,2043,T,,Agua Viva,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653845,3101,239,VE,2042,V,,Arapuey,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653846,3101,239,VE,2042,V,,Boscán,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653847,3101,239,VE,2043,T,,Buena Vista,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653848,3101,239,VE,2043,T,,El Batatal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653849,3101,239,VE,2042,V,,El Batey,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653850,3101,239,VE,2043,T,,El Cenizo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653851,3101,239,VE,2043,T,,El Socorro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653852,3101,239,VE,2043,T,,La Cuchilla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653853,3101,239,VE,2043,T,,La Mulata,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653854,3101,239,VE,2043,T,,La Plazuelita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653855,3101,239,VE,2043,T,,La Unión,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653856,3101,239,VE,2043,T,,Las Mesitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653857,3101,239,VE,2043,T,,Nueva Bolivia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653858,3101,239,VE,2043,T,,Palmarito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653859,3101,239,VE,2038,K,,Quebrada Arriba,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653860,3101,239,VE,2043,T,,Sabana Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653861,3101,239,VE,2053,L,,San Cristobal De Torondoy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653862,3101,239,VE,2043,T,,San José de Palmira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653863,3101,239,VE,2043,T,,San Juan de Betijoque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653864,3101,239,VE,2043,T,,San Miguel De Bocono,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653865,3101,239,VE,2043,T,,San Rafael de Carvajal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653866,3101,239,VE,2053,L,,Santa Apolonia De Merida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653867,3101,239,VE,2043,T,,Santa Rosa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653868,3101,239,VE,2043,T,,Santiago,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653869,3101,239,VE,2043,T,,Torondoy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653870,3101,239,VE,2043,T,,Tostos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653871,3101,239,VE,2043,T,,Valera,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653872,3102,239,VE,2043,T,,Valera,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653873,3103,239,VE,2043,T,,Boconó,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653874,3103,239,VE,2043,T,,San Rafael de Boconó,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653875,3104,239,VE,2043,T,,Betijoque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653876,3105,239,VE,2043,T,,El Alto Escuque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653877,3105,239,VE,2043,T,,Escuque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653878,3106,239,VE,2043,T,,Valera,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653879,3107,239,VE,2043,T,,Dividive,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653880,3108,239,VE,2043,T,,La Ceiba,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653881,3109,239,VE,2043,T,,Isnotú,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653882,3110,239,VE,2043,T,,Sabana de Mendoza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653883,3112,239,VE,2053,L,,Chachopo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653884,3112,239,VE,2053,L,,Timotes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653885,3113,239,VE,2043,T,,Santa Isabel,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653886,3115,239,VE,2043,T,,Burbusay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653887,3116,239,VE,2043,T,,Campo Elías,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653888,3118,239,VE,2043,T,,Niquitao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653889,3119,239,VE,2043,T,,San Miguel,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653890,3122,239,VE,2043,T,,Mendoza Fría,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653891,3123,239,VE,2043,T,,Carache,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653892,3124,239,VE,2043,T,,Chejende,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653893,3125,239,VE,2043,T,,Cuicas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653894,3127,239,VE,2043,T,,Santa Apolonia de Trujillo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653895,3128,239,VE,2043,T,,Miton,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653896,3129,239,VE,2043,T,,Torococo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653897,3132,239,VE,2043,T,,Altos de Estanque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653898,3133,239,VE,2043,T,,San Cristóbal de Torondoy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653899,3134,239,VE,2043,T,,Monte Carmelo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653900,3135,239,VE,2043,T,,Sabana Libre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653901,3136,239,VE,2043,T,,Santa Apolonia de Mérida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653902,3137,239,VE,2053,L,,Capazón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653903,3137,239,VE,2053,L,,Caño Zancudo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653904,3140,239,VE,2043,T,,Motatán,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653905,3141,239,VE,2053,L,,Las Virtudes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653906,3141,239,VE,2043,T,,Nueva Bolivia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653907,3141,239,VE,2043,T,,Punto Palmarito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653908,3145,239,VE,2043,T,,Jajó,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653909,3146,239,VE,2043,T,,La Mesa de Esnujaque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653910,3147,239,VE,2043,T,,La Quebrada,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653911,3149,239,VE,2043,T,,La Cejita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653912,3150,239,VE,2043,T,,Casco Central,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653913,3150,239,VE,2043,T,,La Concepción De Carache,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653914,3150,239,VE,2043,T,,La Concepción De Pampanito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653915,3150,239,VE,2043,T,,La Plazuela,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653916,3150,239,VE,2043,T,,Trujillo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653917,3151,239,VE,2043,T,,Pampan,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653918,3152,239,VE,2043,T,,Pampanito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653919,3153,239,VE,2043,T,,Monay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653920,3154,239,VE,2043,T,,San Lázaro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653921,3156,239,VE,2043,T,,Santa Ana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653922,3157,239,VE,2043,T,,Bolivia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653923,3158,239,VE,2042,V,,Bobures,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653924,3158,239,VE,2042,V,,Nueva Bolivia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653925,3164,239,VE,2043,T,,Mérida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653926,3201,239,VE,2041,U,,Agua Negra,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653927,3201,239,VE,2041,U,,Boraure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653928,3201,239,VE,2041,U,,Corocote,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653929,3201,239,VE,2041,U,,El Caserío de Carabobo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653930,3201,239,VE,2041,U,,El Cedrito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653931,3201,239,VE,2041,U,,El Guayabo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653932,3201,239,VE,2041,U,,Hato Viejo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653933,3201,239,VE,2041,U,,Independencia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653934,3201,239,VE,2041,U,,Las Rositas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653935,3201,239,VE,2041,U,,San Felipe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653936,3201,239,VE,2041,U,,San Pablo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653937,3201,239,VE,2041,U,,Taria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653938,3201,239,VE,2041,U,,Temerla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653939,3201,239,VE,2041,U,,Urachiche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653940,3201,239,VE,2041,U,,Yumare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653941,3202,239,VE,2041,U,,Chivacoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653942,3203,239,VE,2041,U,,Yaritagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653943,3205,239,VE,2041,U,,Nirgua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653944,3206,239,VE,2041,U,,Marín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653945,3207,239,VE,2041,U,,Guama,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653946,3209,239,VE,2041,U,,Campo Elías,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653947,3210,239,VE,2041,U,,Aroa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653948,3211,239,VE,2041,U,,Sabana de Parra,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653949,3214,239,VE,2041,U,,Salom,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653950,3222,239,VE,2041,U,,Farriar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653951,3301,239,VE,2036,P,,Acarigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653952,3301,239,VE,2036,P,,La Misión,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653953,3302,239,VE,2036,P,,Agua Blanca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653954,3303,239,VE,2036,P,,Araure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653955,3304,239,VE,2036,P,,Acarigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653956,3305,239,VE,2036,P,,Píritu,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653957,3306,239,VE,2036,P,,San Rafael de Onoto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653958,3307,239,VE,2036,P,,Santa Rosalía de Turen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653959,3309,239,VE,2036,P,,El Poblado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653960,3309,239,VE,2036,P,,Los Colorados,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653961,3309,239,VE,2036,P,,Turen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653962,3309,239,VE,2036,P,,Villa Bruzual,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653963,3317,239,VE,2036,P,,Colonia Tunén,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653964,3350,239,VE,2036,P,,Aparición,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653965,3350,239,VE,2036,P,,Guanare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653966,3350,239,VE,2036,P,,La Trinidad,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653967,3350,239,VE,2036,P,,Los Morrones,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653968,3350,239,VE,2036,P,,Mesa de Caruaca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653969,3350,239,VE,2036,P,,Unellez,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653970,3351,239,VE,2036,P,,Biscucuy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653971,3352,239,VE,2036,P,,La Estación,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653972,3352,239,VE,2036,P,,Ospino,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653973,3353,239,VE,2036,P,,Papelón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653974,3354,239,VE,2036,P,,Guanarito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653975,3354,239,VE,2036,P,,La Concepción,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653976,3355,239,VE,2036,P,,Boconoito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653977,3357,239,VE,2036,P,,Chabasquén,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653978,3357,239,VE,2036,P,,Córdoba,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653979,3357,239,VE,2036,P,,Paraiso De Chabasquen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653980,4001,239,VE,2042,V,,Barrio El Calvario,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653981,4001,239,VE,2042,V,,Barrio La Pomona,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653982,4001,239,VE,2042,V,,Barrio Libertad,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653983,4001,239,VE,2042,V,,Barrio de Estanques,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653984,4001,239,VE,2042,V,,Ceuta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653985,4001,239,VE,2042,V,,El Carmelo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653986,4001,239,VE,2042,V,,El Cinco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653987,4001,239,VE,2042,V,,El Consejo De Siruma,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653988,4001,239,VE,2042,V,,El Guanabano,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653989,4001,239,VE,2042,V,,El LLano,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653990,4001,239,VE,2042,V,,El Moralito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653991,4001,239,VE,2042,V,,El Siete,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653992,4001,239,VE,2042,V,,La Cañada,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653993,4001,239,VE,2042,V,,La Paz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653994,4001,239,VE,2042,V,,Las Delicias,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653995,4001,239,VE,2042,V,,Los Teques,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653996,4001,239,VE,2042,V,,Maracaibo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653997,4001,239,VE,2042,V,,Palmarejo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653998,4002,239,VE,2042,V,,Maracaibo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+653999,4004,239,VE,2042,V,,Maracaibo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654000,4005,239,VE,2042,V,,Maracaibo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654001,4005,239,VE,2042,V,,Monte Claro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654002,4005,239,VE,2042,V,,Residencia San Luis,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654003,4011,239,VE,2042,V,,Universidad del Zulia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654004,4012,239,VE,2042,V,,Aeropuerto La Chinita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654005,4013,239,VE,2042,V,,Cabimas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654006,4013,239,VE,2042,V,,Punta Gorda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654007,4014,239,VE,2042,V,,Bachaquero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654008,4015,239,VE,2042,V,,Machango,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654009,4015,239,VE,2042,V,,Mene Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654010,4015,239,VE,2042,V,,Pueblo Nuevo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654011,4016,239,VE,2042,V,,Lagunillas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654012,4017,239,VE,2042,V,,Tía Juana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654013,4018,239,VE,2042,V,,San Timoteo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654014,4019,239,VE,2042,V,,Ciudad Ojeda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654015,4019,239,VE,2042,V,,Las Morochas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654016,4019,239,VE,2042,V,,Pica Pica,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654017,4020,239,VE,2042,V,,Barranca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654018,4020,239,VE,2042,V,,El Mene,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654019,4020,239,VE,2042,V,,Puerto Escondido,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654020,4020,239,VE,2042,V,,Santa Rita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654021,4021,239,VE,2042,V,,Calle Larga,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654022,4021,239,VE,2042,V,,Las Piedras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654023,4021,239,VE,2042,V,,Machiques,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654024,4021,239,VE,2042,V,,Macoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654025,4021,239,VE,2042,V,,San Jose De Perija,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654026,4021,239,VE,2042,V,,San José,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654027,4022,239,VE,2042,V,,El Venado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654028,4031,239,VE,2042,V,,Isla de Toas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654029,4032,239,VE,2042,V,,Campos Petroleros,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654030,4032,239,VE,2042,V,,Concepción,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654031,4032,239,VE,2042,V,,El Laberinto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654032,4032,239,VE,2042,V,,Laberinto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654033,4033,239,VE,2042,V,,Maracaibo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654034,4036,239,VE,2042,V,,El Tablazo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654035,4036,239,VE,2042,V,,Los Puertos de Altagracia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654036,4036,239,VE,2042,V,,Quisiro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654037,4037,239,VE,2042,V,,Carretal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654038,4037,239,VE,2042,V,,Cojoro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654039,4037,239,VE,2042,V,,Cojua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654040,4037,239,VE,2042,V,,Guarero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654041,4037,239,VE,2042,V,,Paraguaipoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654042,4041,239,VE,2042,V,,San Lorenzo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654043,4043,239,VE,2042,V,,San Rafael de Machiques,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654044,4044,239,VE,2042,V,,Campo Mara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654045,4044,239,VE,2042,V,,Carrasquero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654046,4044,239,VE,2042,V,,El Mojan,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654047,4044,239,VE,2042,V,,Isla de San Carlos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654048,4044,239,VE,2042,V,,La Rosita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654049,4044,239,VE,2042,V,,Las Cruces,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654050,4045,239,VE,2042,V,,Santa Cruz de Mara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654051,4046,239,VE,2042,V,,Sinamaica,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654052,4047,239,VE,2042,V,,Alturitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654053,4047,239,VE,2042,V,,Barranquitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654054,4047,239,VE,2042,V,,Los Haticos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654055,4047,239,VE,2042,V,,San Ignacio,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654056,4047,239,VE,2042,V,,Villa del Rosario,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654057,4101,239,VE,2035,I,,Acurigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654058,4101,239,VE,2035,I,,Agua Larga,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654059,4101,239,VE,2035,I,,Agua Salada,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654060,4101,239,VE,2035,I,,Aguide,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654061,4101,239,VE,2035,I,,Amuay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654062,4101,239,VE,2035,I,,Aracua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654063,4101,239,VE,2035,I,,Bariro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654064,4101,239,VE,2035,I,,Boca de Mangle,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654065,4101,239,VE,2035,I,,Boca de Tocuyo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654066,4101,239,VE,2035,I,,Cabure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654067,4101,239,VE,2035,I,,Capadare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654068,4101,239,VE,2035,I,,Casigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654069,4101,239,VE,2035,I,,Coro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654070,4101,239,VE,2035,I,,Corralito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654071,4101,239,VE,2035,I,,Curamichate,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654072,4101,239,VE,2035,I,,Curarí,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654073,4101,239,VE,2035,I,,Curimagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654074,4101,239,VE,2035,I,,El Charal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654075,4101,239,VE,2035,I,,El Menen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654076,4101,239,VE,2035,I,,El Vinculo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654077,4101,239,VE,2035,I,,Guaibacoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654078,4101,239,VE,2035,I,,Jadacaquiva,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654079,4101,239,VE,2035,I,,La Chapa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654080,4101,239,VE,2035,I,,La Negrita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654081,4101,239,VE,2035,I,,La Pastora,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654082,4101,239,VE,2035,I,,La Tabla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654083,4101,239,VE,2035,I,,La Taza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654084,4101,239,VE,2035,I,,Lizardo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654085,4101,239,VE,2035,I,,Mancillar de La Costa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654086,4101,239,VE,2035,I,,Mataruca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654087,4101,239,VE,2035,I,,Mitare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654088,4101,239,VE,2035,I,,Pecaya,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654089,4101,239,VE,2035,I,,Pueblo Cumarebo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654090,4101,239,VE,2035,I,,Pueblo Nuevo de La Sierra,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654091,4101,239,VE,2035,I,,Pureche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654092,4101,239,VE,2035,I,,San José de Bruzual,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654093,4101,239,VE,2035,I,,San José de Seque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654094,4101,239,VE,2035,I,,San Lorenzo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654095,4101,239,VE,2035,I,,San Miguel de Macoruca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654096,4101,239,VE,2035,I,,Santa Cruz de Bucaral,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654097,4101,239,VE,2035,I,,Tocopero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654098,4101,239,VE,2035,I,,Tocumo de La Rosita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654099,4101,239,VE,2035,I,,Tupure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654100,4101,239,VE,2035,I,,Urumaco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654101,4101,239,VE,2035,I,,Zazarida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654102,4102,239,VE,2035,I,,Adaure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654103,4102,239,VE,2035,I,,Agua Clara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654104,4102,239,VE,2035,I,,Baraived,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654105,4102,239,VE,2035,I,,El Duvisí,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654106,4102,239,VE,2035,I,,Punto Fijo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654107,4103,239,VE,2035,I,,Píritu,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654108,4104,239,VE,2035,I,,Maparari,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654109,4109,239,VE,2035,I,,San Luis,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654110,4110,239,VE,2035,I,,Agua Linda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654111,4110,239,VE,2035,I,,Jácura,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654112,4110,239,VE,2035,I,,Mirimire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654113,4114,239,VE,2035,I,,La Cruz de Taratara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654114,4117,239,VE,2035,I,,Mene Mauroa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654115,4118,239,VE,2035,I,,Borojó,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654116,4118,239,VE,2035,I,,Capatárida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654117,4118,239,VE,2035,I,,Dabajuro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654118,4132,239,VE,2035,I,,La Vela de Coro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654119,4136,239,VE,2035,I,,Piedra Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654120,4137,239,VE,2035,I,,Pedregal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654121,4150,239,VE,2035,I,,Caja de Agua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654122,4150,239,VE,2035,I,,Pueblo Nuevo de Paraguaná,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654123,4152,239,VE,2035,I,,Churuguara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654124,4154,239,VE,2035,I,,Punto Fijo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654125,4167,239,VE,2035,I,,Puerto Cumarebo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654126,5001,239,VE,2048,S,,Batatal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654127,5001,239,VE,2048,S,,El Corozo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654128,5001,239,VE,2048,S,,El Jordan,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654129,5001,239,VE,2048,S,,Helechales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654130,5001,239,VE,2048,S,,Hernandez,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654131,5001,239,VE,2048,S,,La Florida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654132,5001,239,VE,2048,S,,La Fundación,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654133,5001,239,VE,2048,S,,Los Kioscos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654134,5001,239,VE,2048,S,,Pueblo Nuevo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654135,5001,239,VE,2048,S,,Queniquea,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654136,5001,239,VE,2048,S,,San Cristobal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654137,5001,239,VE,2048,S,,San Cristóbal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654138,5001,239,VE,2048,S,,San Felix De Urraca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654139,5001,239,VE,2048,S,,San Joaquin De Navay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654140,5001,239,VE,2048,S,,San Josecito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654141,5001,239,VE,2048,S,,San Juan De Colon,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654142,5002,239,VE,2048,S,,Abejales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654143,5002,239,VE,2048,S,,La Pedrera,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654144,5002,239,VE,2048,S,,Mérida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654145,5003,239,VE,2048,S,,Colon,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654146,5003,239,VE,2048,S,,San Felix,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654147,5003,239,VE,2048,S,,San Pedro de Lirio,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654148,5007,239,VE,2048,S,,El Pino,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654149,5007,239,VE,2048,S,,San Antonio del Táchira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654150,5009,239,VE,2048,S,,Independencia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654151,5009,239,VE,2048,S,,Peribeca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654152,5010,239,VE,2048,S,,El Hato de La Virgen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654153,5010,239,VE,2048,S,,Libertad del Táchira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654154,5012,239,VE,2048,S,,Cordero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654155,5015,239,VE,2048,S,,Palmira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654156,5015,239,VE,2048,S,,Patiecito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654157,5017,239,VE,2048,S,,La Revancha,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654158,5017,239,VE,2048,S,,Los Caneyes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654159,5017,239,VE,2048,S,,Táriba,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654160,5020,239,VE,2048,S,,Boca de Grita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654161,5020,239,VE,2048,S,,Caño Macho,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654162,5020,239,VE,2048,S,,El Potosí,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654163,5020,239,VE,2048,S,,La Fría,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654164,5020,239,VE,2048,S,,Orope,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654165,5021,239,VE,2048,S,,El Cobre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654166,5022,239,VE,2048,S,,La Grita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654167,5022,239,VE,2048,S,,Llano Largo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654168,5022,239,VE,2048,S,,Pueblo Encima,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654169,5022,239,VE,2048,S,,Pueblo Hondo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654170,5022,239,VE,2048,S,,Sabana Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654171,5027,239,VE,2048,S,,Seboruco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654172,5030,239,VE,2048,S,,Delicias,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654173,5030,239,VE,2048,S,,Las Dantas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654174,5030,239,VE,2048,S,,Ramos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654175,5030,239,VE,2048,S,,Rubio,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654176,5030,239,VE,2048,S,,Río Chiquito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654177,5030,239,VE,2048,S,,Villa Páez,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654178,5032,239,VE,2048,S,,El Pinal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654179,5032,239,VE,2048,S,,El Teteo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654180,5032,239,VE,2048,S,,Los Naranjos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654181,5032,239,VE,2048,S,,San Rafael Del Piñal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654182,5033,239,VE,2048,S,,Borota,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654183,5036,239,VE,2048,S,,Lobatera,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654184,5037,239,VE,2048,S,,Michelena,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654185,5038,239,VE,2048,S,,Aldea,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654186,5038,239,VE,2048,S,,Coloncito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654187,5038,239,VE,2048,S,,La Tendida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654188,5038,239,VE,2048,S,,Morotuto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654189,5038,239,VE,2048,S,,Pueblo Las Hernández,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654190,5038,239,VE,2048,S,,San Simón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654191,5038,239,VE,2048,S,,Umuquena,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654192,5048,239,VE,2048,S,,Aguas Calientes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654193,5048,239,VE,2048,S,,La Rinconada,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654194,5048,239,VE,2048,S,,Nueva Arcadia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654195,5048,239,VE,2048,S,,Ureña,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654196,5051,239,VE,2048,S,,Santa Ana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654197,5054,239,VE,2048,S,,San José de Bolívar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654198,5058,239,VE,2048,S,,Pregonero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654199,5062,239,VE,2048,S,,El Amparo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654200,5063,239,VE,2048,S,,Apure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654201,5063,239,VE,2048,S,,El Nula,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654202,5063,239,VE,2048,S,,Guasdualito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654203,5065,239,VE,2048,S,,Palmarito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654204,5067,239,VE,2048,S,,El Cantón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654205,5067,239,VE,2049,E,,Quebrada Seca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654206,5101,239,VE,2053,L,,Acarigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654207,5101,239,VE,2042,V,,El Guayabo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654208,5101,239,VE,2053,L,,El Morro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654209,5101,239,VE,2042,V,,Encontrados,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654210,5101,239,VE,2053,L,,Estanques,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654211,5101,239,VE,2038,K,,Guayabones,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654212,5101,239,VE,2053,L,,Humboldt,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654213,5101,239,VE,2053,L,,La Hechicera,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654214,5101,239,VE,2053,L,,La Pedregosa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654215,5101,239,VE,2053,L,,La Vega,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654216,5101,239,VE,2053,L,,Los Sauzales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654217,5101,239,VE,2042,V,,Medio Cuarto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654218,5101,239,VE,2053,L,,Merida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654219,5101,239,VE,2042,V,,Moralito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654220,5101,239,VE,2053,L,,Mucujepe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654221,5101,239,VE,2053,L,,Mérida,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654222,5101,239,VE,2053,L,,San Jacinto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654223,5101,239,VE,2053,L,,San José,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654224,5101,239,VE,2053,L,,Santa Elena de Arenales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654225,5101,239,VE,2053,L,,Unión,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654226,5102,239,VE,2053,L,,La Azulita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654227,5105,239,VE,2053,L,,Mucuchachi,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654228,5106,239,VE,2053,L,,Mucutuy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654229,5107,239,VE,2053,L,,Jají,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654230,5108,239,VE,2053,L,,Pueblo Nuevo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654231,5110,239,VE,2053,L,,Acequias,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654232,5111,239,VE,2053,L,,Ejido,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654233,5111,239,VE,2053,L,,Los González,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654234,5112,239,VE,2053,L,,Chocanta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654235,5112,239,VE,2053,L,,La Mesa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654236,5112,239,VE,2053,L,,La Mesa de Ejido,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654237,5114,239,VE,2053,L,,Piñango,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654238,5115,239,VE,2053,L,,La Parroquia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654239,5115,239,VE,2053,L,,La Punta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654240,5116,239,VE,2053,L,,Tabay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654241,5124,239,VE,2053,L,,Pueblo Llano,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654242,5129,239,VE,2053,L,,Mucuruba,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654243,5130,239,VE,2053,L,,Apartaderos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654244,5130,239,VE,2053,L,,Mucuchies,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654245,5130,239,VE,2053,L,,San Rafael de Mucuchies,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654246,5131,239,VE,2053,L,,Santo Domingo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654247,5133,239,VE,2053,L,,Bailadores,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654248,5134,239,VE,2053,L,,Guaraque,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654249,5134,239,VE,2053,L,,Mesa Quintero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654250,5138,239,VE,2053,L,,Chiguara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654251,5138,239,VE,2053,L,,La Trampa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654252,5138,239,VE,2053,L,,Lagunilla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654253,5138,239,VE,2053,L,,Las Piedras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654254,5138,239,VE,2053,L,,San Juan de Lagunilla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654255,5141,239,VE,2053,L,,Mesa Bolívar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654256,5141,239,VE,2053,L,,Tucani,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654257,5142,239,VE,2053,L,,El Peñón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654258,5142,239,VE,2053,L,,Santa Cruz de Mora,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654259,5143,239,VE,2053,L,,La Playa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654260,5143,239,VE,2053,L,,Tovar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654261,5144,239,VE,2053,L,,Zea,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654262,5145,239,VE,2053,L,,El Vigia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654263,5145,239,VE,2053,L,,La Blanca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654264,5145,239,VE,2053,L,,La Gonzalez,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654265,5145,239,VE,2053,L,,La Palmita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654266,5145,239,VE,2053,L,,La Playita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654267,5145,239,VE,2053,L,,Libertad,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654268,5145,239,VE,2053,L,,Tucantocani,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654269,5154,239,VE,2053,L,,Canagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654270,5201,239,VE,2049,E,,Barinas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654271,5201,239,VE,2049,E,,Barinitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654272,5201,239,VE,2049,E,,Barrancas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654273,5201,239,VE,2049,E,,Bruzual,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654274,5201,239,VE,2049,E,,Capitanejo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654275,5201,239,VE,2049,E,,El Cantón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654276,5201,239,VE,2049,E,,El Real,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654277,5201,239,VE,2049,E,,El Regalo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654278,5201,239,VE,2049,E,,La Luz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654279,5201,239,VE,2049,E,,Maporal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654280,5201,239,VE,2049,E,,Mijagual,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654281,5201,239,VE,2049,E,,Pedraza la Vieja,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654282,5201,239,VE,2049,E,,Puerto Nutrias,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654283,5201,239,VE,2049,E,,Quebrada Seca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654284,5201,239,VE,2049,E,,Quintero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654285,5201,239,VE,2049,E,,San Rafael de Canagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654286,5201,239,VE,2049,E,,San Vicente,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654287,5201,239,VE,2049,E,,Santa Catalina,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654288,5201,239,VE,2049,E,,Santa Inés,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654289,5201,239,VE,2049,E,,Santa Lucia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654290,5201,239,VE,2049,E,,Torunos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654291,5201,239,VE,2049,E,,Veguitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654292,5203,239,VE,2049,E,,Barinas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654293,5206,239,VE,2049,E,,Barinitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654294,5207,239,VE,2049,E,,Calderas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654295,5208,239,VE,2049,E,,Altamira,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654296,5210,239,VE,2049,E,,Santa Barbara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654297,5213,239,VE,2049,E,,Obispos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654298,5214,239,VE,2049,E,,Ciudad Bolivia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654299,5216,239,VE,2049,E,,Chameta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654300,5216,239,VE,2049,E,,Sacopó,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654301,5217,239,VE,2049,E,,Dolores,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654302,5219,239,VE,2049,E,,Santa Rosa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654303,5220,239,VE,2049,E,,Libertad,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654304,5221,239,VE,2049,E,,Ciudad de Nutrias,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654305,5224,239,VE,2049,E,,Sabaneta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654306,6001,239,VE,2050,B,,Anaco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654307,6001,239,VE,2050,B,,Atapirire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654308,6001,239,VE,2050,B,,Barbacoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654309,6001,239,VE,2050,B,,Barcelona,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654310,6001,239,VE,2050,B,,Cachipo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654311,6001,239,VE,2050,B,,El Carito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654312,6001,239,VE,2050,B,,El Hatillo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654313,6001,239,VE,2050,B,,El Pao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654314,6001,239,VE,2050,B,,El Pilar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654315,6001,239,VE,2050,B,,Guaribe de Cajigal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654316,6001,239,VE,2050,B,,Los Altos de Santa Fe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654317,6001,239,VE,2050,B,,Mapire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654318,6001,239,VE,2050,B,,Modulo de Boyacá,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654319,6001,239,VE,2050,B,,Mundo Nuevo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654320,6001,239,VE,2050,B,,Sabana de Uchire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654321,6001,239,VE,2050,B,,San Diego de Cabrutica,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654322,6001,239,VE,2050,B,,San Miguel,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654323,6001,239,VE,2050,B,,San Pablo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654324,6001,239,VE,2050,B,,Santa Clara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654325,6001,239,VE,2050,B,,Santa Cruz del Orinoco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654326,6001,239,VE,2050,B,,Santa Inés,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654327,6001,239,VE,2050,B,,Santa Rosa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654328,6001,239,VE,2050,B,,Uríca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654329,6001,239,VE,2050,B,,Uverito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654330,6002,239,VE,2050,B,,Aragua de Barcelona,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654331,6002,239,VE,2050,B,,La Margarita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654332,6003,239,VE,2050,B,,Anaco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654333,6003,239,VE,2050,B,,Los Pilones,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654334,6005,239,VE,2050,B,,Boca de Uchire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654335,6007,239,VE,2050,B,,Cantaura,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654336,6008,239,VE,2050,B,,Clarines,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654337,6009,239,VE,2050,B,,Modulo de Chuparin,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654338,6012,239,VE,2050,B,,Guanape,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654339,6014,239,VE,2050,B,,Guanta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654340,6014,239,VE,2050,B,,Pertigalete,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654341,6016,239,VE,2050,B,,El Morro de Barcelona,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654342,6016,239,VE,2050,B,,Lecherías,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654343,6020,239,VE,2050,B,,Onoto,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654344,6022,239,VE,2050,B,,Puerto La Cruz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654345,6022,239,VE,2050,B,,Puerto Píritu,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654346,6022,239,VE,2050,B,,Píritu,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654347,6023,239,VE,2050,B,,Puerto La Cruz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654348,6027,239,VE,2050,B,,Santa Ana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654349,6032,239,VE,2050,B,,Valle Guanape,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654350,6048,239,VE,2050,B,,San Mateo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654351,6050,239,VE,2050,B,,El Tigre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654352,6052,239,VE,2050,B,,Pariaguán,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654353,6054,239,VE,2050,B,,San José de Guanipa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654354,6055,239,VE,2050,B,,San Tomé,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654355,6057,239,VE,2050,B,,Zuata,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654356,6101,239,VE,2056,R,,Caigüire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654357,6101,239,VE,2056,R,,Campo Claro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654358,6101,239,VE,2056,R,,Carupano,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654359,6101,239,VE,2056,R,,Chacopata,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654360,6101,239,VE,2056,R,,Cumana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654361,6101,239,VE,2056,R,,El Peñón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654362,6101,239,VE,2056,R,,Las Piedras de Cocollar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654363,6101,239,VE,2056,R,,Las Vegas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654364,6101,239,VE,2056,R,,Los Altos De Santa fe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654365,6101,239,VE,2056,R,,Muelle de Cariaco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654366,6101,239,VE,2056,R,,Quebrada Seca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654367,6102,239,VE,2056,R,,Araya,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654368,6106,239,VE,2056,R,,Acarigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654369,6106,239,VE,2056,R,,Arenas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654370,6106,239,VE,2056,R,,Cumanacoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654371,6106,239,VE,2056,R,,San Lorenzo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654372,6107,239,VE,2056,R,,Mariguitar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654373,6110,239,VE,2056,R,,San Antonio del Golfo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654374,6123,239,VE,2056,R,,Altos de Sucre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654375,6126,239,VE,2056,R,,Cariaco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654376,6150,239,VE,2056,R,,Agua Fria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654377,6150,239,VE,2056,R,,Bohordal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654378,6150,239,VE,2056,R,,Campearito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654379,6150,239,VE,2056,R,,Carupano,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654380,6150,239,VE,2056,R,,Catuaro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654381,6150,239,VE,2056,R,,Cumaná,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654382,6150,239,VE,2056,R,,El Paujil,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654383,6150,239,VE,2056,R,,El Rincón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654384,6150,239,VE,2056,R,,Guaca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654385,6150,239,VE,2056,R,,Guanoco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654386,6150,239,VE,2056,R,,Guarauna,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654387,6150,239,VE,2056,R,,Guaraunos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654388,6150,239,VE,2056,R,,Guariquen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654389,6150,239,VE,2056,R,,Guayana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654390,6150,239,VE,2056,R,,Los Arroyos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654391,6150,239,VE,2056,R,,Macuro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654392,6150,239,VE,2056,R,,Nueva Colombia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654393,6150,239,VE,2056,R,,Playa Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654394,6150,239,VE,2056,R,,Rio Salado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654395,6150,239,VE,2056,R,,Rio Seco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654396,6150,239,VE,2056,R,,San Juan de Unare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654397,6150,239,VE,2056,R,,San Juan de las Galdonas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654398,6150,239,VE,2056,R,,San Vicente,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654399,6150,239,VE,2056,R,,Santa Cruz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654400,6150,239,VE,2056,R,,Santa María de Cariaco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654401,6150,239,VE,2056,R,,Saucedo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654402,6150,239,VE,2056,R,,Soro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654403,6150,239,VE,2056,R,,Tunapuicito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654404,6150,239,VE,2056,R,,Valle de San Bonifacio,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654405,6150,239,VE,2056,R,,Yoco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654406,6152,239,VE,2056,R,,El Pilar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654407,6154,239,VE,2056,R,,Tunapuy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654408,6154,239,VE,2056,R,,Tunapuycito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654409,6155,239,VE,2056,R,,Yaguaraparo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654410,6156,239,VE,2056,R,,Irapa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654411,6156,239,VE,2056,R,,Maraval,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654412,6160,239,VE,2056,R,,Güiria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654413,6160,239,VE,2056,R,,Río Grande,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654414,6161,239,VE,2056,R,,Güiria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654415,6163,239,VE,2056,R,,El Morro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654416,6163,239,VE,2056,R,,Puerto Santo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654417,6164,239,VE,2056,R,,Río Caribe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654418,6167,239,VE,2056,R,,San José de Aerocuar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654419,6168,239,VE,2056,R,,Casanay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654420,6168,239,VE,2056,R,,Guarapiche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654421,6168,239,VE,2056,R,,Río Casanay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654422,6201,239,VE,2054,N,,Aguasay,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654423,6201,239,VE,2054,N,,Alto Guri,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654424,6201,239,VE,2054,N,,Altos de los Godos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654425,6201,239,VE,2054,N,,Andrés Eloy Blanco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654426,6201,239,VE,2054,N,,Areo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654427,6201,239,VE,2054,N,,Azagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654428,6201,239,VE,2054,N,,Bajo Guarapiche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654429,6201,239,VE,2054,N,,Brisas de Aribi,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654430,6201,239,VE,2054,N,,Cachipo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654431,6201,239,VE,2054,N,,Campo Alegre,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654432,6201,239,VE,2054,N,,Carabobo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654433,6201,239,VE,2054,N,,Caño Colorado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654434,6201,239,VE,2054,N,,Chaguaramal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654435,6201,239,VE,2054,N,,El Cortijo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654436,6201,239,VE,2054,N,,El Furrial,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654437,6201,239,VE,2054,N,,El Junín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654438,6201,239,VE,2054,N,,El Merey,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654439,6201,239,VE,2054,N,,El Paraíso,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654440,6201,239,VE,2054,N,,El Pelón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654441,6201,239,VE,2054,N,,El Respiro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654442,6201,239,VE,2054,N,,El Zamuro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654443,6201,239,VE,2054,N,,El Zorro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654444,6201,239,VE,2054,N,,Guarapiche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654445,6201,239,VE,2054,N,,Guarito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654446,6201,239,VE,2054,N,,La Candelaria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654447,6201,239,VE,2054,N,,La Cruz de La Paloma,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654448,6201,239,VE,2054,N,,La Morrocoya,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654449,6201,239,VE,2054,N,,La Plantación,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654450,6201,239,VE,2054,N,,La Poderosa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654451,6201,239,VE,2054,N,,Las Alhuacas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654452,6201,239,VE,2054,N,,Las Brisas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654453,6201,239,VE,2054,N,,Las Palmeras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654454,6201,239,VE,2054,N,,Las Pinas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654455,6201,239,VE,2054,N,,Libertador,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654456,6201,239,VE,2054,N,,Los Guaritos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654457,6201,239,VE,2054,N,,Los Pinos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654458,6201,239,VE,2054,N,,Manreza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654459,6201,239,VE,2054,N,,Maturin,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654460,6201,239,VE,2054,N,,Maturín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654461,6201,239,VE,2054,N,,Morichal Largo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654462,6201,239,VE,2054,N,,Puerto Amador,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654463,6201,239,VE,2054,N,,Punta Gorda,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654464,6201,239,VE,2054,N,,San Luis,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654465,6201,239,VE,2054,N,,San Miguel,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654466,6201,239,VE,2054,N,,Santa Elena,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654467,6201,239,VE,2054,N,,Sarabria,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654468,6201,239,VE,2054,N,,Tirado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654469,6201,239,VE,2054,N,,Viento Colao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654470,6201,239,VE,2054,N,,Vuelta Larga,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654471,6201,239,VE,2054,N,,Zona Industrial,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654472,6204,239,VE,2054,N,,Maturin,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654473,6206,239,VE,2054,N,,Aragua de Maturín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654474,6207,239,VE,2054,N,,Viento Fresco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654475,6208,239,VE,2054,N,,Barrancas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654476,6209,239,VE,2054,N,,Caicara de Maturín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654477,6210,239,VE,2054,N,,Caripe,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654478,6210,239,VE,2054,N,,La Guanota,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654479,6211,239,VE,2054,N,,Caripito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654480,6213,239,VE,2054,N,,Punta de Mata,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654481,6214,239,VE,2054,N,,Guanaguana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654482,6215,239,VE,2054,N,,La Toscana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654483,6216,239,VE,2054,N,,Miraflores,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654484,6218,239,VE,2054,N,,Quiriquire,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654485,6219,239,VE,2054,N,,San Antonio de Maturín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654486,6219,239,VE,2054,N,,San Francisco de Maturín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654487,6221,239,VE,2054,N,,Santa Bárbara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654488,6223,239,VE,2054,N,,Temblador,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654489,6224,239,VE,2054,N,,Teresen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654490,6225,239,VE,2054,N,,San Antonio de Tabasca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654491,6226,239,VE,2054,N,,San Felix de Monagas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654492,6301,239,VE,2052,O,,Agua de Vaca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654493,6301,239,VE,2052,O,,Altagracia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654494,6301,239,VE,2052,O,,Antolin del Campo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654495,6301,239,VE,2052,O,,Boca del Pozo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654496,6301,239,VE,2052,O,,Boquerón,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654497,6301,239,VE,2052,O,,Chacachacare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654498,6301,239,VE,2052,O,,El Amparo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654499,6301,239,VE,2052,O,,El Bicha,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654500,6301,239,VE,2052,O,,El Espinal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654501,6301,239,VE,2052,O,,El Maco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654502,6301,239,VE,2052,O,,El Pilar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654503,6301,239,VE,2052,O,,El Valle de Pedro González,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654504,6301,239,VE,2052,O,,El Valle del Espíritu Santo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654505,6301,239,VE,2052,O,,Guinima,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654506,6301,239,VE,2052,O,,Isla de Coche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654507,6301,239,VE,2052,O,,La Asuncion,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654508,6301,239,VE,2052,O,,La Asunción,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654509,6301,239,VE,2052,O,,La Guardia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654510,6301,239,VE,2052,O,,La Isleta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654511,6301,239,VE,2052,O,,La Plaza de Paraguachí,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654512,6301,239,VE,2052,O,,La Vecindad,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654513,6301,239,VE,2052,O,,Las Cabreras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654514,6301,239,VE,2052,O,,Las Hernández,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654515,6301,239,VE,2052,O,,Las Maritas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654516,6301,239,VE,2052,O,,Las Piedras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654517,6301,239,VE,2052,O,,Los Bagres,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654518,6301,239,VE,2052,O,,Los Cerritos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654519,6301,239,VE,2052,O,,Los Giles,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654520,6301,239,VE,2052,O,,Los Gómez,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654521,6301,239,VE,2052,O,,Los Marvales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654522,6301,239,VE,2052,O,,Los Millanes,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654523,6301,239,VE,2052,O,,Macanao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654524,6301,239,VE,2052,O,,Manzanillo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654525,6301,239,VE,2052,O,,Marino,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654526,6301,239,VE,2052,O,,Mariño,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654527,6301,239,VE,2052,O,,Orinoco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654528,6301,239,VE,2052,O,,Pedregales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654529,6301,239,VE,2052,O,,Pedro González,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654530,6301,239,VE,2052,O,,Porlamar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654531,6301,239,VE,2052,O,,Puerto Fermín,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654532,6301,239,VE,2052,O,,Punta de Piedras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654533,6301,239,VE,2052,O,,Robledal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654534,6301,239,VE,2052,O,,San Antonio,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654535,6301,239,VE,2052,O,,Santa Ana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654536,6301,239,VE,2052,O,,Tacarigua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654537,6301,239,VE,2052,O,,Villa Rosa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654538,6304,239,VE,2052,O,,Boca del Río,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654539,6309,239,VE,2052,O,,La Asuncion,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654540,6311,239,VE,2052,O,,La Asuncion,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654541,6316,239,VE,2052,O,,La Asuncion,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654542,6318,239,VE,2052,O,,La Asuncion,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654543,6320,239,VE,2052,O,,San Juan Bautista,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654544,6321,239,VE,2052,O,,San Pedro de Coche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654545,6401,239,VE,2051,Y,,Coporito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654546,6401,239,VE,2051,Y,,Curiapo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654547,6401,239,VE,2034,H,,El Torito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654548,6401,239,VE,2051,Y,,La Orquesta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654549,6401,239,VE,2051,Y,,Macareito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654550,6401,239,VE,2051,Y,,Piacoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654551,6401,239,VE,2051,Y,,Sacupana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654552,6401,239,VE,2034,H,,San Carlos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654553,6401,239,VE,2051,Y,,San José de Mazareito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654554,6401,239,VE,2051,Y,,Santa Catalina,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654555,6401,239,VE,2051,Y,,Tabasca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654556,6401,239,VE,2051,Y,,Tucupita,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654557,6401,239,VE,2051,Y,,Uracoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654558,7001,239,VE,4856,C,,Arichuna,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654559,7001,239,VE,2045,J,,Camatagua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654560,7001,239,VE,4856,C,,Cazorla,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654561,7001,239,VE,4856,C,,Cunaviche,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654562,7001,239,VE,4856,C,,El Samán de Apure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654563,7001,239,VE,4856,C,,El Yagual,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654564,7001,239,VE,4856,C,,Guasimal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654565,7001,239,VE,4856,C,,Guayabal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654566,7001,239,VE,4856,C,,Guáchara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654567,7001,239,VE,4856,C,,La Trinidad de Orichuna,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654568,7001,239,VE,4856,C,,Municipio Quintero,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654569,7001,239,VE,4856,C,,Puerto Nova,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654570,7001,239,VE,4856,C,,San Fernando,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654571,7001,239,VE,4856,C,,San Fernando de Apure,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654572,7001,239,VE,4856,C,,San Juan de Payara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654573,7001,239,VE,4856,C,,San Vicente,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654574,7002,239,VE,4856,C,,Achaguas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654575,7003,239,VE,4856,C,,Apurito,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654576,7004,239,VE,4856,C,,San Juan de Payara,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654577,7005,239,VE,4856,C,,Bruzual,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654578,7007,239,VE,4856,C,,Biruaca,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654579,7007,239,VE,4856,C,,Camaguán,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654580,7010,239,VE,4856,C,,Mantecal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654581,7011,239,VE,4856,C,,Elorza,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654582,7101,239,VE,2044,Z,,Maroa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654583,7101,239,VE,2044,Z,,Puerto Ayacucho,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654584,7101,239,VE,2044,Z,,Puerto Páez,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654585,7101,239,VE,2044,Z,,San Carlos de Río Negro,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654586,7101,239,VE,2044,Z,,San Fernando de Atabapo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654587,7101,239,VE,2044,Z,,San Fernando de Guainia,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654588,7101,239,VE,2044,Z,,San Juan de Manapiare,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654589,7101,239,VE,2044,Z,,San Simón de Cocuy,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654590,7101,239,VE,2044,Z,,Santa Rosa de Amanadona,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654591,8001,239,VE,2039,F,,Aripao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654592,8001,239,VE,2039,F,,Ciudad Bolivar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654593,8001,239,VE,2039,F,,Ciudad Bolívar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654594,8001,239,VE,2039,F,,Cuchiberos,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654595,8001,239,VE,2039,F,,Icabarú,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654596,8001,239,VE,2039,F,,Kanavayen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654597,8001,239,VE,2039,F,,La Canoa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654598,8001,239,VE,2039,F,,La Paragua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654599,8001,239,VE,2039,F,,La Urbina,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654600,8001,239,VE,2039,F,,Las Bonitas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654601,8001,239,VE,2039,F,,Las Majadas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654602,8001,239,VE,2039,F,,Las Trincheras,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654603,8001,239,VE,2039,F,,Los Morichales,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654604,8001,239,VE,2039,F,,Matanzas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654605,8001,239,VE,2039,F,,Moitaco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654606,8001,239,VE,2039,F,,Puruey,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654607,8001,239,VE,2039,F,,San Francisco de La Paragua,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654608,8001,239,VE,2039,F,,San Pedro de Las Bocas,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654609,8001,239,VE,2039,F,,Santa Cruz de Orinoco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654610,8001,239,VE,2039,F,,Santa Rosalía,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654611,8001,239,VE,2039,F,,Santa Teresa de Canavayen,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654612,8003,239,VE,2039,F,,Ciudad Piar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654613,8007,239,VE,2045,J,,Cabruta,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654614,8007,239,VE,2039,F,,Caicara del Orinoco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654615,8009,239,VE,2039,F,,Maripa,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654616,8011,239,VE,2039,F,,Santa Elena de Uairén,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654617,8013,239,VE,2050,B,,Soledad,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654618,8050,239,VE,2039,F,,Ciudad Guayana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654619,8050,239,VE,2039,F,,El Dorado,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654620,8050,239,VE,2039,F,,El Manteco,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654621,8050,239,VE,2039,F,,El Miamo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654622,8050,239,VE,2039,F,,El Pao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654623,8050,239,VE,2039,F,,Guasipati,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654624,8050,239,VE,2039,F,,Jabillal,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654625,8050,239,VE,2039,F,,Los Castillos de Guayana,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654626,8050,239,VE,2039,F,,Puerto Ordáz,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654627,8051,239,VE,2039,F,,San Félix,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654628,8052,239,VE,2039,F,,Upata,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654629,8054,239,VE,2039,F,,El Palmar,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654630,8056,239,VE,2039,F,,El Callao,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1
+654631,8057,239,VE,2039,F,,Tumeremo,full,,,ipostel-via-JhonnelN,,2026-04-28T06:49:22,2026-04-28T06:49:22,1

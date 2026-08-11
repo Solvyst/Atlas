@@ -1,0 +1,3 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+285402,96960,137,MH,5656,MAJ,,Majuro,full,,,manual,,2026-04-28T06:49:07,2026-04-28T06:49:07,1
+285403,96970,137,MH,5652,KWA,,Ebeye,full,,,manual,,2026-04-28T06:49:07,2026-04-28T06:49:07,1

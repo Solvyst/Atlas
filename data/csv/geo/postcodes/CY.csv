@@ -1,0 +1,826 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+84700,1010,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84701,1011,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84702,1015,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84703,1016,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84704,1017,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84705,1020,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84706,1021,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84707,1022,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84708,1025,57,CY,745,01,,Lefkosia (Omorfita),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84709,1026,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84710,1027,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84711,1028,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84712,1035,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84713,1036,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84714,1036,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84715,1037,57,CY,745,01,,Lefkosia (Kaimakli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84716,1040,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84717,1041,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84718,1042,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84719,1045,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84720,1046,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84721,1047,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84722,1048,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84723,1049,57,CY,745,01,,Lefkosia (Pallouriotissa),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84724,1055,57,CY,745,01,,Lefkosia (Lykavittos),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84725,1056,57,CY,745,01,,Lefkosia (Lykavittos),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84726,1057,57,CY,745,01,,Lefkosia (Lykavittos),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84727,1060,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84728,1061,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84729,1065,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84730,1066,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84731,1070,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84732,1071,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84733,1075,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84734,1076,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84735,1077,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84736,1080,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84737,1081,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84738,1082,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84739,1085,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84740,1086,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84741,1087,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84742,1090,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84743,1095,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84744,1096,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84745,1097,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84746,1100,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84747,1101,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84748,1102,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84749,1105,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84750,1106,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84751,1107,57,CY,745,01,,Lefkosia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84752,2000,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84753,2001,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84754,2002,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84755,2003,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84756,2006,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84757,2007,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84758,2008,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84759,2011,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84760,2012,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84761,2013,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84762,2014,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84763,2015,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84764,2018,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84765,2019,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84766,2020,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84767,2021,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84768,2023,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84769,2024,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84770,2025,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84771,2027,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84772,2028,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84773,2029,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84774,2030,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84775,2031,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84776,2032,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84777,2033,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84778,2034,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84779,2035,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84780,2036,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84781,2037,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84782,2038,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84783,2039,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84784,2040,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84785,2042,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84786,2043,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84787,2044,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84788,2045,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84789,2046,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84790,2047,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84791,2048,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84792,2049,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84793,2050,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84794,2051,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84795,2052,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84796,2054,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84797,2055,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84798,2057,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84799,2058,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84800,2059,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84801,2060,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84802,2062,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84803,2063,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84804,2064,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84805,2066,57,CY,745,01,,Strovolos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84806,2100,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84807,2101,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84808,2102,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84809,2103,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84810,2107,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84811,2108,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84812,2109,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84813,2112,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84814,2113,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84815,2114,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84816,2115,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84817,2116,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84818,2120,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84819,2121,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84820,2122,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84821,2123,57,CY,745,01,,Aglantzia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84822,2200,57,CY,745,01,,Geri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84823,2201,57,CY,745,01,,Geri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84824,2202,57,CY,745,01,,Geri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84825,2220,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84826,2221,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84827,2222,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84828,2223,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84829,2224,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84830,2230,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84831,2231,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84832,2232,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84833,2233,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84834,2234,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84835,2235,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84836,2236,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84837,2237,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84838,2238,57,CY,745,01,,Latsia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84839,2300,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84840,2301,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84841,2302,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84842,2303,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84843,2304,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84844,2305,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84845,2306,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84846,2310,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84847,2311,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84848,2312,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84849,2313,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84850,2314,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84851,2320,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84852,2321,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84853,2322,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84854,2323,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84855,2324,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84856,2325,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84857,2326,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84858,2328,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84859,2330,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84860,2331,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84861,2332,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84862,2333,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84863,2334,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84864,2335,57,CY,745,01,,Lakatameia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84865,2350,57,CY,745,01,,Synoikismos Anthoupolis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84866,2360,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84867,2361,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84868,2362,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84869,2363,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84870,2364,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84871,2365,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84872,2368,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84873,2369,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84874,2370,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84875,2373,57,CY,745,01,,Agios Dometios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84876,2400,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84877,2401,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84878,2402,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84879,2404,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84880,2406,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84881,2407,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84882,2408,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84883,2409,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84884,2410,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84885,2411,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84886,2412,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84887,2413,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84888,2414,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84889,2415,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84890,2416,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84891,2417,57,CY,745,01,,Egkomi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84892,2450,57,CY,745,01,,Kato Deftera,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84893,2460,57,CY,745,01,,Pano Deftera,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84894,2480,57,CY,745,01,,Tseri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84895,2540,57,CY,745,01,,Dali,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84896,2546,57,CY,745,01,,Dali (Ilioupoli),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84897,2547,57,CY,745,01,,Dali (Konstantia),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84898,2548,57,CY,745,01,,Dali (Kallithea),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84899,2549,57,CY,745,01,,Dali (Nea Lidra),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84900,2560,57,CY,745,01,,Agia Varvara Lefkosias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84901,2563,57,CY,745,01,,Alampra,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84902,2564,57,CY,745,01,,Kotsiatis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84903,2565,57,CY,745,01,,Lythrodontas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84904,2566,57,CY,745,01,,Lympia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84905,2568,57,CY,745,01,,Mathiatis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84906,2570,57,CY,745,01,,Moni Profiti Ilia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84907,2571,57,CY,745,01,,Nisou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84908,2572,57,CY,745,01,,Pera Chorio,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84909,2573,57,CY,745,01,,Potamia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84910,2574,57,CY,745,01,,Sia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84911,2600,57,CY,745,01,,Klirou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84912,2610,57,CY,745,01,,Agios Epifanios Oreinis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84913,2611,57,CY,745,01,,Agios Ioannis Lefkosias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84914,2612,57,CY,745,01,,Malounta,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84915,2613,57,CY,745,01,,Apliki,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84916,2614,57,CY,745,01,,Arediou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84917,2615,57,CY,745,01,,Gourri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84918,2616,57,CY,745,01,,Kalo Chorio Oreinis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84919,2617,57,CY,745,01,,Agrokipia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84920,2618,57,CY,745,01,,Lazanias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84921,2619,57,CY,745,01,,Kampi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84922,2620,57,CY,745,01,,Farmakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84923,2621,57,CY,745,01,,Moni Machaira,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84924,2622,57,CY,745,01,,Mitsero,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84925,2623,57,CY,745,01,,Fikardou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84926,2624,57,CY,745,01,,Moni Agiou Panteleimonos Achera,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84927,2630,57,CY,745,01,,Psimolofou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84928,2640,57,CY,745,01,,Anageia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84929,2641,57,CY,745,01,,Analiontas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84930,2642,57,CY,745,01,,Episkopeio,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84931,2643,57,CY,745,01,,Ergates,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84932,2644,57,CY,745,01,,Kampia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84933,2645,57,CY,745,01,,Kapedes,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84934,2646,57,CY,745,01,,Kataliontas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84935,2647,57,CY,745,01,,Margi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84936,2648,57,CY,745,01,,Moni Agiou Irakleidiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84937,2649,57,CY,745,01,,Moni Archangelou Michail,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84938,2650,57,CY,745,01,,Pera,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84939,2651,57,CY,745,01,,Politiko,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84940,2652,57,CY,745,01,,Filani,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84941,2653,57,CY,745,01,,Moni Panagias Theotokou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84942,2660,57,CY,745,01,,Kokkinotrimithia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84943,2671,57,CY,745,01,,Agioi Trimithias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84944,2675,57,CY,745,01,,Deneia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84945,2679,57,CY,745,01,,Mammari,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84946,2682,57,CY,745,01,,Palaiometocho,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84947,2720,57,CY,745,01,,Akaki,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84948,2722,57,CY,745,01,,Astromeritis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84949,2728,57,CY,745,01,,Meniko,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84950,2731,57,CY,745,01,,Peristerona Lefkosias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84951,2740,57,CY,745,01,,Palaichori Morfou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84952,2745,57,CY,745,01,,Palaichori Oreinis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84953,2750,57,CY,745,01,,Alithinou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84954,2751,57,CY,745,01,,Alona,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84955,2752,57,CY,745,01,,Askas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84956,2753,57,CY,745,01,,Lagoudera,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84957,2754,57,CY,745,01,,Livadia Lefkosias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84958,2755,57,CY,745,01,,Platanistasa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84959,2756,57,CY,745,01,,Polystypos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84960,2757,57,CY,745,01,,Saranti,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84961,2758,57,CY,745,01,,Fterikoudi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84962,2770,57,CY,745,01,,Kato Koutrafas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84963,2771,57,CY,745,01,,Pano Koutrafas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84964,2772,57,CY,745,01,,Agia Marina Xyliatou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84965,2773,57,CY,745,01,,Agios Georgios Kafkalou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84966,2774,57,CY,745,01,,Vyzakia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84967,2776,57,CY,745,01,,Kato Moni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84968,2777,57,CY,745,01,,Nikitari,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84969,2779,57,CY,745,01,,Orounta,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84970,2780,57,CY,745,01,,Potami,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84971,2781,57,CY,745,01,,Xyliatos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84972,2800,57,CY,745,01,,Kakopetria,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84973,2820,57,CY,745,01,,Agia Eirini Lefkosias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84974,2823,57,CY,745,01,,Agios Theodoros Soleas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84975,2825,57,CY,745,01,,Agios Nikolaos Stegis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84976,2827,57,CY,745,01,,Galata,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84977,2831,57,CY,745,01,,Evrychou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84978,2832,57,CY,745,01,,Kaliana,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84979,2834,57,CY,745,01,,Kannavia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84980,2835,57,CY,745,01,,Katydata,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84981,2836,57,CY,745,01,,Korakou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84982,2839,57,CY,745,01,,Sinaoros,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84983,2840,57,CY,745,01,,Skouriotissa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84984,2841,57,CY,745,01,,Spilia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84985,2842,57,CY,745,01,,Temvria,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84986,2843,57,CY,745,01,,Flasou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84987,2845,57,CY,745,01,,Linou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84988,2846,57,CY,745,01,,Kourdali,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84989,2850,57,CY,745,01,,Pedoulas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84990,2861,57,CY,745,01,,Gerakies,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84991,2862,57,CY,745,01,,Kalopanagiotis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84992,2863,57,CY,745,01,,Kampos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84993,2864,57,CY,745,01,,Mylikouri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84994,2865,57,CY,745,01,,Moni Kykkou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84995,2866,57,CY,745,01,,Moutoullas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84996,2867,57,CY,745,01,,Oikos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84997,2869,57,CY,745,01,,Tsakistra,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84998,2940,57,CY,745,01,,Kato Pyrgos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+84999,2950,57,CY,745,01,,Pano Pyrgos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85000,2959,57,CY,745,01,,Mosfileri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85001,2961,57,CY,745,01,,Pachyammos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85002,2962,57,CY,745,01,,Pigenia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85003,3010,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85004,3011,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85005,3012,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85006,3013,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85007,3015,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85008,3016,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85009,3017,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85010,3020,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85011,3021,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85012,3022,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85013,3025,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85014,3026,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85015,3027,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85016,3030,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85017,3031,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85018,3032,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85019,3035,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85020,3036,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85021,3040,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85022,3041,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85023,3042,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85024,3045,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85025,3046,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85026,3047,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85027,3048,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85028,3050,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85029,3051,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85030,3052,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85031,3055,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85032,3056,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85033,3060,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85034,3061,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85035,3065,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85036,3066,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85037,3067,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85038,3070,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85039,3071,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85040,3075,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85041,3076,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85042,3077,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85043,3080,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85044,3081,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85045,3082,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85046,3083,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85047,3085,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85048,3086,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85049,3087,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85050,3090,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85051,3091,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85052,3095,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85053,3096,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85054,3100,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85055,3101,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85056,3105,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85057,3106,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85058,3107,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85059,3110,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85060,3111,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85061,3112,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85062,3113,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85063,3115,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85064,3116,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85065,3117,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85066,3118,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85067,3119,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85068,3120,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85069,3150,57,CY,748,02,,Lemesos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85070,4000,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85071,4001,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85072,4002,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85073,4003,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85074,4004,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85075,4005,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85076,4006,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85077,4007,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85078,4008,57,CY,748,02,,Mesa Geitonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85079,4040,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85080,4041,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85081,4042,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85082,4043,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85083,4044,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85084,4045,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85085,4046,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85086,4047,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85087,4048,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85088,4049,57,CY,748,02,,Germasogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85089,4100,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85090,4101,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85091,4102,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85092,4103,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85093,4104,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85094,4105,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85095,4106,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85096,4107,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85097,4108,57,CY,748,02,,Agios Athanasios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85098,4130,57,CY,748,02,,Pano Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85099,4131,57,CY,748,02,,Pano Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85100,4150,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85101,4151,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85102,4152,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85103,4153,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85104,4154,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85105,4155,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85106,4156,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85107,4157,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85108,4158,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85109,4159,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85110,4170,57,CY,748,02,,Kato Polemidia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85111,4180,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85112,4181,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85113,4182,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85114,4183,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85115,4184,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85116,4185,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85117,4186,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85118,4187,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85119,4188,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85120,4189,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85121,4190,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85122,4191,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85123,4192,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85124,4193,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85125,4194,57,CY,748,02,,Ypsonas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85126,4500,57,CY,748,02,,Kellaki,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85127,4501,57,CY,748,02,,Akapnou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85128,4502,57,CY,748,02,,Asgata,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85129,4504,57,CY,748,02,,Vasa Kellakiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85130,4505,57,CY,748,02,,Prastio Kellakiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85131,4506,57,CY,748,02,,Eptagoneia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85132,4507,57,CY,748,02,,Klonari,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85133,4508,57,CY,748,02,,Moni Zoodochou Pigis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85134,4510,57,CY,748,02,,Sanida,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85135,4511,57,CY,748,02,,Profitis Ilias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85136,4520,57,CY,748,02,,Parekklisia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85137,4521,57,CY,748,02,,Agios Tychon,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85138,4522,57,CY,748,02,,Akrounta,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85139,4523,57,CY,748,02,,Armenochori,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85140,4524,57,CY,748,02,,Monagroulli,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85141,4525,57,CY,748,02,,Moni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85142,4526,57,CY,748,02,,Moni Agiou Georgiou Alamanou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85143,4527,57,CY,748,02,,Mouttagiaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85144,4528,57,CY,748,02,,Pentakomo,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85145,4529,57,CY,748,02,,Pyrgos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85146,4530,57,CY,748,02,,Foinikaria,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85147,4531,57,CY,748,02,,Mouttagiaka Touristiki Periochi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85148,4532,57,CY,748,02,,Agios Tychon Touristiki Periochi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85149,4533,57,CY,748,02,,Parekklisia Touristiki Periochi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85150,4534,57,CY,748,02,,Pyrgos Touristiki Periochi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85151,4540,57,CY,748,02,,Paramytha,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85152,4541,57,CY,748,02,,Apesia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85153,4542,57,CY,748,02,,Apsiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85154,4543,57,CY,748,02,,Gerasa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85155,4544,57,CY,748,02,,Kapileio,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85156,4545,57,CY,748,02,,Korfi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85157,4546,57,CY,748,02,,Limnatis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85158,4547,57,CY,748,02,,Mathikoloni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85159,4548,57,CY,748,02,,Moni Evangelistrias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85160,4549,57,CY,748,02,,Palodeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85161,4550,57,CY,748,02,,Spitali,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85162,4551,57,CY,748,02,,Fasoula Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85163,4560,57,CY,748,02,,Louvaras,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85164,4561,57,CY,748,02,,Agios Konstantinos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85165,4562,57,CY,748,02,,Agios Pavlos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85166,4563,57,CY,748,02,,Arakapas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85167,4564,57,CY,748,02,,Dierona,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85168,4565,57,CY,748,02,,Zoopigi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85169,4566,57,CY,748,02,,Kalo Chorio Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85170,4569,57,CY,748,02,,Sykopetra,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85171,4600,57,CY,748,02,,Avdimou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85172,4601,57,CY,748,02,,Prastio Avdimou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85173,4602,57,CY,748,02,,Alektora,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85174,4603,57,CY,748,02,,Anogyra,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85175,4604,57,CY,748,02,,Paramali,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85176,4605,57,CY,748,02,,Platanisteia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85177,4606,57,CY,748,02,,Agios Thomas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85178,4607,57,CY,748,02,,Pissouri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85179,4620,57,CY,748,02,,Episkopi Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85180,4630,57,CY,748,02,,Erimi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85181,4631,57,CY,748,02,,Kantou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85182,4632,57,CY,748,02,,Kolossi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85183,4633,57,CY,748,02,,Sotira Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85184,4636,57,CY,748,02,,Kolossi (Synoikismos),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85185,4640,57,CY,748,02,,Akrotiri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85186,4645,57,CY,748,02,,Asomatos Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85187,4650,57,CY,748,02,,Moni Agiou Nikolaou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85188,4651,57,CY,748,02,,Trachoni Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85189,4652,57,CY,748,02,,Tserkezoi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85190,4700,57,CY,748,02,,Pachna,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85191,4710,57,CY,748,02,,Agios Amvrosios Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85192,4711,57,CY,748,02,,Agios Therapon,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85193,4712,57,CY,748,02,,Alassa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85194,4713,57,CY,748,02,,Zanakia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85195,4715,57,CY,748,02,,Pano Kivides,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85196,4716,57,CY,748,02,,Lofou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85197,4717,57,CY,748,02,,Souni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85198,4730,57,CY,748,02,,Trimiklini,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85199,4740,57,CY,748,02,,Agios Georgios Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85200,4741,57,CY,748,02,,Agios Mamas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85201,4742,57,CY,748,02,,Silikou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85202,4743,57,CY,748,02,,Kouka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85203,4744,57,CY,748,02,,Laneia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85204,4746,57,CY,748,02,,Monagri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85205,4747,57,CY,748,02,,Moniatis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85206,4748,57,CY,748,02,,Saittas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85207,4749,57,CY,748,02,,Stathmos Filagron,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85208,4750,57,CY,748,02,,Doros,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85209,4760,57,CY,748,02,,Omodos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85210,4770,57,CY,748,02,,Arsos Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85211,4771,57,CY,748,02,,Vasa Koilaniou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85212,4772,57,CY,748,02,,Vouni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85213,4774,57,CY,748,02,,Dora,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85214,4775,57,CY,748,02,,Kissousa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85215,4776,57,CY,748,02,,Koilani,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85216,4777,57,CY,748,02,,Malia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85217,4778,57,CY,748,02,,Mandria Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85218,4779,57,CY,748,02,,Pera Pedi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85219,4780,57,CY,748,02,,Potamiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85220,4800,57,CY,748,02,,Troodos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85221,4810,57,CY,748,02,,Kato Amiantos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85222,4811,57,CY,748,02,,Pano Amiantos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85223,4812,57,CY,748,02,,Moni Trooditissis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85224,4814,57,CY,748,02,,Foini,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85225,4815,57,CY,748,02,,Kato Platres,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85226,4820,57,CY,748,02,,Pano Platres,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85227,4840,57,CY,748,02,,Prodromos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85228,4842,57,CY,748,02,,Agios Dimitrios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85229,4843,57,CY,748,02,,Kaminaria,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85230,4844,57,CY,748,02,,Lemithou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85231,4845,57,CY,748,02,,Palaiomylos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85232,4846,57,CY,748,02,,Treis Elies,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85233,4847,57,CY,748,02,,Moni Panagias Trikoukkias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85234,4860,57,CY,748,02,,Agros,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85235,4870,57,CY,748,02,,Agios Theodoros Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85236,4871,57,CY,748,02,,Agios Ioannis Lemesou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85237,4872,57,CY,748,02,,Agridia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85238,4873,57,CY,748,02,,Dymes,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85239,4874,57,CY,748,02,,Kato Mylos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85240,4875,57,CY,748,02,,Chandria,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85241,4876,57,CY,748,02,,Kyperounta,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85242,4878,57,CY,748,02,,Pelendri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85243,4879,57,CY,748,02,,Potamitissa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85244,5280,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85245,5281,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85246,5282,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85247,5283,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85248,5284,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85249,5285,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85250,5286,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85251,5288,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85252,5289,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85253,5290,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85254,5291,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85255,5292,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85256,5295,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85257,5296,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85258,5297,57,CY,749,04,,Paralimni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85259,5320,57,CY,749,04,,Liopetri,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85260,5330,57,CY,749,04,,Agia Napa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85261,5350,57,CY,749,04,,Frenaros,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85262,5380,57,CY,749,04,,Deryneia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85263,5390,57,CY,749,04,,Sotira Ammochostou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85264,5391,57,CY,749,04,,Agia Thekla,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85265,5510,57,CY,749,04,,Avgorou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85266,5521,57,CY,749,04,,Acheritou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85267,5522,57,CY,749,04,,Vrysoules,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85268,5523,57,CY,749,04,,Dasaki Achnas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85269,5524,57,CY,749,04,,Moni Agiou Kendeou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85270,5525,57,CY,749,04,,Strovili,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85271,5620,57,CY,749,04,,Agios Nikolaos Ammochostou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85272,6010,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85273,6011,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85274,6012,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85275,6013,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85276,6015,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85277,6016,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85278,6017,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85279,6018,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85280,6019,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85281,6020,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85282,6021,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85283,6022,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85284,6023,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85285,6025,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85286,6026,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85287,6027,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85288,6028,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85289,6030,57,CY,,,,,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85290,6030,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85291,6031,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85292,6035,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85293,6036,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85294,6037,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85295,6040,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85296,6041,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85297,6042,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85298,6043,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85299,6045,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85300,6046,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85301,6047,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85302,6050,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85303,6051,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85304,6052,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85305,6053,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85306,6055,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85307,6056,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85308,6057,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85309,6058,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85310,6059,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85311,6060,57,CY,747,03,,Larnaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85312,7000,57,CY,747,03,,Meneou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85313,7020,57,CY,747,03,,Dromolaxia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85314,7040,57,CY,747,03,,Voroklini,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85315,7041,57,CY,747,03,,Voroklini Tourist Area,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85316,7060,57,CY,747,03,,Livadia Larnakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85317,7080,57,CY,747,03,,Pyla,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85318,7081,57,CY,747,03,,Pyla Touristiki Periochi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85319,7100,57,CY,747,03,,Aradippou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85320,7101,57,CY,747,03,,Aradippou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85321,7102,57,CY,747,03,,Aradippou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85322,7103,57,CY,747,03,,Aradippou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85323,7104,57,CY,747,03,,Aradippou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85324,7105,57,CY,747,03,,Aradippou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85325,7501,57,CY,747,03,,Avdellero,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85326,7502,57,CY,747,03,,Dekeleia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85327,7503,57,CY,747,03,,Kellia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85328,7505,57,CY,747,03,,Troulloi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85329,7506,57,CY,747,03,,Prosfygikos Synoikismos EAC,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85330,7508,57,CY,747,03,,Prosfygikos Synoikismos Vattaina,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85331,7509,57,CY,747,03,,Moni Metamorfoseos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85332,7510,57,CY,747,03,,Xylotymvou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85333,7520,57,CY,747,03,,Xylofagou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85334,7530,57,CY,747,03,,Ormideia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85335,7550,57,CY,747,03,,Kiti,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85336,7560,57,CY,747,03,,Perivolia Larnakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85337,7561,57,CY,747,03,,Softades,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85338,7562,57,CY,747,03,,Tersefanou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85339,7570,57,CY,747,03,,Alethriko,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85340,7571,57,CY,747,03,,Anglisides,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85341,7572,57,CY,747,03,,Alaminos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85342,7573,57,CY,747,03,,Anafotida,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85343,7575,57,CY,747,03,,Kivisili,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85344,7576,57,CY,747,03,,Klavdia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85345,7577,57,CY,747,03,,Mazotos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85346,7578,57,CY,747,03,,Menogeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85347,7600,57,CY,747,03,,Athienou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85348,7621,57,CY,747,03,,Kosi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85349,7640,57,CY,747,03,,Kornos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85350,7641,57,CY,747,03,,Agia Anna,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85351,7642,57,CY,747,03,,Delikipos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85352,7643,57,CY,747,03,,Kalo Chorio Larnakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85353,7644,57,CY,747,03,,Moni Agias Theklis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85354,7645,57,CY,747,03,,Moni Stavrovouniou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85355,7646,57,CY,747,03,,Moni Panagias Galaktotrofousas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85356,7647,57,CY,747,03,,Mosfiloti,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85357,7648,57,CY,747,03,,Pyrga Larnakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85358,7649,57,CY,747,03,,Psevdas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85359,7650,57,CY,747,03,,Moni Agias Varvaras,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85360,7700,57,CY,747,03,,Pano Lefkara,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85361,7710,57,CY,747,03,,Kato Lefkara,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85362,7711,57,CY,747,03,,Agioi Vavatsinias,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85363,7712,57,CY,747,03,,Vavatsinia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85364,7713,57,CY,747,03,,Vavla,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85365,7714,57,CY,747,03,,Kato Drys,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85366,7715,57,CY,747,03,,Lageia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85367,7716,57,CY,747,03,,Melini,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85368,7717,57,CY,747,03,,Moni Agiou Mina,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85369,7718,57,CY,747,03,,Odou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85370,7719,57,CY,747,03,,Ora,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85371,7730,57,CY,747,03,,Agios Theodoros Larnakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85372,7731,57,CY,747,03,,Skarinou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85373,7733,57,CY,747,03,,Kalavasos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85374,7735,57,CY,747,03,,Kofinou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85375,7736,57,CY,747,03,,Mari,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85376,7737,57,CY,747,03,,Maroni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85377,7738,57,CY,747,03,,Vasiliko,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85378,7739,57,CY,747,03,,Zygi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85379,7740,57,CY,747,03,,Tochni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85380,7741,57,CY,747,03,,Choirokoitia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85381,7743,57,CY,747,03,,Psematismenos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85382,8010,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85383,8011,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85384,8015,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85385,8016,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85386,8020,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85387,8021,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85388,8025,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85389,8026,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85390,8027,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85391,8028,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85392,8035,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85393,8036,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85394,8040,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85395,8041,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85396,8042,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85397,8045,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85398,8046,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85399,8047,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85400,8048,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85401,8049,57,CY,746,05,,Pafos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85402,8200,57,CY,746,05,,Geroskipou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85403,8201,57,CY,746,05,,Geroskipou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85404,8220,57,CY,746,05,,Chlorakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85405,8221,57,CY,746,05,,Chlorakas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85406,8240,57,CY,746,05,,Agia Marinouda,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85407,8250,57,CY,746,05,,Empa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85408,8260,57,CY,746,05,,Lempa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85409,8270,57,CY,746,05,,Tremithousa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85410,8280,57,CY,746,05,,Mesogi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85411,8290,57,CY,746,05,,Mesa Chorio,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85412,8300,57,CY,746,05,,Konia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85413,8310,57,CY,746,05,,Geroskipou (Koloni),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85414,8500,57,CY,746,05,,Kouklia Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85415,8501,57,CY,746,05,,Agia Varvara Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85416,8502,57,CY,746,05,,Anarita,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85417,8503,57,CY,746,05,,Acheleia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85418,8504,57,CY,746,05,,Mandria Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85419,8505,57,CY,746,05,,Nikokleia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85420,8507,57,CY,746,05,,Timi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85421,8509,57,CY,746,05,,Kouklia Pafou (Lofoi Afroditis),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85422,8510,57,CY,746,05,,Kouklia Pafou (Cha Potami),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85423,8520,57,CY,746,05,,Marathounta,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85424,8521,57,CY,746,05,,Axylou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85425,8522,57,CY,746,05,,Armou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85426,8523,57,CY,746,05,,Eledio,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85427,8524,57,CY,746,05,,Episkopi Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85428,8525,57,CY,746,05,,Nata,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85429,8526,57,CY,746,05,,Choletria,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85430,8540,57,CY,746,05,,Tsada,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85431,8541,57,CY,746,05,,Kallepeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85432,8543,57,CY,746,05,,Koili,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85433,8544,57,CY,746,05,,Kourdaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85434,8545,57,CY,746,05,,Lemona,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85435,8546,57,CY,746,05,,Letymvou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85436,8549,57,CY,746,05,,Polemi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85437,8550,57,CY,746,05,,Stroumpi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85438,8552,57,CY,746,05,,Choulou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85439,8560,57,CY,746,05,,Pegeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85440,8570,57,CY,746,05,,Pegeia (Agios Georgios),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85441,8572,57,CY,746,05,,Akoursos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85442,8573,57,CY,746,05,,Kathikas,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85443,8574,57,CY,746,05,,Kissonerga,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85444,8575,57,CY,746,05,,Pegeia (Kolpos Korallion),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85445,8576,57,CY,746,05,,Moni Agiou Neofytou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85446,8577,57,CY,746,05,,Tala,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85447,8600,57,CY,746,05,,Mamonia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85448,8601,57,CY,746,05,,Stavrokonnou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85449,8602,57,CY,746,05,,Kato Archimandrita,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85450,8603,57,CY,746,05,,Pano Archimandrita,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85451,8605,57,CY,746,05,,Mousere,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85452,8606,57,CY,746,05,,Prastio Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85453,8607,57,CY,746,05,,Agios Georgios Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85454,8608,57,CY,746,05,,Trachypedoula,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85455,8609,57,CY,746,05,,Fasoula Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85456,8620,57,CY,746,05,,Salamiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85457,8621,57,CY,746,05,,Agios Ioannis Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85458,8623,57,CY,746,05,,Agios Nikolaos Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85459,8625,57,CY,746,05,,Arminou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85460,8626,57,CY,746,05,,Kedares,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85461,8627,57,CY,746,05,,Kidasi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85462,8628,57,CY,746,05,,Kelokedara,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85463,8629,57,CY,746,05,,Fylousa Chrysochous,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85464,8630,57,CY,746,05,,Praitori,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85465,8631,57,CY,746,05,,Mesana,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85466,8640,57,CY,746,05,,Pano Panagia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85467,8641,57,CY,746,05,,Agia Marina Kelokedaron,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85468,8642,57,CY,746,05,,Amargeti,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85469,8643,57,CY,746,05,,Asprogia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85470,8645,57,CY,746,05,,Galataria,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85471,8646,57,CY,746,05,,Koilineia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85472,8647,57,CY,746,05,,Lapithiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85473,8648,57,CY,746,05,,Mamountali,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85474,8649,57,CY,746,05,,Moni Chrysorrogiatisis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85475,8650,57,CY,746,05,,Pentalia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85476,8651,57,CY,746,05,,Statos - Agios Fotios,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85477,8700,57,CY,746,05,,Drouseia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85478,8701,57,CY,746,05,,Androlikou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85479,8702,57,CY,746,05,,Kato Arodes,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85480,8703,57,CY,746,05,,Pano Arodes,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85481,8704,57,CY,746,05,,Ineia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85482,8720,57,CY,746,05,,Giolou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85483,8721,57,CY,746,05,,Kato Akourdaleia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85484,8722,57,CY,746,05,,Pano Akourdaleia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85485,8723,57,CY,746,05,,Theletra,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85486,8724,57,CY,746,05,,Kritou Tera,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85487,8726,57,CY,746,05,,Miliou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85488,8727,57,CY,746,05,,Moni Agion Anargyron,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85489,8728,57,CY,746,05,,Skoulli,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85490,8729,57,CY,746,05,,Tera,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85491,8730,57,CY,746,05,,Choli,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85492,8740,57,CY,746,05,,Lasa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85493,8741,57,CY,746,05,,Agios Dimitrianos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85494,8742,57,CY,746,05,,Drymou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85495,8743,57,CY,746,05,,Thrinia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85496,8744,57,CY,746,05,,Milia Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85497,8745,57,CY,746,05,,Melamiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85498,8746,57,CY,746,05,,Kannaviou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85499,8747,57,CY,746,05,,Kritou Marottou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85500,8748,57,CY,746,05,,Fyti,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85501,8749,57,CY,746,05,,Psathi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85502,8800,57,CY,746,05,,Lysos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85503,8802,57,CY,746,05,,Anadiou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85504,8805,57,CY,746,05,,Evretou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85505,8808,57,CY,746,05,,Meladeia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85506,8810,57,CY,746,05,,Peristerona Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85507,8811,57,CY,746,05,,Fylousa Kelokedaron,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85508,8812,57,CY,746,05,,Simou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85509,8820,57,CY,746,05,,Polis,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85510,8840,57,CY,746,05,,Polis (Latsi),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85511,8850,57,CY,746,05,,Goudi,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85512,8852,57,CY,746,05,,Neo Chorio Pafou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85513,8854,57,CY,746,05,,Polis (Prodromi),full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85514,8855,57,CY,746,05,,Chrysochou,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85515,8870,57,CY,746,05,,Pomos,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85516,8873,57,CY,746,05,,Argaka,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85517,8875,57,CY,746,05,,Gialia,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85518,8876,57,CY,746,05,,Kynousa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85519,8877,57,CY,746,05,,Limni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85520,8879,57,CY,746,05,,Makounta,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85521,8880,57,CY,746,05,,Nea Dimmata,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85522,8881,57,CY,746,05,,Agia Marina Chrysochous,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85523,8882,57,CY,746,05,,Pelathousa,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1
+85524,8884,57,CY,746,05,,Steni,full,,,cyprus-post-via-georgioupanayiotis,,2026-04-28T06:48:59,2026-04-28T06:48:59,1

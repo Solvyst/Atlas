@@ -1,0 +1,11 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+118678,3900,86,GL,5383,SM,,Nuuk,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118679,3911,86,GL,5382,QE,,Sisimiut,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118680,3912,86,GL,5382,QE,,Maniitsoq,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118681,3920,86,GL,5380,KU,,Qaqortoq,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118682,3922,86,GL,5380,KU,,Nanortalik,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118683,3940,86,GL,5383,SM,,Paamiut,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118684,3950,86,GL,5381,QT,,Aasiaat,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118685,3952,86,GL,5379,AV,,Ilulissat,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118686,3971,86,GL,5379,AV,,Qaanaaq,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1
+118687,3980,86,GL,5383,SM,,Ittoqqortoormiit,full,,,manual,,2026-04-28T06:49:01,2026-04-28T06:49:01,1

@@ -1,80 +1,60 @@
-# Atlaskit Docs
+# Solvyst Atlas Docs
 
-Atlaskit is an open-source metadata platform that provides production-ready APIs for countries, states, cities, currencies, timezones, GST, industries, categories, and business onboarding data.
+Solvyst Atlas is a metadata service for building reliable business applications. It exposes production-ready APIs for country, geography, localization, address, phone, currency, timezone, and business reference datasets.
 
-It is designed for SaaS products, ERP systems, CRM platforms, HRMS applications, eCommerce platforms, and internal business tools that require reliable master data and reference datasets.
-
-## Features
+## Current Features
 
 - Countries API
+- Regions and subregions API
 - States API
 - Cities API
-- Timezones API
+- Admin areas API for districts, counties, provinces, and other hierarchy levels
+- Localities API for cities, towns, villages, and settlement-like records
 - Currencies API
-- GST Types API
-- GST HSN Search API
-- Industries API
-- Organization Onboarding Metadata API
-- PostgreSQL Powered
-- Drizzle Database Migrations
-- API Key Authentication
-- TypeScript Support
-
-## Use Cases
-
-- User onboarding forms
-- Organization setup workflows
-- Address management
-- GST and taxation systems
-- ERP and accounting software
-- CRM applications
-- eCommerce checkout systems
-- Global business applications
+- Timezones API
+- Phone codes API for values like `+91`, `+92`, `+1`
+- Languages API
+- Locales API
+- Postal code rules API
+- Phone number rules API
+- Address formats API
+- Reference API for currency formats, business identifiers, banking rules, date-time formats, company types, units, and holidays
+- PostgreSQL `geo` and `reference` schemas managed by Drizzle
+- JSON contribution validation and trusted PostgreSQL import commands
+- Interactive data CLI and generated CSV exports
+- API key authentication
+- Rate limiting
+- Docker and CI/CD support
 
 ## Documentation
 
 - [Setup](./setup.md)
+- [Commands](./commands.md)
 - [Environment Keys](./env-keys.md)
-- [Database Migrations and Data Files](./database.md)
-- [Deployment](./deployment.md)
+- [Database and Data Import](./database.md)
 - [Meta API](./meta-api.md)
+- [Reference API](./reference-api.md)
 - [API Result Examples](./api-results.md)
 - [Postman and Requestly Examples](./examples.md)
+- [Deployment](./deployment.md)
+- [Changelog](../CHANGELOG.md)
 
-## API Base URL
-
-Local Development:
+## Local Base URL
 
 ```txt
-http://localhost:5000/api/v1
+http://localhost:3100/api/v1
 ```
 
 ## Authentication
-
-Meta routes are protected using an API key.
 
 ```http
 x-api-key: <META_API_KEY>
 ```
 
-Example:
+## Quick Test
 
-```sh
+```bash
 curl \
-  -H "x-api-key: your-api-key" \
-  http://localhost:5000/api/v1/meta/countries
+  -H "x-api-key: <META_API_KEY>" \
+  "http://localhost:3100/api/v1/meta/countries?search=india"
 ```
-
-## Tech Stack
-
-- Node.js
-- Express
-- TypeScript
-- PostgreSQL
-- Drizzle
-- Drizzle Kit
-- Docker
-
-## License
-
-MIT License

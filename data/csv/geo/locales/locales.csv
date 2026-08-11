@@ -1,0 +1,14 @@
+code,language_code,country_code,name,native_name,direction,date_format,time_format,first_day_of_week,currency_code,number_system,is_active
+en-US,en,US,English (United States),English (United States),ltr,MM/DD/YYYY,12h,0,USD,latn,1
+en-IN,en,IN,English (India),English (India),ltr,DD/MM/YYYY,12h,1,INR,latn,1
+hi-IN,hi,IN,Hindi (India),हिन्दी (भारत),ltr,DD/MM/YYYY,12h,1,INR,latn,1
+bn-IN,bn,IN,Bengali (India),বাংলা (ভারত),ltr,DD/MM/YYYY,12h,1,INR,latn,1
+or-IN,or,IN,Odia (India),ଓଡ଼ିଆ (ଭାରତ),ltr,DD/MM/YYYY,12h,1,INR,latn,1
+en-GB,en,GB,English (United Kingdom),English (United Kingdom),ltr,DD/MM/YYYY,24h,1,GBP,latn,1
+ar-AE,ar,AE,Arabic (United Arab Emirates),العربية (الإمارات),rtl,DD/MM/YYYY,12h,6,AED,latn,1
+fr-FR,fr,FR,French (France),Français (France),ltr,DD/MM/YYYY,24h,1,EUR,latn,1
+de-DE,de,DE,German (Germany),Deutsch (Deutschland),ltr,DD.MM.YYYY,24h,1,EUR,latn,1
+es-ES,es,ES,Spanish (Spain),Español (España),ltr,DD/MM/YYYY,24h,1,EUR,latn,1
+pt-BR,pt,BR,Portuguese (Brazil),Português (Brasil),ltr,DD/MM/YYYY,24h,0,BRL,latn,1
+zh-CN,zh,CN,Chinese (China),中文（中国）,ltr,YYYY/MM/DD,24h,1,CNY,latn,1
+ja-JP,ja,JP,Japanese (Japan),日本語（日本）,ltr,YYYY/MM/DD,24h,0,JPY,latn,1

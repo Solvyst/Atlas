@@ -1,0 +1,1354 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+45090,1000,19,BD,5486,13,,Dhaka GPO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45091,1100,19,BD,5486,13,,Dhaka Sadar HO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45092,1203,19,BD,5486,13,,Wari TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45093,1204,19,BD,5486,13,,Gandaria TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45094,1205,19,BD,5486,13,,Kalabagan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45095,1206,19,BD,5486,13,,Dhaka Cantonment--TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45096,1207,19,BD,5486,13,,Mohammadpur Housing,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45097,1208,19,BD,5486,13,,Dhaka Politechnic,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45098,1209,19,BD,5486,13,,Jigatala TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45099,1211,19,BD,5486,13,,Posta TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45100,1212,19,BD,5486,13,,Gulshan Model Town,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45101,1213,19,BD,5486,13,,Banani TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45102,1214,19,BD,5486,13,,Basabo TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45103,1215,19,BD,5486,13,,Tejgaon TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45104,1216,19,BD,5486,13,,Mirpur TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45105,1217,19,BD,5486,13,,Shantinagr TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45106,1219,19,BD,5486,13,,KhilgaonTSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45107,1222,19,BD,5486,13,,BangabhabanTSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45108,1223,19,BD,5486,13,,DilkushaTSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45109,1225,19,BD,5486,13,,Sangsad BhabanTSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45110,1229,19,BD,5486,13,,KhilkhetTSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45111,1230,19,BD,5486,13,,Uttara Model TownTSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45112,1232,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45113,1236,19,BD,5486,13,,Dhania TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45114,1310,19,BD,5486,13,,Keraniganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45115,1311,19,BD,5486,13,,Dhaka Jute Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45116,1312,19,BD,5486,13,,Ati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45117,1313,19,BD,5486,13,,Kalatia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45118,1320,19,BD,5486,13,,Nawabganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45119,1321,19,BD,5486,13,,Hasnabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45120,1322,19,BD,5486,13,,Daudpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45121,1323,19,BD,5486,13,,Agla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45122,1324,19,BD,5486,13,,Khalpar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45123,1325,19,BD,5486,13,,Churain,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45124,1330,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45125,1331,19,BD,5486,13,,Palamganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45126,1332,19,BD,5486,13,,Narisha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45127,1333,19,BD,5511,35,,Haridia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45128,1334,19,BD,5511,35,,Gouragonj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45129,1335,19,BD,5511,35,,Madini Mandal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45130,1340,19,BD,5486,13,,Savar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45131,1341,19,BD,5486,13,,Dairy Farm,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45132,1342,19,BD,5486,13,,Jahangirnagar University,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45133,1343,19,BD,5486,13,,Saver P.A.T.C,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45134,1344,19,BD,5486,13,,Savar Canttonment,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45135,1345,19,BD,5486,13,,Shimulia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45136,1346,19,BD,5486,13,,Kashem Cotton Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45137,1347,19,BD,5486,13,,Rajphulbaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45138,1348,19,BD,5486,13,,Amin Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45139,1349,19,BD,5486,13,,EPZ,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45140,1350,19,BD,5486,13,,Dhamrai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45141,1351,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45142,1360,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45143,1361,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45144,1362,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45145,1400,19,BD,5515,40,,Narayanganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45146,1410,19,BD,5515,40,,Bandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45147,1411,19,BD,5515,40,,D.C Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45148,1412,19,BD,5515,40,,Nabiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45149,1413,19,BD,5515,40,,BIDS,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45150,1414,19,BD,5515,40,,Madanganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45151,1420,19,BD,5515,40,,Fatullah,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45152,1421,19,BD,5515,40,,Fatulla Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45153,1430,19,BD,5515,40,,Siddirganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45154,1431,19,BD,5515,40,,Adamjeenagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45155,1432,19,BD,5515,40,,LN Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45156,1440,19,BD,5515,40,,Baidder Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45157,1441,19,BD,5515,40,,Bara Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45158,1442,19,BD,5515,40,,Barodi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45159,1450,19,BD,5515,40,,Araihazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45160,1451,19,BD,5515,40,,Gopaldi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45161,1460,19,BD,5515,40,,Rupganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45162,1461,19,BD,5515,40,,Kanchan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45163,1462,19,BD,5515,40,,Bhulta,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45164,1463,19,BD,5515,40,,Nagri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45165,1464,19,BD,5515,40,,Murapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45166,1500,19,BD,5511,35,,Munshiganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45167,1501,19,BD,5511,35,,Rikabibazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45168,1502,19,BD,5511,35,,Mirkadim,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45169,1503,19,BD,5511,35,,Kathakhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45170,1510,19,BD,5511,35,,Gajaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45171,1511,19,BD,5511,35,,Hossendi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45172,1512,19,BD,5511,35,,Rasulpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45173,1520,19,BD,5511,35,,Tangibari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45174,1521,19,BD,5511,35,,Betkahat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45175,1522,19,BD,5511,35,,Baligao,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45176,1523,19,BD,5511,35,,Bajrajugini,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45177,1524,19,BD,5511,35,,Hasail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45178,1525,19,BD,5511,35,,Dighirpar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45179,1526,19,BD,5511,35,,Pura EDSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45180,1527,19,BD,5511,35,,Pura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45181,1530,19,BD,5511,35,,Lohajang,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45182,1531,19,BD,5511,35,,Korhati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45183,1532,19,BD,5511,35,,Haldia SO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45184,1533,19,BD,5511,35,,Haridia DESO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45185,1534,19,BD,5511,35,,Gouragonj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45186,1535,19,BD,5511,35,,Medini Mandal EDSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45187,1540,19,BD,5511,35,,Sirajdikhan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45188,1541,19,BD,5511,35,,Kola,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45189,1542,19,BD,5511,35,,Ichapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45190,1543,19,BD,5511,35,,Malkha Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45191,1544,19,BD,5511,35,,Shekher Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45192,1550,19,BD,5511,35,,Sreenagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45193,1551,19,BD,5511,35,,Rarikhal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45194,1552,19,BD,5511,35,,Maijpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45195,1553,19,BD,5511,35,,Hashara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45196,1554,19,BD,5511,35,,Kolapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45197,1555,19,BD,5511,35,,Kumarbhog,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45198,1556,19,BD,5511,35,,Vaggyakul SO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45199,1557,19,BD,5511,35,,Baghra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45200,1558,19,BD,5511,35,,Bhaggyakul,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45201,1600,19,BD,5516,42,,Narsingdi Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45202,1601,19,BD,5516,42,,UMC Jute Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45203,1602,19,BD,5516,42,,Narsingdi College,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45204,1603,19,BD,5516,42,,Panchdona,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45205,1604,19,BD,5516,42,,Madhabdi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45206,1605,19,BD,5516,42,,Karimpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45207,1610,19,BD,5516,42,,Palash,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45208,1611,19,BD,5516,42,,Sarkarkhana,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45209,1612,19,BD,5516,42,,Char Sindhur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45210,1613,19,BD,5516,42,,Ghorashal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45211,1620,19,BD,5516,42,,Shibpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45212,1630,19,BD,5516,42,,Raypura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45213,1631,19,BD,5516,42,,Bazar Hasnabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45214,1632,19,BD,5516,42,,Radhaganj bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45215,1640,19,BD,5516,42,,Belabo,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45216,1650,19,BD,5516,42,,Monohordi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45217,1651,19,BD,5516,42,,Hatirdia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45218,1652,19,BD,5516,42,,Katabaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45219,1700,19,BD,5491,18,,Gazipur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45220,1701,19,BD,5491,18,,B.R.R,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45221,1702,19,BD,5491,18,,Chandna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45222,1703,19,BD,5491,18,,B.O.F,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45223,1704,19,BD,5491,18,,National University,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45224,1710,19,BD,5491,18,,Monnunagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45225,1711,19,BD,5491,18,,Nishat Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45226,1712,19,BD,5491,18,,Ershad Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45227,1720,19,BD,5491,18,,Kaliganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45228,1721,19,BD,5491,18,,Pubail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45229,1722,19,BD,5491,18,,Santanpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45230,1723,19,BD,5491,18,,Vaoal Jamalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45231,1730,19,BD,5491,18,,kapashia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45232,1740,19,BD,5491,18,,Tengra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45233,1741,19,BD,5491,18,,Rajendrapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45234,1742,19,BD,5491,18,,Rajendrapur Canttome,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45235,1743,19,BD,5491,18,,Barmi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45236,1744,19,BD,5491,18,,Satkhamair,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45237,1745,19,BD,5491,18,,Kawraid,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45238,1747,19,BD,5491,18,,Bashamur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45239,1748,19,BD,5491,18,,Boubi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45240,1750,19,BD,5491,18,,Kaliakaar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45241,1751,19,BD,5491,18,,Safipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45242,1800,19,BD,5508,33,,Manikganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45243,1801,19,BD,5508,33,,Manikganj Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45244,1802,19,BD,5508,33,,Gorpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45245,1803,19,BD,5508,33,,Mahadebpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45246,1804,19,BD,5508,33,,Barangail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45247,1810,19,BD,5508,33,,Saturia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45248,1811,19,BD,5508,33,,Baliati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45249,1820,19,BD,5508,33,,Singair,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45250,1821,19,BD,5508,33,,Baira,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45251,1822,19,BD,5508,33,,joymantop,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45252,1830,19,BD,5508,33,,Lechhraganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45253,1831,19,BD,5508,33,,Jhitka,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45254,1840,19,BD,5508,33,,Ghior,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45255,1850,19,BD,5508,33,,Shibaloy,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45256,1851,19,BD,5508,33,,Aricha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45257,1852,19,BD,5508,33,,Tewta,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45258,1853,19,BD,5508,33,,Uthli,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45259,1860,19,BD,5508,33,,Doulatpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45260,1900,19,BD,5535,63,,Tangail Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45261,1901,19,BD,5535,63,,Kagmari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45262,1902,19,BD,5535,63,,Santosh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45263,1903,19,BD,5535,63,,Korotia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45264,1904,19,BD,5535,63,,Purabari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45265,1910,19,BD,5535,63,,Delduar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45266,1911,19,BD,5535,63,,Jangalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45267,1912,19,BD,5535,63,,Patharail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45268,1913,19,BD,5535,63,,Elasin,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45269,1914,19,BD,5535,63,,Hinga Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45270,1915,19,BD,5535,63,,Lowhati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45271,1920,19,BD,5535,63,,Basail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45272,1930,19,BD,5535,63,,Kashkawlia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45273,1936,19,BD,5535,63,,Nagarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45274,1937,19,BD,5535,63,,Dhuburia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45275,1938,19,BD,5535,63,,Salimabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45276,1940,19,BD,5535,63,,Mirzapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45277,1941,19,BD,5535,63,,Gorai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45278,1942,19,BD,5535,63,,M.C. College,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45279,1943,19,BD,5535,63,,Warri paikpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45280,1944,19,BD,5535,63,,Jarmuki,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45281,1945,19,BD,5535,63,,Mohera,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45282,1950,19,BD,5535,63,,Sakhipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45283,1951,19,BD,5535,63,,Kochua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45284,1960,19,BD,5535,63,,Bhuapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45285,1970,19,BD,5535,63,,Kalihati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45286,1971,19,BD,5535,63,,Rajafair,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45287,1972,19,BD,5535,63,,Nagbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45288,1973,19,BD,5535,63,,Ballabazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45289,1974,19,BD,5535,63,,Elinga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45290,1975,19,BD,5535,63,,Palisha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45291,1976,19,BD,5535,63,,Nagarbari SO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45292,1977,19,BD,5535,63,,Nagarbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45293,1980,19,BD,5535,63,,Ghatial,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45294,1981,19,BD,5535,63,,Zahidganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45295,1982,19,BD,5535,63,,D. Pakutia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45296,1983,19,BD,5535,63,,Dhalapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45297,1984,19,BD,5535,63,,Lohani,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45298,1990,19,BD,5535,63,,Gopalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45299,1991,19,BD,5535,63,,Chatutia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45300,1992,19,BD,5535,63,,Hemnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45301,1996,19,BD,5535,63,,Madhupur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45302,1997,19,BD,5535,63,,Dhonbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45303,2000,19,BD,5494,21,,Jamalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45304,2001,19,BD,5494,21,,Nandina,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45305,2002,19,BD,5494,21,,Narundi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45306,2010,19,BD,5494,21,,Melandah,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45307,2011,19,BD,5494,21,,Jalalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45308,2012,19,BD,5494,21,,Malancha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45309,2013,19,BD,5494,21,,Mahmudpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45310,2020,19,BD,5494,21,,Islampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45311,2021,19,BD,5494,21,,Durmoot,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45312,2022,19,BD,5494,21,,Gilabari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45313,2030,19,BD,5494,21,,Dewangonj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45314,2031,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45315,2032,19,BD,5494,21,,Dewangonj S. Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45316,2040,19,BD,5494,21,,Madarganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45317,2041,19,BD,5494,21,,Balijhuri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45318,2050,19,BD,5494,21,,Sharishabari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45319,2051,19,BD,5494,21,,Adarvita,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45320,2052,19,BD,5494,21,,Bausee,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45321,2053,19,BD,5494,21,,Jagannath Ghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45322,2054,19,BD,5494,21,,Pingna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45323,2055,19,BD,5494,21,,Jamuna Sar Karkhana,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45324,2100,19,BD,5531,57,,Sherpur Shadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45325,2110,19,BD,5531,57,,Nalitabari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45326,2111,19,BD,5531,57,,Hatibandha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45327,2120,19,BD,5531,57,,Jhinaigati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45328,2130,19,BD,5531,57,,Shribardi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45329,2140,19,BD,5531,57,,Bakshigonj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45330,2150,19,BD,5531,57,,Nakla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45331,2151,19,BD,5531,57,,Gonopaddi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45332,2200,19,BD,5512,34,,Mymensingh Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45333,2201,19,BD,5512,34,,Kawatkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45334,2202,19,BD,5512,34,,Agriculture Universi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45335,2203,19,BD,5512,34,,Shombhuganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45336,2204,19,BD,5512,34,,Biddyaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45337,2205,19,BD,5512,34,,Pearpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45338,2210,19,BD,5512,34,,Muktagachha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45339,2216,19,BD,5512,34,,Fulbaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45340,2220,19,BD,5512,34,,Trishal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45341,2221,19,BD,5512,34,,Ahmadbad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45342,2222,19,BD,5512,34,,Ram Amritaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45343,2223,19,BD,5512,34,,Dhala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45344,2230,19,BD,5512,34,,Gaforgaon,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45345,2231,19,BD,5512,34,,Shibganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45346,2232,19,BD,5512,34,,Usti,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45347,2233,19,BD,5512,34,,Kandipara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45348,2234,19,BD,5512,34,,Dobasia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45349,2240,19,BD,5512,34,,Bhaluka,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45350,2250,19,BD,5512,34,,Phulpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45351,2251,19,BD,5512,34,,Beltia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45352,2252,19,BD,5512,34,,Tarakanda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45353,2260,19,BD,5512,34,,Haluaghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45354,2261,19,BD,5512,34,,Dhara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45355,2262,19,BD,5512,34,,Munshirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45356,2270,19,BD,5512,34,,Gouripur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45357,2271,19,BD,5512,34,,Ramgopalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45358,2280,19,BD,5512,34,,Isshwargonj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45359,2281,19,BD,5512,34,,Sohagi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45360,2282,19,BD,5512,34,,Atharabari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45361,2290,19,BD,5512,34,,Nandail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45362,2291,19,BD,5512,34,,Gangail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45363,2300,19,BD,5501,26,,Kishoreganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45364,2301,19,BD,5501,26,,Kishoreganj S.Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45365,2302,19,BD,5501,26,,Maizhati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45366,2303,19,BD,5501,26,,Nilganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45367,2310,19,BD,5501,26,,Karimganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45368,2316,19,BD,5501,26,,Tarial,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45369,2320,19,BD,5501,26,,Hossenpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45370,2326,19,BD,5501,26,,Pakundia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45371,2330,19,BD,5501,26,,Katiadi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45372,2331,19,BD,5501,26,,Gochhihata,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45373,2336,19,BD,5501,26,,Bajitpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45374,2337,19,BD,5501,26,,Sararchar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45375,2338,19,BD,5501,26,,Laksmipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45376,2340,19,BD,5501,26,,Kuliarchar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45377,2341,19,BD,5501,26,,Chhoysuti,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45378,2350,19,BD,5501,26,,Bhairab,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45379,2360,19,BD,5501,26,,Nikli,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45380,2370,19,BD,5501,26,,MIthamoin,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45381,2371,19,BD,5501,26,,Abdullahpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45382,2380,19,BD,5501,26,,Ostagram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45383,2390,19,BD,5501,26,,Itna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45384,2400,19,BD,5518,41,,Netrakona Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45385,2401,19,BD,5518,41,,Baikherhati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45386,2410,19,BD,5518,41,,Purbadhola,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45387,2411,19,BD,5518,41,,Shamgonj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45388,2412,19,BD,5518,41,,Jaria Jhanjhail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45389,2416,19,BD,5518,41,,Dhobaura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45390,2417,19,BD,5518,41,,Sakoai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45391,2420,19,BD,5518,41,,Susnng Durgapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45392,2430,19,BD,5518,41,,Kalmakanda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45393,2440,19,BD,5518,41,,Barhatta,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45394,2446,19,BD,5518,41,,Mohanganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45395,2450,19,BD,5518,41,,Dharampasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45396,2456,19,BD,5518,41,,Moddoynagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45397,2460,19,BD,5518,41,,Khaliajhri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45398,2462,19,BD,5518,41,,Shaldigha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45399,2470,19,BD,5518,41,,Atpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45400,2480,19,BD,5518,41,,Kendua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45401,2490,19,BD,5518,41,,Madan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45402,3000,19,BD,5533,61,,Sunamganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45403,3001,19,BD,5533,61,,Pagla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45404,3002,19,BD,5533,61,,Patharia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45405,3010,19,BD,5533,61,,Bishamsapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45406,3020,19,BD,5533,61,,Sachna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45407,3030,19,BD,5533,61,,Tahirpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45408,3040,19,BD,5533,61,,Dhirai Chandpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45409,3041,19,BD,5533,61,,Jagdal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45410,3050,19,BD,5533,61,,Ghungiar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45411,3060,19,BD,5533,61,,Jagnnathpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45412,3061,19,BD,5533,61,,Syedpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45413,3062,19,BD,5533,61,,Atuajan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45414,3063,19,BD,5533,61,,Hasan Fatemapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45415,3064,19,BD,5533,61,,Rasulganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45416,3065,19,BD,5533,61,,Shiramsi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45417,3070,19,BD,5533,61,,Duara bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45418,3080,19,BD,5533,61,,Chhatak,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45419,3081,19,BD,5533,61,,Chhatak Cement Facto,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45420,3082,19,BD,5533,61,,Chhatak Paper Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45421,3083,19,BD,5533,61,,Gabindaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45422,3084,19,BD,5533,61,,Gabindaganj Natun Ba,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45423,3085,19,BD,5533,61,,Khurma,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45424,3086,19,BD,5533,61,,Moinpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45425,3087,19,BD,5533,61,,jahidpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45426,3088,19,BD,5533,61,,Islamabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45427,3100,19,BD,5534,60,,Sylhet Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45428,3101,19,BD,5534,60,,Sylhet Cadet Col,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45429,3102,19,BD,5534,60,,Sylhet Biman Bondar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45430,3103,19,BD,5534,60,,Khadimnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45431,3104,19,BD,5534,60,,Jalalabad Cantoment,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45432,3105,19,BD,5534,60,,Silam,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45433,3106,19,BD,5534,60,,Birahimpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45434,3107,19,BD,5534,60,,Jalalabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45435,3108,19,BD,5534,60,,Mogla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45436,3109,19,BD,5534,60,,Ranga Hajiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45437,3111,19,BD,5534,60,,Kadamtali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45438,3112,19,BD,5534,60,,Kamalbazer,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45439,3113,19,BD,5534,60,,Lalbazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45440,3114,19,BD,5534,60,,Shahajalal Science &amp;,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45441,3116,19,BD,5534,60,,Fenchuganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45442,3117,19,BD,5534,60,,Fenchuganj SareKarkh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45443,3120,19,BD,5534,60,,Balaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45444,3121,19,BD,5534,60,,Karua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45445,3122,19,BD,5534,60,,Brahman Shashon,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45446,3123,19,BD,5534,60,,Tajpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45447,3124,19,BD,5534,60,,Goala Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45448,3125,19,BD,5534,60,,Begumpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45449,3126,19,BD,5534,60,,Omarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45450,3127,19,BD,5534,60,,Kathal Khair,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45451,3128,19,BD,5534,60,,Gaharpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45452,3129,19,BD,5534,60,,Natun Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45453,3130,19,BD,5534,60,,Bishwanath,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45454,3131,19,BD,5534,60,,Dashghar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45455,3132,19,BD,5534,60,,Doulathpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45456,3133,19,BD,5534,60,,Deokalas,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45457,3134,19,BD,5534,60,,Singer kanch,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45458,3140,19,BD,5534,60,,Kompanyganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45459,3150,19,BD,5534,60,,Goainghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45460,3151,19,BD,5534,60,,Jaflong,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45461,3152,19,BD,5534,60,,Chiknagul,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45462,3156,19,BD,5534,60,,Jaintapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45463,3160,19,BD,5534,60,,Golapganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45464,3161,19,BD,5534,60,,Dhaka Dakkshin,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45465,3162,19,BD,5534,60,,Dakkhin Bhadashore,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45466,3163,19,BD,5534,60,,Ranaping,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45467,3164,19,BD,5534,60,,banigram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45468,3165,19,BD,5534,60,,Chandanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45469,3170,19,BD,5534,60,,Bianibazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45470,3171,19,BD,5534,60,,jaldup,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45471,3172,19,BD,5534,60,,Mathiura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45472,3173,19,BD,5534,60,,Kurar bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45473,3174,19,BD,5534,60,,Salia bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45474,3175,19,BD,5534,60,,Churkai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45475,3180,19,BD,5534,60,,Kanaighat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45476,3181,19,BD,5534,60,,Chatulbazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45477,3182,19,BD,5534,60,,Manikganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45478,3183,19,BD,5534,60,,Gachbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45479,3190,19,BD,5534,60,,Jakiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45480,3191,19,BD,5534,60,,Ichhamati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45481,3200,19,BD,5510,38,,Moulvibazar Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45482,3201,19,BD,5510,38,,Barakapan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45483,3202,19,BD,5510,38,,Monumukh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45484,3203,19,BD,5510,38,,Afrozganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45485,3210,19,BD,5510,38,,Srimangal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45486,3211,19,BD,5510,38,,Narain Chora,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45487,3212,19,BD,5510,38,,Kalighat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45488,3213,19,BD,5510,38,,Khejurichhara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45489,3214,19,BD,5510,38,,Satgaon,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45490,3220,19,BD,5510,38,,Kamalganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45491,3221,19,BD,5510,38,,Keramatnaga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45492,3222,19,BD,5510,38,,Patrakhola,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45493,3223,19,BD,5510,38,,Shamsher Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45494,3224,19,BD,5510,38,,Munshibazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45495,3230,19,BD,5510,38,,Kulaura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45496,3231,19,BD,5510,38,,Tillagaon,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45497,3232,19,BD,5510,38,,Langla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45498,3233,19,BD,5510,38,,Prithimpasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45499,3234,19,BD,5510,38,,Kajaldhara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45500,3235,19,BD,5510,38,,Karimpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45501,3237,19,BD,5510,38,,Baramchal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45502,3240,19,BD,5510,38,,Rajnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45503,3250,19,BD,5510,38,,Baralekha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45504,3251,19,BD,5510,38,,Juri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45505,3252,19,BD,5510,38,,Dhakkhinbag,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45506,3253,19,BD,5510,38,,Purbashahabajpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45507,3300,19,BD,5493,20,,Habiganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45508,3301,19,BD,5493,20,,Shaestaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45509,3302,19,BD,5493,20,,Gopaya,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45510,3310,19,BD,5493,20,,Bahubal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45511,3320,19,BD,5493,20,,Chunarughat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45512,3321,19,BD,5493,20,,Chandpurbagan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45513,3322,19,BD,5493,20,,Narapati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45514,3330,19,BD,5493,20,,Madhabpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45515,3331,19,BD,5493,20,,Itakhola,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45516,3332,19,BD,5493,20,,Shahajibazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45517,3333,19,BD,5493,20,,Saihamnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45518,3340,19,BD,5493,20,,Kalauk,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45519,3341,19,BD,5493,20,,Lakhai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45520,3350,19,BD,5493,20,,Baniachang,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45521,3351,19,BD,5493,20,,Jatrapasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45522,3352,19,BD,5493,20,,Kadirganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45523,3360,19,BD,5493,20,,Azmireeganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45524,3370,19,BD,5493,20,,Nabiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45525,3371,19,BD,5493,20,,Goplarbazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45526,3372,19,BD,5493,20,,Golduba,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45527,3373,19,BD,5493,20,,Digalbak,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45528,3374,19,BD,5493,20,,Inathganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45529,3400,19,BD,5479,04,,Brahamanbaria Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45530,3401,19,BD,5479,04,,Talshahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45531,3402,19,BD,5479,04,,Ashuganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45532,3403,19,BD,5479,04,,Ashuganj Share,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45533,3404,19,BD,5479,04,,Poun,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45534,3410,19,BD,5479,04,,Nabinagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45535,3411,19,BD,5479,04,,Laubfatehpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45536,3412,19,BD,5479,04,,Rasullabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45537,3413,19,BD,5479,04,,Shamgram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45538,3414,19,BD,5479,04,,Ratanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45539,3415,19,BD,5479,04,,Shahapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45540,3417,19,BD,5479,04,,Kaitala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45541,3418,19,BD,5479,04,,Salimganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45542,3419,19,BD,5479,04,,Jibanganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45543,3420,19,BD,5479,04,,Banchharampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45544,3430,19,BD,5479,04,,Sarial,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45545,3431,19,BD,5479,04,,Shahbajpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45546,3432,19,BD,5479,04,,Chandura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45547,3440,19,BD,5479,04,,Nasirnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45548,3441,19,BD,5479,04,,Fandauk,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45549,3450,19,BD,5479,04,,Akhaura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45550,3451,19,BD,5479,04,,Azampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45551,3452,19,BD,5479,04,,Gangasagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45552,3460,19,BD,5479,04,,Kasba,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45553,3461,19,BD,5479,04,,Kuti,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45554,3462,19,BD,5479,04,,Chandidar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45555,3463,19,BD,5479,04,,Chargachh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45556,3464,19,BD,5479,04,,Gopinathpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45557,3500,19,BD,5485,08,,Comilla Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45558,3501,19,BD,5485,08,,Comilla Contoment,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45559,3502,19,BD,5485,08,,Halimanagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45560,3503,19,BD,5485,08,,Courtbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45561,3504,19,BD,5485,08,,Suaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45562,3510,19,BD,5485,08,,Mohichail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45563,3511,19,BD,5485,08,,Madhaiabazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45564,3516,19,BD,5485,08,,Daudkandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45565,3517,19,BD,5485,08,,Gouripur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45566,3518,19,BD,5485,08,,Dashpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45567,3519,19,BD,5485,08,,Eliotganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45568,3520,19,BD,5485,08,,Burichang,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45569,3521,19,BD,5485,08,,Maynamoti bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45570,3526,19,BD,5485,08,,Brahmanpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45571,3530,19,BD,5485,08,,Davidhar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45572,3531,19,BD,5485,08,,Gangamandal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45573,3532,19,BD,5485,08,,Barashalghar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45574,3533,19,BD,5485,08,,Dhamtee,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45575,3540,19,BD,5485,08,,Muradnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45576,3541,19,BD,5485,08,,Ramchandarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45577,3542,19,BD,5485,08,,Companyganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45578,3543,19,BD,5485,08,,Bangra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45579,3544,19,BD,5485,08,,Sonakanda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45580,3545,19,BD,5485,08,,Pantibazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45581,3546,19,BD,5485,08,,Homna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45582,3550,19,BD,5485,08,,Chouddagram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45583,3551,19,BD,5485,08,,Batisa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45584,3552,19,BD,5485,08,,Chiora,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45585,3560,19,BD,5485,08,,Barura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45586,3561,19,BD,5485,08,,Poyalgachha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45587,3562,19,BD,5485,08,,Murdafarganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45588,3570,19,BD,5485,08,,Laksam,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45589,3571,19,BD,5485,08,,Lakshamanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45590,3572,19,BD,5485,08,,Bipulasar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45591,3580,19,BD,5485,08,,Langalkot,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45592,3581,19,BD,5485,08,,Dhalua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45593,3582,19,BD,5485,08,,Chhariabazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45594,3583,19,BD,5485,08,,Gunabati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45595,3600,19,BD,5480,09,,Chandpur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45596,3601,19,BD,5480,09,,Puranbazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45597,3602,19,BD,5480,09,,Baburhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45598,3603,19,BD,5480,09,,Sahatali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45599,3610,19,BD,5480,09,,Hajiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45600,3611,19,BD,5480,09,,Bolakhal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45601,3620,19,BD,5480,09,,UNKILA,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45602,3621,19,BD,5480,09,,Khilabazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45603,3622,19,BD,5480,09,,Pashchim Kherihar Al,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45604,3623,19,BD,5480,09,,Chotoshi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45605,3624,19,BD,5480,09,,Islamia Madrasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45606,3630,19,BD,5480,09,,Kachua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45607,3631,19,BD,5480,09,,Pak Shrirampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45608,3632,19,BD,5480,09,,Rahima Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45609,3633,19,BD,5480,09,,Shachar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45610,3640,19,BD,5480,09,,Matlobganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45611,3641,19,BD,5480,09,,Mohanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45612,3642,19,BD,5480,09,,Kalipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45613,3650,19,BD,5480,09,,Faridganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45614,3651,19,BD,5480,09,,Chandra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45615,3652,19,BD,5480,09,,Rupsha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45616,3653,19,BD,5480,09,,Gridkaliandia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45617,3654,19,BD,5480,09,,Rampurbazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45618,3655,19,BD,5480,09,,Islampur Shah Isain,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45619,3660,19,BD,5480,09,,Hayemchar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45620,3661,19,BD,5480,09,,Gandamara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45621,3700,19,BD,5504,31,,Lakshimpur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45622,3701,19,BD,5504,31,,Dalal Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45623,3702,19,BD,5504,31,,Bhabaniganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45624,3703,19,BD,5504,31,,Mandari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45625,3704,19,BD,5504,31,,Keramatganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45626,3705,19,BD,5504,31,,Rupchara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45627,3706,19,BD,5504,31,,Duttapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45628,3707,19,BD,5504,31,,Choupalli,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45629,3708,19,BD,5504,31,,Chandraganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45630,3709,19,BD,5504,31,,Amani Lakshimpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45631,3710,19,BD,5504,31,,Raypur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45632,3711,19,BD,5504,31,,Rakhallia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45633,3712,19,BD,5504,31,,Nagerdighirpar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45634,3713,19,BD,5504,31,,Khaser Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45635,3714,19,BD,5504,31,,Bhuiyanbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45636,3720,19,BD,5504,31,,Ramganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45637,3721,19,BD,5504,31,,Alipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45638,3722,19,BD,5504,31,,Panpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45639,3723,19,BD,5504,31,,Kanchanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45640,3724,19,BD,5504,31,,Naagmud,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45641,3725,19,BD,5504,31,,Dolta,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45642,3730,19,BD,5504,31,,Char Alexgander,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45643,3731,19,BD,5504,31,,Hajirghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45644,3732,19,BD,5504,31,,Ramgatirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45645,3800,19,BD,5520,47,,Noakhali Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45646,3801,19,BD,5520,47,,Noakhali College,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45647,3802,19,BD,5520,47,,Sonapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45648,3803,19,BD,5520,47,,Din Monir Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45649,3804,19,BD,5520,47,,Pak Kishoreganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45650,3806,19,BD,5520,47,,Mriddarhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45651,3807,19,BD,5520,47,,Kabirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45652,3808,19,BD,5520,47,,Khalifar Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45653,3809,19,BD,5520,47,,Charam Tua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45654,3811,19,BD,5520,47,,Chaprashir Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45655,3812,19,BD,5520,47,,Char Jabbar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45656,3820,19,BD,5520,47,,Begumganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45657,3821,19,BD,5520,47,,Choumohani,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45658,3822,19,BD,5520,47,,Banglabazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45659,3823,19,BD,5520,47,,Mir Owarishpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45660,3824,19,BD,5520,47,,Bazra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45661,3825,19,BD,5520,47,,Jamidar Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45662,3827,19,BD,5520,47,,Sonaimuri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45663,3828,19,BD,5520,47,,Gopalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45664,3829,19,BD,5520,47,,Joynarayanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45665,3831,19,BD,5520,47,,Alaiarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45666,3832,19,BD,5520,47,,Tangirpar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45667,3833,19,BD,5520,47,,Khalafat Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45668,3834,19,BD,5520,47,,Rajganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45669,3835,19,BD,5520,47,,Oachhekpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45670,3837,19,BD,5520,47,,Bhabani Jibanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45671,3838,19,BD,5520,47,,Maheshganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45672,3839,19,BD,5520,47,,Nadona,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45673,3841,19,BD,5520,47,,Nandiapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45674,3842,19,BD,5520,47,,Khalishpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45675,3843,19,BD,5520,47,,Dauti,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45676,3844,19,BD,5520,47,,Joyag,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45677,3845,19,BD,5520,47,,Thanar Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45678,3847,19,BD,5520,47,,Amisha Para,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45679,3848,19,BD,5520,47,,Durgapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45680,3850,19,BD,5520,47,,Basur Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45681,3851,19,BD,5520,47,,Charhajari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45682,3860,19,BD,5520,47,,Senbag,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45683,3861,19,BD,5520,47,,Kallyandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45684,3862,19,BD,5520,47,,Beezbag,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45685,3863,19,BD,5520,47,,Kankirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45686,3864,19,BD,5520,47,,Chatarpaia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45687,3865,19,BD,5520,47,,T.P. Lamua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45688,3870,19,BD,5520,47,,Chatkhil,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45689,3871,19,BD,5520,47,,Palla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45690,3872,19,BD,5520,47,,Khilpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45691,3873,19,BD,5520,47,,Bodalcourt,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45692,3874,19,BD,5520,47,,Rezzakpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45693,3875,19,BD,5520,47,,Solla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45694,3877,19,BD,5520,47,,Karihati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45695,3878,19,BD,5520,47,,Dosh Gharia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45696,3879,19,BD,5520,47,,Bansa Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45697,3881,19,BD,5520,47,,Sahapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45698,3882,19,BD,5520,47,,Sampara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45699,3883,19,BD,5520,47,,Shingbahura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45700,3890,19,BD,5520,47,,Hatiya,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45701,3891,19,BD,5520,47,,Afazia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45702,3892,19,BD,5520,47,,Tamoraddi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45703,3893,19,BD,5533,61,,Chourangi Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45704,3900,19,BD,5489,16,,Feni Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45705,3901,19,BD,5489,16,,Fazilpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45706,3902,19,BD,5489,16,,Sharshadie,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45707,3903,19,BD,5489,16,,Laskarhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45708,3910,19,BD,5489,16,,Chhagalnaia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45709,3911,19,BD,5489,16,,Maharajganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45710,3912,19,BD,5489,16,,Daraga Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45711,3913,19,BD,5489,16,,Puabashimulia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45712,3920,19,BD,5489,16,,Dagondhuia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45713,3921,19,BD,5489,16,,Dudmukha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45714,3922,19,BD,5489,16,,Silonia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45715,3923,19,BD,5489,16,,Rajapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45716,3930,19,BD,5489,16,,Sonagazi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45717,3931,19,BD,5489,16,,Motiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45718,3932,19,BD,5489,16,,Ahmadpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45719,3933,19,BD,5489,16,,Kazirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45720,3937,19,BD,5489,16,,Mangal Kandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45721,3940,19,BD,5489,16,,Pashurampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45722,3941,19,BD,5489,16,,Shuarbazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45723,3942,19,BD,5489,16,,Fulgazi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45724,3943,19,BD,5489,16,,Munshirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45725,4000,19,BD,5482,10,,Chattogram GPO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45726,4050,19,BD,5522,52,,Chotto Dab,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45727,4100,19,BD,5482,10,,Chattogram Bandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45728,4202,19,BD,5482,10,,Pahartoli,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45729,4203,19,BD,5482,10,,Chawkbazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45730,4204,19,BD,5482,10,,Patenga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45731,4205,19,BD,5482,10,,Chattogram Airport,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45732,4206,19,BD,5482,10,,Jaldia Merine Accade,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45733,4207,19,BD,5482,10,,Firozshah,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45734,4208,19,BD,5482,10,,Mohard,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45735,4209,19,BD,5482,10,,Chitt. Politechnic In,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45736,4210,19,BD,5482,10,,Bayezid Bostami,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45737,4211,19,BD,5482,10,,Amin Jute Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45738,4212,19,BD,5482,10,,Chandgaon,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45739,4213,19,BD,5482,10,,Wazedia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45740,4214,19,BD,5482,10,,Jalalabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45741,4215,19,BD,5482,10,,Anandabazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45742,4216,19,BD,5482,10,,Halishahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45743,4217,19,BD,5482,10,,North Katuli,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45744,4218,19,BD,5482,10,,Chitt. Sailers Colon,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45745,4219,19,BD,5482,10,,Chitt. Customs Acca,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45746,4220,19,BD,5482,10,,Chitt. Cantonment,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45747,4221,19,BD,5482,10,,Al- Amin Baria Madra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45748,4222,19,BD,5482,10,,Middle Patenga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45749,4223,19,BD,5482,10,,Export Processing,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45750,4224,19,BD,5482,10,,Rampur TSO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45751,4225,19,BD,5482,10,,Khulshi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45752,4226,19,BD,5482,10,,North Halishahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45753,4300,19,BD,5482,10,,Sandwip,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45754,4301,19,BD,5482,10,,Shiberhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45755,4302,19,BD,5482,10,,Urirchar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45756,4310,19,BD,5482,10,,Sitakunda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45757,4311,19,BD,5482,10,,Baroidhala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45758,4312,19,BD,5482,10,,Barabkunda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45759,4313,19,BD,5482,10,,Bawashbaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45760,4314,19,BD,5482,10,,Kumira,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45761,4315,19,BD,5482,10,,Bhatiari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45762,4316,19,BD,5482,10,,Fouzdarhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45763,4317,19,BD,5482,10,,Jafrabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45764,4320,19,BD,5482,10,,Mirsharai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45765,4321,19,BD,5482,10,,Abutorab,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45766,4322,19,BD,5482,10,,Darrogahat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45767,4323,19,BD,5482,10,,Bharawazhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45768,4324,19,BD,5482,10,,Joarganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45769,4325,19,BD,5482,10,,Azampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45770,4327,19,BD,5482,10,,Korerhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45771,4328,19,BD,5482,10,,Mohazanhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45772,4330,19,BD,5482,10,,Hathazari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45773,4331,19,BD,5482,10,,Chitt.University,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45774,4332,19,BD,5482,10,,Gorduara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45775,4333,19,BD,5482,10,,Katirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45776,4334,19,BD,5482,10,,Mirzapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45777,4335,19,BD,5482,10,,Fatahabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45778,4337,19,BD,5482,10,,Nuralibari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45779,4338,19,BD,5482,10,,Yunus Nagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45780,4339,19,BD,5482,10,,Madrasa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45781,4340,19,BD,5482,10,,Rouzan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45782,4341,19,BD,5482,10,,Beenajuri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45783,4342,19,BD,5482,10,,Kundeshwari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45784,4343,19,BD,5482,10,,Gahira,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45785,4344,19,BD,5482,10,,jagannath Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45786,4345,19,BD,5482,10,,Fatepur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45787,4346,19,BD,5482,10,,Guzra Noapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45788,4347,19,BD,5482,10,,Dewanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45789,4348,19,BD,5482,10,,Mohamuni,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45790,4349,19,BD,5482,10,,B.I.T Post Office,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45791,4350,19,BD,5482,10,,Fatikchhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45792,4351,19,BD,5482,10,,Nanupur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45793,4352,19,BD,5482,10,,Bhandar Sharif,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45794,4353,19,BD,5482,10,,Najirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45795,4354,19,BD,5482,10,,Harualchhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45796,4355,19,BD,5482,10,,Narayanhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45797,4360,19,BD,5482,10,,Rangunia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45798,4361,19,BD,5482,10,,Dhamair,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45799,4363,19,BD,5482,10,,Kanungopara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45800,4364,19,BD,5482,10,,Saroatoli,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45801,4365,19,BD,5482,10,,Iqbal Park,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45802,4366,19,BD,5482,10,,Boalkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45803,4367,19,BD,5482,10,,Sakpura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45804,4368,19,BD,5482,10,,Kadurkhal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45805,4369,19,BD,5482,10,,Charandwip,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45806,4370,19,BD,5482,10,,Patiya Head Office,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45807,4371,19,BD,5482,10,,Budhpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45808,4376,19,BD,5482,10,,Anowara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45809,4377,19,BD,5482,10,,Paroikora,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45810,4378,19,BD,5482,10,,Battali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45811,4380,19,BD,5482,10,,East Joara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45812,4381,19,BD,5482,10,,Gachbaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45813,4382,19,BD,5482,10,,Dohazari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45814,4383,19,BD,5482,10,,Barma,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45815,4386,19,BD,5482,10,,Satkania,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45816,4387,19,BD,5482,10,,Baitul Ijjat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45817,4388,19,BD,5482,10,,Bazalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45818,4390,19,BD,5482,10,,Jaldi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45819,4391,19,BD,5482,10,,Khan Bahadur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45820,4392,19,BD,5482,10,,Gunagari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45821,4393,19,BD,5482,10,,Banigram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45822,4396,19,BD,5482,10,,Lohagara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45823,4397,19,BD,5482,10,,Padua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45824,4398,19,BD,5482,10,,Chunti,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45825,4400,19,BD,5482,10,,Khagrachari Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45826,4410,19,BD,5482,10,,Panchhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45827,4420,19,BD,5482,10,,Diginala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45828,4430,19,BD,5482,10,,Mahalchhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45829,4440,19,BD,5482,10,,Ramghar Head Office,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45830,4450,19,BD,5482,10,,Matiranga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45831,4460,19,BD,5482,10,,Manikchhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45832,4470,19,BD,5482,10,,Laxmichhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45833,4500,19,BD,5527,56,,Rangamati Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45834,4510,19,BD,5527,56,,Kalampati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45835,4511,19,BD,5527,56,,Betbunia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45836,4520,19,BD,5527,56,,Nanichhar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45837,4530,19,BD,5527,56,,Kaptai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45838,4531,19,BD,5527,56,,Chandraghona,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45839,4532,19,BD,5527,56,,Kaptai Project,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45840,4533,19,BD,5527,56,,Kaptai Nuton Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45841,4540,19,BD,5527,56,,Rajsthali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45842,4550,19,BD,5527,56,,Bilaichhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45843,4560,19,BD,5527,56,,Jarachhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45844,4570,19,BD,5527,56,,Barakal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45845,4580,19,BD,5527,56,,Longachh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45846,4590,19,BD,5527,56,,Marishya,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45847,4600,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45848,4610,19,BD,5474,01,,Roanchhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45849,4620,19,BD,5474,01,,Ruma,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45850,4630,19,BD,5474,01,,Thanchi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45851,4641,19,BD,5474,01,,Lama,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45852,4650,19,BD,5474,01,,Alikadam,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45853,4660,19,BD,5474,01,,Naikhong,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45854,4700,19,BD,5484,11,,Coxs Bazar Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45855,4701,19,BD,5484,11,,Zhilanja,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45856,4702,19,BD,5484,11,,Eidga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45857,4710,19,BD,5484,11,,Gorakghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45858,4720,19,BD,5484,11,,Kutubdia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45859,4730,19,BD,5484,11,,Ramu,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45860,4740,19,BD,5484,11,,Chiringga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45861,4741,19,BD,5484,11,,Chiringga S.O,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45862,4742,19,BD,5484,11,,Badarkali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45863,4743,19,BD,5484,11,,Malumghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45864,4750,19,BD,5484,11,,Ukhia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45865,4760,19,BD,5484,11,,Teknaf,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45866,4761,19,BD,5484,11,,Hnila,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45867,4762,19,BD,5484,11,,St.Martin,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45868,5000,19,BD,5522,52,,Panchagar Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45869,5010,19,BD,5522,52,,Boda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45870,5020,19,BD,5522,52,,Dabiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45871,5030,19,BD,5522,52,,Tetulia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45872,5040,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45873,5041,19,BD,5522,52,,Mirjapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45874,5100,19,BD,5536,64,,Thakurgaon Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45875,5101,19,BD,5536,64,,Thakurgaon Road,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45876,5102,19,BD,5536,64,,Shibganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45877,5103,19,BD,5536,64,,Ruhia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45878,5110,19,BD,5536,64,,Pirganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45879,5120,19,BD,5536,64,,Rani Sankail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45880,5121,19,BD,5536,64,,Nekmarad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45881,5130,19,BD,5536,64,,Jibanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45882,5140,19,BD,5536,64,,Baliadangi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45883,5141,19,BD,5536,64,,Lahiri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45884,5200,19,BD,5487,14,,Dinajpur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45885,5201,19,BD,5487,14,,Dinajpur Rajbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45886,5210,19,BD,5487,14,,Biral,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45887,5216,19,BD,5487,14,,Setabganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45888,5220,19,BD,5487,14,,Birganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45889,5226,19,BD,5487,14,,Maharajganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45890,5230,19,BD,5487,14,,Khansama,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45891,5231,19,BD,5487,14,,Pakarhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45892,5240,19,BD,5487,14,,Chirirbandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45893,5241,19,BD,5487,14,,Ranirbandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45894,5250,19,BD,5487,14,,Parbatipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45895,5260,19,BD,5487,14,,Phulbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45896,5266,19,BD,5487,14,,Birampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45897,5270,19,BD,5487,14,,Bangla Hili,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45898,5280,19,BD,5487,14,,Nawabganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45899,5281,19,BD,5487,14,,Daudpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45900,5282,19,BD,5487,14,,Gopalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45901,5290,19,BD,5487,14,,Osmanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45902,5291,19,BD,5487,14,,Ghoraghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45903,5300,19,BD,5519,46,,Nilphamari Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45904,5301,19,BD,5519,46,,Nilphamari Sugar Mil,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45905,5310,19,BD,5519,46,,Saidpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45906,5311,19,BD,5519,46,,Saidpur Upashahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45907,5320,19,BD,5519,46,,Kishoriganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45908,5330,19,BD,5519,46,,Jaldhaka,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45909,5340,19,BD,5519,46,,Domar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45910,5341,19,BD,5519,46,,Chilahati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45911,5350,19,BD,5519,46,,Dimla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45912,5351,19,BD,5519,46,,Ghaga Kharibari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45913,5400,19,BD,5528,55,,Rangpur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45914,5401,19,BD,5528,55,,Rangpur Upa-Shahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45915,5402,19,BD,5528,55,,Alamnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45916,5403,19,BD,5528,55,,Mahiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45917,5404,19,BD,5528,55,,Rangpur Cadet Colleg,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45918,5405,19,BD,5528,55,,Rangpur Carmiecal Col,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45919,5410,19,BD,5528,55,,Gangachara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45920,5420,19,BD,5528,55,,Taraganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45921,5430,19,BD,5528,55,,Badarganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45922,5431,19,BD,5528,55,,Shyampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45923,5440,19,BD,5528,55,,Kaunia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45924,5441,19,BD,5528,55,,Haragachh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45925,5450,19,BD,5528,55,,Pirgachha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45926,5460,19,BD,5528,55,,Mithapukur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45927,5470,19,BD,5528,55,,Pirganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45928,5500,19,BD,5505,32,,Lalmonirhat Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45929,5501,19,BD,5505,32,,Moghalhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45930,5502,19,BD,5505,32,,Kulaghat SO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45931,5510,19,BD,5505,32,,Aditmari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45932,5520,19,BD,5505,32,,Tushbhandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45933,5530,19,BD,5505,32,,Hatibandha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45934,5540,19,BD,5505,32,,Patgram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45935,5541,19,BD,5505,32,,Baura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45936,5542,19,BD,5505,32,,Burimari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45937,5600,19,BD,5502,28,,Kurigram Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45938,5601,19,BD,5502,28,,Pandul,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45939,5610,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45940,5611,19,BD,5502,28,,Nazimkhan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45941,5620,19,BD,5502,28,,Ulipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45942,5621,19,BD,5502,28,,Bozra hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45943,5630,19,BD,5502,28,,Chilmari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45944,5631,19,BD,5502,28,,Jorgachh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45945,5640,19,BD,5502,28,,Roumari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45946,5650,19,BD,5502,28,,Rajibpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45947,5660,19,BD,5502,28,,Nageshwar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45948,5670,19,BD,5502,28,,Bhurungamari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45949,5680,19,BD,5502,28,,Phulbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45950,5700,19,BD,5490,19,,Gaibandha Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45951,5710,19,BD,5490,19,,Saadullapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45952,5711,19,BD,5490,19,,Naldanga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45953,5720,19,BD,5490,19,,Sundarganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45954,5721,19,BD,5490,19,,Bamandanga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45955,5730,19,BD,5490,19,,Palashbari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45956,5740,19,BD,5490,19,,Gobindhaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45957,5741,19,BD,5490,19,,Mahimaganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45958,5750,19,BD,5490,19,,Bonarpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45959,5751,19,BD,5490,19,,saghata,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45960,5760,19,BD,5490,19,,Phulchhari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45961,5761,19,BD,5490,19,,Bharatkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45962,5800,19,BD,5478,03,,Bogura Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45963,5801,19,BD,5478,03,,Bogura Canttonment,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45964,5810,19,BD,5478,03,,Shibganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45965,5820,19,BD,5478,03,,-,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45966,5821,19,BD,5478,03,,Sukhanpukur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45967,5826,19,BD,5478,03,,Sonatola,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45968,5830,19,BD,5478,03,,Sariakandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45969,5831,19,BD,5478,03,,Chandan Baisha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45970,5840,19,BD,5478,03,,Sherpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45971,5841,19,BD,5478,03,,Chandaikona,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45972,5842,19,BD,5478,03,,Palli Unnyan Accadem,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45973,5850,19,BD,5478,03,,Dhunat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45974,5851,19,BD,5478,03,,Gosaibari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45975,5860,19,BD,5478,03,,Nandigram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45976,5870,19,BD,5478,03,,Kahalu,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45977,5880,19,BD,5478,03,,Dupchanchia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45978,5881,19,BD,5478,03,,Talora,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45979,5890,19,BD,5478,03,,Adamdighi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45980,5891,19,BD,5478,03,,Santahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45981,5892,19,BD,5478,03,,Nasharatpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45982,5900,19,BD,5498,24,,Joypurhat Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45983,5910,19,BD,5498,24,,Panchbibi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45984,5920,19,BD,5498,24,,Khetlal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45985,5930,19,BD,5498,24,,kalai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45986,5940,19,BD,5498,24,,Akklepur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45987,5941,19,BD,5498,24,,jamalganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45988,5942,19,BD,5498,24,,Tilakpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45989,6000,19,BD,5526,54,,Rajshahi Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45990,6100,19,BD,5526,54,,Ghuramara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45991,6201,19,BD,5526,54,,Rajshahi Court,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45992,6202,19,BD,5526,54,,Rajshahi Canttonment,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45993,6203,19,BD,5526,54,,Sapura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45994,6204,19,BD,5526,54,,Kazla,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45995,6205,19,BD,5526,54,,Rajshahi University,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45996,6206,19,BD,5526,54,,Binodpur Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45997,6210,19,BD,5526,54,,Lalitganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45998,6211,19,BD,5526,54,,Rajshahi Sugar Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+45999,6212,19,BD,5526,54,,Shyampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46000,6220,19,BD,5526,54,,Khodmohanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46001,6230,19,BD,5526,54,,Tanor,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46002,6240,19,BD,5526,54,,Durgapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46003,6250,19,BD,5526,54,,Bhabaniganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46004,6251,19,BD,5526,54,,Taharpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46005,6260,19,BD,5526,54,,Putia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46006,6270,19,BD,5526,54,,Charghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46007,6271,19,BD,5526,54,,Sarda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46008,6280,19,BD,5526,54,,Bagha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46009,6281,19,BD,5526,54,,Arani,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46010,6290,19,BD,5526,54,,Godagari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46011,6291,19,BD,5526,54,,Premtoli,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46012,6300,19,BD,5481,45,,Chapai Nawabganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46013,6301,19,BD,5481,45,,Rajarampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46014,6302,19,BD,5481,45,,Ramchandrapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46015,6303,19,BD,5481,45,,Amnura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46016,6310,19,BD,5481,45,,Nachol,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46017,6311,19,BD,5481,45,,Mandumala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46018,6320,19,BD,5481,45,,Rohanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46019,6321,19,BD,5481,45,,Gomashtapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46020,6330,19,BD,5481,45,,Bholahat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46021,6340,19,BD,5481,45,,Shibganj U.P.O,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46022,6341,19,BD,5481,45,,Kansart,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46023,6342,19,BD,5481,45,,Manaksha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46024,6400,19,BD,5517,44,,Natore Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46025,6401,19,BD,5517,44,,Digapatia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46026,6402,19,BD,5517,44,,Baiddyabal Gharia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46027,6403,19,BD,5517,44,,Madhnagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46028,6410,19,BD,5517,44,,Laxman,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46029,6420,19,BD,5517,44,,Gopalpur U.P.O,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46030,6421,19,BD,5517,44,,Lalpur S.O,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46031,6422,19,BD,5517,44,,Abdulpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46032,6430,19,BD,5517,44,,Harua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46033,6431,19,BD,5517,44,,Dayarampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46034,6432,19,BD,5517,44,,Baraigram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46035,6440,19,BD,5517,44,,Hatgurudaspur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46036,6450,19,BD,5517,44,,Singra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46037,6500,19,BD,5513,48,,Naogaon Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46038,6510,19,BD,5513,48,,Prasadpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46039,6511,19,BD,5513,48,,Manda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46040,6512,19,BD,5513,48,,Balihar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46041,6520,19,BD,5513,48,,Niamatpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46042,6530,19,BD,5513,48,,Mahadebpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46043,6540,19,BD,5513,48,,Patnitala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46044,6550,19,BD,5513,48,,Nitpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46045,6551,19,BD,5513,48,,Porsa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46046,6552,19,BD,5513,48,,Panguria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46047,6560,19,BD,5513,48,,Sapahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46048,6561,19,BD,5513,48,,Moduhil,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46049,6570,19,BD,5513,48,,Badalgachhi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46050,6580,19,BD,5513,48,,Dhamuirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46051,6590,19,BD,5513,48,,Raninagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46052,6591,19,BD,5513,48,,Kashimpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46053,6596,19,BD,5513,48,,Ahsanganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46054,6597,19,BD,5513,48,,Bandai,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46055,6600,19,BD,5521,49,,Pabna Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46056,6601,19,BD,5521,49,,Kaliko Cotton Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46057,6602,19,BD,5521,49,,Hamayetpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46058,6610,19,BD,5521,49,,Atghoria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46059,6620,19,BD,5521,49,,Ishwardi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46060,6621,19,BD,5521,49,,Dhapari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46061,6622,19,BD,5521,49,,Pakshi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46062,6623,19,BD,5521,49,,Rajapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46063,6630,19,BD,5521,49,,Chatmohar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46064,6640,19,BD,5521,49,,Bhangura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46065,6650,19,BD,5521,49,,Banwarinagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46066,6660,19,BD,5521,49,,Sujanagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46067,6661,19,BD,5521,49,,Sagarkandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46068,6670,19,BD,5521,49,,Sathia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46069,6680,19,BD,5521,49,,Bera,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46070,6681,19,BD,5521,49,,Nakalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46071,6682,19,BD,5521,49,,Kashinathpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46072,6683,19,BD,5521,49,,Puran Bharenga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46073,6700,19,BD,5532,59,,Sirajganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46074,6701,19,BD,5532,59,,Raipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46075,6702,19,BD,5532,59,,Rashidabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46076,6710,19,BD,5532,59,,Kazipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46077,6711,19,BD,5532,59,,Shuvgachha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46078,6712,19,BD,5532,59,,Gandail,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46079,6720,19,BD,5532,59,,Dhangora,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46080,6721,19,BD,5532,59,,Malonga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46081,6730,19,BD,5532,59,,Baiddya Jam Toil,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46082,6740,19,BD,5532,59,,Belkuchi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46083,6741,19,BD,5532,59,,Sohagpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46084,6742,19,BD,5532,59,,Rajapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46085,6751,19,BD,5532,59,,Enayetpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46086,6752,19,BD,5532,59,,Sthal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46087,6760,19,BD,5532,59,,Ullapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46088,6761,19,BD,5532,59,,Ullapara R.S,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46089,6762,19,BD,5532,59,,Lahiri Mohanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46090,6763,19,BD,5532,59,,Salap,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46091,6770,19,BD,5532,59,,Shahjadpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46092,6771,19,BD,5532,59,,Porjana,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46093,6772,19,BD,5532,59,,Jamirta,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46094,6773,19,BD,5532,59,,Kaijuri,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46095,6780,19,BD,5532,59,,Tarash,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46096,7000,19,BD,5503,30,,Kushtia Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46097,7001,19,BD,5503,30,,Kushtia Mohini,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46098,7002,19,BD,5503,30,,Jagati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46099,7003,19,BD,5503,30,,Islami University,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46100,7010,19,BD,5503,30,,Kumarkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46101,7011,19,BD,5503,30,,Panti,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46102,7020,19,BD,5503,30,,Janipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46103,7021,19,BD,5503,30,,Khoksa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46104,7030,19,BD,5503,30,,Mirpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46105,7031,19,BD,5503,30,,Poradaha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46106,7032,19,BD,5503,30,,Amla Sadarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46107,7040,19,BD,5503,30,,Bheramara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46108,7041,19,BD,5503,30,,Ganges Bheramara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46109,7042,19,BD,5503,30,,Allardarga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46110,7050,19,BD,5503,30,,Rafayetpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46111,7051,19,BD,5503,30,,Taragunia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46112,7052,19,BD,5503,30,,Khasmathurapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46113,7100,19,BD,5509,39,,Meherpur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46114,7101,19,BD,5509,39,,Amjhupi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46115,7102,19,BD,5509,39,,Mujib Nagar Complex,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46116,7110,19,BD,5509,39,,Gangni,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46117,7152,19,BD,5509,39,,Amjhupi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46118,7200,19,BD,5483,12,,Chuadanga Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46119,7201,19,BD,5483,12,,Munshiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46120,7210,19,BD,5483,12,,Alamdanga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46121,7211,19,BD,5483,12,,Hardi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46122,7220,19,BD,5483,12,,Damurhuda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46123,7221,19,BD,5483,12,,Darshana,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46124,7222,19,BD,5483,12,,Andulbaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46125,7230,19,BD,5483,12,,Doulatganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46126,7300,19,BD,5497,23,,Jhenaidah Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46127,7301,19,BD,5497,23,,Jhenaidah Cadet College,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46128,7310,19,BD,5497,23,,Harinakundu,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46129,7320,19,BD,5497,23,,Shailakupa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46130,7321,19,BD,5497,23,,Kumiradaha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46131,7330,19,BD,5497,23,,Kotchandpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46132,7340,19,BD,5497,23,,Maheshpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46133,7350,19,BD,5497,23,,Naldanga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46134,7351,19,BD,5497,23,,Hatbar Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46135,7400,19,BD,5495,22,,Jashore Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46136,7401,19,BD,5495,22,,Jashore Upa-Shahar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46137,7402,19,BD,5495,22,,Chanchra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46138,7403,19,BD,5495,22,,Jashore canttonment,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46139,7404,19,BD,5495,22,,Jashore Airbach,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46140,7405,19,BD,5495,22,,Rupdia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46141,7406,19,BD,5495,22,,Basundia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46142,7407,19,BD,5495,22,,Churamankathi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46143,7410,19,BD,5495,22,,Chougachha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46144,7420,19,BD,5495,22,,Jhikargachha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46145,7430,19,BD,5495,22,,Sarsa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46146,7431,19,BD,5495,22,,Benapole,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46147,7432,19,BD,5495,22,,Jadabpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46148,7433,19,BD,5495,22,,Bag Achra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46149,7440,19,BD,5495,22,,Monirampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46150,7450,19,BD,5495,22,,Keshobpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46151,7460,19,BD,5495,22,,Noapara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46152,7461,19,BD,5495,22,,Rajghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46153,7462,19,BD,5495,22,,Bhugilhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46154,7470,19,BD,5495,22,,Bagharpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46155,7471,19,BD,5495,22,,Gouranagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46156,7500,19,BD,5514,43,,Narail Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46157,7501,19,BD,5514,43,,Ratanganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46158,7510,19,BD,5514,43,,Laxmipasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46159,7511,19,BD,5514,43,,Lohagora,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46160,7512,19,BD,5514,43,,Itna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46161,7513,19,BD,5514,43,,Naldi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46162,7514,19,BD,5514,43,,Baradia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46163,7520,19,BD,5514,43,,Kalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46164,7521,19,BD,5514,43,,Mohajan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46165,7600,19,BD,5507,37,,Magura Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46166,7610,19,BD,5507,37,,Shripur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46167,7611,19,BD,5507,37,,Langalbadh,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46168,7612,19,BD,5507,37,,Nachol,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46169,7620,19,BD,5507,37,,Arpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46170,7630,19,BD,5507,37,,Mohammadpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46171,7631,19,BD,5507,37,,Binodpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46172,7632,19,BD,5507,37,,Nahata,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46173,7700,19,BD,5525,53,,Rajbari Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46174,7710,19,BD,5525,53,,Goalanda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46175,7711,19,BD,5525,53,,Khankhanapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46176,7720,19,BD,5525,53,,Pangsha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46177,7721,19,BD,5525,53,,Ramkol,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46178,7722,19,BD,5525,53,,Ratandia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46179,7723,19,BD,5525,53,,Mrigibazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46180,7730,19,BD,5525,53,,Baliakandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46181,7731,19,BD,5525,53,,Nalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46182,7800,19,BD,5488,15,,Faridpursadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46183,7801,19,BD,5488,15,,Kanaipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46184,7802,19,BD,5488,15,,Ambikapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46185,7803,19,BD,5488,15,,Baitulaman Politecni,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46186,7804,19,BD,5488,15,,Shriangan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46187,7810,19,BD,5488,15,,Charbadrashan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46188,7820,19,BD,5488,15,,Sadarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46189,7821,19,BD,5488,15,,Hat Krishapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46190,7822,19,BD,5488,15,,Bishwa jaker Manjil,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46191,7830,19,BD,5488,15,,Bhanga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46192,7840,19,BD,5488,15,,Nagarkanda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46193,7841,19,BD,5488,15,,Talma,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46194,7850,19,BD,5488,15,,Madukhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46195,7851,19,BD,5488,15,,Kamarkali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46196,7860,19,BD,5488,15,,Boalmari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46197,7861,19,BD,5488,15,,Rupatpat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46198,7870,19,BD,5488,15,,Alfadanga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46199,7900,19,BD,5506,36,,Madaripur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46200,7901,19,BD,5506,36,,Charmugria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46201,7902,19,BD,5506,36,,Kulpaddi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46202,7903,19,BD,5506,36,,Habiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46203,7904,19,BD,5506,36,,Mustafapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46204,7910,19,BD,5506,36,,Rajoir,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46205,7911,19,BD,5506,36,,Khalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46206,7920,19,BD,5506,36,,Kalkini,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46207,7921,19,BD,5506,36,,Sahabrampur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46208,7930,19,BD,5506,36,,Barhamganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46209,7931,19,BD,5506,36,,Nilaksmibandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46210,7932,19,BD,5506,36,,Bahadurpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46211,7933,19,BD,5506,36,,Umedpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46212,8000,19,BD,5530,62,,Shariatpur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46213,8001,19,BD,5530,62,,Angaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46214,8002,19,BD,5530,62,,Chikandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46215,8010,19,BD,5530,62,,Jajira,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46216,8013,19,BD,5492,17,,Chandradighalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46217,8020,19,BD,5530,62,,Naria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46218,8021,19,BD,5530,62,,Bhozeshwar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46219,8022,19,BD,5530,62,,Gharisar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46220,8023,19,BD,5530,62,,Upshi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46221,8024,19,BD,5530,62,,Kartikpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46222,8030,19,BD,5530,62,,Bhedorganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46223,8040,19,BD,5530,62,,Damudhya,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46224,8050,19,BD,5530,62,,Gosairhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46225,8100,19,BD,5492,17,,Gopalganj Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46226,8101,19,BD,5492,17,,Ulpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46227,8102,19,BD,5492,17,,Barfa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46228,8110,19,BD,5492,17,,Kotalipara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46229,8120,19,BD,5492,17,,Tungipara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46230,8121,19,BD,5492,17,,Patgati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46231,8130,19,BD,5492,17,,Kashiani,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46232,8131,19,BD,5492,17,,Ramdia College,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46233,8132,19,BD,5492,17,,Ratoil,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46234,8133,19,BD,5492,17,,Jonapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46235,8140,19,BD,5492,17,,Muksudpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46236,8141,19,BD,5492,17,,Batkiamari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46237,8142,19,BD,5492,17,,Khandarpara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46238,8200,19,BD,5476,06,,Chandramohon,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46239,8201,19,BD,5476,06,,Bukhainagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46240,8202,19,BD,5476,06,,Saheberhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46241,8203,19,BD,5476,06,,Sugandia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46242,8204,19,BD,5476,06,,Patang,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46243,8205,19,BD,5476,06,,Kashipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46244,8206,19,BD,5476,06,,Jaguarhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46245,8210,19,BD,5476,06,,Babuganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46246,8211,19,BD,5476,06,,Rahamatpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46247,8212,19,BD,5476,06,,Chandpasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46248,8213,19,BD,5476,06,,Madhabpasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46249,8214,19,BD,5476,06,,Thakur Mallik,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46250,8215,19,BD,5476,06,,Nizamuddin College,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46251,8216,19,BD,5476,06,,Barishal Cadet,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46252,8220,19,BD,5476,06,,Uzirpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46253,8221,19,BD,5476,06,,Dhamura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46254,8222,19,BD,5476,06,,Jugirkanda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46255,8223,19,BD,5476,06,,Dakuarhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46256,8224,19,BD,5476,06,,Shikarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46257,8230,19,BD,5476,06,,Gouranadi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46258,8231,19,BD,5476,06,,Tarki Bandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46259,8232,19,BD,5476,06,,Kashemabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46260,8233,19,BD,5476,06,,Batajor,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46261,8240,19,BD,5476,06,,Agailzhara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46262,8241,19,BD,5476,06,,Gaila,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46263,8242,19,BD,5476,06,,Paisarhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46264,8250,19,BD,5476,06,,Muladi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46265,8251,19,BD,5476,06,,Kazirchar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46266,8252,19,BD,5476,06,,Charkalekhan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46267,8260,19,BD,5476,06,,Barajalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46268,8261,19,BD,5476,06,,Osman Manjil,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46269,8270,19,BD,5476,06,,Mahendiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46270,8271,19,BD,5476,06,,Laskarpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46271,8272,19,BD,5476,06,,Ulania,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46272,8273,19,BD,5476,06,,Nalgora,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46273,8274,19,BD,5476,06,,Langutia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46274,8280,19,BD,5476,06,,Luxmibardhan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46275,8281,19,BD,5476,06,,Charamandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46276,8282,19,BD,5476,06,,Padri Shibpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46277,8283,19,BD,5476,06,,Shialguni,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46278,8284,19,BD,5476,06,,kalaskati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46279,8300,19,BD,5477,07,,Bhola Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46280,8301,19,BD,5477,07,,Joynagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46281,8310,19,BD,5477,07,,Doulatkhan,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46282,8311,19,BD,5477,07,,Hajipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46283,8320,19,BD,5477,07,,Borhanuddin UPO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46284,8321,19,BD,5477,07,,Mirzakalu,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46285,8330,19,BD,5477,07,,Lalmohan UPO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46286,8331,19,BD,5477,07,,Daurihat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46287,8332,19,BD,5477,07,,Gazaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46288,8340,19,BD,5477,07,,Charfashion,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46289,8341,19,BD,5477,07,,Dularhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46290,8342,19,BD,5477,07,,Keramatganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46291,8350,19,BD,5477,07,,Hatshoshiganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46292,8360,19,BD,5477,07,,Hajirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46293,8400,19,BD,5476,06,,Jhalokati Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46294,8401,19,BD,5476,06,,Nabagram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46295,8402,19,BD,5476,06,,Baukathi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46296,8403,19,BD,5476,06,,Gabha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46297,8404,19,BD,5476,06,,Shekherhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46298,8410,19,BD,5476,06,,Rajapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46299,8420,19,BD,5476,06,,Nalchhiti,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46300,8421,19,BD,5476,06,,Beerkathi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46301,8430,19,BD,5476,06,,Kathalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46302,8431,19,BD,5476,06,,Amua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46303,8432,19,BD,5476,06,,Niamatee,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46304,8433,19,BD,5476,06,,Shoulajalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46305,8500,19,BD,5524,50,,Pirojpur Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46306,8501,19,BD,5524,50,,Hularhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46307,8502,19,BD,5524,50,,Parerhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46308,8510,19,BD,5524,50,,Kaukhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46309,8511,19,BD,5524,50,,Keundia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46310,8512,19,BD,5524,50,,Joykul,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46311,8513,19,BD,5524,50,,Jolagati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46312,8520,19,BD,5524,50,,Swarupkathi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46313,8521,19,BD,5524,50,,Darus Sunnat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46314,8522,19,BD,5524,50,,Kaurikhara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46315,8523,19,BD,5524,50,,Jalabari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46316,8530,19,BD,5524,50,,Banaripara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46317,8531,19,BD,5524,50,,Chakhar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46318,8540,19,BD,5524,50,,Nazirpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46319,8541,19,BD,5524,50,,Sriramkathi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46320,8550,19,BD,5524,50,,Bhandaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46321,8551,19,BD,5524,50,,Kanudashkathi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46322,8552,19,BD,5524,50,,Dhaoa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46323,8560,19,BD,5524,50,,Mathbaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46324,8561,19,BD,5524,50,,Tushkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46325,8562,19,BD,5524,50,,Halta,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46326,8563,19,BD,5524,50,,Gulishakhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46327,8564,19,BD,5524,50,,Tiarkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46328,8565,19,BD,5524,50,,Betmor Natun Hat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46329,8566,19,BD,5524,50,,Shilarganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46330,8600,19,BD,5523,51,,Patuakhali Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46331,8601,19,BD,5523,51,,Moukaran,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46332,8602,19,BD,5523,51,,Dumkee,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46333,8603,19,BD,5523,51,,Rahimabad,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46334,8610,19,BD,5523,51,,Subidkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46335,8620,19,BD,5523,51,,Bauphal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46336,8621,19,BD,5523,51,,Bagabandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46337,8622,19,BD,5523,51,,Birpasha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46338,8623,19,BD,5523,51,,Kalishari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46339,8624,19,BD,5523,51,,Kalaia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46340,8630,19,BD,5523,51,,Dashmina,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46341,8640,19,BD,5523,51,,Galachipa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46342,8641,19,BD,5523,51,,Gazipur Bandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46343,8650,19,BD,5523,51,,Khepupara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46344,8651,19,BD,5523,51,,Mahipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46345,8700,19,BD,5475,02,,Barguna Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46346,8701,19,BD,5475,02,,Nali Bandar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46347,8710,19,BD,5475,02,,Amtali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46348,8720,19,BD,5475,02,,Patharghata,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46349,8721,19,BD,5475,02,,Kakchira,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46350,8730,19,BD,5475,02,,Bamna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46351,8740,19,BD,5475,02,,Betagi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46352,8741,19,BD,5475,02,,Darul Ulam,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46353,9000,19,BD,5500,27,,Khulna G.P.O,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46354,9100,19,BD,5500,27,,Khula Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46355,9201,19,BD,5500,27,,Khulna Shipyard,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46356,9202,19,BD,5500,27,,Doulatpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46357,9203,19,BD,5500,27,,BIT Khulna,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46358,9204,19,BD,5500,27,,Siramani,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46359,9205,19,BD,5500,27,,Jahanabad Canttonmen,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46360,9206,19,BD,5500,27,,Sonali Jute Mills,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46361,9207,19,BD,5500,27,,Atra Shilpa Area,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46362,9208,19,BD,5500,27,,Khulna University,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46363,9210,19,BD,5500,27,,Phultala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46364,9220,19,BD,5500,27,,Digalia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46365,9221,19,BD,5500,27,,Chandni Mahal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46366,9222,19,BD,5500,27,,Senhati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46367,9223,19,BD,5500,27,,Ghoshghati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46368,9224,19,BD,5500,27,,Gazirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46369,9230,19,BD,5500,27,,Terakhada,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46370,9231,19,BD,5500,27,,Pak Barasat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46371,9240,19,BD,5500,27,,Alaipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46372,9241,19,BD,5500,27,,Rupsha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46373,9242,19,BD,5500,27,,Belphulia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46374,9250,19,BD,5500,27,,Sajiara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46375,9251,19,BD,5500,27,,Ghonabanda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46376,9252,19,BD,5500,27,,Chuknagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46377,9253,19,BD,5500,27,,Shahapur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46378,9260,19,BD,5500,27,,Batiaghat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46379,9261,19,BD,5500,27,,Surkalee,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46380,9270,19,BD,5500,27,,Chalna Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46381,9271,19,BD,5500,27,,Dakup,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46382,9272,19,BD,5500,27,,Bajua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46383,9273,19,BD,5500,27,,Nalian,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46384,9280,19,BD,5500,27,,Paikgachha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46385,9281,19,BD,5500,27,,Godaipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46386,9282,19,BD,5500,27,,Kapilmoni,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46387,9283,19,BD,5500,27,,Katipara,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46388,9284,19,BD,5500,27,,Chandkhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46389,9285,19,BD,5500,27,,Garaikhali,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46390,9290,19,BD,5500,27,,Koyra,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46391,9291,19,BD,5500,27,,Amadee,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46392,9300,19,BD,5473,05,,Bagerhat Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46393,9301,19,BD,5473,05,,P.C College,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46394,9302,19,BD,5473,05,,Rangdia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46395,9310,19,BD,5473,05,,Kachua,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46396,9311,19,BD,5473,05,,Sonarkola,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46397,9320,19,BD,5473,05,,Morelganj,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46398,9321,19,BD,5473,05,,Sannasi Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46399,9322,19,BD,5473,05,,Teligatee,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46400,9330,19,BD,5473,05,,Rayenda,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46401,9340,19,BD,5473,05,,Rampal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46402,9341,19,BD,5473,05,,Foylahat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46403,9342,19,BD,5473,05,,Sonatunia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46404,9343,19,BD,5473,05,,Gourambha,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46405,9350,19,BD,5473,05,,Chalna Ankorage,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46406,9351,19,BD,5473,05,,Mongla Port,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46407,9360,19,BD,5473,05,,Chitalmari,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46408,9361,19,BD,5473,05,,Barabaria,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46409,9370,19,BD,5473,05,,Fakirhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46410,9371,19,BD,5473,05,,Mansa,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46411,9372,19,BD,5473,05,,Bhanganpar Bazar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46412,9380,19,BD,5473,05,,Mollahat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46413,9381,19,BD,5473,05,,Kahalpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46414,9382,19,BD,5473,05,,Dariala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46415,9383,19,BD,5473,05,,Charkulia,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46416,9384,19,BD,5473,05,,Nagarkandi,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46417,9385,19,BD,5473,05,,Pak Gangni,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46418,9400,19,BD,5529,58,,Satkhira Sadar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46419,9401,19,BD,5529,58,,Satkhira Islamia Acc,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46420,9402,19,BD,5529,58,,Gunakar kati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46421,9403,19,BD,5529,58,,Budhhat,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46422,9410,19,BD,5529,58,,Murarikati,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46423,9411,19,BD,,,,,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46424,9412,19,BD,5529,58,,Jhaudanga,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46425,9413,19,BD,5529,58,,Hamidpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46426,9414,19,BD,5529,58,,Khordo,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46427,9415,19,BD,5529,58,,Chandanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46428,9420,19,BD,5529,58,,Taala,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46429,9421,19,BD,5529,58,,Patkelghata,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46430,9430,19,BD,5529,58,,Debbhata,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46431,9431,19,BD,5529,58,,Gurugram,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46432,9440,19,BD,5529,58,,Kaliganj UPO,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46433,9441,19,BD,5529,58,,Nalta Mubaroknagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46434,9442,19,BD,5529,58,,Ratanpur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46435,9450,19,BD,5529,58,,Nakipur,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46436,9451,19,BD,5529,58,,Noornagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46437,9452,19,BD,5529,58,,Naobeki,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46438,9453,19,BD,5529,58,,Buri Goalini,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46439,9454,19,BD,5529,58,,Gabura,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46440,9455,19,BD,5529,58,,Habinagar,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46441,9460,19,BD,5529,58,,Ashashuni,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1
+46442,9461,19,BD,5529,58,,Baradal,full,,,bangladesh-post-via-saaiful,,2026-04-28T06:48:58,2026-04-28T06:48:58,1

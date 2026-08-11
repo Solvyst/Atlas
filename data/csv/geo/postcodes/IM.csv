@@ -1,0 +1,14 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+669705,IM1 1AA,136,IM,,,,Douglas Central,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669706,IM2 1AA,136,IM,,,,Douglas North,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669707,IM3 1AA,136,IM,,,,Onchan,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669708,IM4 1AA,136,IM,,,,Douglas Outer,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669709,IM5 1AA,136,IM,,,,Crosby and Foxdale,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669710,IM6 1AA,136,IM,,,,Peel,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669711,IM7 1AA,136,IM,,,,St Johns,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669712,IM8 1AA,136,IM,,,,Ramsey and Maughold,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669713,IM86 1AA,136,IM,,,,Douglas PO Box,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669714,IM87 1AA,136,IM,,,,Douglas PO Box,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669715,IM9 1AA,136,IM,,,,Castletown and Rushen,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669716,IM98 1AA,136,IM,,,,Douglas PO Box,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+669717,IM99 1AA,136,IM,,,,Douglas PO Box,area,,,wikipedia-small-territory,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

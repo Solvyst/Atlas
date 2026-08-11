@@ -1,0 +1,20 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+660420,BB11000,20,BB,1230,08,,Bridgetown,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660421,BB11114,20,BB,1230,08,,Belleville,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660422,BB14038,20,BB,1230,08,,The Garrison,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660423,BB15000,20,BB,1228,01,,Oistins,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660424,BB15006,20,BB,1228,01,,Worthing,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660425,BB15138,20,BB,1228,01,,Rockley,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660426,BB15156,20,BB,1228,01,,Hastings,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660427,BB17000,20,BB,1226,03,,Edgecliff,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660428,BB18000,20,BB,1220,10,,Crane,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660429,BB18000,20,BB,1220,10,,Six Cross Roads,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660430,BB19000,20,BB,1225,11,,Welchman Hall,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660431,BB21000,20,BB,1223,06,,Bathsheba,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660432,BB22000,20,BB,1227,05,,s,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660433,BB23000,20,BB,1229,02,,Belleplaine,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660434,BB24017,20,BB,1224,04,,Holetown,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660435,BB24024,20,BB,1224,04,,Sandy Lane,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660436,BB26000,20,BB,1222,09,,Six Mens,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660437,BB26000,20,BB,1224,04,,Speightstown,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1
+660438,BB27000,20,BB,1221,07,,Crab Hill,full,,,shipping-market-caribbean-seeder,,2026-05-24T12:02:05,2026-05-24T12:02:05,1

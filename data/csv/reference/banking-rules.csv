@@ -1,0 +1,3 @@
+id,country_code,country_name,iban_supported,iban_length,swift_supported,local_bank_code_label,local_bank_code_regex,routing_code_label,routing_code_regex,account_number_min_length,account_number_max_length,example,source
+IN,IN,India,false,,true,IFSC,^[A-Z]{4}0[A-Z0-9]{6}$,IFSC,^[A-Z]{4}0[A-Z0-9]{6}$,9,18,"{""ifsc"":""HDFC0001234"",""account_number"":""123456789012""}",Solvyst Atlas community reference contribution
+US,US,United States,false,,true,Routing number,^[0-9]{9}$,ABA routing number,^[0-9]{9}$,4,17,"{""routing_number"":""021000021"",""account_number"":""1234567890""}",Solvyst Atlas community reference contribution

@@ -1,0 +1,1171 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+580940,11000,196,RS,,,,Beograd,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580941,11010,196,RS,,,,Beograd Voždovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580942,11030,196,RS,,,,Beograd Čukarica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580943,11050,196,RS,,,,Beograd Zvezdara,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580944,11060,196,RS,,,,Beograd Palilula,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580945,11070,196,RS,,,,Novi Beograd,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580946,11080,196,RS,,,,Beograd Zemun,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580947,11090,196,RS,,,,Beograd Rakovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580948,11130,196,RS,,,,Kaluđerica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580949,11194,196,RS,3728,00,,Rušanj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580950,11211,196,RS,,,,Borča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580951,11212,196,RS,3728,00,,Ovča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580952,11213,196,RS,,,,Padinska Skela,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580953,11223,196,RS,,,,Beli Potok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580954,11224,196,RS,,,,Vrčin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580955,11225,196,RS,,,,Zuce,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580956,11226,196,RS,,,,Pinosava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580957,11232,196,RS,,,,Ripanj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580958,11233,196,RS,,,,Ralja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580959,11235,196,RS,,,,Mali Požarevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580960,11251,196,RS,3728,00,,Ostružnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580961,11253,196,RS,3728,00,,Sremčica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580962,11260,196,RS,3728,00,,Umka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580963,11261,196,RS,3728,00,,Mala Moštanica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580964,11262,196,RS,3728,00,,Velika Moštanica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580965,11271,196,RS,3728,00,,Surčin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580966,11272,196,RS,3728,00,,Dobanovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580967,11275,196,RS,3731,15,,Boljevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580968,11276,196,RS,,,,Jakovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580969,11277,196,RS,3728,00,,Ugrinovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580970,11279,196,RS,3728,00,,Bečmen,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580971,11280,196,RS,,,,Progar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580972,11282,196,RS,,,,Petrovcic,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580973,11300,196,RS,3741,10,,Smederevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580974,11306,196,RS,,,,Grocka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580975,11307,196,RS,,,,Boleč,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580976,11308,196,RS,,,,Begaljica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580977,11309,196,RS,,,,Leštane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580978,11310,196,RS,,,,Lipe,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580979,11311,196,RS,,,,Radinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580980,11312,196,RS,,,,Mihajlovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580981,11313,196,RS,,,,Mala Krsna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580982,11314,196,RS,,,,Osipaonica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580983,11315,196,RS,,,,Saraorci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580984,11316,196,RS,,,,Golobok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580985,11317,196,RS,,,,Lozovik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580986,11318,196,RS,,,,Miloševac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580987,11319,196,RS,,,,Krnjevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580988,11320,196,RS,3741,10,,Velika Plana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580989,11321,196,RS,3741,10,,Lugavcina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580990,11322,196,RS,,,,Skobalj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580991,11323,196,RS,,,,Veliko Orašje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580992,11324,196,RS,,,,Staro Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580993,11325,196,RS,,,,Markovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580994,11326,196,RS,,,,Donja Livadica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580995,11327,196,RS,,,,Rakinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580996,11328,196,RS,,,,Vodanj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580997,11329,196,RS,,,,Vranovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580998,11351,196,RS,,,,Vinča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+580999,11400,196,RS,,,,Mladenovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581000,11406,196,RS,,,,Vlaška,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581001,11407,196,RS,,,,Selevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581002,11408,196,RS,,,,Velika Krsna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581003,11409,196,RS,,,,Kovačevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581004,11411,196,RS,,,,Ratari,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581005,11412,196,RS,,,,Jagnjilo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581006,11413,196,RS,,,,Pružatovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581007,11414,196,RS,,,,Velika Ivanča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581008,11415,196,RS,,,,Koraćica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581009,11420,196,RS,3741,10,,Smederevska Palanka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581010,11423,196,RS,,,,Azanja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581011,11424,196,RS,,,,Banicina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581012,11425,196,RS,,,,Kusadak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581013,11426,196,RS,,,,Meljak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581014,11427,196,RS,3728,00,,Vranić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581015,11430,196,RS,,,,Umčari,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581016,11431,196,RS,,,,Kolari,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581017,11432,196,RS,,,,Drugovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581018,11433,196,RS,,,,Šepšin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581019,11450,196,RS,,,,Sopot,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581020,11453,196,RS,,,,Rogača,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581021,11454,196,RS,,,,Sibnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581022,11460,196,RS,,,,Barajevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581023,11461,196,RS,,,,Beljina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581024,11462,196,RS,,,,Veliki Borak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581025,11500,196,RS,3728,00,,Obrenovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581026,11504,196,RS,3728,00,,Barič,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581027,11505,196,RS,,,,Zabrežje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581028,11506,196,RS,,,,Draževac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581029,11507,196,RS,3728,00,,Stubline,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581030,11508,196,RS,3737,13,,Grabovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581031,11509,196,RS,,,,Skela,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581032,11550,196,RS,3728,00,,Lazarevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581033,11560,196,RS,,,,Vreoci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581034,11561,196,RS,,,,Dudovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581035,11562,196,RS,,,,Junkovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581036,11563,196,RS,,,,Veliki Crljeni,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581037,11564,196,RS,3728,00,,Stepojevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581038,11565,196,RS,,,,Barosevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581039,11566,196,RS,,,,Rudovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581040,11567,196,RS,,,,Mirosaljci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581041,12000,196,RS,3732,11,,Požarevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581042,12205,196,RS,,,,Brezane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581043,12206,196,RS,,,,Bradarac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581044,12207,196,RS,,,,Dubravica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581045,12208,196,RS,,,,Kostolac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581046,12209,196,RS,,,,Kličevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581047,12220,196,RS,3732,11,,Veliko Gradište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581048,12221,196,RS,,,,Majilovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581049,12222,196,RS,,,,Braničevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581050,12223,196,RS,3732,11,,Golubac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581051,12224,196,RS,,,,Dobra,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581052,12225,196,RS,,,,Bratinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581053,12226,196,RS,,,,Topolovnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581054,12229,196,RS,,,,Vinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581055,12230,196,RS,,,,Brnjica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581056,12240,196,RS,3732,11,,Kučevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581057,12242,196,RS,,,,Neresnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581058,12253,196,RS,,,,Srednjevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581059,12254,196,RS,,,,Rabrovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581060,12255,196,RS,3737,13,,Duboka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581061,12256,196,RS,,,,Voluja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581062,12258,196,RS,3732,11,,Klenje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581063,12300,196,RS,3732,11,,Petrovac Na Mlavi,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581064,12304,196,RS,,,,Ranovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581065,12305,196,RS,,,,Melnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581066,12306,196,RS,,,,Veliko Laole,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581067,12307,196,RS,,,,Burovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581068,12309,196,RS,,,,Šetonje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581069,12311,196,RS,3732,11,,Malo Crniće,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581070,12312,196,RS,,,,Smoljinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581071,12313,196,RS,,,,Bozevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581072,12314,196,RS,,,,Veliko Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581073,12315,196,RS,,,,Rašanac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581074,12316,196,RS,,,,Krepoljin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581075,12317,196,RS,,,,Osanica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581076,12318,196,RS,,,,Vukovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581077,12320,196,RS,3732,11,,Žagubica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581078,12321,196,RS,,,,Laznica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581079,12322,196,RS,,,,Suvi Do,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581080,12370,196,RS,3720,19,,Aleksandrovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581081,12371,196,RS,,,,Vlaški Do,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581082,12372,196,RS,,,,Poljana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581083,12373,196,RS,,,,Simićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581084,12374,196,RS,3732,11,,Žabari,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581085,12375,196,RS,,,,Porodin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581086,14000,196,RS,3724,09,,Valjevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581087,14201,196,RS,,,,Brankovina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581088,14202,196,RS,,,,Rajković,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581089,14203,196,RS,,,,Dračić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581090,14204,196,RS,,,,Divčibare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581091,14205,196,RS,,,,Lelić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581092,14206,196,RS,,,,Poćuta,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581093,14207,196,RS,,,,Pećka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581094,14210,196,RS,3724,09,,Ub,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581095,14211,196,RS,,,,Radljevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581096,14212,196,RS,,,,Brgule,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581097,14213,196,RS,,,,Pambukovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581098,14214,196,RS,,,,Banjani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581099,14221,196,RS,,,,Popučke,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581100,14222,196,RS,,,,Divci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581101,14223,196,RS,,,,Slovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581102,14224,196,RS,3724,09,,Lajkovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581103,14225,196,RS,,,,Bogovadja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581104,14226,196,RS,,,,Jabučje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581105,14240,196,RS,3724,09,,Ljig,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581106,14242,196,RS,3724,09,,Mionica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581107,14243,196,RS,,,,Gornja Toplica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581108,14244,196,RS,,,,Brezde,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581109,14245,196,RS,,,,Slavkovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581110,14246,196,RS,,,,Belanovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581111,14251,196,RS,,,,Pricevic,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581112,14252,196,RS,3715,23,,Kamenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581113,14253,196,RS,3724,09,,Osečina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581114,14254,196,RS,,,,Komirić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581115,14255,196,RS,,,,Stave,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581116,15000,196,RS,3719,08,,Šabac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581117,15211,196,RS,,,,Mačvanski Pričinović,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581118,15212,196,RS,3737,13,,Drenovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581119,15213,196,RS,,,,Orid,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581120,15214,196,RS,3713,04,,Debeljača,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581121,15215,196,RS,,,,Provo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581122,15220,196,RS,3719,08,,Koceljeva,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581123,15221,196,RS,,,,Svileuva,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581124,15222,196,RS,3715,23,,Kamenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581125,15224,196,RS,,,,Cerovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581126,15225,196,RS,3719,08,,Vladimirci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581127,15226,196,RS,3719,08,,Draginje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581128,15227,196,RS,,,,Donje Crniljevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581129,15232,196,RS,,,,Varna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581130,15233,196,RS,,,,Metlić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581131,15234,196,RS,,,,Tekeriš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581132,15235,196,RS,3719,08,,Dobrić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581133,15300,196,RS,,,,Loznica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581134,15302,196,RS,,,,Korenita,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581135,15303,196,RS,3719,08,,Tršić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581136,15304,196,RS,,,,Petlovača,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581137,15305,196,RS,3719,08,,Lipolist,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581138,15306,196,RS,,,,Prnjavor Mačvanski,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581139,15307,196,RS,3719,08,,Lešnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581140,15308,196,RS,3719,08,,Jadranska Lešnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581141,15309,196,RS,,,,Brezjak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581142,15310,196,RS,3719,08,,Ribari,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581143,15311,196,RS,,,,Draginac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581144,15312,196,RS,,,,Zavlaka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581145,15313,196,RS,3713,04,,Bela Crkva,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581146,15314,196,RS,3719,08,,Krupanj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581147,15315,196,RS,,,,Zajaca,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581148,15316,196,RS,,,,Banja Koviljača,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581149,15317,196,RS,,,,Donja Borina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581150,15318,196,RS,3719,08,,Mali Zvornik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581151,15319,196,RS,,,,Uzovnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581152,15320,196,RS,3719,08,,Ljubovija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581153,15321,196,RS,,,,Radalj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581154,15322,196,RS,,,,Velika Reka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581155,15323,196,RS,,,,Donja Orovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581156,15324,196,RS,,,,Drlace,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581157,15350,196,RS,3719,08,,Bogatić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581158,15352,196,RS,3719,08,,Zminjak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581159,15353,196,RS,3719,08,,Majur,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581160,15354,196,RS,3719,08,,Štitar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581161,15355,196,RS,3719,08,,Crna Bara,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581162,15356,196,RS,3719,08,,Glušci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581163,15357,196,RS,3732,11,,Klenje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581164,15358,196,RS,3719,08,,Badovinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581165,15359,196,RS,3737,13,,Dublje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581166,15362,196,RS,3719,08,,Banovo Polje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581167,16000,196,RS,3715,23,,Leskovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581168,16201,196,RS,,,,Manojlovce,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581169,16203,196,RS,,,,Vučje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581170,16204,196,RS,,,,Miroševce,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581171,16205,196,RS,3715,23,,Bojnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581172,16206,196,RS,,,,Kosančić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581173,16210,196,RS,3715,23,,Vlasotince,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581174,16212,196,RS,,,,Svođe,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581175,16213,196,RS,,,,Sastav Reka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581176,16215,196,RS,3715,23,,Crna Trava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581177,16220,196,RS,,,,Grdelica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581178,16221,196,RS,,,,Velika Grabovnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581179,16222,196,RS,,,,Predejane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581180,16223,196,RS,,,,Ruplje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581181,16230,196,RS,3715,23,,Lebane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581182,16231,196,RS,,,,Turekovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581183,16232,196,RS,,,,Bosnjace,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581184,16233,196,RS,,,,Orane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581185,16240,196,RS,,,,Medvedja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581186,16244,196,RS,,,,Gornji Brestovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581187,16246,196,RS,,,,Sijarinska Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581188,16247,196,RS,,,,Tulare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581189,16248,196,RS,,,,Lece,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581190,16251,196,RS,,,,Pecanjevce,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581191,16252,196,RS,,,,Razgojna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581192,16253,196,RS,,,,Brestovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581193,17500,196,RS,3721,24,,Vranje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581194,17507,196,RS,,,,Vlase,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581195,17508,196,RS,,,,Sveti Ilija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581196,17510,196,RS,3721,24,,Vladičin Han,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581197,17511,196,RS,,,,Priboj Vranjski,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581198,17512,196,RS,,,,Stubal,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581199,17513,196,RS,,,,Lepenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581200,17514,196,RS,,,,Džep,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581201,17520,196,RS,3721,24,,Bujanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581202,17521,196,RS,,,,Ristovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581203,17522,196,RS,3721,24,,Biljaca,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581204,17523,196,RS,3721,24,,Preševo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581205,17524,196,RS,,,,Klenike,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581206,17525,196,RS,3721,24,,Trgovište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581207,17526,196,RS,,,,Donji Stajevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581208,17529,196,RS,,,,Muhovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581209,17530,196,RS,3721,24,,Surdulica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581210,17531,196,RS,,,,Jelašnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581211,17532,196,RS,,,,Vlasina Okruglica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581212,17533,196,RS,,,,Vlasina Rid,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581213,17534,196,RS,,,,Vlasina Stojkovićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581214,17535,196,RS,,,,Klisura,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581215,17537,196,RS,,,,Bozica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581216,17538,196,RS,,,,Gornja Lisina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581217,17540,196,RS,3721,24,,Bosilegrad,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581218,17542,196,RS,,,,Vranjska Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581219,17543,196,RS,,,,Kriva Feja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581220,17544,196,RS,,,,Donja Ljubata,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581221,17545,196,RS,,,,Korbevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581222,17546,196,RS,,,,Bistar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581223,17547,196,RS,,,,Donje Tlamino,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581224,17556,196,RS,,,,Reljan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581225,17557,196,RS,,,,Oraovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581226,17567,196,RS,3721,24,,Bujanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581227,18000,196,RS,3722,20,,Niš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581228,18201,196,RS,,,,Lalinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581229,18202,196,RS,,,,Gornja Toponica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581230,18204,196,RS,,,,Gornji Matejevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581231,18205,196,RS,,,,Niška Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581232,18206,196,RS,,,,Jelašnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581233,18207,196,RS,,,,Malča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581234,18208,196,RS,,,,Guševac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581235,18209,196,RS,,,,Medoševac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581236,18210,196,RS,,,,Žitkovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581237,18211,196,RS,,,,Trupale,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581238,18212,196,RS,,,,Tešica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581239,18213,196,RS,,,,Gredetin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581240,18214,196,RS,,,,Kulina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581241,18215,196,RS,,,,Veliko Bonjince,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581242,18216,196,RS,,,,Korman,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581243,18217,196,RS,,,,Ljuberadja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581244,18219,196,RS,,,,Grejac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581245,18220,196,RS,3722,20,,Aleksinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581246,18223,196,RS,,,,Draževac(kod Aleksinca),full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581247,18224,196,RS,,,,Rutevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581248,18225,196,RS,,,,Katun,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581249,18226,196,RS,,,,Aleksinacki Rudnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581250,18227,196,RS,,,,Subotinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581251,18228,196,RS,,,,Luzane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581252,18229,196,RS,,,,Mozgovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581253,18230,196,RS,,,,Soko Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581254,18232,196,RS,,,,Čitluk,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581255,18234,196,RS,,,,Jošanica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581256,18235,196,RS,,,,Šarbanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581257,18237,196,RS,,,,Dugo Polje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581258,18240,196,RS,3722,20,,Gadžin Han,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581259,18241,196,RS,,,,Gornji Barbes,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581260,18242,196,RS,,,,Donji Dušnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581261,18244,196,RS,,,,Zaplanjska Toponica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581262,18245,196,RS,,,,Lički Hanovi,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581263,18246,196,RS,,,,Ravna Dubrava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581264,18250,196,RS,3719,08,,Novo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581265,18251,196,RS,,,,Mramor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581266,18252,196,RS,3722,20,,Merošina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581267,18253,196,RS,,,,Jugbogdanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581268,18254,196,RS,,,,Donje Medurovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581269,18255,196,RS,,,,Pukovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581270,18257,196,RS,,,,Balajinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581271,18258,196,RS,,,,Jovanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581272,18260,196,RS,,,,Popovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581273,18300,196,RS,3712,22,,Pirot,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581274,18304,196,RS,,,,Crnokliste,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581275,18306,196,RS,,,,Visoka Rzana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581276,18307,196,RS,,,,Krupač,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581277,18310,196,RS,3712,22,,Bela Palanka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581278,18311,196,RS,,,,Sićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581279,18312,196,RS,,,,Ostrovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581280,18313,196,RS,,,,Crvena Reka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581281,18314,196,RS,,,,Dolac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581282,18315,196,RS,,,,Babin Kal,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581283,18320,196,RS,3712,22,,Dimitrovgrad,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581284,18321,196,RS,,,,Gradina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581285,18322,196,RS,,,,Sukovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581286,18323,196,RS,,,,Smilovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581287,18324,196,RS,3715,23,,Kamenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581288,18326,196,RS,,,,Poganovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581289,18330,196,RS,3712,22,,Babusnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581290,18332,196,RS,,,,Strelac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581291,18333,196,RS,,,,Zvonce,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581292,18355,196,RS,,,,Temska,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581293,18360,196,RS,3722,20,,Svrljig,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581294,18363,196,RS,,,,Palilula,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581295,18365,196,RS,,,,Prekonoga,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581296,18366,196,RS,,,,Niševac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581297,18368,196,RS,,,,Burdimo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581298,18400,196,RS,3718,21,,Prokuplje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581299,18403,196,RS,3741,10,,Velika Plana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581300,18404,196,RS,,,,Donja Rečica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581301,18405,196,RS,,,,Džigolj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581302,18406,196,RS,,,,Dubovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581303,18407,196,RS,,,,Žitni Potok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581304,18408,196,RS,,,,Dobri Do,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581305,18409,196,RS,,,,Kruševica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581306,18410,196,RS,3722,20,,Doljevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581307,18411,196,RS,,,,Belotinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581308,18412,196,RS,,,,Žitoradja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581309,18413,196,RS,,,,Pejkovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581310,18414,196,RS,,,,Donje Crnatovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581311,18415,196,RS,,,,Malošište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581312,18417,196,RS,,,,Cecina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581313,18420,196,RS,3718,21,,Blace,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581314,18421,196,RS,,,,Donja Trnava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581315,18423,196,RS,,,,Mala Plana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581316,18424,196,RS,,,,Beloljin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581317,18425,196,RS,,,,Gornja Draguša,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581318,18426,196,RS,,,,Barbatovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581319,18430,196,RS,3718,21,,Kuršumlija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581320,18432,196,RS,,,,Barlovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581321,18433,196,RS,,,,Prolom,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581322,18435,196,RS,,,,Kuršumlijska Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581323,18436,196,RS,,,,Merćez,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581324,18437,196,RS,,,,Lukovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581325,18438,196,RS,,,,Zuc,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581326,18440,196,RS,3734,12,,Rača,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581327,18445,196,RS,,,,Merdare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581328,19000,196,RS,3731,15,,Zaječar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581329,19204,196,RS,,,,Metovnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581330,19205,196,RS,,,,Gradskovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581331,19206,196,RS,,,,Veliki Izvor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581332,19207,196,RS,,,,Planinica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581333,19208,196,RS,,,,Lubnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581334,19209,196,RS,,,,Mali Jasenovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581335,19210,196,RS,3717,14,,Bor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581336,19213,196,RS,,,,Donja Bela Reka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581337,19214,196,RS,,,,Rgotina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581338,19215,196,RS,,,,Zlot,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581339,19216,196,RS,,,,Brestovačka Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581340,19219,196,RS,,,,Krivelj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581341,19220,196,RS,3717,14,,Donji Milanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581342,19222,196,RS,,,,Klokočevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581343,19223,196,RS,,,,Koprivnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581344,19224,196,RS,,,,Salaš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581345,19225,196,RS,,,,Sikole,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581346,19227,196,RS,,,,Zvezdan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581347,19228,196,RS,,,,Gamzigradska Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581348,19229,196,RS,,,,Borski Brestovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581349,19231,196,RS,,,,Borsko Bucje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581350,19234,196,RS,,,,Luka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581351,19235,196,RS,,,,Velika Jasikova,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581352,19236,196,RS,,,,Halovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581353,19250,196,RS,3717,14,,Majdanpek,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581354,19257,196,RS,,,,Rudna Glava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581355,19300,196,RS,3717,14,,Negotin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581356,19303,196,RS,,,,Štubik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581357,19304,196,RS,,,,Jabukovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581358,19305,196,RS,,,,Urovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581359,19306,196,RS,,,,Trnjane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581360,19311,196,RS,,,,Nikolićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581361,19312,196,RS,,,,Vražogrnac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581362,19313,196,RS,,,,Brusnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581363,19314,196,RS,,,,Rajac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581364,19315,196,RS,,,,Bracevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581365,19316,196,RS,,,,Kobišnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581366,19317,196,RS,,,,Mokranja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581367,19318,196,RS,,,,Rogljevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581368,19320,196,RS,3717,14,,Kladovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581369,19321,196,RS,,,,Podvrška,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581370,19322,196,RS,,,,Mihajlovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581371,19323,196,RS,,,,Brza Palanka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581372,19324,196,RS,,,,Slatina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581373,19325,196,RS,,,,Tekija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581374,19326,196,RS,,,,Sip,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581375,19328,196,RS,,,,Velesnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581376,19329,196,RS,,,,Korbovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581377,19330,196,RS,,,,Prahovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581378,19334,196,RS,,,,Radujevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581379,19335,196,RS,,,,Dušanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581380,19340,196,RS,,,,Minićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581381,19341,196,RS,,,,Grljan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581382,19342,196,RS,,,,Grlište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581383,19343,196,RS,,,,Lenovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581384,19344,196,RS,,,,Vratarnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581385,19345,196,RS,,,,Donje Zuniće,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581386,19347,196,RS,,,,Mali Izvor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581387,19350,196,RS,3731,15,,Knjaževac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581388,19352,196,RS,,,,Donja Kamenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581389,19353,196,RS,,,,Kalna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581390,19362,196,RS,,,,Podvis,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581391,19366,196,RS,,,,Beli Potok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581392,19367,196,RS,,,,Vasilj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581393,19369,196,RS,,,,Bucje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581394,19370,196,RS,3731,15,,Boljevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581395,19371,196,RS,,,,Lukovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581396,19372,196,RS,,,,Bogovina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581397,19373,196,RS,,,,Šarbanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581398,19375,196,RS,,,,Krivi Vir,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581399,19376,196,RS,,,,Sumrakovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581400,19377,196,RS,,,,Savinac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581401,19378,196,RS,,,,Osnić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581402,19379,196,RS,,,,Šarbanovac Timok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581403,21000,196,RS,3711,06,,Novi Sad,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581404,21131,196,RS,3711,06,,Petrovaradin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581405,21201,196,RS,3711,06,,Rumenka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581406,21203,196,RS,3711,06,,Veternik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581407,21205,196,RS,3711,06,,Sremski Karlovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581408,21206,196,RS,,,,Stari Ledinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581409,21207,196,RS,,,,Ledinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581410,21208,196,RS,,,,Sremska Kamenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581411,21209,196,RS,,,,Bukovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581412,21211,196,RS,3711,06,,Kisač,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581413,21212,196,RS,3711,06,,Stepanovićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581414,21213,196,RS,3711,06,,Zmajevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581415,21214,196,RS,,,,Sirig,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581416,21215,196,RS,3711,06,,Turija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581417,21216,196,RS,,,,Nadalj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581418,21217,196,RS,3711,06,,Bačko Gradište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581419,21220,196,RS,3711,06,,Bečej,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581420,21225,196,RS,,,,Radičević,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581421,21226,196,RS,3711,06,,Bačko Petrovo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581422,21227,196,RS,,,,Mileševo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581423,21230,196,RS,3711,06,,Žabalj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581424,21233,196,RS,,,,Čenej,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581425,21234,196,RS,,,,Bački Jarak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581426,21235,196,RS,3711,06,,Temerin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581427,21237,196,RS,,,,Gospođinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581428,21238,196,RS,3711,06,,Čurug,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581429,21239,196,RS,,,,Đurdjevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581430,21240,196,RS,3711,06,,Titel,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581431,21241,196,RS,,,,Kać,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581432,21242,196,RS,,,,Budisava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581433,21243,196,RS,3711,06,,Kovilj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581434,21244,196,RS,3711,06,,Šajkaš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581435,21245,196,RS,3711,06,,Mošorin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581436,21246,196,RS,3711,06,,Vilovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581437,21247,196,RS,3711,06,,Gardinovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581438,21248,196,RS,3711,06,,Lok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581439,21299,196,RS,,,,Rakovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581440,21300,196,RS,3711,06,,Beočin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581441,21311,196,RS,,,,Čerević,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581442,21312,196,RS,,,,Banoštor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581443,21313,196,RS,,,,Susek,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581444,21314,196,RS,,,,Neštin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581445,21315,196,RS,,,,Lug,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581446,21400,196,RS,3711,06,,Bačka Palanka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581447,21410,196,RS,,,,Futog,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581448,21411,196,RS,,,,Begeč,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581449,21412,196,RS,3711,06,,Gložan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581450,21413,196,RS,3711,06,,Čelarevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581451,21420,196,RS,3711,06,,Bač,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581452,21421,196,RS,,,,Karađorđevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581453,21422,196,RS,,,,Mladenovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581454,21423,196,RS,3711,06,,Obrovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581455,21424,196,RS,,,,Tovariševo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581456,21425,196,RS,,,,Selenča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581457,21426,196,RS,,,,Vajska,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581458,21427,196,RS,,,,Bodjani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581459,21428,196,RS,,,,Plavna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581460,21429,196,RS,,,,Bačko Novo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581461,21431,196,RS,,,,Nova Gajdobra,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581462,21432,196,RS,,,,Gajdobra,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581463,21433,196,RS,,,,Silbaš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581464,21434,196,RS,,,,Parage,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581465,21460,196,RS,3711,06,,Vrbas,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581466,21465,196,RS,,,,Bačko Dobro Polje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581467,21466,196,RS,,,,Kucura,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581468,21467,196,RS,,,,Savino Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581469,21468,196,RS,3711,06,,Despotovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581470,21469,196,RS,,,,Pivnice,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581471,21470,196,RS,3711,06,,Bački Petrovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581472,21471,196,RS,3711,06,,Ravno Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581473,21472,196,RS,3711,06,,Kulpin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581474,21473,196,RS,3711,06,,Maglić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581475,21480,196,RS,3711,06,,Srbobran,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581476,22000,196,RS,3740,07,,Sremska Mitrovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581477,22201,196,RS,,,,Zasavica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581478,22202,196,RS,3740,07,,Mačvanska Mitrovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581479,22203,196,RS,,,,Noćaj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581480,22204,196,RS,3740,07,,Salaš Noćajski,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581481,22205,196,RS,3740,07,,Ravnje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581482,22206,196,RS,3740,07,,Radenković,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581483,22207,196,RS,,,,Ležimir,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581484,22208,196,RS,,,,Mandjelos,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581485,22211,196,RS,,,,Veliki Radinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581486,22212,196,RS,,,,Bešenovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581487,22213,196,RS,,,,Grgurevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581488,22217,196,RS,3740,07,,Bosut,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581489,22221,196,RS,,,,Laćarak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581490,22222,196,RS,,,,Martinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581491,22223,196,RS,,,,Kuzmin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581492,22224,196,RS,,,,Kukujevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581493,22225,196,RS,,,,Bacinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581494,22230,196,RS,,,,Erdevik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581495,22231,196,RS,,,,Čalma,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581496,22232,196,RS,,,,Divoš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581497,22240,196,RS,3740,07,,Šid,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581498,22241,196,RS,,,,Vasica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581499,22242,196,RS,,,,Berkasovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581500,22243,196,RS,,,,Sot,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581501,22244,196,RS,,,,Adasevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581502,22245,196,RS,,,,Morović,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581503,22246,196,RS,3740,07,,Višnjićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581504,22247,196,RS,,,,Sremska Rača,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581505,22248,196,RS,,,,Jamena,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581506,22250,196,RS,,,,Ilinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581507,22251,196,RS,,,,Batrovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581508,22253,196,RS,,,,Bingula,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581509,22254,196,RS,,,,Bikić Do,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581510,22255,196,RS,,,,Ljuba,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581511,22256,196,RS,,,,Molovin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581512,22257,196,RS,,,,Privina Glava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581513,22258,196,RS,,,,Gibarac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581514,22300,196,RS,3740,07,,Stara Pazova,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581515,22303,196,RS,,,,Banovci Dunav,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581516,22304,196,RS,3740,07,,Novi Banovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581517,22305,196,RS,3740,07,,Stari Banovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581518,22306,196,RS,3740,07,,Belegiš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581519,22307,196,RS,3740,07,,Surduk,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581520,22308,196,RS,3740,07,,Golubinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581521,22310,196,RS,3740,07,,Šimanovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581522,22313,196,RS,3740,07,,Vojka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581523,22314,196,RS,,,,Krnješevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581524,22320,196,RS,3740,07,,Inđija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581525,22321,196,RS,3740,07,,Ljukovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581526,22322,196,RS,3740,07,,Novi Karlovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581527,22323,196,RS,3740,07,,Novi Slankamen,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581528,22324,196,RS,3740,07,,Beška,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581529,22325,196,RS,3740,07,,Krčedin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581530,22326,196,RS,3740,07,,Čortanovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581531,22327,196,RS,,,,Maradik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581532,22328,196,RS,,,,Krušedol,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581533,22329,196,RS,,,,Stari Slankamen,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581534,22330,196,RS,3740,07,,Nova Pazova,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581535,22400,196,RS,3740,07,,Ruma,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581536,22404,196,RS,3740,07,,Putinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581537,22405,196,RS,,,,Stejanovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581538,22406,196,RS,3740,07,,Irig,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581539,22408,196,RS,3740,07,,Vrdnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581540,22409,196,RS,,,,Jazak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581541,22410,196,RS,3740,07,,Pećinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581542,22411,196,RS,,,,Kraljevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581543,22412,196,RS,,,,Dobrinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581544,22413,196,RS,,,,Sremski Mihaljevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581545,22414,196,RS,,,,Subotište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581546,22416,196,RS,,,,Ogar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581547,22417,196,RS,,,,Obrez,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581548,22418,196,RS,,,,Asanja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581549,22419,196,RS,3718,21,,Kupinovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581550,22420,196,RS,3740,07,,Platičevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581551,22421,196,RS,,,,Budjanovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581552,22422,196,RS,3740,07,,Nikinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581553,22423,196,RS,3740,07,,Grabovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581554,22424,196,RS,3740,07,,Klenak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581555,22425,196,RS,3740,07,,Šašinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581556,22427,196,RS,3740,07,,Hrtkovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581557,22428,196,RS,,,,Popinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581558,22429,196,RS,,,,Voganj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581559,22431,196,RS,,,,Vitojevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581560,22440,196,RS,,,,Sibač,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581561,22441,196,RS,,,,Dec,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581562,22442,196,RS,,,,Prhovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581563,22443,196,RS,,,,Karlovčić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581564,23000,196,RS,3716,02,,Zrenjanin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581565,23202,196,RS,3716,02,,Mihajlovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581566,23203,196,RS,3716,02,,Ečka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581567,23204,196,RS,3716,02,,Stajićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581568,23205,196,RS,3716,02,,Belo Blato,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581569,23206,196,RS,,,,Muzlja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581570,23207,196,RS,3716,02,,Aradac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581571,23208,196,RS,3716,02,,Elemir,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581572,23209,196,RS,3716,02,,Taraš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581573,23210,196,RS,3716,02,,Žitište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581574,23211,196,RS,3716,02,,Klek,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581575,23212,196,RS,3716,02,,Ravni Topolovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581576,23213,196,RS,3716,02,,Banatski Dvor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581577,23214,196,RS,3716,02,,Torda,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581578,23215,196,RS,3716,02,,Cestereg,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581579,23216,196,RS,3716,02,,Banatsko Karađorđevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581580,23217,196,RS,3722,20,,Aleksandrovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581581,23218,196,RS,3716,02,,Nova Crnja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581582,23219,196,RS,3716,02,,Vojvoda Stepa,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581583,23220,196,RS,3716,02,,Srpska Crnja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581584,23221,196,RS,3716,02,,Radojevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581585,23222,196,RS,3716,02,,Toba,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581586,23224,196,RS,,,,Lukino Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581587,23230,196,RS,3716,02,,Jaša Tomić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581588,23231,196,RS,3716,02,,Krajišnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581589,23232,196,RS,,,,Begejci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581590,23233,196,RS,3716,02,,Srpski Itebej,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581591,23234,196,RS,,,,Medja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581592,23235,196,RS,3716,02,,Hetin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581593,23236,196,RS,3716,02,,Novi Itebej,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581594,23237,196,RS,,,,Banatsko Višnjićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581595,23240,196,RS,3716,02,,Sečanj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581596,23241,196,RS,3716,02,,Lazarevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581597,23242,196,RS,3716,02,,Banatski Despotovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581598,23243,196,RS,3716,02,,Botos,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581599,23244,196,RS,3716,02,,Sutjeska,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581600,23245,196,RS,3716,02,,Neuzina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581601,23250,196,RS,3716,02,,Jarkovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581602,23251,196,RS,,,,Banatska Dubica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581603,23252,196,RS,3716,02,,Boka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581604,23253,196,RS,3716,02,,Konak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581605,23254,196,RS,,,,Surjan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581606,23255,196,RS,,,,Zlatica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581607,23260,196,RS,3716,02,,Perlez,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581608,23261,196,RS,3716,02,,Lukićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581609,23262,196,RS,3716,02,,Tomaševac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581610,23263,196,RS,3716,02,,Orlovat,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581611,23264,196,RS,3716,02,,Farkaždin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581612,23265,196,RS,3716,02,,Knićanin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581613,23266,196,RS,3716,02,,Ćenta,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581614,23270,196,RS,3716,02,,Melenci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581615,23271,196,RS,3716,02,,Kumane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581616,23272,196,RS,3716,02,,Novi Bečej,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581617,23273,196,RS,3716,02,,Novo Miloševo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581618,23274,196,RS,3716,02,,Bocar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581619,23300,196,RS,3736,03,,Kikinda,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581620,23305,196,RS,3736,03,,Mokrin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581621,23311,196,RS,3736,03,,Nakovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581622,23312,196,RS,3736,03,,Banatsko Veliko Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581623,23313,196,RS,3736,03,,Novi Kozarci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581624,23314,196,RS,3736,03,,Rusko Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581625,23315,196,RS,3736,03,,Banatska Topola,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581626,23316,196,RS,3736,03,,Basaid,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581627,23320,196,RS,3736,03,,Čoka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581628,23323,196,RS,,,,Iđos,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581629,23324,196,RS,3736,03,,Sajan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581630,23325,196,RS,3736,03,,Padej,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581631,23326,196,RS,3736,03,,Ostojićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581632,23327,196,RS,3736,03,,Jazovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581633,23328,196,RS,3719,08,,Crna Bara,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581634,23329,196,RS,,,,Vrbica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581635,23330,196,RS,3736,03,,Novi Kneževac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581636,23331,196,RS,3736,03,,Sanad,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581637,23332,196,RS,,,,Banatsko Arandjelovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581638,23333,196,RS,,,,Majdan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581639,23334,196,RS,,,,Srpski Krstur,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581640,23335,196,RS,,,,Đala,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581641,24000,196,RS,3714,01,,Subotica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581642,24104,196,RS,,,,Kelebija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581643,24205,196,RS,,,,Kelebija-granični prelaz,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581644,24206,196,RS,,,,Bikovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581645,24207,196,RS,,,,Orom,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581646,24210,196,RS,,,,Bajmok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581647,24211,196,RS,,,,Mišićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581648,24213,196,RS,,,,Đurđin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581649,24214,196,RS,,,,Tavankut,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581650,24215,196,RS,,,,Ljutovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581651,24217,196,RS,,,,Mala Bosna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581652,24220,196,RS,,,,Čantavir,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581653,24222,196,RS,,,,Višnjevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581654,24223,196,RS,,,,Novi Zednik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581655,24224,196,RS,,,,Stari Žednik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581656,24300,196,RS,3714,01,,Bačka Topola,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581657,24308,196,RS,,,,Karadjordjevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581658,24309,196,RS,,,,Mali Beograd,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581659,24311,196,RS,,,,Njegoševo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581660,24312,196,RS,,,,Gunaroš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581661,24313,196,RS,,,,Pobeda,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581662,24321,196,RS,,,,Mali Idjoš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581663,24322,196,RS,,,,Lovćenac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581664,24323,196,RS,,,,Feketić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581665,24330,196,RS,,,,Panonija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581666,24331,196,RS,,,,Bajša,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581667,24340,196,RS,,,,Stara Moravica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581668,24341,196,RS,3714,01,,Krivaja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581669,24342,196,RS,,,,Pačir,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581670,24343,196,RS,,,,Bački Sokolac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581671,24344,196,RS,,,,Oresković,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581672,24351,196,RS,,,,Novo Orahovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581673,24352,196,RS,,,,Tornjoš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581674,24400,196,RS,3736,03,,Senta,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581675,24406,196,RS,3736,03,,Gornji Breg,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581676,24407,196,RS,,,,Kevi,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581677,24408,196,RS,,,,Bogaras,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581678,24410,196,RS,,,,Horgoš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581679,24411,196,RS,,,,Horgoš Granični Prelaz,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581680,24413,196,RS,,,,Palić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581681,24414,196,RS,,,,Hajdukovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581682,24415,196,RS,,,,Bački Vinogradi,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581683,24416,196,RS,,,,Male Pijace,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581684,24417,196,RS,,,,Martonoš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581685,24420,196,RS,3736,03,,Kanjiža,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581686,24425,196,RS,3736,03,,Adorjan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581687,24426,196,RS,,,,Tresnjevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581688,24427,196,RS,,,,Totovo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581689,24430,196,RS,3736,03,,Ada,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581690,24435,196,RS,3736,03,,Mol,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581691,24437,196,RS,,,,Utrine,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581692,25000,196,RS,3726,05,,Sombor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581693,25210,196,RS,,,,Conoplja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581694,25211,196,RS,,,,Svetozar Miletić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581695,25212,196,RS,,,,Aleksa Santic,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581696,25220,196,RS,,,,Crvenka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581697,25221,196,RS,,,,Kljajićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581698,25222,196,RS,,,,Telečka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581699,25223,196,RS,,,,Sivac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581700,25224,196,RS,,,,Nova Crvenka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581701,25225,196,RS,,,,Krusčić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581702,25230,196,RS,3726,05,,Kula,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581703,25232,196,RS,,,,Lipar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581704,25233,196,RS,,,,Ruski Krstur,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581705,25234,196,RS,,,,Lalić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581706,25240,196,RS,,,,Stapar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581707,25242,196,RS,,,,Bački Brestovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581708,25243,196,RS,3726,05,,Doroslovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581709,25244,196,RS,,,,Srpski Miletić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581710,25245,196,RS,3726,05,,Bogojevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581711,25250,196,RS,3726,05,,Odzaci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581712,25252,196,RS,,,,Bački Gracac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581713,25253,196,RS,,,,Ratkovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581714,25254,196,RS,,,,Deronje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581715,25255,196,RS,,,,Karavukovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581716,25260,196,RS,3726,05,,Apatin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581717,25262,196,RS,3726,05,,Kupušina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581718,25263,196,RS,3726,05,,Prigrevica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581719,25264,196,RS,3726,05,,Sonta,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581720,25265,196,RS,,,,Svilojevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581721,25270,196,RS,,,,Bezdan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581722,25272,196,RS,,,,Bački Monostor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581723,25274,196,RS,3726,05,,Kolut,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581724,25275,196,RS,3726,05,,Bački Breg,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581725,25280,196,RS,,,,Ridjica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581726,25282,196,RS,3726,05,,Gakovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581727,25283,196,RS,,,,Rastina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581728,25284,196,RS,3726,05,,Stanišić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581729,26000,196,RS,3713,04,,Pančevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581730,26201,196,RS,,,,Jabuka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581731,26202,196,RS,,,,Glogonj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581732,26203,196,RS,3713,04,,Sefkerin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581733,26204,196,RS,3713,04,,Opovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581734,26205,196,RS,3713,04,,Baranda,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581735,26206,196,RS,3713,04,,Sakule,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581736,26207,196,RS,3713,04,,Idvor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581737,26210,196,RS,3713,04,,Kovačica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581738,26212,196,RS,,,,Kačarevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581739,26213,196,RS,3713,04,,Crepaja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581740,26215,196,RS,3713,04,,Padina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581741,26216,196,RS,3713,04,,Uzdin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581742,26220,196,RS,3713,04,,Kovin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581743,26222,196,RS,,,,Bavanište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581744,26223,196,RS,,,,Gaj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581745,26224,196,RS,,,,Dubovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581746,26225,196,RS,,,,Deliblato,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581747,26226,196,RS,,,,Mramorak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581748,26227,196,RS,,,,Dolovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581749,26228,196,RS,,,,Skorenovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581750,26229,196,RS,,,,Pločica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581751,26230,196,RS,,,,Omoljica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581752,26232,196,RS,,,,Starčevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581753,26233,196,RS,,,,Ivanovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581754,26234,196,RS,,,,Banatski Brestovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581755,26300,196,RS,3713,04,,Vršac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581756,26310,196,RS,3713,04,,Alibunar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581757,26314,196,RS,,,,Banatsko Novo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581758,26315,196,RS,3713,04,,Vladimirovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581759,26316,196,RS,,,,Devojački Bunar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581760,26320,196,RS,3713,04,,Banatski Karlovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581761,26322,196,RS,3713,04,,Nikolinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581762,26323,196,RS,,,,Crvena Crkva,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581763,26324,196,RS,,,,Banatska Palanka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581764,26327,196,RS,,,,Banatska Subotica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581765,26328,196,RS,,,,Dupljaja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581766,26329,196,RS,,,,Kajtasovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581767,26330,196,RS,3713,04,,Uljma,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581768,26331,196,RS,,,,Ritisevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581769,26332,196,RS,3713,04,,Vlajkovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581770,26333,196,RS,3713,04,,Pavliš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581771,26334,196,RS,3713,04,,Veliko Središte,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581772,26335,196,RS,3713,04,,Gudurica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581773,26336,196,RS,3713,04,,Kuštilj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581774,26337,196,RS,,,,Vatin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581775,26338,196,RS,,,,Vojvodinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581776,26340,196,RS,3713,04,,Bela Crkva,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581777,26343,196,RS,3713,04,,Izbište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581778,26345,196,RS,,,,Straža,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581779,26346,196,RS,,,,Jasenovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581780,26347,196,RS,,,,Grebenac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581781,26348,196,RS,,,,Vračev Gaj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581782,26349,196,RS,,,,Kusić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581783,26350,196,RS,3713,04,,Samoš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581784,26351,196,RS,3713,04,,Seleuš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581785,26352,196,RS,3713,04,,Ilandža,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581786,26353,196,RS,,,,Novi Kozjak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581787,26354,196,RS,3713,04,,Dobrica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581788,26360,196,RS,3713,04,,Plandište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581789,26361,196,RS,3713,04,,Lokve,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581790,26362,196,RS,3713,04,,Janošik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581791,26363,196,RS,3713,04,,Jermenovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581792,26364,196,RS,3713,04,,Margita,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581793,26365,196,RS,3713,04,,Veliki Gaj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581794,26366,196,RS,3713,04,,Velika Greda,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581795,26367,196,RS,3713,04,,Barice,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581796,26368,196,RS,,,,Kupinik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581797,26370,196,RS,3713,04,,Hajdučica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581798,26371,196,RS,3713,04,,Stari Lec,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581799,26373,196,RS,,,,Miletićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581800,26380,196,RS,,,,Kruščica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581801,31000,196,RS,3729,16,,Užice,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581802,31203,196,RS,,,,Lunovo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581803,31204,196,RS,,,,Karan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581804,31205,196,RS,,,,Sevojno,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581805,31206,196,RS,,,,Ravni,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581806,31207,196,RS,,,,Sirogojno,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581807,31208,196,RS,,,,Rožanstvo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581808,31209,196,RS,,,,Ljubiš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581809,31210,196,RS,3729,16,,Požega,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581810,31213,196,RS,,,,Ježevica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581811,31214,196,RS,,,,Gornja Dobrinja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581812,31215,196,RS,,,,Jelen Do,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581813,31230,196,RS,3729,16,,Arilje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581814,31233,196,RS,,,,Kruščica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581815,31234,196,RS,,,,Brekovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581816,31236,196,RS,,,,Divljaka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581817,31237,196,RS,,,,Roge,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581818,31241,196,RS,,,,Bioska,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581819,31242,196,RS,,,,Kremna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581820,31243,196,RS,,,,Mokra Gora,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581821,31244,196,RS,,,,Šljivovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581822,31250,196,RS,3729,16,,Bajina Bašta,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581823,31251,196,RS,,,,Mitrovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581824,31253,196,RS,,,,Zlodol,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581825,31254,196,RS,,,,Kostojevići,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581826,31255,196,RS,,,,Rogačica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581827,31256,196,RS,,,,Perućac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581828,31257,196,RS,,,,Kaluđerske Bare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581829,31258,196,RS,,,,Bačevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581830,31260,196,RS,3729,16,,Kosjerić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581831,31262,196,RS,,,,Seča Reka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581832,31263,196,RS,,,,Varda,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581833,31265,196,RS,,,,Ražana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581834,31300,196,RS,3729,16,,Prijepolje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581835,31305,196,RS,,,,Brodarevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581836,31306,196,RS,,,,Jabuka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581837,31307,196,RS,,,,Aljinovici,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581838,31310,196,RS,3729,16,,Čajetina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581839,31311,196,RS,,,,Bela Zemlja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581840,31312,196,RS,,,,Mačkat,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581841,31313,196,RS,,,,Gostilje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581842,31314,196,RS,,,,Jablanica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581843,31315,196,RS,,,,Zlatibor,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581844,31317,196,RS,,,,Draglica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581845,31318,196,RS,,,,Kokin Brod,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581846,31319,196,RS,,,,Jasenovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581847,31320,196,RS,3729,16,,Nova Varoš,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581848,31322,196,RS,,,,Bozetici,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581849,31325,196,RS,,,,Bistrica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581850,31330,196,RS,3729,16,,Priboj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581851,31335,196,RS,,,,Sastavci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581852,31337,196,RS,,,,Banja Kod Priboja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581853,32000,196,RS,3727,17,,Čačak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581854,32205,196,RS,,,,Trbušani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581855,32206,196,RS,3715,23,,Kamenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581856,32210,196,RS,,,,Mrčajevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581857,32211,196,RS,,,,Mojsinje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581858,32212,196,RS,,,,Preljina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581859,32213,196,RS,,,,Bresnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581860,32215,196,RS,,,,Gornja Trepca,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581861,32221,196,RS,,,,Trnava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581862,32222,196,RS,,,,Ježevica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581863,32223,196,RS,,,,Zablaće,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581864,32224,196,RS,,,,Slatina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581865,32225,196,RS,,,,Goričani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581866,32230,196,RS,,,,Guča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581867,32232,196,RS,,,,Goračići,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581868,32234,196,RS,,,,Kaona,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581869,32235,196,RS,,,,Kotraža,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581870,32240,196,RS,3727,17,,Lučani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581871,32242,196,RS,,,,Ovčar Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581872,32243,196,RS,,,,Markovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581873,32250,196,RS,3727,17,,Ivanjica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581874,32251,196,RS,,,,Bukovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581875,32252,196,RS,,,,Prilicki Kiseljak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581876,32253,196,RS,,,,Brezova,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581877,32254,196,RS,,,,Vionica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581878,32255,196,RS,,,,Medjurečje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581879,32256,196,RS,,,,Bratljevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581880,32257,196,RS,,,,Kovilje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581881,32258,196,RS,,,,Kušići,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581882,32259,196,RS,,,,Bele Vode,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581883,32300,196,RS,3727,17,,Gornji Milanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581884,32303,196,RS,,,,Brđani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581885,32304,196,RS,,,,Takovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581886,32305,196,RS,,,,Bersici,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581887,32306,196,RS,,,,Gornji Banjani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581888,32307,196,RS,,,,Brezna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581889,32308,196,RS,,,,Pranjani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581890,32311,196,RS,,,,Šilopaj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581891,32312,196,RS,,,,Boljkovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581892,32313,196,RS,,,,Rudnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581893,32314,196,RS,3728,00,,Ugrinovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581894,32315,196,RS,,,,Vračevšnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581895,34000,196,RS,3734,12,,Kragujevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581896,34202,196,RS,,,,Grosnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581897,34203,196,RS,,,,Ilićevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581898,34204,196,RS,,,,Divostin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581899,34205,196,RS,,,,Bare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581900,34206,196,RS,,,,Gornja Sabanta,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581901,34207,196,RS,,,,Erdec,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581902,34209,196,RS,,,,Marsic,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581903,34210,196,RS,,,,Rača Kragujevačka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581904,34211,196,RS,,,,Jovanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581905,34212,196,RS,,,,Malo Krcmare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581906,34214,196,RS,,,,Veliko Krčmare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581907,34215,196,RS,,,,Đurdjevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581908,34216,196,RS,,,,Male Pčelice,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581909,34217,196,RS,,,,Bukurovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581910,34220,196,RS,3734,12,,Lapovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581911,34223,196,RS,,,,Lapovo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581912,34224,196,RS,,,,Korman,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581913,34225,196,RS,,,,Resnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581914,34226,196,RS,,,,Badnjevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581915,34227,196,RS,3734,12,,Batočina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581916,34228,196,RS,,,,Brzan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581917,34229,196,RS,,,,Zirovnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581918,34230,196,RS,,,,Gruza,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581919,34231,196,RS,,,,Dragobraca,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581920,34232,196,RS,,,,Guberevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581921,34240,196,RS,3734,12,,Knić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581922,34242,196,RS,,,,Bumbarevo Brdo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581923,34243,196,RS,,,,Toponica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581924,34244,196,RS,,,,Zabojnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581925,34300,196,RS,,,,Arandjelovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581926,34301,196,RS,,,,Bukovik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581927,34302,196,RS,,,,Ranilovic,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581928,34303,196,RS,,,,Arandjelovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581929,34304,196,RS,,,,Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581930,34305,196,RS,,,,Darosava,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581931,34306,196,RS,,,,Vencane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581932,34307,196,RS,,,,Stojnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581933,34308,196,RS,,,,Orašac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581934,34309,196,RS,,,,Jelovik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581935,34310,196,RS,3734,12,,Topola,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581936,34312,196,RS,,,,Belosavci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581937,34313,196,RS,,,,Natalinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581938,34314,196,RS,,,,Donja Satornja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581939,34318,196,RS,,,,Jarmenovci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581940,34321,196,RS,,,,Desimirovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581941,34322,196,RS,,,,Čumić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581942,34323,196,RS,,,,Stragari,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581943,34325,196,RS,,,,Lužnice,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581944,35000,196,RS,3737,13,,Jagodina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581945,35203,196,RS,,,,Siokovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581946,35204,196,RS,,,,Bagrdan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581947,35205,196,RS,,,,Jovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581948,35206,196,RS,,,,Raševica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581949,35207,196,RS,,,,Potočac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581950,35208,196,RS,,,,Vojska,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581951,35209,196,RS,,,,Subotica Kod Svilajnca,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581952,35210,196,RS,3737,13,,Svilajnac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581953,35211,196,RS,,,,Sedlare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581954,35212,196,RS,,,,Plažane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581955,35213,196,RS,3737,13,,Despotovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581956,35215,196,RS,,,,Stenjevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581957,35217,196,RS,,,,Bobovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581958,35219,196,RS,,,,Končarevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581959,35220,196,RS,,,,Ribare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581960,35222,196,RS,,,,Glogovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581961,35223,196,RS,,,,Veliki Popović,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581962,35224,196,RS,,,,Medvedja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581963,35226,196,RS,,,,Kušiljevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581964,35227,196,RS,,,,Krušar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581965,35228,196,RS,,,,Supska,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581966,35230,196,RS,3737,13,,Ćuprija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581967,35233,196,RS,,,,Senje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581968,35234,196,RS,,,,Senjski Rudnik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581969,35235,196,RS,,,,Ravna Reka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581970,35236,196,RS,,,,Mijatovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581971,35237,196,RS,,,,Resavica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581972,35238,196,RS,,,,Bigrenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581973,35241,196,RS,,,,Jasenovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581974,35242,196,RS,,,,Kolare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581975,35247,196,RS,,,,Plana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581976,35248,196,RS,,,,Trešnjevica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581977,35249,196,RS,,,,Busilovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581978,35250,196,RS,3737,13,,Paraćin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581979,35254,196,RS,,,,Popovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581980,35255,196,RS,,,,Donja Mutnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581981,35256,196,RS,,,,Sikirica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581982,35257,196,RS,3737,13,,Drenovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581983,35258,196,RS,,,,Donje Vidovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581984,35259,196,RS,,,,Svojnovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581985,35260,196,RS,3737,13,,Rekovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581986,35261,196,RS,,,,Glavinci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581987,35262,196,RS,,,,Dragoševac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581988,35263,196,RS,,,,Belusic,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581989,35264,196,RS,,,,Prevešt,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581990,35265,196,RS,,,,Dragovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581991,35267,196,RS,,,,Oparić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581992,35268,196,RS,,,,Miloševo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581993,35269,196,RS,,,,Strižilo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581994,35270,196,RS,3719,08,,Majur,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581995,35271,196,RS,,,,Novo Lanište,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581996,35272,196,RS,,,,Dragocvet,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581997,35273,196,RS,,,,Bunar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581998,36000,196,RS,3725,18,,Kraljevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+581999,36201,196,RS,,,,Mataruška Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582000,36202,196,RS,,,,Samaila,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582001,36203,196,RS,,,,Adrani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582002,36204,196,RS,,,,Lađevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582003,36205,196,RS,,,,Roćevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582004,36206,196,RS,,,,Vitanovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582005,36207,196,RS,,,,Vitkovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582006,36208,196,RS,,,,Sirča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582007,36210,196,RS,3725,18,,Vrnjačka Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582008,36212,196,RS,,,,Ratina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582009,36214,196,RS,,,,Vrba,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582010,36215,196,RS,,,,Podunavci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582011,36216,196,RS,3719,08,,Novo Selo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582012,36217,196,RS,,,,Vrnjci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582013,36220,196,RS,,,,Čukojevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582014,36221,196,RS,,,,Zica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582015,36222,196,RS,,,,Rudno,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582016,36300,196,RS,3725,18,,Novi Pazar,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582017,36305,196,RS,,,,Dezeva,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582018,36306,196,RS,,,,Lukare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582019,36307,196,RS,,,,Delimede,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582020,36308,196,RS,,,,Sopoćani,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582021,36309,196,RS,,,,Ribarice,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582022,36310,196,RS,3729,16,,Sjenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582023,36311,196,RS,,,,Štavalj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582024,36312,196,RS,,,,Duga Poljana,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582025,36313,196,RS,,,,Ugao,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582026,36320,196,RS,3725,18,,Tutin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582027,36321,196,RS,,,,Crkvine,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582028,36340,196,RS,,,,Konarevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582029,36341,196,RS,,,,Bogutovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582030,36342,196,RS,,,,Ušće,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582031,36343,196,RS,,,,Studenica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582032,36344,196,RS,,,,Baljevac Na Ibru,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582033,36345,196,RS,,,,Jošanicka Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582034,36346,196,RS,,,,Brvenik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582035,36350,196,RS,3725,18,,Raška,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582036,36353,196,RS,,,,Rudnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582037,36354,196,RS,,,,Kopaonik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582038,37000,196,RS,3720,19,,Kruševac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582039,37201,196,RS,,,,Parunovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582040,37202,196,RS,,,,Djunis,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582041,37203,196,RS,,,,Zdravinje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582042,37204,196,RS,,,,Veliki Siljegovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582043,37205,196,RS,,,,Ribarska Banja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582044,37206,196,RS,,,,Dvorane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582045,37207,196,RS,,,,Veliko Golovode,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582046,37208,196,RS,,,,Čitluk,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582047,37209,196,RS,,,,Velika Lomnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582048,37210,196,RS,3720,19,,Ćićevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582049,37212,196,RS,,,,Stalać,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582050,37213,196,RS,,,,Vitosevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582051,37214,196,RS,,,,Pojate,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582052,37215,196,RS,3722,20,,Ražanj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582053,37220,196,RS,3720,19,,Brus,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582054,37221,196,RS,,,,Gornji Stepos,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582055,37222,196,RS,,,,Kupci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582056,37223,196,RS,,,,Razbojna,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582057,37224,196,RS,,,,Lepenac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582058,37225,196,RS,,,,Brzeće,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582059,37226,196,RS,,,,Blazevo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582060,37227,196,RS,,,,Milentija,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582061,37228,196,RS,,,,Zlatari,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582062,37229,196,RS,,,,Grasevci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582063,37230,196,RS,3720,19,,Aleksandrovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582064,37231,196,RS,,,,Pepeljevac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582065,37232,196,RS,,,,Laćisled,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582066,37233,196,RS,,,,Velika Vrbnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582067,37234,196,RS,,,,Gornji Stupanj,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582068,37235,196,RS,,,,Trnavci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582069,37236,196,RS,,,,Rataje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582070,37237,196,RS,,,,Ploča,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582071,37238,196,RS,,,,Ples,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582072,37239,196,RS,,,,Šljivovo,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582073,37240,196,RS,3720,19,,Trstenik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582074,37242,196,RS,,,,Stopanja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582075,37243,196,RS,,,,Počekovina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582076,37244,196,RS,,,,Medvedja,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582077,37245,196,RS,,,,Velika Drenova,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582078,37246,196,RS,,,,Milutovac,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582079,37251,196,RS,,,,Globoder,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582080,37252,196,RS,,,,Jasika,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582081,37253,196,RS,,,,Bela Voda,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582082,37254,196,RS,,,,Konjuh,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582083,37255,196,RS,,,,Kukljin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582084,37256,196,RS,,,,Kaonik,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582085,37257,196,RS,,,,Padež,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582086,37258,196,RS,,,,Donji Krcin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582087,37259,196,RS,,,,Ribare,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582088,37260,196,RS,3720,19,,Varvarin,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582089,37262,196,RS,,,,Bosnjane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582090,37265,196,RS,,,,Bačina,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582091,37266,196,RS,,,,Obrez,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582092,37271,196,RS,,,,Dasnica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582093,37281,196,RS,,,,Osreci,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582094,37282,196,RS,,,,Kriva Reka,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582095,38157,196,RS,,,,Brezovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582096,38205,196,RS,,,,Gracanica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582097,38210,196,RS,,,,Kosovo Polje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582098,38213,196,RS,,,,Prilužje,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582099,38216,196,RS,,,,Banjska,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582100,38217,196,RS,,,,Sočanica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582101,38218,196,RS,,,,Leposavić,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582102,38219,196,RS,,,,Lešak,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582103,38220,196,RS,,,,Kosovska Mitrovica,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582104,38227,196,RS,,,,Zvecan,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582105,38228,196,RS,,,,Zubin Potok,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582106,38236,196,RS,,,,Štrpce,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582107,38239,196,RS,,,,Drajkovce,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582108,38266,196,RS,,,,Pasjane,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1
+582109,38267,196,RS,,,,Ranilug,full,,,posta-srbije-via-nebjak,,2026-04-28T06:49:19,2026-04-28T06:49:19,1

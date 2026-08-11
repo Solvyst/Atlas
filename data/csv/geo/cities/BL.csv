@@ -1,0 +1,2 @@
+id,name,state_id,state_code,country_id,country_code,type,level,parent_id,latitude,longitude,native,population,timezone,translations,created_at,updated_at,flag,wikiDataId
+161653,Gustavia,5819,01,189,BL,,,,17.89790833,-62.85055556,Gustavia,,America/St_Barthelemy,,2026-04-28T06:48:54,2026-04-28T06:48:54,1,Q34112

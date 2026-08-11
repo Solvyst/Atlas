@@ -1,0 +1,40 @@
+[
+  {
+    "id": "IN",
+    "country_code": "IN",
+    "country_name": "India",
+    "iban_supported": false,
+    "iban_length": null,
+    "swift_supported": true,
+    "local_bank_code_label": "IFSC",
+    "local_bank_code_regex": "^[A-Z]{4}0[A-Z0-9]{6}$",
+    "routing_code_label": "IFSC",
+    "routing_code_regex": "^[A-Z]{4}0[A-Z0-9]{6}$",
+    "account_number_min_length": 9,
+    "account_number_max_length": 18,
+    "example": {
+      "ifsc": "HDFC0001234",
+      "account_number": "123456789012"
+    },
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "US",
+    "country_code": "US",
+    "country_name": "United States",
+    "iban_supported": false,
+    "iban_length": null,
+    "swift_supported": true,
+    "local_bank_code_label": "Routing number",
+    "local_bank_code_regex": "^[0-9]{9}$",
+    "routing_code_label": "ABA routing number",
+    "routing_code_regex": "^[0-9]{9}$",
+    "account_number_min_length": 4,
+    "account_number_max_length": 17,
+    "example": {
+      "routing_number": "021000021",
+      "account_number": "1234567890"
+    },
+    "source": "Solvyst Atlas community reference contribution"
+  }
+]

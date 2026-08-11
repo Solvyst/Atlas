@@ -1,0 +1,8 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+1,AD100,6,AD,489,02,,Canillo,full,,,manual,,2026-04-28T06:48:56,2026-04-28T06:48:56,1
+2,AD200,6,AD,487,03,,Encamp,full,,,manual,,2026-04-28T06:48:56,2026-04-28T06:48:56,1
+3,AD300,6,AD,491,05,,Ordino,full,,,manual,,2026-04-28T06:48:56,2026-04-28T06:48:56,1
+4,AD400,6,AD,493,04,,La Massana,full,,,manual,,2026-04-28T06:48:56,2026-04-28T06:48:56,1
+5,AD500,6,AD,488,07,,Andorra la Vella,full,,,manual,,2026-04-28T06:48:56,2026-04-28T06:48:56,1
+6,AD600,6,AD,490,06,,Sant Julia de Loria,full,,,manual,,2026-04-28T06:48:56,2026-04-28T06:48:56,1
+7,AD700,6,AD,492,08,,Escaldes-Engordany,full,,,manual,,2026-04-28T06:48:56,2026-04-28T06:48:56,1

@@ -1,0 +1,5 @@
+id,code,country_id,country_code,state_id,state_code,city_id,locality_name,type,latitude,longitude,source,wikiDataId,created_at,updated_at,flag
+305343,97200,138,MQ,5398,01,,Fort-de-France,full,,,manual,,2026-04-28T06:49:08,2026-04-28T06:49:08,1
+305344,97220,138,MQ,5399,02,,La Trinite,full,,,manual,,2026-04-28T06:49:08,2026-04-28T06:49:08,1
+305345,97250,138,MQ,5401,04,,Saint-Pierre,full,,,manual,,2026-04-28T06:49:08,2026-04-28T06:49:08,1
+305346,97290,138,MQ,5400,03,,Le Marin,full,,,manual,,2026-04-28T06:49:08,2026-04-28T06:49:08,1

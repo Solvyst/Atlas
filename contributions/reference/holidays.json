@@ -1,0 +1,36 @@
+[
+  {
+    "id": "IN-REPUBLIC-DAY",
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision_code": null,
+    "name": "Republic Day",
+    "local_name": null,
+    "type": "public",
+    "date_rule": "fixed",
+    "month": 1,
+    "day": 26,
+    "observed_rule": "same_day",
+    "is_national": true,
+    "effective_from": "1950-01-26",
+    "effective_to": null,
+    "source": "Solvyst Atlas community reference contribution"
+  },
+  {
+    "id": "US-INDEPENDENCE-DAY",
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision_code": null,
+    "name": "Independence Day",
+    "local_name": null,
+    "type": "federal",
+    "date_rule": "fixed",
+    "month": 7,
+    "day": 4,
+    "observed_rule": "nearest_weekday",
+    "is_national": true,
+    "effective_from": null,
+    "effective_to": null,
+    "source": "Solvyst Atlas community reference contribution"
+  }
+]
