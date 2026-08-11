@@ -2,20 +2,20 @@ import { db } from "@solvyst-atlas/database";
 import { and, asc, eq, ilike, or, type SQL } from "drizzle-orm";
 
 import {
-  metaAddressFormats,
-  metaCities,
-  metaAdminAreas,
-  metaCountries,
-  metaCurrencies,
-  metaLanguages,
-  metaLocales,
-  metaLocalities,
-  metaPhoneCodes,
-  metaPhoneNumberRules,
-  metaPostalCodeRules,
-  metaRegions,
-  metaStates,
-  metaTimezones,
+  geoAddressFormats,
+  geoCities,
+  geoAdminAreas,
+  geoCountries,
+  geoCurrencies,
+  geoLanguages,
+  geoLocales,
+  geoLocalities,
+  geoPhoneCodes,
+  geoPhoneNumberRules,
+  geoPostalCodeRules,
+  geoRegions,
+  geoStates,
+  geoTimezones,
 } from "@solvyst-atlas/database/schema";
 
 import type {
@@ -49,12 +49,12 @@ export class GeoRepo {
   static async findCountryByGeo(input: string) {
     const [country] = await db
       .select()
-      .from(metaCountries)
+      .from(geoCountries)
       .where(
         or(
-          ilike(metaCountries.name, input),
-          eq(metaCountries.iso2, input.toUpperCase()),
-          eq(metaCountries.iso3, input.toUpperCase()),
+          ilike(geoCountries.name, input),
+          eq(geoCountries.iso2, input.toUpperCase()),
+          eq(geoCountries.iso3, input.toUpperCase()),
         ),
       )
       .limit(1);
@@ -66,9 +66,9 @@ export class GeoRepo {
   static async listStatesByCountryId(countryId: number) {
     return db
       .select()
-      .from(metaStates)
-      .where(eq(metaStates.country_id, countryId))
-      .orderBy(asc(metaStates.name));
+      .from(geoStates)
+      .where(eq(geoStates.country_id, countryId))
+      .orderBy(asc(geoStates.name));
   }
 
   /*************************** LIST REGIONS ***************************/
@@ -76,15 +76,15 @@ export class GeoRepo {
     const conditions: SQL[] = [];
 
     if (input.search) {
-      conditions.push(ilike(metaRegions.name, like(input.search)));
+      conditions.push(ilike(geoRegions.name, like(input.search)));
     }
 
     let query = db
       .select()
-      .from(metaRegions)
+      .from(geoRegions)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaRegions.name))
+      .orderBy(asc(geoRegions.name))
       .offset(input.offset);
 
     if (input.limit) {
@@ -102,46 +102,46 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaCountries.name, search),
-          ilike(metaCountries.iso2, search),
-          ilike(metaCountries.iso3, search),
-          ilike(metaCountries.capital, search),
-          ilike(metaCountries.currency, search),
-          ilike(metaCountries.currency_name, search),
+          ilike(geoCountries.name, search),
+          ilike(geoCountries.iso2, search),
+          ilike(geoCountries.iso3, search),
+          ilike(geoCountries.capital, search),
+          ilike(geoCountries.currency, search),
+          ilike(geoCountries.currency_name, search),
         )!,
       );
     }
 
     if (input.regionId)
-      conditions.push(eq(metaCountries.region_id, input.regionId));
+      conditions.push(eq(geoCountries.region_id, input.regionId));
     if (input.subregionId) {
-      conditions.push(eq(metaCountries.subregion_id, input.subregionId));
+      conditions.push(eq(geoCountries.subregion_id, input.subregionId));
     }
     if (input.currency) {
-      conditions.push(eq(metaCountries.currency, input.currency.toUpperCase()));
+      conditions.push(eq(geoCountries.currency, input.currency.toUpperCase()));
     }
     if (input.iso2)
-      conditions.push(eq(metaCountries.iso2, input.iso2.toUpperCase()));
+      conditions.push(eq(geoCountries.iso2, input.iso2.toUpperCase()));
     if (input.iso3)
-      conditions.push(eq(metaCountries.iso3, input.iso3.toUpperCase()));
+      conditions.push(eq(geoCountries.iso3, input.iso3.toUpperCase()));
 
     let query = db
       .select({
-        id: metaCountries.id,
-        name: metaCountries.name,
-        numeric_code: metaCountries.numeric_code,
-        iso2: metaCountries.iso2,
-        iso3: metaCountries.iso3,
-        currency: metaCountries.currency,
-        currency_name: metaCountries.currency_name,
-        currency_symbol: metaCountries.currency_symbol,
-        region: metaCountries.region,
-        emoji: metaCountries.emoji,
+        id: geoCountries.id,
+        name: geoCountries.name,
+        numeric_code: geoCountries.numeric_code,
+        iso2: geoCountries.iso2,
+        iso3: geoCountries.iso3,
+        currency: geoCountries.currency,
+        currency_name: geoCountries.currency_name,
+        currency_symbol: geoCountries.currency_symbol,
+        region: geoCountries.region,
+        emoji: geoCountries.emoji,
       })
-      .from(metaCountries)
+      .from(geoCountries)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaCountries.name))
+      .orderBy(asc(geoCountries.name))
       .offset(input.offset);
 
     if (input.limit) {
@@ -156,25 +156,25 @@ export class GeoRepo {
     const conditions: SQL[] = [];
 
     if (input.search) {
-      conditions.push(ilike(metaStates.name, like(input.search)));
+      conditions.push(ilike(geoStates.name, like(input.search)));
     }
     if (input.countryId) {
-      conditions.push(eq(metaStates.country_id, input.countryId));
+      conditions.push(eq(geoStates.country_id, input.countryId));
     }
     if (input.countryCode) {
       conditions.push(
-        eq(metaStates.country_code, input.countryCode.toUpperCase()),
+        eq(geoStates.country_code, input.countryCode.toUpperCase()),
       );
     }
     if (input.parentId)
-      conditions.push(eq(metaStates.parent_id, input.parentId));
+      conditions.push(eq(geoStates.parent_id, input.parentId));
 
     let query = db
       .select()
-      .from(metaStates)
+      .from(geoStates)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaStates.name))
+      .orderBy(asc(geoStates.name))
       .offset(input.offset);
 
     if (input.limit) {
@@ -189,18 +189,18 @@ export class GeoRepo {
     const conditions: SQL[] = [];
 
     if (input.stateId) {
-      conditions.push(eq(metaCities.state_id, input.stateId));
+      conditions.push(eq(geoCities.state_id, input.stateId));
 
       if (input.search) {
-        conditions.push(ilike(metaCities.name, like(input.search)));
+        conditions.push(ilike(geoCities.name, like(input.search)));
       }
 
       let query = db
         .select()
-        .from(metaCities)
+        .from(geoCities)
         .$dynamic()
         .where(and(...conditions))
-        .orderBy(asc(metaCities.name))
+        .orderBy(asc(geoCities.name))
         .offset(input.offset);
 
       if (input.limit) {
@@ -214,28 +214,28 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaCities.name, search),
-          ilike(metaCities.state_name, search),
-          ilike(metaCities.country_name, search),
+          ilike(geoCities.name, search),
+          ilike(geoCities.state_name, search),
+          ilike(geoCities.country_name, search),
         )!,
       );
     }
 
     if (input.countryId) {
-      conditions.push(eq(metaCities.country_id, input.countryId));
+      conditions.push(eq(geoCities.country_id, input.countryId));
     }
     if (input.countryCode) {
       conditions.push(
-        eq(metaCities.country_code, input.countryCode.toUpperCase()),
+        eq(geoCities.country_code, input.countryCode.toUpperCase()),
       );
     }
 
     let query = db
       .select()
-      .from(metaCities)
+      .from(geoCities)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaCities.name))
+      .orderBy(asc(geoCities.name))
       .offset(input.offset);
 
     if (input.limit) {
@@ -250,32 +250,32 @@ export class GeoRepo {
     const conditions: SQL[] = [];
 
     if (input.search) {
-      conditions.push(ilike(metaAdminAreas.name, like(input.search)));
+      conditions.push(ilike(geoAdminAreas.name, like(input.search)));
     }
     if (input.countryId) {
-      conditions.push(eq(metaAdminAreas.country_id, input.countryId));
+      conditions.push(eq(geoAdminAreas.country_id, input.countryId));
     }
     if (input.countryCode) {
       conditions.push(
-        eq(metaAdminAreas.country_code, input.countryCode.toUpperCase()),
+        eq(geoAdminAreas.country_code, input.countryCode.toUpperCase()),
       );
     }
     if (input.parentId) {
-      conditions.push(eq(metaAdminAreas.parent_id, input.parentId));
+      conditions.push(eq(geoAdminAreas.parent_id, input.parentId));
     }
     if (input.type) {
-      conditions.push(eq(metaAdminAreas.type, input.type));
+      conditions.push(eq(geoAdminAreas.type, input.type));
     }
     if (input.level) {
-      conditions.push(eq(metaAdminAreas.level, input.level));
+      conditions.push(eq(geoAdminAreas.level, input.level));
     }
 
     let query = db
       .select()
-      .from(metaAdminAreas)
+      .from(geoAdminAreas)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaAdminAreas.level), asc(metaAdminAreas.name))
+      .orderBy(asc(geoAdminAreas.level), asc(geoAdminAreas.name))
       .offset(input.offset);
 
     if (input.limit) {
@@ -290,32 +290,32 @@ export class GeoRepo {
     const conditions: SQL[] = [];
 
     if (input.search) {
-      conditions.push(ilike(metaLocalities.name, like(input.search)));
+      conditions.push(ilike(geoLocalities.name, like(input.search)));
     }
     if (input.countryId) {
-      conditions.push(eq(metaLocalities.country_id, input.countryId));
+      conditions.push(eq(geoLocalities.country_id, input.countryId));
     }
     if (input.countryCode) {
       conditions.push(
-        eq(metaLocalities.country_code, input.countryCode.toUpperCase()),
+        eq(geoLocalities.country_code, input.countryCode.toUpperCase()),
       );
     }
     if (input.adminAreaId) {
-      conditions.push(eq(metaLocalities.admin_area_id, input.adminAreaId));
+      conditions.push(eq(geoLocalities.admin_area_id, input.adminAreaId));
     }
     if (input.type) {
-      conditions.push(eq(metaLocalities.type, input.type));
+      conditions.push(eq(geoLocalities.type, input.type));
     }
     if (input.settlementsOnly) {
-      conditions.push(eq(metaLocalities.is_settlement, 1));
+      conditions.push(eq(geoLocalities.is_settlement, 1));
     }
 
     let query = db
       .select()
-      .from(metaLocalities)
+      .from(geoLocalities)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaLocalities.name))
+      .orderBy(asc(geoLocalities.name))
       .offset(input.offset);
 
     if (input.limit) {
@@ -333,21 +333,21 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaLanguages.code, search),
-          ilike(metaLanguages.name, search),
-          ilike(metaLanguages.native_name, search),
+          ilike(geoLanguages.code, search),
+          ilike(geoLanguages.name, search),
+          ilike(geoLanguages.native_name, search),
         )!,
       );
     }
-    if (input.code) conditions.push(eq(metaLanguages.code, input.code.toLowerCase()));
-    if (input.direction) conditions.push(eq(metaLanguages.direction, input.direction));
+    if (input.code) conditions.push(eq(geoLanguages.code, input.code.toLowerCase()));
+    if (input.direction) conditions.push(eq(geoLanguages.direction, input.direction));
 
     let query = db
       .select()
-      .from(metaLanguages)
+      .from(geoLanguages)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaLanguages.name))
+      .orderBy(asc(geoLanguages.name))
       .offset(input.offset);
 
     if (input.limit) query = query.limit(input.limit);
@@ -362,29 +362,29 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaLocales.code, search),
-          ilike(metaLocales.name, search),
-          ilike(metaLocales.native_name, search),
+          ilike(geoLocales.code, search),
+          ilike(geoLocales.name, search),
+          ilike(geoLocales.native_name, search),
         )!,
       );
     }
     if (input.languageCode) {
-      conditions.push(eq(metaLocales.language_code, input.languageCode.toLowerCase()));
+      conditions.push(eq(geoLocales.language_code, input.languageCode.toLowerCase()));
     }
     if (input.countryCode) {
-      conditions.push(eq(metaLocales.country_code, input.countryCode.toUpperCase()));
+      conditions.push(eq(geoLocales.country_code, input.countryCode.toUpperCase()));
     }
     if (input.currencyCode) {
-      conditions.push(eq(metaLocales.currency_code, input.currencyCode.toUpperCase()));
+      conditions.push(eq(geoLocales.currency_code, input.currencyCode.toUpperCase()));
     }
-    if (input.direction) conditions.push(eq(metaLocales.direction, input.direction));
+    if (input.direction) conditions.push(eq(geoLocales.direction, input.direction));
 
     let query = db
       .select()
-      .from(metaLocales)
+      .from(geoLocales)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaLocales.code))
+      .orderBy(asc(geoLocales.code))
       .offset(input.offset);
 
     if (input.limit) query = query.limit(input.limit);
@@ -399,24 +399,24 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaPostalCodeRules.country_name, search),
-          ilike(metaPostalCodeRules.country_code, search),
-          ilike(metaPostalCodeRules.format, search),
+          ilike(geoPostalCodeRules.country_name, search),
+          ilike(geoPostalCodeRules.country_code, search),
+          ilike(geoPostalCodeRules.format, search),
         )!,
       );
     }
-    if (input.countryId) conditions.push(eq(metaPostalCodeRules.country_id, input.countryId));
+    if (input.countryId) conditions.push(eq(geoPostalCodeRules.country_id, input.countryId));
     if (input.countryCode) {
-      conditions.push(eq(metaPostalCodeRules.country_code, input.countryCode.toUpperCase()));
+      conditions.push(eq(geoPostalCodeRules.country_code, input.countryCode.toUpperCase()));
     }
-    if (input.requiredOnly) conditions.push(eq(metaPostalCodeRules.is_required, 1));
+    if (input.requiredOnly) conditions.push(eq(geoPostalCodeRules.is_required, 1));
 
     let query = db
       .select()
-      .from(metaPostalCodeRules)
+      .from(geoPostalCodeRules)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaPostalCodeRules.country_name))
+      .orderBy(asc(geoPostalCodeRules.country_name))
       .offset(input.offset);
 
     if (input.limit) query = query.limit(input.limit);
@@ -432,26 +432,26 @@ export class GeoRepo {
       const normalized = normalizeDialCode(input.search);
       conditions.push(
         or(
-          ilike(metaPhoneNumberRules.country_name, search),
-          ilike(metaPhoneNumberRules.country_code, search),
-          ilike(metaPhoneNumberRules.dial_code, like(normalized)),
+          ilike(geoPhoneNumberRules.country_name, search),
+          ilike(geoPhoneNumberRules.country_code, search),
+          ilike(geoPhoneNumberRules.dial_code, like(normalized)),
         )!,
       );
     }
-    if (input.countryId) conditions.push(eq(metaPhoneNumberRules.country_id, input.countryId));
+    if (input.countryId) conditions.push(eq(geoPhoneNumberRules.country_id, input.countryId));
     if (input.countryCode) {
-      conditions.push(eq(metaPhoneNumberRules.country_code, input.countryCode.toUpperCase()));
+      conditions.push(eq(geoPhoneNumberRules.country_code, input.countryCode.toUpperCase()));
     }
     if (input.dialCode) {
-      conditions.push(eq(metaPhoneNumberRules.dial_code, normalizeDialCode(input.dialCode)));
+      conditions.push(eq(geoPhoneNumberRules.dial_code, normalizeDialCode(input.dialCode)));
     }
 
     let query = db
       .select()
-      .from(metaPhoneNumberRules)
+      .from(geoPhoneNumberRules)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaPhoneNumberRules.dial_code), asc(metaPhoneNumberRules.country_name))
+      .orderBy(asc(geoPhoneNumberRules.dial_code), asc(geoPhoneNumberRules.country_name))
       .offset(input.offset);
 
     if (input.limit) query = query.limit(input.limit);
@@ -466,22 +466,22 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaAddressFormats.country_name, search),
-          ilike(metaAddressFormats.country_code, search),
+          ilike(geoAddressFormats.country_name, search),
+          ilike(geoAddressFormats.country_code, search),
         )!,
       );
     }
-    if (input.countryId) conditions.push(eq(metaAddressFormats.country_id, input.countryId));
+    if (input.countryId) conditions.push(eq(geoAddressFormats.country_id, input.countryId));
     if (input.countryCode) {
-      conditions.push(eq(metaAddressFormats.country_code, input.countryCode.toUpperCase()));
+      conditions.push(eq(geoAddressFormats.country_code, input.countryCode.toUpperCase()));
     }
 
     let query = db
       .select()
-      .from(metaAddressFormats)
+      .from(geoAddressFormats)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaAddressFormats.country_name))
+      .orderBy(asc(geoAddressFormats.country_name))
       .offset(input.offset);
 
     if (input.limit) query = query.limit(input.limit);
@@ -497,37 +497,37 @@ export class GeoRepo {
       const normalized = normalizeDialCode(input.search);
       conditions.push(
         or(
-          ilike(metaPhoneCodes.country_name, search),
-          ilike(metaPhoneCodes.country_code, search),
-          ilike(metaPhoneCodes.phone_code, search),
-          ilike(metaPhoneCodes.dial_code, like(normalized)),
-          ilike(metaPhoneCodes.calling_code, like(normalized)),
+          ilike(geoPhoneCodes.country_name, search),
+          ilike(geoPhoneCodes.country_code, search),
+          ilike(geoPhoneCodes.phone_code, search),
+          ilike(geoPhoneCodes.dial_code, like(normalized)),
+          ilike(geoPhoneCodes.calling_code, like(normalized)),
         )!,
       );
     }
     if (input.countryId) {
-      conditions.push(eq(metaPhoneCodes.country_id, input.countryId));
+      conditions.push(eq(geoPhoneCodes.country_id, input.countryId));
     }
     if (input.countryCode) {
       conditions.push(
-        eq(metaPhoneCodes.country_code, input.countryCode.toUpperCase()),
+        eq(geoPhoneCodes.country_code, input.countryCode.toUpperCase()),
       );
     }
     if (input.dialCode) {
-      conditions.push(eq(metaPhoneCodes.dial_code, normalizeDialCode(input.dialCode)));
+      conditions.push(eq(geoPhoneCodes.dial_code, normalizeDialCode(input.dialCode)));
     }
     if (input.callingCode) {
       conditions.push(
-        eq(metaPhoneCodes.calling_code, normalizeDialCode(input.callingCode)),
+        eq(geoPhoneCodes.calling_code, normalizeDialCode(input.callingCode)),
       );
     }
 
     let query = db
       .select()
-      .from(metaPhoneCodes)
+      .from(geoPhoneCodes)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaPhoneCodes.calling_code), asc(metaPhoneCodes.country_name))
+      .orderBy(asc(geoPhoneCodes.calling_code), asc(geoPhoneCodes.country_name))
       .offset(input.offset);
 
     if (input.limit) {
@@ -545,19 +545,19 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaCurrencies.code, search),
-          ilike(metaCurrencies.name, search),
-          ilike(metaCurrencies.symbol, search),
+          ilike(geoCurrencies.code, search),
+          ilike(geoCurrencies.name, search),
+          ilike(geoCurrencies.symbol, search),
         )!,
       );
     }
 
     let query = db
       .select()
-      .from(metaCurrencies)
+      .from(geoCurrencies)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaCurrencies.code))
+      .orderBy(asc(geoCurrencies.code))
       .offset(input.offset);
 
     if (input.limit) {
@@ -575,27 +575,27 @@ export class GeoRepo {
       const search = like(input.search);
       conditions.push(
         or(
-          ilike(metaTimezones.zone_name, search),
-          ilike(metaTimezones.gmt_offset_name, search),
-          ilike(metaTimezones.abbreviation, search),
-          ilike(metaTimezones.tz_name, search),
+          ilike(geoTimezones.zone_name, search),
+          ilike(geoTimezones.gmt_offset_name, search),
+          ilike(geoTimezones.abbreviation, search),
+          ilike(geoTimezones.tz_name, search),
         )!,
       );
     }
 
     if (input.countryId) {
-      conditions.push(eq(metaTimezones.country_id, input.countryId));
+      conditions.push(eq(geoTimezones.country_id, input.countryId));
     }
     if (input.zoneName) {
-      conditions.push(eq(metaTimezones.zone_name, input.zoneName));
+      conditions.push(eq(geoTimezones.zone_name, input.zoneName));
     }
 
     let query = db
       .select()
-      .from(metaTimezones)
+      .from(geoTimezones)
       .$dynamic()
       .where(and(...conditions))
-      .orderBy(asc(metaTimezones.country_id), asc(metaTimezones.zone_name))
+      .orderBy(asc(geoTimezones.country_id), asc(geoTimezones.zone_name))
       .offset(input.offset);
 
     if (input.limit) {
