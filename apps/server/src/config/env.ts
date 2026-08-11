@@ -19,7 +19,7 @@ const optionalUrl = z
 
 const envSchema = z
   .object({
-    APP_NAME: z.string().trim().min(1).default("Atlaskit"),
+    APP_NAME: z.string().trim().min(1).default("Solvyst Atlas"),
     APP_VERSION: z.string().trim().min(1).default("dev"),
     NODE_ENV: z
       .enum(["development", "test", "production"])

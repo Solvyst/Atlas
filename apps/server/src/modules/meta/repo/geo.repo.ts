@@ -1,23 +1,35 @@
-import { db } from "@atlaskit/database";
+import { db } from "@solvyst-atlas/database";
 import { and, asc, eq, ilike, or, type SQL } from "drizzle-orm";
 
 import {
+  metaAddressFormats,
   metaCities,
   metaAdminAreas,
   metaCountries,
   metaCurrencies,
+  metaLanguages,
+  metaLocales,
   metaLocalities,
+  metaPhoneCodes,
+  metaPhoneNumberRules,
+  metaPostalCodeRules,
   metaRegions,
   metaStates,
   metaTimezones,
-} from "@atlaskit/database/schema";
+} from "@solvyst-atlas/database/schema";
 
 import type {
   ListAdminAreasInput,
   ListCitiesInput,
   ListCountriesInput,
   ListCurrenciesInput,
+  ListAddressFormatsInput,
+  ListLanguagesInput,
+  ListLocalesInput,
   ListLocalitiesInput,
+  ListPhoneCodesInput,
+  ListPhoneNumberRulesInput,
+  ListPostalCodeRulesInput,
   ListRegionsInput,
   ListStatesInput,
   ListTimezonesInput,
@@ -25,6 +37,11 @@ import type {
 
 function like(value: string) {
   return `%${value}%`;
+}
+
+function normalizeDialCode(value: string) {
+  const trimmed = value.trim();
+  return trimmed.startsWith("+") ? trimmed : `+${trimmed}`;
 }
 
 export class GeoRepo {
@@ -299,6 +316,218 @@ export class GeoRepo {
       .$dynamic()
       .where(and(...conditions))
       .orderBy(asc(metaLocalities.name))
+      .offset(input.offset);
+
+    if (input.limit) {
+      query = query.limit(input.limit);
+    }
+
+    return query;
+  }
+
+  /*************************** LIST LANGUAGES ***************************/
+  static async listLanguages(input: ListLanguagesInput) {
+    const conditions: SQL[] = [];
+
+    if (input.search) {
+      const search = like(input.search);
+      conditions.push(
+        or(
+          ilike(metaLanguages.code, search),
+          ilike(metaLanguages.name, search),
+          ilike(metaLanguages.native_name, search),
+        )!,
+      );
+    }
+    if (input.code) conditions.push(eq(metaLanguages.code, input.code.toLowerCase()));
+    if (input.direction) conditions.push(eq(metaLanguages.direction, input.direction));
+
+    let query = db
+      .select()
+      .from(metaLanguages)
+      .$dynamic()
+      .where(and(...conditions))
+      .orderBy(asc(metaLanguages.name))
+      .offset(input.offset);
+
+    if (input.limit) query = query.limit(input.limit);
+    return query;
+  }
+
+  /*************************** LIST LOCALES ***************************/
+  static async listLocales(input: ListLocalesInput) {
+    const conditions: SQL[] = [];
+
+    if (input.search) {
+      const search = like(input.search);
+      conditions.push(
+        or(
+          ilike(metaLocales.code, search),
+          ilike(metaLocales.name, search),
+          ilike(metaLocales.native_name, search),
+        )!,
+      );
+    }
+    if (input.languageCode) {
+      conditions.push(eq(metaLocales.language_code, input.languageCode.toLowerCase()));
+    }
+    if (input.countryCode) {
+      conditions.push(eq(metaLocales.country_code, input.countryCode.toUpperCase()));
+    }
+    if (input.currencyCode) {
+      conditions.push(eq(metaLocales.currency_code, input.currencyCode.toUpperCase()));
+    }
+    if (input.direction) conditions.push(eq(metaLocales.direction, input.direction));
+
+    let query = db
+      .select()
+      .from(metaLocales)
+      .$dynamic()
+      .where(and(...conditions))
+      .orderBy(asc(metaLocales.code))
+      .offset(input.offset);
+
+    if (input.limit) query = query.limit(input.limit);
+    return query;
+  }
+
+  /*************************** LIST POSTAL CODE RULES ***************************/
+  static async listPostalCodeRules(input: ListPostalCodeRulesInput) {
+    const conditions: SQL[] = [];
+
+    if (input.search) {
+      const search = like(input.search);
+      conditions.push(
+        or(
+          ilike(metaPostalCodeRules.country_name, search),
+          ilike(metaPostalCodeRules.country_code, search),
+          ilike(metaPostalCodeRules.format, search),
+        )!,
+      );
+    }
+    if (input.countryId) conditions.push(eq(metaPostalCodeRules.country_id, input.countryId));
+    if (input.countryCode) {
+      conditions.push(eq(metaPostalCodeRules.country_code, input.countryCode.toUpperCase()));
+    }
+    if (input.requiredOnly) conditions.push(eq(metaPostalCodeRules.is_required, 1));
+
+    let query = db
+      .select()
+      .from(metaPostalCodeRules)
+      .$dynamic()
+      .where(and(...conditions))
+      .orderBy(asc(metaPostalCodeRules.country_name))
+      .offset(input.offset);
+
+    if (input.limit) query = query.limit(input.limit);
+    return query;
+  }
+
+  /*************************** LIST PHONE NUMBER RULES ***************************/
+  static async listPhoneNumberRules(input: ListPhoneNumberRulesInput) {
+    const conditions: SQL[] = [];
+
+    if (input.search) {
+      const search = like(input.search);
+      const normalized = normalizeDialCode(input.search);
+      conditions.push(
+        or(
+          ilike(metaPhoneNumberRules.country_name, search),
+          ilike(metaPhoneNumberRules.country_code, search),
+          ilike(metaPhoneNumberRules.dial_code, like(normalized)),
+        )!,
+      );
+    }
+    if (input.countryId) conditions.push(eq(metaPhoneNumberRules.country_id, input.countryId));
+    if (input.countryCode) {
+      conditions.push(eq(metaPhoneNumberRules.country_code, input.countryCode.toUpperCase()));
+    }
+    if (input.dialCode) {
+      conditions.push(eq(metaPhoneNumberRules.dial_code, normalizeDialCode(input.dialCode)));
+    }
+
+    let query = db
+      .select()
+      .from(metaPhoneNumberRules)
+      .$dynamic()
+      .where(and(...conditions))
+      .orderBy(asc(metaPhoneNumberRules.dial_code), asc(metaPhoneNumberRules.country_name))
+      .offset(input.offset);
+
+    if (input.limit) query = query.limit(input.limit);
+    return query;
+  }
+
+  /*************************** LIST ADDRESS FORMATS ***************************/
+  static async listAddressFormats(input: ListAddressFormatsInput) {
+    const conditions: SQL[] = [];
+
+    if (input.search) {
+      const search = like(input.search);
+      conditions.push(
+        or(
+          ilike(metaAddressFormats.country_name, search),
+          ilike(metaAddressFormats.country_code, search),
+        )!,
+      );
+    }
+    if (input.countryId) conditions.push(eq(metaAddressFormats.country_id, input.countryId));
+    if (input.countryCode) {
+      conditions.push(eq(metaAddressFormats.country_code, input.countryCode.toUpperCase()));
+    }
+
+    let query = db
+      .select()
+      .from(metaAddressFormats)
+      .$dynamic()
+      .where(and(...conditions))
+      .orderBy(asc(metaAddressFormats.country_name))
+      .offset(input.offset);
+
+    if (input.limit) query = query.limit(input.limit);
+    return query;
+  }
+
+  /*************************** LIST PHONE CODES ***************************/
+  static async listPhoneCodes(input: ListPhoneCodesInput) {
+    const conditions: SQL[] = [];
+
+    if (input.search) {
+      const search = like(input.search);
+      const normalized = normalizeDialCode(input.search);
+      conditions.push(
+        or(
+          ilike(metaPhoneCodes.country_name, search),
+          ilike(metaPhoneCodes.country_code, search),
+          ilike(metaPhoneCodes.phone_code, search),
+          ilike(metaPhoneCodes.dial_code, like(normalized)),
+          ilike(metaPhoneCodes.calling_code, like(normalized)),
+        )!,
+      );
+    }
+    if (input.countryId) {
+      conditions.push(eq(metaPhoneCodes.country_id, input.countryId));
+    }
+    if (input.countryCode) {
+      conditions.push(
+        eq(metaPhoneCodes.country_code, input.countryCode.toUpperCase()),
+      );
+    }
+    if (input.dialCode) {
+      conditions.push(eq(metaPhoneCodes.dial_code, normalizeDialCode(input.dialCode)));
+    }
+    if (input.callingCode) {
+      conditions.push(
+        eq(metaPhoneCodes.calling_code, normalizeDialCode(input.callingCode)),
+      );
+    }
+
+    let query = db
+      .select()
+      .from(metaPhoneCodes)
+      .$dynamic()
+      .where(and(...conditions))
+      .orderBy(asc(metaPhoneCodes.calling_code), asc(metaPhoneCodes.country_name))
       .offset(input.offset);
 
     if (input.limit) {

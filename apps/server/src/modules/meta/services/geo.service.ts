@@ -3,11 +3,17 @@ import { withPagination } from "../utils/meta.utils.js";
 import { AppError } from "@/lib/AppError.js";
 
 import type {
+  ListAddressFormatsInput,
   ListAdminAreasInput,
   ListCitiesInput,
   ListCountriesInput,
   ListCurrenciesInput,
+  ListLanguagesInput,
+  ListLocalesInput,
   ListLocalitiesInput,
+  ListPhoneCodesInput,
+  ListPhoneNumberRulesInput,
+  ListPostalCodeRulesInput,
   ListRegionsInput,
   ListStatesInput,
   ListTimezonesInput,
@@ -138,6 +144,48 @@ export class GeoService {
     );
 
     const items = await GeoRepo.listLocalities(pagination);
+    return withPagination(items, pagination);
+  }
+
+  /*************************** LIST LANGUAGES ***************************/
+  static async listLanguages(query: ListLanguagesInput) {
+    const pagination = withDefaultLimit(query);
+    const items = await GeoRepo.listLanguages(pagination);
+    return withPagination(items, pagination);
+  }
+
+  /*************************** LIST LOCALES ***************************/
+  static async listLocales(query: ListLocalesInput) {
+    const pagination = withDefaultLimit(query);
+    const items = await GeoRepo.listLocales(pagination);
+    return withPagination(items, pagination);
+  }
+
+  /*************************** LIST POSTAL CODE RULES ***************************/
+  static async listPostalCodeRules(query: ListPostalCodeRulesInput) {
+    const pagination = withDefaultLimit(query);
+    const items = await GeoRepo.listPostalCodeRules(pagination);
+    return withPagination(items, pagination);
+  }
+
+  /*************************** LIST PHONE NUMBER RULES ***************************/
+  static async listPhoneNumberRules(query: ListPhoneNumberRulesInput) {
+    const pagination = withDefaultLimit(query);
+    const items = await GeoRepo.listPhoneNumberRules(pagination);
+    return withPagination(items, pagination);
+  }
+
+  /*************************** LIST ADDRESS FORMATS ***************************/
+  static async listAddressFormats(query: ListAddressFormatsInput) {
+    const pagination = withDefaultLimit(query);
+    const items = await GeoRepo.listAddressFormats(pagination);
+    return withPagination(items, pagination);
+  }
+
+  /*************************** LIST PHONE CODES ***************************/
+  static async listPhoneCodes(query: ListPhoneCodesInput) {
+    const pagination = withDefaultLimit(query);
+    const items = await GeoRepo.listPhoneCodes(pagination);
     return withPagination(items, pagination);
   }
 

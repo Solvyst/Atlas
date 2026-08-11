@@ -2,7 +2,7 @@ import http from "http";
 import "dotenv/config";
 
 import app from "@/app.js";
-import { pool, testPgConnection } from "@atlaskit/database";
+import { pool, testPgConnection } from "@solvyst-atlas/database";
 import { env } from "./config/env.js";
 
 const PORT = Number(env.PORT);
