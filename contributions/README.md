@@ -19,6 +19,7 @@ contributions/geo/
   cities/<ISO2>.json
   counties/<ISO2>.json
   postcodes/<ISO2>.json
+  postcodes/<ISO2>/part-001.json
 ```
 
 Rules:
@@ -28,7 +29,7 @@ Rules:
 - New rows should use stable IDs only if maintainers assign them; otherwise open a PR with clear notes.
 - Do not edit runtime database state directly.
 - City files are split by country code, for example `cities/IN.json`.
-- Postcodes are accepted as contribution source, but not yet exposed through Atlas API.
+- Postcodes are accepted as contribution source, but not yet exposed through Atlas API. Large postcode datasets should be split into `postcodes/<ISO2>/part-001.json`, `part-002.json`, and so on to stay below GitHub file-size warnings.
 
 Validate geo contributions:
 

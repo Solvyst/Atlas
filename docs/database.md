@@ -63,6 +63,7 @@ contributions/geo/states/states.json
 contributions/geo/cities/<ISO2>.json
 contributions/geo/counties/<ISO2>.json
 contributions/geo/postcodes/<ISO2>.json
+contributions/geo/postcodes/<ISO2>/part-001.json
 contributions/geo/languages/languages.json
 contributions/geo/phone-codes/phone-codes.json
 contributions/geo/timezones/timezones.json

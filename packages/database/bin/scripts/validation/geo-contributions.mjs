@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 import { geoContributionsDir } from "../_shared/paths.mjs";
-import { readContributionArrayOrErrors } from "../_shared/json.mjs";
+import { readContributionArrayOrErrors, walkJsonFiles } from "../_shared/json.mjs";
 import { checkUnique, validateRows } from "../_shared/validation.mjs";
 
 const requiredFiles = [
@@ -358,9 +358,8 @@ if (!fs.existsSync(citiesDir)) {
 
 const postcodesDir = path.join(geoContributionsDir, "postcodes");
 if (fs.existsSync(postcodesDir)) {
-  for (const entry of fs.readdirSync(postcodesDir, { withFileTypes: true })) {
-    if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
-    const relativePath = path.join("postcodes", entry.name);
+  for (const filePath of walkJsonFiles(postcodesDir)) {
+    const relativePath = path.relative(geoContributionsDir, filePath);
     const rows = readArray(relativePath);
     validateRows(relativePath, rows, fieldSpecs.postcodes, [
       "code",
