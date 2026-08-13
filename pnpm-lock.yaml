@@ -48,6 +48,9 @@ importers:
       drizzle-orm:
         specifier: ^0.45.2
         version: 0.45.2(@types/pg@8.20.0)(kysely@0.28.17)(pg@8.21.0)
+      esbuild:
+        specifier: ^0.25.12
+        version: 0.25.12
       express:
         specifier: ^5.1.0
         version: 5.2.1(supports-color@5.5.0)
@@ -97,9 +100,6 @@ importers:
       '@typescript-eslint/parser':
         specifier: ^8.43.0
         version: 8.61.0(eslint@9.39.4(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)
-      esbuild:
-        specifier: ^0.25.12
-        version: 0.25.12
       eslint:
         specifier: ^9.35.0
         version: 9.39.4(jiti@2.7.0)(supports-color@5.5.0)

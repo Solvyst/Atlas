@@ -28,7 +28,8 @@
     "ioredis": "^6.0.0",
     "morgan": "^1.11.0",
     "zod": "^4.1.7",
-    "pg": "^8.16.3"
+    "pg": "^8.16.3",
+    "esbuild": "^0.25.12"
   },
   "packageManager": "pnpm@11.21.0",
   "devDependencies": {
@@ -41,7 +42,6 @@
     "@types/node": "^24.3.1",
     "@typescript-eslint/eslint-plugin": "^8.43.0",
     "@typescript-eslint/parser": "^8.43.0",
-    "esbuild": "^0.25.12",
     "eslint": "^9.35.0",
     "globals": "^17.9.0",
     "nodemon": "^3.1.10",
