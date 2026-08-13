@@ -328,6 +328,7 @@ if (!fs.existsSync(citiesDir)) {
     const relativePath = path.join("cities", entry.name);
     const rows = readArray(relativePath);
     validateRows(relativePath, rows, fieldSpecs.cities, [
+      "id",
       "name",
       "state_id",
       "country_id",

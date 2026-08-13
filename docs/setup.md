@@ -16,23 +16,21 @@ pnpm install
 
 ## Environment Files
 
-Create local env files from the examples:
+Create a root environment file from the example:
 
 ```sh
 cp .env.example .env
-cp apps/server/.env.example apps/server/.env
 ```
 
-Fill the required keys in:
-
-```txt
-.env
-apps/server/.env
-```
-
-See [Environment Keys](./env-keys.md).
+Update `.env` with your database URI, API key, Redis mode, and allowed web origins. See [Environment Keys](./env-keys.md).
 
 ## Database Setup
+
+If you selected local Docker PostgreSQL, start it first:
+
+```sh
+docker compose --profile local-db up -d postgres
+```
 
 For a fresh database, run migrations first, then validate/import JSON contribution data:
 

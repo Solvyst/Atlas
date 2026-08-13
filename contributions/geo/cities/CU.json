@@ -7680,7 +7680,8 @@
     "native": "Playa",
     "population": 178601,
     "timezone": "America/Havana",
-    "wikiDataId": "Q2066897"
+    "wikiDataId": "Q2066897",
+    "id": 163965
   },
   {
     "name": "Plaza de la Revolución",
@@ -7696,7 +7697,8 @@
     "native": "Plaza de la Revolución",
     "population": 139135,
     "timezone": "America/Havana",
-    "wikiDataId": "Q2099152"
+    "wikiDataId": "Q2099152",
+    "id": 163966
   },
   {
     "name": "Marianao",
@@ -7712,7 +7714,8 @@
     "native": "Marianao",
     "population": 134057,
     "timezone": "America/Havana",
-    "wikiDataId": "Q2553350"
+    "wikiDataId": "Q2553350",
+    "id": 163967
   },
   {
     "name": "La Lisa",
@@ -7728,7 +7731,8 @@
     "native": "La Lisa",
     "population": 147415,
     "timezone": "America/Havana",
-    "wikiDataId": "Q3648399"
+    "wikiDataId": "Q3648399",
+    "id": 163968
   },
   {
     "name": "Cotorro",
@@ -7744,6 +7748,7 @@
     "native": "Cotorro",
     "population": 83115,
     "timezone": "America/Havana",
-    "wikiDataId": "Q3646457"
+    "wikiDataId": "Q3646457",
+    "id": 163969
   }
 ]

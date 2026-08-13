@@ -1,14 +1,49 @@
 # Commands
 
-Use these commands from the repository root unless a section says otherwise.
+Run these commands from the repository root unless a section says otherwise.
 
-## Development
+```sh
+cd "/Users/anilmoharana/Work/Solvyst Atlas"
+```
+
+## Install
+
+Install dependencies:
 
 ```sh
 pnpm install
+```
+
+Install with lockfile strict mode, useful for production/CI:
+
+```sh
+pnpm install --frozen-lockfile
+```
+
+## Development
+
+Run the full monorepo in dev mode:
+
+```sh
 pnpm dev
+```
+
+Run only the API server:
+
+```sh
 pnpm dev:server
+```
+
+Run only the web app:
+
+```sh
 pnpm dev:web
+```
+
+Run the default dev alias:
+
+```sh
+pnpm dev:all
 ```
 
 Local URLs:
@@ -20,10 +55,34 @@ Web: http://localhost:3000
 
 ## Build And Checks
 
+Typecheck all packages:
+
 ```sh
 pnpm typecheck
+```
+
+Build all packages:
+
+```sh
 pnpm build
+```
+
+Lint all packages:
+
+```sh
 pnpm lint
+```
+
+Build only the server:
+
+```sh
+pnpm build:server
+```
+
+Build only the web app:
+
+```sh
+pnpm build:web
 ```
 
 Package-level checks:
@@ -35,15 +94,21 @@ pnpm --filter @solvyst-atlas/server typecheck
 pnpm --filter @solvyst-atlas/server build
 ```
 
-## Database Migrations
+Clean generated dependency/build folders:
 
-Generate a migration after schema changes:
+```sh
+pnpm clean
+```
+
+## Database Schema And Migrations
+
+Generate Drizzle migration after schema changes:
 
 ```sh
 pnpm db:generate
 ```
 
-Apply migrations to the configured database:
+Apply migrations to the configured PostgreSQL database:
 
 ```sh
 pnpm db:migrate
@@ -61,7 +126,19 @@ Open Drizzle Studio:
 pnpm db:studio
 ```
 
-Current DB schemas:
+Push schema directly to DB without migration files, mostly local/dev only:
+
+```sh
+pnpm db:push
+```
+
+Pull database schema state, mostly inspection/dev only:
+
+```sh
+pnpm db:pull
+```
+
+Current PostgreSQL schemas:
 
 ```txt
 geo
@@ -69,7 +146,112 @@ reference
 drizzle
 ```
 
-The public API route is still `/api/v1/meta`, but the geography tables live under the PostgreSQL `geo` schema.
+Important: public API route is still `/api/v1/meta`, but geography tables live under PostgreSQL `geo` schema.
+
+## Contribution JSON Validation
+
+Validate all contributor JSON files:
+
+```sh
+pnpm db:contrib:validate
+```
+
+Validate only geo JSON:
+
+```sh
+pnpm --filter @solvyst-atlas/database contrib:validate:geo
+```
+
+Validate only reference JSON:
+
+```sh
+pnpm --filter @solvyst-atlas/database contrib:validate:reference
+```
+
+Validation checks:
+
+```txt
+JSON syntax
+root array shape
+required fields
+duplicate keys
+unknown fields
+country/state references
+basic ISO/dial-code formats
+```
+
+New JSON fields must be approved and wired through validator, Drizzle schema, migration, importer, API, docs, and examples before they pass.
+
+## Convert JSON To CSV
+
+Generate CSV files from canonical JSON contribution files:
+
+```sh
+pnpm data:export:csv
+```
+
+Alias:
+
+```sh
+pnpm data:export
+```
+
+Output folder:
+
+```txt
+data/csv
+```
+
+Source folder:
+
+```txt
+contributions
+```
+
+Rule: contributors edit JSON. CSV is generated output.
+
+## Import JSON To Database
+
+Import all validated JSON into PostgreSQL using UPSERT:
+
+```sh
+pnpm db:import
+```
+
+Import only geo data:
+
+```sh
+pnpm db:import:geo
+```
+
+Import only reference data:
+
+```sh
+pnpm db:import:reference
+```
+
+Database import flow:
+
+```txt
+contributions/**/*.json
+  -> validation
+  -> PostgreSQL UPSERT
+  -> API reads from DB
+```
+
+Recommended fresh database flow:
+
+```sh
+pnpm db:migrate
+pnpm db:contrib:validate
+pnpm db:import
+```
+
+One-line fresh database flow:
+
+```sh
+pnpm db:migrate && pnpm db:contrib:validate && pnpm db:import
+```
 
 ## Data CLI
 
@@ -79,7 +261,7 @@ Open the interactive data CLI:
 pnpm data
 ```
 
-CLI options include:
+CLI options:
 
 ```txt
 1. Validate all contribution JSON
@@ -92,75 +274,74 @@ CLI options include:
 0. Exit
 ```
 
-Import options write to the configured PostgreSQL database and require typing `IMPORT`.
+Import options write to PostgreSQL and require typing `IMPORT`.
 
-## Contribution Validation
+## Local Database With Docker
 
-Validate all contributor JSON:
-
-```sh
-pnpm db:contrib:validate
-```
-
-This command checks JSON shape, required fields, duplicate keys, foreign-key style references, and unknown fields. New fields must be approved and wired through validation, schema, migrations, importer, API/docs before they can pass.
-
-Validate only geo data:
+Start local PostgreSQL only:
 
 ```sh
-pnpm --filter @solvyst-atlas/database contrib:validate:geo
+docker compose --profile local-db up -d postgres
 ```
 
-Validate only reference data:
+Stop local PostgreSQL:
 
 ```sh
-pnpm --filter @solvyst-atlas/database contrib:validate:reference
+docker compose --profile local-db stop postgres
 ```
 
-## CSV Export
-
-Generate CSV from canonical JSON contribution files:
+Remove local PostgreSQL container, keeping volume:
 
 ```sh
-pnpm data:export:csv
+docker compose --profile local-db rm postgres
 ```
 
-Output:
-
-```txt
-data/csv
-```
-
-CSV is generated output. Contributors should edit JSON in `contributions/`.
-
-## Database Import
-
-Import validated geo JSON into PostgreSQL:
+Remove local PostgreSQL data volume only when you intentionally want a fresh DB:
 
 ```sh
-pnpm db:import:geo
+docker volume rm solvyst-atlas_postgres-data
 ```
 
-Import validated reference JSON into PostgreSQL:
+## Docker Server
+
+Build the server Docker image:
 
 ```sh
-pnpm db:import:reference
+docker build -t solvyst-atlas-server:local .
 ```
 
-Import all validated JSON:
+Run server with external database and no Redis:
 
 ```sh
-pnpm db:import
+docker compose up --build server
 ```
 
-Recommended order for a fresh DB:
+Run server with local Docker PostgreSQL:
 
 ```sh
-pnpm db:migrate
-pnpm db:contrib:validate
-pnpm db:import
+docker compose --profile local-db up -d postgres
+docker compose --profile local-db up --build server
+```
+
+Run server with Redis enabled:
+
+```sh
+docker compose --profile redis up --build server redis
+```
+
+Validate Docker Compose file:
+
+```sh
+docker compose config --quiet
 ```
 
 ## API Smoke Tests
+
+Root banner:
+
+```sh
+curl "http://localhost:3100/"
+```
 
 Health:
 
@@ -168,37 +349,103 @@ Health:
 curl "http://localhost:3100/health"
 ```
 
+Load API key from root `.env`:
+
+```sh
+export META_API_KEY=$(grep '^META_API_KEY=' .env | cut -d= -f2- | tr -d '"')
+```
+
 Countries:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/countries?search=india" \
-  -H "x-api-key: <META_API_KEY>"
+  -H "x-api-key: $META_API_KEY"
+```
+
+States:
+
+```sh
+curl "http://localhost:3100/api/v1/meta/states?countryCode=IN" \
+  -H "x-api-key: $META_API_KEY"
+```
+
+Cities:
+
+```sh
+curl "http://localhost:3100/api/v1/meta/cities?countryCode=IN&stateCode=OD" \
+  -H "x-api-key: $META_API_KEY"
 ```
 
 Phone codes:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/phone-codes?dialCode=+91" \
-  -H "x-api-key: <META_API_KEY>"
+  -H "x-api-key: $META_API_KEY"
 ```
 
-Reference API:
+Currencies:
+
+```sh
+curl "http://localhost:3100/api/v1/meta/currencies?code=INR" \
+  -H "x-api-key: $META_API_KEY"
+```
+
+Timezones:
+
+```sh
+curl "http://localhost:3100/api/v1/meta/timezones?countryCode=IN" \
+  -H "x-api-key: $META_API_KEY"
+```
+
+Reference API, business identifiers:
 
 ```sh
 curl "http://localhost:3100/api/v1/reference/business-identifiers?countryCode=IN" \
-  -H "x-api-key: <META_API_KEY>"
+  -H "x-api-key: $META_API_KEY"
 ```
 
-## Docker
-
-Build the server image:
+Reference API, banking rules:
 
 ```sh
-docker build -t solvyst-atlas-server:local .
+curl "http://localhost:3100/api/v1/reference/banking-rules?countryCode=IN" \
+  -H "x-api-key: $META_API_KEY"
 ```
 
-Run local compose:
+Docker server health, default compose port:
 
 ```sh
-docker compose up --build
+curl "http://localhost:5000/health"
+```
+
+## Recommended Workflows
+
+After editing contribution JSON:
+
+```sh
+pnpm db:contrib:validate
+pnpm data:export:csv
+```
+
+After editing database schema:
+
+```sh
+pnpm db:generate
+pnpm db:migrate
+pnpm --filter @solvyst-atlas/database build
+```
+
+Before importing production/staging data:
+
+```sh
+pnpm db:contrib:validate
+pnpm db:migrate
+pnpm db:import
+```
+
+Before pushing code:
+
+```sh
+pnpm db:contrib:validate
+pnpm typecheck
+pnpm build
 ```

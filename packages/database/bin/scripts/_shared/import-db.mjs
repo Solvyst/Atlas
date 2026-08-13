@@ -18,6 +18,7 @@ function quoteTable(tableName) {
 
 function normalizeValue(value) {
   if (value === undefined) return null;
+  if (typeof value === "boolean") return value ? 1 : 0;
   if (value && typeof value === "object") return JSON.stringify(value);
   return value;
 }
@@ -26,7 +27,7 @@ export function dataset(tableName, columns, rows, conflictColumns = ["id"], name
   return { name, tableName, columns, rows, conflictColumns };
 }
 
-export async function upsertRows(client, config) {
+export async function upsertRows(client, config, onProgress) {
   if (!config.rows.length) return 0;
 
   const batchSize = Number(process.env.IMPORT_BATCH_SIZE ?? 500);
@@ -71,9 +72,62 @@ export async function upsertRows(client, config) {
       values,
     );
     imported += batch.length;
+    onProgress?.(imported, config.rows.length);
   }
 
   return imported;
+}
+
+function formatDuration(startedAt) {
+  const seconds = Math.max(0, Math.round((Date.now() - startedAt) / 1000));
+  const minutes = Math.floor(seconds / 60);
+  const rest = seconds % 60;
+  return minutes ? minutes + "m " + rest + "s" : rest + "s";
+}
+
+function createImportSpinner(label, totalRows) {
+  if (!process.stdout.isTTY || process.env.CI === "true") {
+    return {
+      progress() {},
+      succeed(count) {
+        console.log(label + " upserted " + count + " rows");
+      },
+      fail() {},
+    };
+  }
+
+  const frames = ["-", "\\", "|", "/"];
+  const startedAt = Date.now();
+  let frameIndex = 0;
+  let importedRows = 0;
+
+  function render(status = "importing") {
+    const frame = frames[frameIndex++ % frames.length];
+    const rows = importedRows + "/" + totalRows;
+    const message = frame + " " + label + " " + status + " " + rows + " rows " + formatDuration(startedAt);
+    process.stdout.write("\r" + message.padEnd(100, " "));
+  }
+
+  const timer = setInterval(render, 120);
+  render();
+
+  return {
+    progress(imported) {
+      importedRows = imported;
+    },
+    succeed(count) {
+      clearInterval(timer);
+      process.stdout.write(
+        "\r" + ("OK " + label + " upserted " + count + " rows in " + formatDuration(startedAt)).padEnd(100, " ") + "\n",
+      );
+    },
+    fail() {
+      clearInterval(timer);
+      process.stdout.write(
+        "\r" + ("FAIL " + label + " failed after " + formatDuration(startedAt)).padEnd(100, " ") + "\n",
+      );
+    },
+  };
 }
 
 export async function runDatabaseImport(datasets) {
@@ -95,8 +149,16 @@ export async function runDatabaseImport(datasets) {
   try {
     await client.query("BEGIN");
     for (const config of datasets) {
-      const count = await upsertRows(client, config);
-      console.log(config.name + " upserted " + count + " rows");
+      const spinner = createImportSpinner(config.name, config.rows.length);
+      try {
+        const count = await upsertRows(client, config, (imported) => {
+          spinner.progress(imported);
+        });
+        spinner.succeed(count);
+      } catch (error) {
+        spinner.fail();
+        throw error;
+      }
     }
     await client.query("COMMIT");
   } catch (error) {

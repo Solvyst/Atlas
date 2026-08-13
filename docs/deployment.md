@@ -23,16 +23,30 @@ Build the production server image:
 docker build -t solvyst-atlas-server:local .
 ```
 
-Run with Docker Compose:
+Run with external database and no Redis:
 
 ```sh
-docker compose up --build
+docker compose up --build server
+```
+
+Run with local Docker PostgreSQL:
+
+```sh
+docker compose --profile local-db up -d postgres
+docker compose --profile local-db up --build server
+```
+
+Run with Redis enabled:
+
+```sh
+docker compose --profile redis up --build server redis
 ```
 
 Required runtime environment:
 
 ```env
-DATABASE_URI="postgresql://postgres.<project-ref>:<database-password>@aws-0-<region>.pooler.supabase.com:5432/postgres?sslmode=require"
+DATABASE_URI="postgresql://user:password@host:5432/db?sslmode=require"
+DOCKER_DATABASE_URI="postgresql://user:password@host:5432/db?sslmode=require"
 META_API_KEY="<at-least-32-random-characters>"
 WEB_URL="https://your-web-origin.example"
 ```
@@ -48,30 +62,4 @@ META_RATE_LIMIT_WINDOW_MS=60000
 
 ## CI/CD
 
-GitHub Actions workflows:
-
-```txt
-.github/workflows/ci.yml
-.github/workflows/docker-publish.yml
-```
-
-`ci.yml` should run validation, typecheck, Drizzle check, build, and Docker build on pull requests and pushes.
-
-Recommended CI command set:
-
-```sh
-pnpm db:contrib:validate
-pnpm --filter @solvyst-atlas/database typecheck
-pnpm --filter @solvyst-atlas/database build
-pnpm --filter @solvyst-atlas/database db:check
-pnpm --filter @solvyst-atlas/server typecheck
-pnpm --filter @solvyst-atlas/server build
-```
-
-`docker-publish.yml` publishes the server image to GitHub Container Registry:
-
-```txt
-ghcr.io/<owner>/<repo>/server
-```
-
-It runs on pushes to `main`/`master`, version tags, and manual dispatch.
+GitHub Actions workflows are currently removed. Add CI back when the public contribution flow and deployment target are stable.

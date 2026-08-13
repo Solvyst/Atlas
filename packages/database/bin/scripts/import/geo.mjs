@@ -579,7 +579,7 @@ const datasets = [
     "is_required",
     "is_supported",
     "source",
-  ], buildPostalCodeRules(countries)),
+  ], buildPostalCodeRules(countries), ["country_id"]),
   dataset("geo.phone_number_rules", [
     "country_id",
     "country_code",
@@ -592,7 +592,7 @@ const datasets = [
     "example",
     "validation_regex",
     "source",
-  ], buildPhoneNumberRules(countries)),
+  ], buildPhoneNumberRules(countries), ["country_id"]),
   dataset("geo.address_formats", [
     "country_id",
     "country_code",
@@ -603,7 +603,7 @@ const datasets = [
     "locality_label",
     "postal_code_label",
     "source",
-  ], buildAddressFormats(countries)),
+  ], buildAddressFormats(countries), ["country_id"]),
 ];
 
 await runDatabaseImport(datasets);

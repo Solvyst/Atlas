@@ -7,27 +7,44 @@ services:
     env_file:
       - .env
     environment:
-      NODE_ENV: production
+      NODE_ENV: ${NODE_ENV:-production}
       HOST: 0.0.0.0
-      PORT: 5000
-      DATABASE_URI: ${DATABASE_URI:?Set DATABASE_URI in .env}
-      META_API_KEY: ${META_API_KEY:?Set META_API_KEY in .env}
+      PORT: ${PORT:-5000}
+      DATABASE_URI: ${DOCKER_DATABASE_URI:-${DATABASE_URI:-}}
+      META_API_KEY: ${META_API_KEY:-}
       WEB_URL: ${WEB_URL:-http://localhost:3000}
       CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000}
       REDIS_ENABLED: ${REDIS_ENABLED:-false}
-      REDIS_HOST: redis
-      REDIS_PORT: 6379
-      REDIS_URL: redis://redis:6379
-      REDIS_TLS: "false"
+      REDIS_HOST: ${REDIS_HOST:-redis}
+      REDIS_PORT: ${REDIS_PORT:-6379}
+      REDIS_URL: ${REDIS_URL:-redis://redis:6379}
+      REDIS_TLS: ${REDIS_TLS:-false}
+      BULL_PREFIX: ${BULL_PREFIX:-solvyst-atlas}
     ports:
-      - "5000:5000"
-    depends_on:
-      redis:
-        condition: service_healthy
+      - "${PORT:-5000}:${PORT:-5000}"
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:16-alpine
+    profiles: ["local-db"]
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-solvyst_atlas}
+      POSTGRES_USER: ${POSTGRES_USER:-solvyst_atlas}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-solvyst_atlas}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER:-solvyst_atlas} -d $${POSTGRES_DB:-solvyst_atlas}"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
     restart: unless-stopped
 
   redis:
     image: redis:7-alpine
+    profiles: ["redis"]
     command: ["redis-server", "--appendonly", "yes"]
     volumes:
       - redis-data:/data
@@ -39,4 +56,5 @@ services:
     restart: unless-stopped
 
 volumes:
+  postgres-data:
   redis-data:
