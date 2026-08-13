@@ -9,10 +9,12 @@ const configureCors = () => {
     env.WEB_URL,
     ...(env.CORS_ORIGINS?.split(",").map((origin) => origin.trim()) ?? []),
   ].filter((origin): origin is string => Boolean(origin));
+  const allowAllOrigins = origins.includes("*");
 
   return cors({
     origin(origin, callback) {
       if (!origin) return callback(null, true);
+      if (allowAllOrigins) return callback(null, true);
       if (origins.includes(origin)) return callback(null, true);
       return callback(AppError.forbidden("Not allowed by CORS"));
     },

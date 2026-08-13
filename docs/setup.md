@@ -22,7 +22,7 @@ Create a root environment file from the example:
 cp .env.example .env
 ```
 
-Update `.env` with your database URI, API key, Redis mode, and allowed web origins. See [Environment Keys](./env-keys.md).
+Update `.env` with your database URI, API key, Redis mode, and allowed web origins. `apps/server/.env` is optional for local server overrides and is loaded after the root `.env`. See [Environment Keys](./env-keys.md).
 
 ## Database Setup
 

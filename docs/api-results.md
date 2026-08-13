@@ -20,7 +20,7 @@ Request:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/countries?iso2=IN" \
-  -H "x-api-key: <META_API_KEY>"
+  -H "x-api-key: <ATLAS_API_KEY>"
 ```
 
 Example response:
@@ -60,7 +60,7 @@ Request:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/states?countryCode=IN&search=odisha" \
-  -H "x-api-key: <META_API_KEY>"
+  -H "x-api-key: <ATLAS_API_KEY>"
 ```
 
 Example response:
@@ -91,7 +91,7 @@ Request:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/cities?stateId=4013&search=bhub" \
-  -H "x-api-key: <META_API_KEY>"
+  -H "x-api-key: <ATLAS_API_KEY>"
 ```
 
 Example response:
@@ -128,7 +128,7 @@ Request:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/timezones?countryId=101" \
-  -H "x-api-key: <META_API_KEY>"
+  -H "x-api-key: <ATLAS_API_KEY>"
 ```
 
 Example response:

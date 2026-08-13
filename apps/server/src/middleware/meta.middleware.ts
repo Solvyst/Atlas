@@ -8,8 +8,8 @@ import { env } from "@/config/env.js";
 const requests = new Map<string, { count: number; resetAt: number }>();
 let redis: Redis | null = null;
 
-function getMetaApiKey() {
-  return env.META_API_KEY;
+function getAtlasApiKey() {
+  return env.ATLAS_API_KEY;
 }
 
 function getRateLimitConfig() {
@@ -110,7 +110,7 @@ export const metaRateLimit: RequestHandler = async (req, res, next) => {
 
 /*************************** REQUIRE API KEY ***************************/
 export const requireApiKey: RequestHandler = (req, _res, next) => {
-  const expectedApiKey = getMetaApiKey();
+  const expectedApiKey = getAtlasApiKey();
   const apiKey = req.header("x-api-key");
 
   if (!expectedApiKey || !apiKey || !isSameSecret(apiKey, expectedApiKey)) {

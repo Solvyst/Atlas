@@ -47,7 +47,7 @@ Required runtime environment:
 ```env
 DATABASE_URI="postgresql://user:password@host:5432/db?sslmode=require"
 DOCKER_DATABASE_URI="postgresql://user:password@host:5432/db?sslmode=require"
-META_API_KEY="<at-least-32-random-characters>"
+ATLAS_API_KEY="<at-least-32-random-characters>"
 WEB_URL="https://your-web-origin.example"
 ```
 
@@ -55,7 +55,7 @@ Optional:
 
 ```env
 REDIS_ENABLED=false
-CORS_ORIGINS="https://app.example.com,https://admin.example.com"
+CORS_ORIGINS=*
 META_RATE_LIMIT_MAX=120
 META_RATE_LIMIT_WINDOW_MS=60000
 ```

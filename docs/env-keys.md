@@ -34,12 +34,12 @@ DOCKER_DATABASE_URI="postgresql://solvyst_atlas:solvyst_atlas@postgres:5432/solv
 
 For an external hosted database, this can usually be the same value as `DATABASE_URI`.
 
-`META_API_KEY`
+`ATLAS_API_KEY`
 
 Required for all `/api/v1/meta/*` and `/api/v1/reference/*` routes. Send it as:
 
 ```http
-x-api-key: <META_API_KEY>
+x-api-key: <ATLAS_API_KEY>
 ```
 
 Generate a strong local key:
@@ -47,6 +47,8 @@ Generate a strong local key:
 ```sh
 openssl rand -hex 32
 ```
+
+`META_API_KEY` is still accepted as a deprecated fallback for older deployments, but new installs should use `ATLAS_API_KEY`.
 
 `WEB_URL`
 
@@ -64,10 +66,10 @@ APP_VERSION=0.1.0
 NODE_ENV=production
 HOST=0.0.0.0
 PORT=5000
-CORS_ORIGINS="http://localhost:3000"
+CORS_ORIGINS=*
 ```
 
-`CORS_ORIGINS` accepts comma-separated origins:
+`CORS_ORIGINS` defaults to `*` for MVP/self-host simplicity. It also accepts comma-separated origins when you want to lock browser access down:
 
 ```env
 CORS_ORIGINS="https://app.example.com,https://admin.example.com"
@@ -116,10 +118,24 @@ META_RATE_LIMIT_WINDOW_MS=60000
 
 `META_RATE_LIMIT_WINDOW_MS` is the rate-limit window in milliseconds.
 
+## Optional Server Override
+
+The API server loads root `.env` first and then `apps/server/.env` if it exists. Use `apps/server/.env` only for local server overrides, such as a different dev port.
+
+For MVP/self-host, this is enough for browser access plus API-key protection:
+
+```env
+WEB_URL=http://localhost:3000
+CORS_ORIGINS=*
+ATLAS_API_KEY=<strong-random-secret>
+```
+
+Avoid old `ATLASKIT_*` keys; Solvyst Atlas uses `ATLAS_API_KEY` for API access.
+
 ## Security Notes
 
 - Do not commit `.env`.
 - Keep only `.env.example` in Git.
-- Use a strong `META_API_KEY` in production.
+- Use a strong `ATLAS_API_KEY` in production.
 - CORS is browser protection only; it is not a replacement for API authentication.
 - Redis is optional. If `REDIS_ENABLED=false`, in-memory rate limiting is used for the running process.

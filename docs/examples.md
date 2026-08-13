@@ -21,7 +21,7 @@ Variables:
 
 ```txt
 BASE_URL=http://localhost:3100
-META_API_KEY=<your-meta-api-key>
+ATLAS_API_KEY=<your-atlas-api-key>
 ```
 
 ## Requestly
@@ -37,7 +37,7 @@ Use:
 1. Open Requestly.
 2. Import [SolvystAtlas.requestly.json](../examples/requestly/SolvystAtlas.requestly.json).
 3. Select the imported `Local` environment.
-4. Update `META_API_KEY` before sending requests.
+4. Update `ATLAS_API_KEY` before sending requests.
 
 ## Included Meta APIs
 

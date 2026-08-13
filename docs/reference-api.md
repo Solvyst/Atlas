@@ -11,7 +11,7 @@ Base path:
 All routes require:
 
 ```http
-x-api-key: <META_API_KEY>
+x-api-key: <ATLAS_API_KEY>
 ```
 
 ## Endpoints

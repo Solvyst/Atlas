@@ -11,7 +11,7 @@ services:
       HOST: 0.0.0.0
       PORT: ${PORT:-5000}
       DATABASE_URI: ${DOCKER_DATABASE_URI:-${DATABASE_URI:-}}
-      META_API_KEY: ${META_API_KEY:-}
+      ATLAS_API_KEY: ${ATLAS_API_KEY:-}
       WEB_URL: ${WEB_URL:-http://localhost:3000}
       CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000}
       REDIS_ENABLED: ${REDIS_ENABLED:-false}

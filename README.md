@@ -20,7 +20,7 @@ http://localhost:3100
 API routes require:
 
 ```http
-x-api-key: <META_API_KEY>
+x-api-key: <ATLAS_API_KEY>
 ```
 
 ## Main Commands

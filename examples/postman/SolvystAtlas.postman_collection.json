@@ -1,7 +1,7 @@
 {
   "info": {
     "name": "Solvyst Atlas API",
-    "description": "Ready-to-run examples for Solvyst Atlas Meta and Reference APIs. Set BASE_URL and META_API_KEY collection variables before sending requests.",
+    "description": "Ready-to-run examples for Solvyst Atlas Meta and Reference APIs. Set BASE_URL and ATLAS_API_KEY collection variables before sending requests.",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "auth": {
@@ -18,7 +18,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -48,7 +48,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -78,7 +78,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -108,7 +108,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -138,7 +138,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -168,7 +168,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -202,7 +202,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -236,7 +236,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -266,7 +266,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -296,7 +296,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -326,7 +326,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -356,7 +356,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -386,7 +386,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -416,7 +416,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -446,7 +446,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -481,7 +481,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -511,7 +511,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -541,7 +541,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -571,7 +571,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -601,7 +601,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -631,7 +631,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -661,7 +661,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -691,7 +691,7 @@
             "header": [
               {
                 "key": "x-api-key",
-                "value": "{{META_API_KEY}}"
+                "value": "{{ATLAS_API_KEY}}"
               }
             ],
             "url": {
@@ -727,8 +727,8 @@
       "value": "http://localhost:3100"
     },
     {
-      "key": "META_API_KEY",
-      "value": "replace-with-your-meta-api-key",
+      "key": "ATLAS_API_KEY",
+      "value": "replace-with-your-atlas-api-key",
       "type": "secret"
     }
   ]

@@ -47,13 +47,13 @@ http://localhost:3100/api/v1
 ## Authentication
 
 ```http
-x-api-key: <META_API_KEY>
+x-api-key: <ATLAS_API_KEY>
 ```
 
 ## Quick Test
 
 ```bash
 curl \
-  -H "x-api-key: <META_API_KEY>" \
+  -H "x-api-key: <ATLAS_API_KEY>" \
   "http://localhost:3100/api/v1/meta/countries?search=india"
 ```

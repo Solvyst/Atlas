@@ -43,9 +43,10 @@ const envSchema = z
     HOST: z.string().trim().optional(),
     COOKIE_DOMAIN: z.string().trim().optional(),
     WEB_URL: optionalUrl,
-    CORS_ORIGINS: z.string().trim().optional(),
+    CORS_ORIGINS: z.string().trim().default("*"),
     DATABASE_URI: z.string().trim().min(1, "DATABASE_URI is required"),
-    META_API_KEY: z.string().trim().min(16, "META_API_KEY is required"),
+    ATLAS_API_KEY: z.string().trim().optional(),
+    META_API_KEY: z.string().trim().optional(),
     META_RATE_LIMIT_MAX: z.coerce.number().int().positive().default(120),
     META_RATE_LIMIT_WINDOW_MS: z.coerce
       .number()
@@ -63,22 +64,23 @@ const envSchema = z
     EMAIL_QUEUE_CONCURRENCY: z.coerce.number().int().positive().default(5),
   })
   .superRefine((value, ctx) => {
-    if (value.NODE_ENV === "production") {
-      if (!value.WEB_URL && !value.CORS_ORIGINS) {
-        ctx.addIssue({
-          code: "custom",
-          path: ["WEB_URL"],
-          message: "WEB_URL or CORS_ORIGINS is required in production",
-        });
-      }
+    const apiKey = value.ATLAS_API_KEY ?? value.META_API_KEY;
 
-      if (value.META_API_KEY.length < 32) {
-        ctx.addIssue({
-          code: "custom",
-          path: ["META_API_KEY"],
-          message: "META_API_KEY must be at least 32 characters in production",
-        });
-      }
+    if (!apiKey || apiKey.length < 16) {
+      ctx.addIssue({
+        code: "custom",
+        path: ["ATLAS_API_KEY"],
+        message: "ATLAS_API_KEY is required",
+      });
+      return;
+    }
+
+    if (value.NODE_ENV === "production" && apiKey.length < 32) {
+      ctx.addIssue({
+        code: "custom",
+        path: ["ATLAS_API_KEY"],
+        message: "ATLAS_API_KEY must be at least 32 characters in production",
+      });
     }
   });
 
@@ -90,4 +92,7 @@ if (!parsed.success) {
   process.exit(1);
 }
 
-export const env = parsed.data;
+export const env = {
+  ...parsed.data,
+  ATLAS_API_KEY: parsed.data.ATLAS_API_KEY ?? parsed.data.META_API_KEY ?? "",
+};

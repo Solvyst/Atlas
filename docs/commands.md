@@ -352,63 +352,63 @@ curl "http://localhost:3100/health"
 Load API key from root `.env`:
 
 ```sh
-export META_API_KEY=$(grep '^META_API_KEY=' .env | cut -d= -f2- | tr -d '"')
+export ATLAS_API_KEY=$(grep '^ATLAS_API_KEY=' .env | cut -d= -f2- | tr -d '"')
 ```
 
 Countries:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/countries?search=india" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 States:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/states?countryCode=IN" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 Cities:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/cities?countryCode=IN&search=bhubaneswar" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 Phone codes:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/phone-codes?dialCode=+91" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 Currencies:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/currencies?search=INR" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 Timezones:
 
 ```sh
 curl "http://localhost:3100/api/v1/meta/timezones?countryId=101" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 Reference API, business identifiers:
 
 ```sh
 curl "http://localhost:3100/api/v1/reference/business-identifiers?countryCode=IN" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 Reference API, banking rules:
 
 ```sh
 curl "http://localhost:3100/api/v1/reference/banking-rules?countryCode=IN" \
-  -H "x-api-key: $META_API_KEY"
+  -H "x-api-key: $ATLAS_API_KEY"
 ```
 
 Docker server health, default compose port:

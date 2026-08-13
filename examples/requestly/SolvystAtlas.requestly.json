@@ -34,7 +34,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -73,7 +73,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -112,7 +112,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -151,7 +151,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -190,7 +190,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -229,7 +229,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -274,7 +274,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -319,7 +319,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -358,7 +358,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -397,7 +397,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -436,7 +436,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -475,7 +475,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -514,7 +514,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -553,7 +553,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -592,7 +592,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -645,7 +645,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -684,7 +684,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -723,7 +723,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -762,7 +762,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -801,7 +801,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -840,7 +840,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -879,7 +879,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -918,7 +918,7 @@
             {
               "id": 1,
               "key": "x-api-key",
-              "value": "{{META_API_KEY}}",
+              "value": "{{ATLAS_API_KEY}}",
               "isEnabled": true
             }
           ],
@@ -959,8 +959,8 @@
           "localValue": "",
           "type": "string"
         },
-        "META_API_KEY": {
-          "syncValue": "replace-with-your-meta-api-key",
+        "ATLAS_API_KEY": {
+          "syncValue": "replace-with-your-atlas-api-key",
           "localValue": "",
           "type": "string"
         }
