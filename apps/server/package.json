@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "build": "tsc -p ../../packages/database/tsconfig.json && tsc && tsc-alias",
+    "build": "tsc -p ../../packages/database/tsconfig.json && esbuild src/server.ts --bundle --platform=node --format=esm --target=node22 --outfile=dist/server.js --alias:@=./src --banner:js=\"import { createRequire } from 'node:module'; const require = createRequire(import.meta.url);\"",
     "start": "node dist/server.js",
     "worker:email": "tsx src/modules/notification/email/workers/email.worker.ts",
     "typecheck": "tsc -p tsconfig.json --noEmit",
@@ -41,6 +41,7 @@
     "@types/node": "^24.3.1",
     "@typescript-eslint/eslint-plugin": "^8.43.0",
     "@typescript-eslint/parser": "^8.43.0",
+    "esbuild": "^0.25.12",
     "eslint": "^9.35.0",
     "globals": "^17.9.0",
     "nodemon": "^3.1.10",
