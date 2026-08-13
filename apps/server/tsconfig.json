@@ -3,15 +3,20 @@
     "target": "ES2022",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
-
     "jsx": "react-jsx",
     "jsxImportSource": "react",
-
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": [
+        "./src/*"
+      ],
+      "@solvyst-atlas/database": [
+        "../../packages/database/src/index.ts"
+      ],
+      "@solvyst-atlas/database/schema": [
+        "../../packages/database/src/schema/index.ts"
+      ]
     },
-
-    "rootDir": "src",
+    "rootDir": "../..",
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,

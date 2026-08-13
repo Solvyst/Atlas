@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "build": "tsc -p ../../packages/database/tsconfig.json && esbuild src/server.ts --bundle --platform=node --format=esm --target=node22 --outfile=dist/server.js --alias:@=./src --banner:js=\"import { createRequire } from 'node:module'; const require = createRequire(import.meta.url);\"",
+    "build": "NODE_PATH=./node_modules esbuild src/server.ts --bundle --platform=node --format=esm --target=node22 --outfile=dist/server.js --alias:@=./src --alias:@solvyst-atlas/database=../../packages/database/src/index.ts --alias:@solvyst-atlas/database/schema=../../packages/database/src/schema/index.ts --banner:js=\"import { createRequire } from 'node:module'; const require = createRequire(import.meta.url);\"",
     "start": "node dist/server.js",
     "worker:email": "tsx src/modules/notification/email/workers/email.worker.ts",
     "typecheck": "tsc -p tsconfig.json --noEmit",
@@ -17,7 +17,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@solvyst-atlas/database": "workspace:*",
     "bullmq": "^5.58.5",
     "compression": "^1.8.1",
     "cookie-parser": "^1.4.7",
@@ -28,7 +27,8 @@
     "helmet": "^8.3.0",
     "ioredis": "^6.0.0",
     "morgan": "^1.11.0",
-    "zod": "^4.1.7"
+    "zod": "^4.1.7",
+    "pg": "^8.16.3"
   },
   "packageManager": "pnpm@11.21.0",
   "devDependencies": {
@@ -50,6 +50,7 @@
     "tsc-alias": "^1.8.16",
     "tsconfig-paths": "^4.2.0",
     "tsx": "^4.20.5",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "@types/pg": "^8.16.0"
   }
 }

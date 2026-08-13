@@ -30,9 +30,6 @@ importers:
 
   apps/server:
     dependencies:
-      '@solvyst-atlas/database':
-        specifier: workspace:*
-        version: link:../../packages/database
       bullmq:
         specifier: ^5.58.5
         version: 5.78.0(supports-color@5.5.0)
@@ -63,6 +60,9 @@ importers:
       morgan:
         specifier: ^1.11.0
         version: 1.11.0(supports-color@5.5.0)
+      pg:
+        specifier: ^8.16.3
+        version: 8.21.0
       zod:
         specifier: ^4.1.7
         version: 4.4.3
@@ -88,6 +88,9 @@ importers:
       '@types/node':
         specifier: ^24.3.1
         version: 24.13.1
+      '@types/pg':
+        specifier: ^8.16.0
+        version: 8.20.0
       '@typescript-eslint/eslint-plugin':
         specifier: ^8.43.0
         version: 8.61.0(@typescript-eslint/parser@8.61.0(eslint@9.39.4(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3))(eslint@9.39.4(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)
