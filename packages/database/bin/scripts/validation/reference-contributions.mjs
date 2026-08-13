@@ -5,6 +5,7 @@ import { referenceContributionsDir } from "../_shared/paths.mjs";
 import { readJsonArray } from "../_shared/json.mjs";
 import { allowOnlyFields, isBlank } from "../_shared/validation.mjs";
 
+// Reference Validation Specs
 const specs = {
   "currency-formats.json": {
     required: [
@@ -218,8 +219,10 @@ const specs = {
   },
 };
 
+// Validation Errors
 const errors = [];
 
+// Validate Reference Files
 for (const [fileName, spec] of Object.entries(specs)) {
   const filePath = path.join(referenceContributionsDir, fileName);
   if (!fs.existsSync(filePath)) {
@@ -277,6 +280,7 @@ for (const [fileName, spec] of Object.entries(specs)) {
   });
 }
 
+// Print Validation Result
 if (errors.length) {
   console.error("Reference contribution validation failed:");
   for (const error of errors) console.error("- " + error);

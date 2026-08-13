@@ -8,9 +8,11 @@ import {
   readOptionalContributionArray,
 } from "../_shared/json.mjs";
 
+// Import Constants
 const defaultTimestamp = "2014-01-01 12:01:01";
 const generatedAdminAreaStartId = 9_000_000;
 
+// Admin-Only Locality Types
 const adminOnlyLocalityTypes = new Set([
   "county",
   "regency",
@@ -29,6 +31,7 @@ const adminOnlyLocalityTypes = new Set([
   "historical_capital",
 ]);
 
+// Read Geo JSON
 function readJson(relativePath) {
   return readContributionArray(geoContributionsDir, relativePath);
 }
@@ -41,20 +44,24 @@ function optionalJson(relativePath, fallback = []) {
   return readOptionalContributionArray(geoContributionsDir, relativePath, fallback);
 }
 
+// Pick WikiData ID
 function pickWikiDataId(row) {
   return row.wikiDataId ?? row.wiki_data_id ?? null;
 }
 
+// Normalize Admin Level
 function normalizeAdminLevel(row, fallbackLevel) {
   return row.level ?? fallbackLevel;
 }
 
+// Detect Settlement
 function isSettlement(row) {
   return row.type === undefined || row.type === null
     ? Boolean(row.latitude && row.longitude)
     : !adminOnlyLocalityTypes.has(row.type);
 }
 
+// Normalize Phone Code
 function normalizePhoneCode(phonecode) {
   const raw = String(phonecode ?? "").trim();
   const cleaned = raw.replace(/^\++/, "").replace(/\s+/g, "");
@@ -68,6 +75,7 @@ function normalizePhoneCode(phonecode) {
   };
 }
 
+// Build Regions
 function buildRegions() {
   return readJson("regions/regions.json").map((region) => ({
     id: region.id,
@@ -80,6 +88,7 @@ function buildRegions() {
   }));
 }
 
+// Build Subregions
 function buildSubregions() {
   return readJson("subregions/subregions.json").map((subregion) => ({
     id: subregion.id,
@@ -93,6 +102,7 @@ function buildSubregions() {
   }));
 }
 
+// Build Countries
 function buildCountries(countries) {
   return countries.map((country) => ({
     id: country.id,
@@ -130,6 +140,7 @@ function buildCountries(countries) {
   }));
 }
 
+// Build States
 function buildStates(states) {
   return states.map((state) => ({
     id: state.id,
@@ -157,6 +168,7 @@ function buildStates(states) {
   }));
 }
 
+// Build Cities
 function buildCities(countries, statesById, cities) {
   return cities.map((city) => {
     const state = statesById.get(city.state_id);
@@ -188,6 +200,7 @@ function buildCities(countries, statesById, cities) {
   });
 }
 
+// Build Admin Areas
 function buildAdminAreas(states) {
   const adminAreas = states.map((state) => ({
     id: state.id,
@@ -242,6 +255,7 @@ function buildAdminAreas(states) {
   return adminAreas;
 }
 
+// Build Localities
 function buildLocalities(countries, statesById, cities) {
   return cities.map((city) => {
     const state = statesById.get(city.state_id);
@@ -276,6 +290,7 @@ function buildLocalities(countries, statesById, cities) {
   });
 }
 
+// Build Currencies
 function buildCurrencies(countries) {
   const byCode = new Map();
 
@@ -293,6 +308,7 @@ function buildCurrencies(countries) {
   return [...byCode.values()].sort((a, b) => a.code.localeCompare(b.code));
 }
 
+// Build Postal Code Example
 function postalCodeExample(format) {
   if (!format) return null;
   return String(format)
@@ -302,6 +318,7 @@ function postalCodeExample(format) {
     .replace(/[0-9]/g, "1");
 }
 
+// Build Postal Code Rules
 function buildPostalCodeRules(countries) {
   return countries.map((country) => ({
     country_id: country.id,
@@ -318,6 +335,7 @@ function buildPostalCodeRules(countries) {
   }));
 }
 
+// Build Phone Number Rules
 function buildPhoneNumberRules(countries) {
   return countries
     .filter((country) => country.phonecode)
@@ -339,6 +357,7 @@ function buildPhoneNumberRules(countries) {
     });
 }
 
+// Build Address Formats
 function buildAddressFormats(countries) {
   return countries.map((country) => {
     const hasPostalCode = Boolean(
@@ -368,12 +387,14 @@ function buildAddressFormats(countries) {
   });
 }
 
+// Load Geo Source Data
 const countries = readJson("countries/countries.json");
 const states = readJson("states/states.json");
 const cities = readJsonDir("cities");
 const countriesById = new Map(countries.map((country) => [country.id, country]));
 const statesById = new Map(states.map((state) => [state.id, state]));
 
+// Geo Dataset Imports
 const datasets = [
   dataset("geo.regions", [
     "id",
@@ -606,4 +627,5 @@ const datasets = [
   ], buildAddressFormats(countries), ["country_id"]),
 ];
 
+// Run Geo Import
 await runDatabaseImport(datasets);

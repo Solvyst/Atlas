@@ -5,10 +5,12 @@ import pg from "pg";
 
 import { packageRoot, workspaceRoot } from "./paths.mjs";
 
+// Quote Ident
 function quoteIdent(value) {
   return '"' + value.replaceAll('"', '""') + '"';
 }
 
+// Quote Table
 function quoteTable(tableName) {
   return tableName
     .split(".")
@@ -16,6 +18,7 @@ function quoteTable(tableName) {
     .join(".");
 }
 
+// Normalize DB Value
 function normalizeValue(value) {
   if (value === undefined) return null;
   if (typeof value === "boolean") return value ? 1 : 0;
@@ -23,10 +26,18 @@ function normalizeValue(value) {
   return value;
 }
 
-export function dataset(tableName, columns, rows, conflictColumns = ["id"], name = tableName) {
+// Dataset Config
+export function dataset(
+  tableName,
+  columns,
+  rows,
+  conflictColumns = ["id"],
+  name = tableName,
+) {
   return { name, tableName, columns, rows, conflictColumns };
 }
 
+// Batch UPSERT Rows
 export async function upsertRows(client, config, onProgress) {
   if (!config.rows.length) return 0;
 
@@ -40,7 +51,9 @@ export async function upsertRows(client, config, onProgress) {
   const updateSql = updateColumns.length
     ? "DO UPDATE SET " +
       updateColumns
-        .map((column) => quoteIdent(column) + " = EXCLUDED." + quoteIdent(column))
+        .map(
+          (column) => quoteIdent(column) + " = EXCLUDED." + quoteIdent(column),
+        )
         .join(", ")
     : "DO NOTHING";
 
@@ -78,6 +91,7 @@ export async function upsertRows(client, config, onProgress) {
   return imported;
 }
 
+// Format Duration
 function formatDuration(startedAt) {
   const seconds = Math.max(0, Math.round((Date.now() - startedAt) / 1000));
   const minutes = Math.floor(seconds / 60);
@@ -85,6 +99,7 @@ function formatDuration(startedAt) {
   return minutes ? minutes + "m " + rest + "s" : rest + "s";
 }
 
+// Import Spinner
 function createImportSpinner(label, totalRows) {
   if (!process.stdout.isTTY || process.env.CI === "true") {
     return {
@@ -104,7 +119,16 @@ function createImportSpinner(label, totalRows) {
   function render(status = "importing") {
     const frame = frames[frameIndex++ % frames.length];
     const rows = importedRows + "/" + totalRows;
-    const message = frame + " " + label + " " + status + " " + rows + " rows " + formatDuration(startedAt);
+    const message =
+      frame +
+      " " +
+      label +
+      " " +
+      status +
+      " " +
+      rows +
+      " rows " +
+      formatDuration(startedAt);
     process.stdout.write("\r" + message.padEnd(100, " "));
   }
 
@@ -118,18 +142,35 @@ function createImportSpinner(label, totalRows) {
     succeed(count) {
       clearInterval(timer);
       process.stdout.write(
-        "\r" + ("OK " + label + " upserted " + count + " rows in " + formatDuration(startedAt)).padEnd(100, " ") + "\n",
+        "\r" +
+          (
+            "OK " +
+            label +
+            " upserted " +
+            count +
+            " rows in " +
+            formatDuration(startedAt)
+          ).padEnd(100, " ") +
+          "\n",
       );
     },
     fail() {
       clearInterval(timer);
       process.stdout.write(
-        "\r" + ("FAIL " + label + " failed after " + formatDuration(startedAt)).padEnd(100, " ") + "\n",
+        "\r" +
+          (
+            "FAIL " +
+            label +
+            " failed after " +
+            formatDuration(startedAt)
+          ).padEnd(100, " ") +
+          "\n",
       );
     },
   };
 }
 
+// Run Database Import
 export async function runDatabaseImport(datasets) {
   dotenv.config({ path: path.join(workspaceRoot, ".env") });
   dotenv.config({ path: path.join(packageRoot, ".env") });

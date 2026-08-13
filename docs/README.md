@@ -24,7 +24,7 @@ Solvyst Atlas is a metadata service for building reliable business applications.
 - Interactive data CLI and generated CSV exports
 - API key authentication
 - Rate limiting
-- Docker and CI/CD support
+- Docker support
 
 ## Documentation
 
@@ -37,7 +37,6 @@ Solvyst Atlas is a metadata service for building reliable business applications.
 - [API Result Examples](./api-results.md)
 - [Postman and Requestly Examples](./examples.md)
 - [Deployment](./deployment.md)
-- [Changelog](../CHANGELOG.md)
 
 ## Local Base URL
 

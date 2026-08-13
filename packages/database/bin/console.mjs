@@ -5,10 +5,12 @@ import { spawn } from "node:child_process";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
+// CLI Paths
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const packageRoot = path.resolve(__dirname, "..");
 const rl = readline.createInterface({ input, output });
 
+// CLI Actions
 const actions = [
   {
     key: "1",
@@ -50,6 +52,7 @@ const actions = [
   },
 ];
 
+// CLI Banner
 function banner() {
   console.log("");
   console.log("============================================================");
@@ -61,6 +64,7 @@ function banner() {
   console.log("");
 }
 
+// CLI Menu
 function menu() {
   for (const action of actions) {
     console.log(action.key + ". " + action.label);
@@ -69,6 +73,7 @@ function menu() {
   console.log("");
 }
 
+// Run Command
 async function runCommand(command, args) {
   await new Promise((resolve, reject) => {
     const child = spawn(command, args, {
@@ -84,6 +89,7 @@ async function runCommand(command, args) {
   });
 }
 
+// Confirm Database Write
 async function confirmDangerous(action) {
   console.log("");
   console.log("This action writes to the configured PostgreSQL database.");
@@ -92,6 +98,7 @@ async function confirmDangerous(action) {
   return answer.trim() === "IMPORT";
 }
 
+// CLI Loop
 try {
   while (true) {
     banner();

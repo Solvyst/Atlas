@@ -1,12 +1,14 @@
 import fs from "node:fs";
 import path from "node:path";
 
+// Read JSON Array
 export function readJsonArray(filePath, label = filePath) {
   const rows = JSON.parse(fs.readFileSync(filePath, "utf8"));
   if (!Array.isArray(rows)) throw new Error(label + " must contain a JSON array");
   return rows;
 }
 
+// Read Required Contribution Array
 export function readContributionArray(rootDir, relativePath) {
   const filePath = path.join(rootDir, relativePath);
   if (!fs.existsSync(filePath)) {
@@ -15,11 +17,13 @@ export function readContributionArray(rootDir, relativePath) {
   return readJsonArray(filePath, relativePath);
 }
 
+// Read Optional Contribution Array
 export function readOptionalContributionArray(rootDir, relativePath, fallback = []) {
   const filePath = path.join(rootDir, relativePath);
   return fs.existsSync(filePath) ? readJsonArray(filePath, relativePath) : fallback;
 }
 
+// Read Contribution Array With Errors
 export function readContributionArrayOrErrors(rootDir, relativePath, errors) {
   const filePath = path.join(rootDir, relativePath);
   if (!fs.existsSync(filePath)) {
@@ -35,6 +39,7 @@ export function readContributionArrayOrErrors(rootDir, relativePath, errors) {
   }
 }
 
+// Read JSON Directory
 export function readJsonDir(rootDir, relativeDir) {
   const dir = path.join(rootDir, relativeDir);
   if (!fs.existsSync(dir)) return [];
@@ -46,6 +51,7 @@ export function readJsonDir(rootDir, relativeDir) {
     .flatMap((entry) => readContributionArray(rootDir, path.join(relativeDir, entry.name)));
 }
 
+// Walk JSON Files
 export function walkJsonFiles(dir) {
   if (!fs.existsSync(dir)) return [];
   return fs

@@ -10,6 +10,7 @@ import {
   timestamp,
 } from "drizzle-orm/pg-core";
 
+// Shared Types
 export type JsonObject = Record<string, unknown>;
 
 export type CountryTimezone = {
@@ -20,8 +21,10 @@ export type CountryTimezone = {
   tzName: string;
 };
 
+// Geo Schema
 export const geoSchema = pgSchema("geo");
 
+// Regions Table
 export const geoRegions = geoSchema.table("regions", {
   id: integer("id").primaryKey(),
   name: text("name").notNull(),
@@ -32,6 +35,7 @@ export const geoRegions = geoSchema.table("regions", {
   wiki_data_id: text("wiki_data_id"),
 });
 
+// Subregions Table
 export const geoSubregions = geoSchema.table(
   "subregions",
   {
@@ -47,6 +51,7 @@ export const geoSubregions = geoSchema.table(
   (table) => [index("geo_subregions_region_id_idx").on(table.region_id)],
 );
 
+// Countries Table
 export const geoCountries = geoSchema.table(
   "countries",
   {
@@ -91,6 +96,7 @@ export const geoCountries = geoSchema.table(
   ],
 );
 
+// States Table
 export const geoStates = geoSchema.table(
   "states",
   {
@@ -126,6 +132,7 @@ export const geoStates = geoSchema.table(
   ],
 );
 
+// Cities Table
 export const geoCities = geoSchema.table(
   "cities",
   {
@@ -157,6 +164,7 @@ export const geoCities = geoSchema.table(
   ],
 );
 
+// Admin Areas Table
 export const geoAdminAreas = geoSchema.table(
   "admin_areas",
   {
@@ -198,6 +206,7 @@ export const geoAdminAreas = geoSchema.table(
   ],
 );
 
+// Localities Table
 export const geoLocalities = geoSchema.table(
   "localities",
   {
@@ -235,6 +244,7 @@ export const geoLocalities = geoSchema.table(
   ],
 );
 
+// Languages Table
 export const geoLanguages = geoSchema.table(
   "languages",
   {
@@ -249,6 +259,7 @@ export const geoLanguages = geoSchema.table(
   (table) => [index("geo_languages_name_idx").on(table.name)],
 );
 
+// Locales Table
 export const geoLocales = geoSchema.table(
   "locales",
   {
@@ -271,6 +282,7 @@ export const geoLocales = geoSchema.table(
   ],
 );
 
+// Postal Code Rules Table
 export const geoPostalCodeRules = geoSchema.table(
   "postal_code_rules",
   {
@@ -289,6 +301,7 @@ export const geoPostalCodeRules = geoSchema.table(
   ],
 );
 
+// Phone Number Rules Table
 export const geoPhoneNumberRules = geoSchema.table(
   "phone_number_rules",
   {
@@ -310,6 +323,7 @@ export const geoPhoneNumberRules = geoSchema.table(
   ],
 );
 
+// Address Formats Table
 export const geoAddressFormats = geoSchema.table(
   "address_formats",
   {
@@ -328,6 +342,7 @@ export const geoAddressFormats = geoSchema.table(
   ],
 );
 
+// Phone Codes Table
 export const geoPhoneCodes = geoSchema.table(
   "phone_codes",
   {
@@ -350,12 +365,14 @@ export const geoPhoneCodes = geoSchema.table(
   ],
 );
 
+// Currencies Table
 export const geoCurrencies = geoSchema.table("currencies", {
   code: text("code").primaryKey(),
   name: text("name"),
   symbol: text("symbol"),
 });
 
+// Timezones Table
 export const geoTimezones = geoSchema.table("timezones", {
   id: integer("id").primaryKey(),
   country_id: integer("country_id").notNull(),
@@ -366,6 +383,7 @@ export const geoTimezones = geoSchema.table("timezones", {
   tz_name: text("tz_name"),
 });
 
+// Geo Select And Insert Types
 export type GeoRegion = typeof geoRegions.$inferSelect;
 export type NewGeoRegion = typeof geoRegions.$inferInsert;
 export type GeoSubregion = typeof geoSubregions.$inferSelect;

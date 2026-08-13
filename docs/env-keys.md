@@ -1,70 +1,38 @@
 # Environment Keys
 
-## Root `.env`
+Solvyst Atlas uses a single root `.env` file for local commands, database migrations/imports, Docker Compose, and the API server.
 
-Used by Drizzle migrations, trusted JSON import commands, and other root database commands.
+Create it from the example:
+
+```sh
+cp .env.example .env
+```
+
+## Required Keys
+
+`DATABASE_URI`
+
+PostgreSQL connection string used by local pnpm commands, Drizzle migrations, and JSON import scripts.
+
+```env
+DATABASE_URI="postgresql://user:password@127.0.0.1:5432/solvyst_atlas?sslmode=disable"
+```
+
+For Supabase, use the Session Pooler URL and keep SSL enabled:
 
 ```env
 DATABASE_URI="postgresql://postgres.<project-ref>:<database-password>@aws-0-<region>.pooler.supabase.com:5432/postgres?sslmode=require"
 ```
 
-Notes:
+`DOCKER_DATABASE_URI`
 
-- `DATABASE_URI` should be a single PostgreSQL connection string.
-- For Supabase session pooler, use the Session Pooler URL from Supabase, not the Transaction Pooler URL.
-- Keep `sslmode=require` in the URL.
-
-## Server `apps/server/.env`
+PostgreSQL connection string used by the server container in Docker Compose. For local Docker PostgreSQL, the hostname should be `postgres` instead of `127.0.0.1`.
 
 ```env
-APP_VERSION=0.1.0
-NODE_ENV=development
-
-PORT=3100
-HOST=0.0.0.0
-APP_NAME="Solvyst Atlas"
-
-DATABASE_URI=""
-
-REDIS_HOST=host.docker.internal
-REDIS_ENABLED=false
-REDIS_PORT=6379
-REDIS_URL=redis://127.0.0.1:6379
-REDIS_TLS=false
-BULL_PREFIX=solvyst-atlas
-EMAIL_QUEUE_RETRY=3
-EMAIL_QUEUE_CONCURRENCY=5
-
-WEB_URL=http://localhost:3000
-ATLASKIT_API_URL=http://localhost:3100
-
-
-META_API_KEY="<strong-random-secret>"
-META_RATE_LIMIT_MAX=120
-META_RATE_LIMIT_WINDOW_MS=60000
+DOCKER_DATABASE_URI="postgresql://solvyst_atlas:solvyst_atlas@postgres:5432/solvyst_atlas?sslmode=disable"
 ```
 
-## Key Details
-
-`DATABASE_URI`
-
-PostgreSQL connection string used by the Node server, Drizzle migrations, and trusted JSON import scripts.
-
-`REDIS_ENABLED`
-
-Set `false` for MVP/single-instance deployments. Set `true` only when Redis is available for distributed rate limiting and queues.
-
-`WEB_URL`
-
-Browser client origin allowed by CORS.
-
-`ATLASKIT_API_URL`
-
-Server/API origin allowed by CORS when needed.
-
-`ATLASKIT_API_KEY`
-
-API key used by this server when it calls the Solvyst Atlas meta service as an external dependency. If omitted, the client falls back to `META_API_KEY`.
+For an external hosted database, this can usually be the same value as `DATABASE_URI`.
 
 `META_API_KEY`
 
@@ -80,18 +48,78 @@ Generate a strong local key:
 openssl rand -hex 32
 ```
 
-`META_RATE_LIMIT_MAX`
+`WEB_URL`
 
-Maximum requests allowed per API key/IP window.
+Primary browser/client origin allowed by CORS.
 
-`META_RATE_LIMIT_WINDOW_MS`
+```env
+WEB_URL="http://localhost:3000"
+```
 
-Rate-limit window in milliseconds.
+## App Keys
+
+```env
+APP_NAME="Solvyst Atlas"
+APP_VERSION=0.1.0
+NODE_ENV=production
+HOST=0.0.0.0
+PORT=5000
+CORS_ORIGINS="http://localhost:3000"
+```
+
+`CORS_ORIGINS` accepts comma-separated origins:
+
+```env
+CORS_ORIGINS="https://app.example.com,https://admin.example.com"
+```
+
+## Local Docker PostgreSQL Keys
+
+Used by the `postgres` service in `docker-compose.yml`:
+
+```env
+POSTGRES_DB=solvyst_atlas
+POSTGRES_USER=solvyst_atlas
+POSTGRES_PASSWORD="solvyst_atlas"
+POSTGRES_PORT=5432
+```
+
+## Redis Keys
+
+Redis is optional. Keep it disabled for MVP/single-instance deployments unless you need distributed rate limiting or queues.
+
+```env
+REDIS_ENABLED=false
+REDIS_HOST=127.0.0.1
+REDIS_PORT=6379
+REDIS_URL=redis://redis:6379
+REDIS_TLS=false
+BULL_PREFIX=solvyst-atlas
+EMAIL_QUEUE_RETRY=3
+EMAIL_QUEUE_CONCURRENCY=5
+```
+
+When running Redis through Docker Compose, use the Redis profile:
+
+```sh
+docker compose --profile redis up --build server redis
+```
+
+## Rate Limit Keys
+
+```env
+META_RATE_LIMIT_MAX=120
+META_RATE_LIMIT_WINDOW_MS=60000
+```
+
+`META_RATE_LIMIT_MAX` is the maximum requests allowed per API key/IP window.
+
+`META_RATE_LIMIT_WINDOW_MS` is the rate-limit window in milliseconds.
 
 ## Security Notes
 
 - Do not commit `.env`.
 - Keep only `.env.example` in Git.
-- CORS is browser protection only.
-- API key protects server-to-server, Postman, curl, and browser calls.
-- IP allowlist is optional and should be used only when caller IPs are static.
+- Use a strong `META_API_KEY` in production.
+- CORS is browser protection only; it is not a replacement for API authentication.
+- Redis is optional. If `REDIS_ENABLED=false`, in-memory rate limiting is used for the running process.

@@ -26,7 +26,7 @@ Update `.env` with your database URI, API key, Redis mode, and allowed web origi
 
 ## Database Setup
 
-If you selected local Docker PostgreSQL, start it first:
+If you use local Docker PostgreSQL, start it first:
 
 ```sh
 docker compose --profile local-db up -d postgres

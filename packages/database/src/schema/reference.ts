@@ -10,8 +10,10 @@ import {
 
 import type { JsonObject } from "./geo.js";
 
+// Reference Schema
 export const referenceSchema = pgSchema("reference");
 
+// Currency Formats Table
 export const referenceCurrencyFormats = referenceSchema.table(
   "currency_formats",
   {
@@ -37,6 +39,7 @@ export const referenceCurrencyFormats = referenceSchema.table(
   ],
 );
 
+// Phone Number Rules Table
 export const referencePhoneNumberRules = referenceSchema.table(
   "phone_number_rules",
   {
@@ -62,6 +65,7 @@ export const referencePhoneNumberRules = referenceSchema.table(
   ],
 );
 
+// Business Identifiers Table
 export const referenceBusinessIdentifiers = referenceSchema.table(
   "business_identifiers",
   {
@@ -91,6 +95,7 @@ export const referenceBusinessIdentifiers = referenceSchema.table(
   ],
 );
 
+// Banking Rules Table
 export const referenceBankingRules = referenceSchema.table(
   "banking_rules",
   {
@@ -112,6 +117,7 @@ export const referenceBankingRules = referenceSchema.table(
   (table) => [index("reference_banking_rules_country_idx").on(table.country_code)],
 );
 
+// Date-Time Formats Table
 export const referenceDateTimeFormats = referenceSchema.table(
   "date_time_formats",
   {
@@ -129,6 +135,7 @@ export const referenceDateTimeFormats = referenceSchema.table(
   (table) => [index("reference_date_time_formats_country_idx").on(table.country_code)],
 );
 
+// Company Types Table
 export const referenceCompanyTypes = referenceSchema.table(
   "company_types",
   {
@@ -154,6 +161,7 @@ export const referenceCompanyTypes = referenceSchema.table(
   ],
 );
 
+// Units Table
 export const referenceUnits = referenceSchema.table(
   "units",
   {
@@ -176,6 +184,7 @@ export const referenceUnits = referenceSchema.table(
   ],
 );
 
+// Holidays Table
 export const referenceHolidays = referenceSchema.table(
   "holidays",
   {
@@ -201,6 +210,7 @@ export const referenceHolidays = referenceSchema.table(
   ],
 );
 
+// Reference Select And Insert Types
 export type ReferenceCurrencyFormat = typeof referenceCurrencyFormats.$inferSelect;
 export type NewReferenceCurrencyFormat = typeof referenceCurrencyFormats.$inferInsert;
 export type ReferencePhoneNumberRule = typeof referencePhoneNumberRules.$inferSelect;

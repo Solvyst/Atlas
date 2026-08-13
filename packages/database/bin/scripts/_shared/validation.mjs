@@ -1,7 +1,9 @@
+// Is Blank
 export function isBlank(value) {
   return value === undefined || value === null || value === "";
 }
 
+// Require Objects
 export function requireObjects(relativePath, rows, errors) {
   rows.forEach((row, index) => {
     if (!row || typeof row !== "object" || Array.isArray(row)) {
@@ -10,6 +12,7 @@ export function requireObjects(relativePath, rows, errors) {
   });
 }
 
+// Allow Only Fields
 export function allowOnlyFields(relativePath, rows, fields, errors) {
   const allowed = new Set(fields);
   rows.forEach((row, index) => {
@@ -29,6 +32,7 @@ export function allowOnlyFields(relativePath, rows, fields, errors) {
   });
 }
 
+// Require Fields
 export function requireFields(relativePath, rows, fields, errors) {
   rows.forEach((row, index) => {
     if (!row || typeof row !== "object" || Array.isArray(row)) return;
@@ -40,12 +44,14 @@ export function requireFields(relativePath, rows, fields, errors) {
   });
 }
 
+// Validate Rows
 export function validateRows(relativePath, rows, spec, requiredFields, errors) {
   requireObjects(relativePath, rows, errors);
   allowOnlyFields(relativePath, rows, spec, errors);
   requireFields(relativePath, rows, requiredFields, errors);
 }
 
+// Check Unique
 export function checkUnique(relativePath, rows, field, errors) {
   const seen = new Set();
   rows.forEach((row, index) => {

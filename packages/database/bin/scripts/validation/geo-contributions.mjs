@@ -5,6 +5,7 @@ import { geoContributionsDir } from "../_shared/paths.mjs";
 import { readContributionArrayOrErrors, walkJsonFiles } from "../_shared/json.mjs";
 import { checkUnique, validateRows } from "../_shared/validation.mjs";
 
+// Required Geo Files
 const requiredFiles = [
   path.join("regions", "regions.json"),
   path.join("subregions", "subregions.json"),
@@ -16,6 +17,7 @@ const requiredFiles = [
   path.join("locales", "locales.json"),
 ];
 
+// Geo Field Specs
 const fieldSpecs = {
   regions: [
     "created_at",
@@ -177,12 +179,15 @@ const fieldSpecs = {
   ],
 };
 
+// Validation Errors
 const errors = [];
 
+// Read Geo Array
 function readArray(relativePath) {
   return readContributionArrayOrErrors(geoContributionsDir, relativePath, errors);
 }
 
+// Check Required Files
 for (const file of requiredFiles) readArray(file);
 
 const regions = readArray(path.join("regions", "regions.json"));
@@ -248,10 +253,12 @@ checkUnique("phone-codes/phone-codes.json", phoneCodes, "id", errors);
 checkUnique("timezones/timezones.json", timezones, "id", errors);
 checkUnique("locales/locales.json", locales, "code", errors);
 
+// Foreign Key Sets
 const countryIds = new Set(countries.map((country) => country.id));
 const countryCodes = new Set(countries.map((country) => country.iso2));
 const stateIds = new Set(states.map((state) => state.id));
 
+// Validate Phone Code Relations
 for (const [index, phoneCode] of phoneCodes.entries()) {
   if (!countryIds.has(phoneCode.country_id)) {
     errors.push(
@@ -271,6 +278,7 @@ for (const [index, phoneCode] of phoneCodes.entries()) {
   }
 }
 
+// Validate Locale Relations
 const languageCodes = new Set(languages.map((language) => language.code));
 
 for (const [index, locale] of locales.entries()) {
@@ -292,6 +300,7 @@ for (const [index, locale] of locales.entries()) {
   }
 }
 
+// Validate Timezone Relations
 for (const [index, timezone] of timezones.entries()) {
   if (!countryIds.has(timezone.country_id)) {
     errors.push(
@@ -303,6 +312,7 @@ for (const [index, timezone] of timezones.entries()) {
   }
 }
 
+// Validate State Relations
 for (const [index, state] of states.entries()) {
   if (!countryIds.has(state.country_id)) {
     errors.push(
@@ -319,6 +329,7 @@ for (const [index, state] of states.entries()) {
   }
 }
 
+// Validate City Files
 const citiesDir = path.join(geoContributionsDir, "cities");
 if (!fs.existsSync(citiesDir)) {
   errors.push("cities: missing directory");
@@ -357,6 +368,7 @@ if (!fs.existsSync(citiesDir)) {
   }
 }
 
+// Validate Postcode Files
 const postcodesDir = path.join(geoContributionsDir, "postcodes");
 if (fs.existsSync(postcodesDir)) {
   for (const filePath of walkJsonFiles(postcodesDir)) {
@@ -371,6 +383,7 @@ if (fs.existsSync(postcodesDir)) {
   }
 }
 
+// Print Validation Result
 if (errors.length) {
   console.error("Geo contribution validation failed:");
   for (const error of errors.slice(0, 200)) console.error("- " + error);

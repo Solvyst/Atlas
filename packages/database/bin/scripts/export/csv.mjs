@@ -4,17 +4,20 @@ import path from "node:path";
 import { contributionsRoot, csvExportRoot, workspaceRoot } from "../_shared/paths.mjs";
 import { readJsonArray, walkJsonFiles } from "../_shared/json.mjs";
 
+// Flatten CSV Value
 function flattenValue(value) {
   if (value === undefined || value === null) return "";
   if (typeof value === "object") return JSON.stringify(value);
   return String(value);
 }
 
+// Escape CSV Value
 function csvEscape(value) {
   const text = flattenValue(value);
   return /[",\n\r]/.test(text) ? '"' + text.replaceAll('"', '""') + '"' : text;
 }
 
+// Collect CSV Columns
 function collectColumns(rows) {
   const columns = [];
   const seen = new Set();
@@ -28,6 +31,7 @@ function collectColumns(rows) {
   return columns;
 }
 
+// Write CSV File
 function writeCsv(outPath, rows) {
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   const columns = collectColumns(rows);
@@ -39,15 +43,18 @@ function writeCsv(outPath, rows) {
   return rows.length;
 }
 
+// Export JSON File
 function exportJsonFile(sourcePath, targetPath) {
   const rows = readJsonArray(sourcePath);
   const count = writeCsv(targetPath, rows);
   console.log(path.relative(workspaceRoot, targetPath) + " (" + count + " rows)");
 }
 
+// Rebuild CSV Export Folder
 fs.rmSync(csvExportRoot, { recursive: true, force: true });
 fs.mkdirSync(csvExportRoot, { recursive: true });
 
+// Export Contribution JSON Files
 for (const jsonPath of walkJsonFiles(contributionsRoot)) {
   const relative = path.relative(contributionsRoot, jsonPath).replace(/.json$/, ".csv");
   exportJsonFile(jsonPath, path.join(csvExportRoot, relative));

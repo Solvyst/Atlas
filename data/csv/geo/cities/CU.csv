@@ -186,8 +186,8 @@ id,name,state_id,state_code,country_id,country_code,type,level,parent_id,latitud
 21984,Yaguajay,274,07,56,CU,adm2,,,22.32691000,-79.23567000,Yaguajay,42218,America/Havana,"{""br"":""Yaguajay"",""ko"":""야구아자이"",""pt-BR"":""Yaguajay"",""pt"":""Yaguajay"",""nl"":""Yaguajay"",""hr"":""Yaguajay"",""fa"":""یاگواجی"",""de"":""Yaguajay"",""es"":""Yaguajay"",""fr"":""Yaguajay"",""ja"":""ヤグアジェイ"",""it"":""Yaguajay"",""zh-CN"":""亚瓜哈伊"",""tr"":""Yaguajay"",""ru"":""Ягуахай"",""uk"":""Ягуаджай"",""pl"":""Yaguajay"",""hi"":""यागुआजय"",""ar"":""ياجواجاي""}",2019-10-06T09:40:02,2025-12-02T14:38:56,1,Q643047
 21985,Yara,275,12,56,CU,adm2,,,20.27465000,-76.95132000,Niños,28944,America/Havana,"{""br"":""Yara"",""ko"":""야라"",""pt-BR"":""Yara"",""pt"":""Yara"",""nl"":""Yara"",""hr"":""Yara"",""fa"":""یارا"",""de"":""Yara"",""es"":""Yara"",""fr"":""Yara"",""ja"":""ヤラ"",""it"":""Yara"",""zh-CN"":""亚拉"",""tr"":""Yara"",""ru"":""Яра"",""uk"":""Яра"",""pl"":""Yara"",""hi"":""यारा"",""ar"":""يارا""}",2019-10-06T09:40:02,2025-12-02T14:39:31,1,Q643047
 21986,Zaza del Medio,274,07,56,CU,city,,,21.99712000,-79.36678000,Zaza del medio,8667,America/Havana,"{""br"":""Zaza del Medio"",""ko"":""자자 델 메디오"",""pt-BR"":""Zaza del Medio"",""pt"":""Zaza del Medio"",""nl"":""Zaza del Medio"",""hr"":""Zaza del Medio"",""fa"":""زازا دل مدیو"",""de"":""Zaza del Medio"",""es"":""Zaza del Medio"",""fr"":""Zaza del Medio"",""ja"":""ザザ・デル・メディオ"",""it"":""Zaza del Medio"",""zh-CN"":""扎扎德尔梅迪奥"",""tr"":""Zaza del Medio"",""ru"":""Заза дель Медио"",""uk"":""Заза дель Медіо"",""pl"":""Zaza del Medio"",""hi"":""ज़ाज़ा डेल मेडियो"",""ar"":""زازا ديل ميديو""}",2019-10-06T09:40:02,2025-12-02T14:38:56,1,Q20600881
-,Playa,272,03,56,CU,section,,,23.09416700,-82.44888900,Playa,178601,America/Havana,,,,,Q2066897
-,Plaza de la Revolución,272,03,56,CU,section,,,23.12444444,-82.38611111,Plaza de la Revolución,139135,America/Havana,,,,,Q2099152
-,Marianao,272,03,56,CU,section,,,23.08333300,-82.43333300,Marianao,134057,America/Havana,,,,,Q2553350
-,La Lisa,272,03,56,CU,section,,,23.02472222,-82.46305556,La Lisa,147415,America/Havana,,,,,Q3648399
-,Cotorro,272,03,56,CU,section,,,23.02611111,-82.24750000,Cotorro,83115,America/Havana,,,,,Q3646457
+163965,Playa,272,03,56,CU,section,,,23.09416700,-82.44888900,Playa,178601,America/Havana,,,,,Q2066897
+163966,Plaza de la Revolución,272,03,56,CU,section,,,23.12444444,-82.38611111,Plaza de la Revolución,139135,America/Havana,,,,,Q2099152
+163967,Marianao,272,03,56,CU,section,,,23.08333300,-82.43333300,Marianao,134057,America/Havana,,,,,Q2553350
+163968,La Lisa,272,03,56,CU,section,,,23.02472222,-82.46305556,La Lisa,147415,America/Havana,,,,,Q3648399
+163969,Cotorro,272,03,56,CU,section,,,23.02611111,-82.24750000,Cotorro,83115,America/Havana,,,,,Q3646457

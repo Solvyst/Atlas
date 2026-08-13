@@ -299,7 +299,7 @@ docker compose --profile local-db rm postgres
 Remove local PostgreSQL data volume only when you intentionally want a fresh DB:
 
 ```sh
-docker volume rm solvyst-atlas_postgres-data
+docker compose --profile local-db down -v
 ```
 
 ## Docker Server
@@ -372,7 +372,7 @@ curl "http://localhost:3100/api/v1/meta/states?countryCode=IN" \
 Cities:
 
 ```sh
-curl "http://localhost:3100/api/v1/meta/cities?countryCode=IN&stateCode=OD" \
+curl "http://localhost:3100/api/v1/meta/cities?countryCode=IN&search=bhubaneswar" \
   -H "x-api-key: $META_API_KEY"
 ```
 
@@ -386,14 +386,14 @@ curl "http://localhost:3100/api/v1/meta/phone-codes?dialCode=+91" \
 Currencies:
 
 ```sh
-curl "http://localhost:3100/api/v1/meta/currencies?code=INR" \
+curl "http://localhost:3100/api/v1/meta/currencies?search=INR" \
   -H "x-api-key: $META_API_KEY"
 ```
 
 Timezones:
 
 ```sh
-curl "http://localhost:3100/api/v1/meta/timezones?countryCode=IN" \
+curl "http://localhost:3100/api/v1/meta/timezones?countryId=101" \
   -H "x-api-key: $META_API_KEY"
 ```
 

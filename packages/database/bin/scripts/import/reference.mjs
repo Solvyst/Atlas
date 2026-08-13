@@ -2,10 +2,12 @@ import { dataset, runDatabaseImport } from "../_shared/import-db.mjs";
 import { referenceContributionsDir } from "../_shared/paths.mjs";
 import { readContributionArray } from "../_shared/json.mjs";
 
+// Read Reference Rows
 function rows(fileName) {
   return readContributionArray(referenceContributionsDir, fileName);
 }
 
+// Reference Dataset Imports
 const datasets = [
   dataset("reference.currency_formats", [
     "id",
@@ -130,4 +132,5 @@ const datasets = [
   ], rows("holidays.json")),
 ];
 
+// Run Reference Import
 await runDatabaseImport(datasets);
