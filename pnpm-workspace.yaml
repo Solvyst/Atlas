@@ -2,6 +2,11 @@ packages:
   - apps/*
   - packages/*
 
+allowBuilds:
+  esbuild: true
+  msgpackr-extract: true
+  unrs-resolver: true
+
 onlyBuiltDependencies:
   - bcrypt
   - esbuild

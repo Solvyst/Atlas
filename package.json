@@ -38,7 +38,7 @@
   "author": "Anil Moharana",
   "email": "hi@anilmoharana.com",
   "license": "ODbL-1.0",
-  "packageManager": "pnpm@10.31.0",
+  "packageManager": "pnpm@11.21.0",
   "dependencies": {
     "dotenv": "^17.4.2",
     "init": "^0.1.2"
