@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "build": "NODE_PATH=./node_modules esbuild src/server.ts --bundle --platform=node --format=esm --target=node22 --outfile=dist/server.js --alias:@=./src --alias:@solvyst-atlas/database=../../packages/database/src/index.ts --alias:@solvyst-atlas/database/schema=../../packages/database/src/schema/index.ts --banner:js=\"import { createRequire } from 'node:module'; const require = createRequire(import.meta.url);\"",
+    "build": "NODE_PATH=./node_modules esbuild src/server.ts --bundle --platform=node --format=esm --target=node22 --packages=external --outfile=dist/server.js --alias:@=./src --alias:@solvyst-atlas/database=../../packages/database/src/index.ts --alias:@solvyst-atlas/database/schema=../../packages/database/src/schema/index.ts --banner:js=\"import { createRequire } from 'node:module'; const require = createRequire(import.meta.url);\"",
     "start": "node dist/server.js",
     "worker:email": "tsx src/modules/notification/email/workers/email.worker.ts",
     "typecheck": "tsc -p tsconfig.json --noEmit",
