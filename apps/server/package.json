@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "build": "pnpm --dir ../.. --filter @solvyst-atlas/database build && tsc && tsc-alias",
+    "build": "tsc -p ../../packages/database/tsconfig.json && tsc && tsc-alias",
     "start": "node dist/server.js",
     "worker:email": "tsx src/modules/notification/email/workers/email.worker.ts",
     "typecheck": "tsc -p tsconfig.json --noEmit",
