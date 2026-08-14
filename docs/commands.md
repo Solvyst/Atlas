@@ -92,6 +92,8 @@ pnpm --filter @solvyst-atlas/database typecheck
 pnpm --filter @solvyst-atlas/database build
 pnpm --filter @solvyst-atlas/server typecheck
 pnpm --filter @solvyst-atlas/server build
+pnpm sdk:typecheck
+pnpm sdk:build
 ```
 
 Clean generated dependency/build folders:

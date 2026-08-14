@@ -1,0 +1,38 @@
+{
+  "name": "@solvyst-atlas/node-sdk",
+  "version": "0.1.0",
+  "description": "Node.js SDK for Solvyst Atlas metadata APIs",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "clean": "rimraf dist"
+  },
+  "keywords": [
+    "solvyst",
+    "atlas",
+    "metadata",
+    "geo",
+    "sdk"
+  ],
+  "author": "Anil Moharana",
+  "license": "ODbL-1.0",
+  "packageManager": "pnpm@11.21.0",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "rimraf": "^5.0.10",
+    "typescript": "^5.9.3"
+  }
+}

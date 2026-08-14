@@ -34,6 +34,7 @@ Solvyst Atlas is a metadata service for building reliable business applications.
 - [Database and Data Import](./database.md)
 - [Meta API](./meta-api.md)
 - [Reference API](./reference-api.md)
+- [Node.js SDK](./node-sdk.md)
 - [API Result Examples](./api-results.md)
 - [Postman and Requestly Examples](./examples.md)
 - [Deployment](./deployment.md)

@@ -51,6 +51,7 @@ API docs:
 - [Meta API](./docs/meta-api.md)
 - [Reference API](./docs/reference-api.md)
 - [API Result Examples](./docs/api-results.md)
+- [Node.js SDK](./docs/node-sdk.md)
 
 Data and contribution docs:
 
@@ -67,6 +68,7 @@ Deployment:
 apps/server          Express API server
 apps/web             Next.js web app
 packages/database    Drizzle schema, migrations, import/export tools
+packages/node-sdk    Typed Node.js SDK for Atlas APIs
 contributions        Canonical JSON source data
 data/csv             Generated CSV exports
 docs                 Documentation
