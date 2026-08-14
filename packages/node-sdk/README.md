@@ -5,13 +5,13 @@ Typed Node.js client for Solvyst Atlas Meta APIs.
 ## Install
 
 ```sh
-npm install @solvyst-atlas/node-sdk
+npm install @solvyst/atlas
 ```
 
 ## Usage
 
 ```ts
-import { SolvystAtlasClient } from "@solvyst-atlas/node-sdk";
+import { SolvystAtlasClient } from "@solvyst/atlas";
 
 const atlas = new SolvystAtlasClient({
   baseUrl: "https://atlasv1.solvyst.com",
