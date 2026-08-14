@@ -1,6 +1,6 @@
 # Node.js SDK
 
-`@solvyst-atlas/node-sdk` is a typed Node.js client for Solvyst Atlas APIs. It hides `x-api-key`, query-string creation, response envelope parsing, timeouts, and API error handling.
+`@solvyst/atlas` is a typed Node.js client for Solvyst Atlas APIs. It hides `x-api-key`, query-string creation, response envelope parsing, timeouts, and API error handling.
 
 ## Build Locally
 
@@ -11,7 +11,7 @@ pnpm sdk:build
 ## Usage
 
 ```ts
-import { SolvystAtlasClient } from "@solvyst-atlas/node-sdk";
+import { SolvystAtlasClient } from "@solvyst/atlas";
 
 const atlas = new SolvystAtlasClient({
   baseUrl: "https://atlasv1.solvyst.com",
@@ -57,7 +57,7 @@ atlas.meta.timezones({ countryId: 101 })
 Non-2xx responses throw `SolvystAtlasError`.
 
 ```ts
-import { SolvystAtlasError } from "@solvyst-atlas/node-sdk";
+import { SolvystAtlasError } from "@solvyst/atlas";
 
 try {
   await atlas.meta.states({});

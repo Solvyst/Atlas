@@ -27,8 +27,8 @@
     "data": "pnpm --filter @solvyst-atlas/database cli",
     "data:export:csv": "pnpm --filter @solvyst-atlas/database export:csv",
     "data:export": "pnpm --filter @solvyst-atlas/database export:all",
-    "sdk:build": "pnpm --filter @solvyst-atlas/node-sdk build",
-    "sdk:typecheck": "pnpm --filter @solvyst-atlas/node-sdk typecheck"
+    "sdk:build": "pnpm --filter @solvyst/atlas build",
+    "sdk:typecheck": "pnpm --filter @solvyst/atlas typecheck"
   },
   "devDependencies": {
     "baseline-browser-mapping": "^2.9.19",
