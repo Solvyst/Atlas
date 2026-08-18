@@ -1,5 +1,51 @@
 {
   "countryCode": "AR",
   "version": 1,
-  "fields": []
+  "name": "Argentina",
+  "fields": [
+    {
+      "code": "CUIT",
+      "label": "CUIT",
+      "description": "Clave Única de Identificación Tributaria",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "30000000007",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "CDI",
+      "label": "CDI",
+      "description": "Clave de Identificación",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "20000000001",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    }
+  ]
 }

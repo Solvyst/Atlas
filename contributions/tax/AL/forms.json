@@ -1,5 +1,52 @@
 {
   "countryCode": "AL",
   "version": 1,
-  "fields": []
+  "name": "Albania",
+  "fields": [
+    {
+      "code": "NID",
+      "label": "Personal Identification Number",
+      "description": "Personal Identification Number used as the fiscal identification code for individual taxpayers in Albania",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "X12345678Y",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[A-Z][0-9]{8}[A-Z]$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "NUIS",
+      "label": "NUIS / NIPT",
+      "description": "Unique Identification Number of the Entity (NUIS), also referred to as NIPT, used to identify registered taxpayers and business entities in Albania",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "K72001008V",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[A-Z][0-9]{8}[A-Z]$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    }
+  ]
 }

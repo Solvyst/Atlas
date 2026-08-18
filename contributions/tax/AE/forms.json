@@ -1,5 +1,73 @@
 {
   "countryCode": "AE",
   "version": 1,
-  "fields": []
+  "name": "United Arab Emirates",
+  "fields": [
+    {
+      "code": "VAT_TRN",
+      "label": "VAT TRN",
+      "description": "Value Added Tax Registration Number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "100000000000003",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{15}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    },
+    {
+      "code": "CT_TRN",
+      "label": "Corporate Tax TRN",
+      "description": "Corporate Tax Registration Number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "100000000000003",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{15}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    },
+    {
+      "code": "EXCISE_TRN",
+      "label": "Excise Tax TRN",
+      "description": "Excise Tax Registration Number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "100000000000003",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{15}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    }
+  ]
 }
