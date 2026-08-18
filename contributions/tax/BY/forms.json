@@ -1,5 +1,30 @@
 {
   "countryCode": "BY",
   "version": 1,
-  "fields": []
+  "name": "Belarus",
+  "fields": [
+    {
+      "code": "UNP",
+      "label": "UNP",
+      "description": "Taxpayer Account Number (Учетный номер плательщика)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "200988541",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

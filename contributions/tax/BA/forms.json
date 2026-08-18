@@ -1,5 +1,29 @@
 {
   "countryCode": "BA",
   "version": 1,
-  "fields": []
+  "name": "Bosnia and Herzegovina",
+  "fields": [
+    {
+      "code": "VAT_ID",
+      "label": "VAT Number",
+      "description": "Value Added Tax identification number issued under the Unified Register of Indirect Taxpayers",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    }
+  ]
 }

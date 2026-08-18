@@ -1,5 +1,29 @@
 {
   "countryCode": "BL",
   "version": 1,
-  "fields": []
+  "name": "Belize",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Taxpayer Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "Enter TIN",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 30
+      }
+    }
+  ]
 }

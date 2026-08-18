@@ -1,5 +1,30 @@
 {
   "countryCode": "BT",
   "version": 1,
-  "fields": []
+  "name": "Bhutan",
+  "fields": [
+    {
+      "code": "TPN",
+      "label": "TPN",
+      "description": "Taxpayer Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "TPN12345",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": null,
+        "maxLength": null
+      }
+    }
+  ]
 }

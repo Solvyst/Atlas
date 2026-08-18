@@ -1,5 +1,29 @@
 {
   "countryCode": "BH",
   "version": 1,
-  "fields": []
+  "name": "Bahrain",
+  "fields": [
+    {
+      "code": "VAT_ACCOUNT_NUMBER",
+      "label": "VAT Account Number",
+      "description": "Value Added Tax Account Number issued by the National Bureau for Revenue",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012345",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{15}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    }
+  ]
 }
