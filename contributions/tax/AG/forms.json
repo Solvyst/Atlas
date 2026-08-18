@@ -1,0 +1,52 @@
+{
+  "countryCode": "AG",
+  "version": 1,
+  "name": "Antigua and Barbuda",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number issued by the Inland Revenue Department",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{5,6}$",
+        "minLength": 5,
+        "maxLength": 6
+      }
+    },
+    {
+      "code": "ABST_NUMBER",
+      "label": "ABST Number",
+      "description": "Antigua and Barbuda Sales Tax registration identifier",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456-58",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": null,
+        "maxLength": null
+      }
+    }
+  ]
+}
