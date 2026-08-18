@@ -1,5 +1,72 @@
 {
   "countryCode": "BE",
   "version": 1,
-  "fields": []
+  "name": "Belgium",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Belgian Tax Identification Number for natural persons (National Register Number or equivalent identification number used for tax purposes)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "85073012345",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "ENTERPRISE_NUMBER",
+      "label": "Enterprise Number",
+      "description": "Unique enterprise identification number assigned by the Crossroads Bank for Enterprises (CBE/KBO/BCE)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "0123456789",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[01][0-9]{9}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Number",
+      "description": "Belgian VAT identification number for persons or entities registered for VAT",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "0123456789",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    }
+  ]
 }

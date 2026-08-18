@@ -1,5 +1,29 @@
 {
   "countryCode": "BJ",
   "version": 1,
-  "fields": []
+  "name": "Benin",
+  "fields": [
+    {
+      "code": "IFU",
+      "label": "IFU",
+      "description": "Identifiant Fiscal Unique",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    }
+  ]
 }

@@ -1,5 +1,30 @@
 {
   "countryCode": "BF",
   "version": 1,
-  "fields": []
+  "name": "Burkina Faso",
+  "fields": [
+    {
+      "code": "IFU",
+      "label": "IFU",
+      "description": "Identifiant Financier Unique",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "00052645C",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{8}[A-Z]$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

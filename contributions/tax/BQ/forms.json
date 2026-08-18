@@ -1,5 +1,30 @@
 {
   "countryCode": "BQ",
   "version": 1,
-  "fields": []
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "fields": [
+    {
+      "code": "CRIB",
+      "label": "CRIB Number",
+      "description": "Centraal Registratie Informatie Belastingplichtige number issued by Belastingdienst Caribisch Nederland for taxpayer identification",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

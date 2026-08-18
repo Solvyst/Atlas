@@ -1,5 +1,52 @@
 {
   "countryCode": "BM",
   "version": 1,
-  "fields": []
+  "name": "Bermuda",
+  "fields": [
+    {
+      "code": "PAYROLL_TAX_ID",
+      "label": "Payroll Tax ID",
+      "description": "Tax identification number issued by the Bermuda Office of the Tax Commissioner for payroll tax purposes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    },
+    {
+      "code": "CIT_TIN",
+      "label": "Corporate Income Tax TIN",
+      "description": "Tax Identification Number issued by the Bermuda Corporate Income Tax Agency for corporate income tax purposes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "CITA-issued TIN",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": false
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }
