@@ -2,7 +2,6 @@ import { Router } from "express";
 
 import {
   getGeoStates,
-  listAddressFormats,
   listAdminAreas,
   listCities,
   listCountries,
@@ -11,8 +10,6 @@ import {
   listLocales,
   listLocalities,
   listPhoneCodes,
-  listPhoneNumberRules,
-  listPostalCodeRules,
   listRegions,
   listStates,
   listTimezones,
@@ -37,9 +34,6 @@ router.get("/admin-areas", listAdminAreas);
 router.get("/localities", listLocalities);
 router.get("/languages", listLanguages);
 router.get("/locales", listLocales);
-router.get("/postal-code-rules", listPostalCodeRules);
-router.get("/phone-number-rules", listPhoneNumberRules);
-router.get("/address-formats", listAddressFormats);
 router.get("/phone-codes", listPhoneCodes);
 router.get("/currencies", listCurrencies);
 router.get("/timezones", listTimezones);

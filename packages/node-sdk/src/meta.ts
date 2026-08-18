@@ -1,13 +1,11 @@
 import { HttpClient } from "./http.js";
 import type {
-  AddressFormat,
   AdminArea,
   City,
   Country,
   Currency,
   GeoStatesResult,
   Language,
-  ListAddressFormatsQuery,
   ListAdminAreasQuery,
   ListCitiesQuery,
   ListCountriesQuery,
@@ -16,8 +14,6 @@ import type {
   ListLocalesQuery,
   ListLocalitiesQuery,
   ListPhoneCodesQuery,
-  ListPhoneNumberRulesQuery,
-  ListPostalCodeRulesQuery,
   ListRegionsQuery,
   ListStatesQuery,
   ListTimezonesQuery,
@@ -25,8 +21,6 @@ import type {
   Locality,
   PaginatedResult,
   PhoneCode,
-  PhoneNumberRule,
-  PostalCodeRule,
   Region,
   State,
   Timezone,
@@ -102,27 +96,6 @@ export class MetaClient {
   }
 
   /*************************** COUNTRY RULES ***************************/
-  postalCodeRules(query?: ListPostalCodeRulesQuery) {
-    return this.http.get<PaginatedResult<PostalCodeRule>>(
-      "/api/v1/meta/postal-code-rules",
-      query,
-    );
-  }
-
-  phoneNumberRules(query?: ListPhoneNumberRulesQuery) {
-    return this.http.get<PaginatedResult<PhoneNumberRule>>(
-      "/api/v1/meta/phone-number-rules",
-      query,
-    );
-  }
-
-  addressFormats(query?: ListAddressFormatsQuery) {
-    return this.http.get<PaginatedResult<AddressFormat>>(
-      "/api/v1/meta/address-formats",
-      query,
-    );
-  }
-
   phoneCodes(query?: ListPhoneCodesQuery) {
     return this.http.get<PaginatedResult<PhoneCode>>(
       "/api/v1/meta/phone-codes",

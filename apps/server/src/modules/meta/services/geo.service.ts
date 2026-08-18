@@ -3,7 +3,6 @@ import { withPagination } from "../utils/meta.utils.js";
 import { AppError } from "@/lib/AppError.js";
 
 import type {
-  ListAddressFormatsInput,
   ListAdminAreasInput,
   ListCitiesInput,
   ListCountriesInput,
@@ -12,8 +11,6 @@ import type {
   ListLocalesInput,
   ListLocalitiesInput,
   ListPhoneCodesInput,
-  ListPhoneNumberRulesInput,
-  ListPostalCodeRulesInput,
   ListRegionsInput,
   ListStatesInput,
   ListTimezonesInput,
@@ -158,27 +155,6 @@ export class GeoService {
   static async listLocales(query: ListLocalesInput) {
     const pagination = withDefaultLimit(query);
     const items = await GeoRepo.listLocales(pagination);
-    return withPagination(items, pagination);
-  }
-
-  /*************************** LIST POSTAL CODE RULES ***************************/
-  static async listPostalCodeRules(query: ListPostalCodeRulesInput) {
-    const pagination = withDefaultLimit(query);
-    const items = await GeoRepo.listPostalCodeRules(pagination);
-    return withPagination(items, pagination);
-  }
-
-  /*************************** LIST PHONE NUMBER RULES ***************************/
-  static async listPhoneNumberRules(query: ListPhoneNumberRulesInput) {
-    const pagination = withDefaultLimit(query);
-    const items = await GeoRepo.listPhoneNumberRules(pagination);
-    return withPagination(items, pagination);
-  }
-
-  /*************************** LIST ADDRESS FORMATS ***************************/
-  static async listAddressFormats(query: ListAddressFormatsInput) {
-    const pagination = withDefaultLimit(query);
-    const items = await GeoRepo.listAddressFormats(pagination);
     return withPagination(items, pagination);
   }
 

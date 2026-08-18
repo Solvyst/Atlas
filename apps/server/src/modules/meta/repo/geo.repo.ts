@@ -2,7 +2,6 @@ import { db } from "@solvyst-atlas/database";
 import { and, asc, eq, ilike, or, type SQL } from "drizzle-orm";
 
 import {
-  geoAddressFormats,
   geoCities,
   geoAdminAreas,
   geoCountries,
@@ -11,8 +10,6 @@ import {
   geoLocales,
   geoLocalities,
   geoPhoneCodes,
-  geoPhoneNumberRules,
-  geoPostalCodeRules,
   geoRegions,
   geoStates,
   geoTimezones,
@@ -23,13 +20,10 @@ import type {
   ListCitiesInput,
   ListCountriesInput,
   ListCurrenciesInput,
-  ListAddressFormatsInput,
   ListLanguagesInput,
   ListLocalesInput,
   ListLocalitiesInput,
   ListPhoneCodesInput,
-  ListPhoneNumberRulesInput,
-  ListPostalCodeRulesInput,
   ListRegionsInput,
   ListStatesInput,
   ListTimezonesInput,
@@ -297,7 +291,7 @@ export class GeoRepo {
     }
     if (input.countryCode) {
       conditions.push(
-        eq(geoLocalities.country_code, input.countryCode.toUpperCase()),
+        eq(geoCountries.iso2, input.countryCode.toUpperCase()),
       );
     }
     if (input.adminAreaId) {
@@ -307,12 +301,44 @@ export class GeoRepo {
       conditions.push(eq(geoLocalities.type, input.type));
     }
     if (input.settlementsOnly) {
-      conditions.push(eq(geoLocalities.is_settlement, 1));
+      conditions.push(eq(geoLocalities.is_settlement, true));
     }
 
     let query = db
-      .select()
+      .select({
+        id: geoLocalities.id,
+        source: geoLocalities.source,
+        external_id: geoLocalities.external_id,
+        country_id: geoLocalities.country_id,
+        admin_area_id: geoLocalities.admin_area_id,
+        parent_id: geoLocalities.parent_id,
+        name: geoLocalities.name,
+        type: geoLocalities.type,
+        level: geoLocalities.level,
+        is_settlement: geoLocalities.is_settlement,
+        latitude: geoLocalities.latitude,
+        longitude: geoLocalities.longitude,
+        native: geoLocalities.native,
+        population: geoLocalities.population,
+        timezone: geoLocalities.timezone,
+        wiki_data_id: geoLocalities.wiki_data_id,
+        country: {
+          id: geoCountries.id,
+          code: geoCountries.iso2,
+          name: geoCountries.name,
+          iso3: geoCountries.iso3,
+        },
+        admin_area: {
+          id: geoAdminAreas.id,
+          code: geoAdminAreas.code,
+          name: geoAdminAreas.name,
+          type: geoAdminAreas.type,
+          level: geoAdminAreas.level,
+        },
+      })
       .from(geoLocalities)
+      .innerJoin(geoCountries, eq(geoLocalities.country_id, geoCountries.id))
+      .leftJoin(geoAdminAreas, eq(geoLocalities.admin_area_id, geoAdminAreas.id))
       .$dynamic()
       .where(and(...conditions))
       .orderBy(asc(geoLocalities.name))
@@ -385,103 +411,6 @@ export class GeoRepo {
       .$dynamic()
       .where(and(...conditions))
       .orderBy(asc(geoLocales.code))
-      .offset(input.offset);
-
-    if (input.limit) query = query.limit(input.limit);
-    return query;
-  }
-
-  /*************************** LIST POSTAL CODE RULES ***************************/
-  static async listPostalCodeRules(input: ListPostalCodeRulesInput) {
-    const conditions: SQL[] = [];
-
-    if (input.search) {
-      const search = like(input.search);
-      conditions.push(
-        or(
-          ilike(geoPostalCodeRules.country_name, search),
-          ilike(geoPostalCodeRules.country_code, search),
-          ilike(geoPostalCodeRules.format, search),
-        )!,
-      );
-    }
-    if (input.countryId) conditions.push(eq(geoPostalCodeRules.country_id, input.countryId));
-    if (input.countryCode) {
-      conditions.push(eq(geoPostalCodeRules.country_code, input.countryCode.toUpperCase()));
-    }
-    if (input.requiredOnly) conditions.push(eq(geoPostalCodeRules.is_required, 1));
-
-    let query = db
-      .select()
-      .from(geoPostalCodeRules)
-      .$dynamic()
-      .where(and(...conditions))
-      .orderBy(asc(geoPostalCodeRules.country_name))
-      .offset(input.offset);
-
-    if (input.limit) query = query.limit(input.limit);
-    return query;
-  }
-
-  /*************************** LIST PHONE NUMBER RULES ***************************/
-  static async listPhoneNumberRules(input: ListPhoneNumberRulesInput) {
-    const conditions: SQL[] = [];
-
-    if (input.search) {
-      const search = like(input.search);
-      const normalized = normalizeDialCode(input.search);
-      conditions.push(
-        or(
-          ilike(geoPhoneNumberRules.country_name, search),
-          ilike(geoPhoneNumberRules.country_code, search),
-          ilike(geoPhoneNumberRules.dial_code, like(normalized)),
-        )!,
-      );
-    }
-    if (input.countryId) conditions.push(eq(geoPhoneNumberRules.country_id, input.countryId));
-    if (input.countryCode) {
-      conditions.push(eq(geoPhoneNumberRules.country_code, input.countryCode.toUpperCase()));
-    }
-    if (input.dialCode) {
-      conditions.push(eq(geoPhoneNumberRules.dial_code, normalizeDialCode(input.dialCode)));
-    }
-
-    let query = db
-      .select()
-      .from(geoPhoneNumberRules)
-      .$dynamic()
-      .where(and(...conditions))
-      .orderBy(asc(geoPhoneNumberRules.dial_code), asc(geoPhoneNumberRules.country_name))
-      .offset(input.offset);
-
-    if (input.limit) query = query.limit(input.limit);
-    return query;
-  }
-
-  /*************************** LIST ADDRESS FORMATS ***************************/
-  static async listAddressFormats(input: ListAddressFormatsInput) {
-    const conditions: SQL[] = [];
-
-    if (input.search) {
-      const search = like(input.search);
-      conditions.push(
-        or(
-          ilike(geoAddressFormats.country_name, search),
-          ilike(geoAddressFormats.country_code, search),
-        )!,
-      );
-    }
-    if (input.countryId) conditions.push(eq(geoAddressFormats.country_id, input.countryId));
-    if (input.countryCode) {
-      conditions.push(eq(geoAddressFormats.country_code, input.countryCode.toUpperCase()));
-    }
-
-    let query = db
-      .select()
-      .from(geoAddressFormats)
-      .$dynamic()
-      .where(and(...conditions))
-      .orderBy(asc(geoAddressFormats.country_name))
       .offset(input.offset);
 
     if (input.limit) query = query.limit(input.limit);

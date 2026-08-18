@@ -7,8 +7,8 @@
   "records": [
     {
       "id": "9035e526-cde4-3fd6-521b-e98b040a271d",
-      "name": "Solvyst Atlas - Meta API",
-      "description": "Geography and localization metadata endpoints.",
+      "name": "Solvyst Atlas API",
+      "description": "Meta, Reference, and Tax metadata endpoints.",
       "type": "collection",
       "parentId": null,
       "deleted": false,
@@ -18,6 +18,34 @@
         }
       },
       "rank": "a0"
+    },
+    {
+      "id": "5b6a6204-6da3-4e15-9bec-8f63f42d1001",
+      "name": "Reference API",
+      "description": "Address and reference metadata endpoints.",
+      "type": "collection",
+      "parentId": null,
+      "deleted": false,
+      "data": {
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "b0"
+    },
+    {
+      "id": "2a9ad884-09b2-421b-9325-4d9d475a0001",
+      "name": "Tax API",
+      "description": "Country tax-profile form metadata endpoints.",
+      "type": "collection",
+      "parentId": null,
+      "deleted": false,
+      "data": {
+        "auth": {
+          "type": "inherit"
+        }
+      },
+      "rank": "c0"
     },
     {
       "id": "13190b1e-d1be-3928-0b0e-fdc278b99611",
@@ -422,93 +450,15 @@
       "rank": "a10"
     },
     {
-      "id": "7562745b-def1-b21b-1ca2-4958f74c8831",
-      "name": "Postal Code Rules",
-      "type": "api",
-      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/meta/postal-code-rules?countryCode=IN",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "countryCode",
-              "value": "IN",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "a11"
-    },
-    {
-      "id": "505ee960-735f-78d6-0f22-bb9a0cb21135",
-      "name": "Phone Number Rules",
-      "type": "api",
-      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/meta/phone-number-rules?dialCode=%2B91",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "dialCode",
-              "value": "+91",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "a12"
-    },
-    {
       "id": "cc40556e-19ee-0b6a-b3b5-8198f47ac8ba",
       "name": "Address Formats",
       "type": "api",
-      "parentId": "9035e526-cde4-3fd6-521b-e98b040a271d",
+      "parentId": "5b6a6204-6da3-4e15-9bec-8f63f42d1001",
       "deleted": false,
       "data": {
         "type": "http",
         "request": {
-          "url": "{{BASE_URL}}/api/v1/meta/address-formats?countryCode=IN",
+          "url": "{{BASE_URL}}/api/v1/reference/address-formats?countryCode=IN",
           "method": "GET",
           "headers": [
             {
@@ -617,29 +567,15 @@
       "rank": "a15"
     },
     {
-      "id": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
-      "name": "Solvyst Atlas - Reference API",
-      "description": "Business reference datasets outside the Meta namespace.",
-      "type": "collection",
-      "parentId": null,
-      "deleted": false,
-      "data": {
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "b0"
-    },
-    {
-      "id": "50c15c0e-2468-b6b7-a324-e53b12e0e2b2",
-      "name": "Currency Formats",
+      "id": "9f0214db-cbb8-4f1d-9ea6-0fef4b0d1001",
+      "name": "Tax Forms",
       "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "parentId": "2a9ad884-09b2-421b-9325-4d9d475a0001",
       "deleted": false,
       "data": {
         "type": "http",
         "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/currency-formats?countryCode=IN",
+          "url": "{{BASE_URL}}/api/v1/tax/forms?search=india",
           "method": "GET",
           "headers": [
             {
@@ -652,8 +588,8 @@
           "queryParams": [
             {
               "id": 1,
-              "key": "countryCode",
-              "value": "IN",
+              "key": "search",
+              "value": "india",
               "isEnabled": true
             }
           ],
@@ -667,18 +603,18 @@
           "type": "inherit"
         }
       },
-      "rank": "b01"
+      "rank": "c1"
     },
     {
-      "id": "f5404640-4a26-5f0d-9f37-8098559eaf78",
-      "name": "Phone Number Rules",
+      "id": "85f97868-76a7-4a67-98f8-9e49d43d1001",
+      "name": "Tax Form By Country",
       "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
+      "parentId": "2a9ad884-09b2-421b-9325-4d9d475a0001",
       "deleted": false,
       "data": {
         "type": "http",
         "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/phone-number-rules?dialCode=%2B91",
+          "url": "{{BASE_URL}}/api/v1/tax/forms/IN",
           "method": "GET",
           "headers": [
             {
@@ -688,14 +624,7 @@
               "isEnabled": true
             }
           ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "dialCode",
-              "value": "+91",
-              "isEnabled": true
-            }
-          ],
+          "queryParams": [],
           "pathVariables": [],
           "body": {
             "contentType": "none"
@@ -706,247 +635,7 @@
           "type": "inherit"
         }
       },
-      "rank": "b02"
-    },
-    {
-      "id": "c956bdcf-3927-9e60-7643-e2acd7873ec9",
-      "name": "Business Identifiers",
-      "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/business-identifiers?countryCode=IN",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "countryCode",
-              "value": "IN",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "b03"
-    },
-    {
-      "id": "2cfb19ff-f22f-6b85-0b3a-6e0f11628f54",
-      "name": "Banking Rules",
-      "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/banking-rules?countryCode=IN",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "countryCode",
-              "value": "IN",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "b04"
-    },
-    {
-      "id": "94ac00ea-f80e-9b30-012a-e27e74a37a73",
-      "name": "Date-Time Formats",
-      "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/date-time-formats?countryCode=IN",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "countryCode",
-              "value": "IN",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "b05"
-    },
-    {
-      "id": "bb37edb4-06a3-fce7-98de-8f44907207d1",
-      "name": "Company Types",
-      "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/company-types?countryCode=IN",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "countryCode",
-              "value": "IN",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "b06"
-    },
-    {
-      "id": "d36ae463-677f-757f-bbab-712009738e39",
-      "name": "Units",
-      "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/units?category=mass",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "category",
-              "value": "mass",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "b07"
-    },
-    {
-      "id": "d6e9cd12-4c9b-b3af-9d4b-03dc05423923",
-      "name": "Holidays",
-      "type": "api",
-      "parentId": "fb5f2649-26ca-93b3-7eeb-c569270bab6b",
-      "deleted": false,
-      "data": {
-        "type": "http",
-        "request": {
-          "url": "{{BASE_URL}}/api/v1/reference/holidays?countryCode=IN&nationalOnly=true",
-          "method": "GET",
-          "headers": [
-            {
-              "id": 1,
-              "key": "x-api-key",
-              "value": "{{ATLAS_API_KEY}}",
-              "isEnabled": true
-            }
-          ],
-          "queryParams": [
-            {
-              "id": 1,
-              "key": "countryCode",
-              "value": "IN",
-              "isEnabled": true
-            },
-            {
-              "id": 2,
-              "key": "nationalOnly",
-              "value": "true",
-              "isEnabled": true
-            }
-          ],
-          "pathVariables": [],
-          "body": {
-            "contentType": "none"
-          },
-          "contentType": "none"
-        },
-        "auth": {
-          "type": "inherit"
-        }
-      },
-      "rank": "b08"
+      "rank": "c2"
     }
   ],
   "environments": [

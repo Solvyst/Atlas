@@ -36,7 +36,7 @@ For an external hosted database, this can usually be the same value as `DATABASE
 
 `ATLAS_API_KEY`
 
-Required for all `/api/v1/meta/*` and `/api/v1/reference/*` routes. Send it as:
+Required for all `/api/v1/meta/*`, `/api/v1/reference/*`, and `/api/v1/tax/*` routes. Send it as:
 
 ```http
 x-api-key: <ATLAS_API_KEY>

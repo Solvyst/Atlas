@@ -97,18 +97,6 @@ export type ListLocalesQuery = PaginationQuery & {
   direction?: "ltr" | "rtl";
 };
 
-export type ListPostalCodeRulesQuery = PaginationQuery & {
-  countryId?: number;
-  countryCode?: string;
-  requiredOnly?: boolean;
-};
-
-export type ListPhoneNumberRulesQuery = PaginationQuery & {
-  countryId?: number;
-  countryCode?: string;
-  dialCode?: string;
-};
-
 export type ListAddressFormatsQuery = PaginationQuery & {
   countryId?: number;
   countryCode?: string;
@@ -128,6 +116,11 @@ export type ListTimezonesQuery = PaginationQuery & {
   zoneName?: string;
 };
 
+/*************************** TAX QUERY TYPES ***************************/
+export type ListTaxFormsQuery = PaginationQuery & {
+  countryCode?: string;
+};
+
 /*************************** META RECORD TYPES ***************************/
 export type AtlasRecord = Record<string, unknown>;
 export type Region = AtlasRecord;
@@ -138,12 +131,21 @@ export type AdminArea = AtlasRecord;
 export type Locality = AtlasRecord;
 export type Language = AtlasRecord;
 export type Locale = AtlasRecord;
-export type PostalCodeRule = AtlasRecord;
-export type PhoneNumberRule = AtlasRecord;
-export type AddressFormat = AtlasRecord;
 export type PhoneCode = AtlasRecord;
 export type Currency = AtlasRecord;
 export type Timezone = AtlasRecord;
+
+/*************************** REFERENCE RECORD TYPES ***************************/
+export type AddressFormat = AtlasRecord;
+
+/*************************** TAX RECORD TYPES ***************************/
+export type TaxCountryForm = AtlasRecord;
+export type TaxFormField = AtlasRecord;
+
+export type TaxCountryFormResult = {
+  form: TaxCountryForm;
+  fields: TaxFormField[];
+};
 
 export type GeoStatesResult = {
   country: Country;

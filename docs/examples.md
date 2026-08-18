@@ -1,6 +1,6 @@
 # Examples
 
-This repo includes ready-to-import API testing examples for Meta and Reference APIs.
+This repo includes ready-to-import API testing examples for Meta, Reference, and Tax APIs.
 
 ## Postman
 
@@ -52,9 +52,6 @@ GET /api/v1/meta/localities?countryCode=IN&search=bhubaneswar
 GET /api/v1/meta/phone-codes?dialCode=+91
 GET /api/v1/meta/languages?code=hi
 GET /api/v1/meta/locales?countryCode=IN
-GET /api/v1/meta/postal-code-rules?countryCode=IN
-GET /api/v1/meta/phone-number-rules?dialCode=+91
-GET /api/v1/meta/address-formats?countryCode=IN
 GET /api/v1/meta/currencies?search=INR
 GET /api/v1/meta/timezones?countryId=101
 ```
@@ -62,12 +59,12 @@ GET /api/v1/meta/timezones?countryId=101
 ## Included Reference APIs
 
 ```txt
-GET /api/v1/reference/currency-formats?countryCode=IN
-GET /api/v1/reference/phone-number-rules?dialCode=+91
-GET /api/v1/reference/business-identifiers?countryCode=IN
-GET /api/v1/reference/banking-rules?countryCode=IN
-GET /api/v1/reference/date-time-formats?countryCode=IN
-GET /api/v1/reference/company-types?countryCode=IN
-GET /api/v1/reference/units?category=mass
-GET /api/v1/reference/holidays?countryCode=IN&nationalOnly=true
+GET /api/v1/reference/address-formats?countryCode=IN
+```
+
+## Included Tax APIs
+
+```txt
+GET /api/v1/tax/forms?search=india
+GET /api/v1/tax/forms/IN
 ```

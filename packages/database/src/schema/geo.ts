@@ -1,5 +1,6 @@
 import {
   bigint,
+  boolean,
   doublePrecision,
   index,
   uniqueIndex,
@@ -116,7 +117,6 @@ export const geoStates = geoSchema.table(
     latitude: text("latitude"),
     longitude: text("longitude"),
     timezone: text("timezone"),
-    translations: jsonb("translations").$type<JsonObject>(),
     population: bigint("population", { mode: "number" }),
     created_at: timestamp("created_at", { mode: "string" }),
     updated_at: timestamp("updated_at", { mode: "string" }).notNull(),
@@ -152,7 +152,6 @@ export const geoCities = geoSchema.table(
     native: text("native"),
     population: bigint("population", { mode: "number" }),
     timezone: text("timezone"),
-    translations: jsonb("translations").$type<JsonObject>(),
     created_at: timestamp("created_at", { mode: "string" }),
     updated_at: timestamp("updated_at", { mode: "string" }).notNull(),
     flag: integer("flag").notNull(),
@@ -212,27 +211,19 @@ export const geoLocalities = geoSchema.table(
   {
     id: integer("id").primaryKey(),
     source: text("source").notNull(),
-    source_id: text("source_id").notNull(),
+    external_id: text("external_id").notNull(),
     country_id: integer("country_id").notNull(),
-    country_code: text("country_code").notNull(),
-    country_name: text("country_name").notNull(),
     admin_area_id: integer("admin_area_id"),
-    admin_area_code: text("admin_area_code"),
-    admin_area_name: text("admin_area_name"),
     parent_id: integer("parent_id"),
     name: text("name").notNull(),
     type: text("type"),
     level: integer("level"),
-    is_settlement: integer("is_settlement").notNull(),
+    is_settlement: boolean("is_settlement").notNull(),
     latitude: text("latitude"),
     longitude: text("longitude"),
     native: text("native"),
     population: bigint("population", { mode: "number" }),
     timezone: text("timezone"),
-    translations: jsonb("translations").$type<JsonObject>(),
-    created_at: timestamp("created_at", { mode: "string" }),
-    updated_at: timestamp("updated_at", { mode: "string" }).notNull(),
-    flag: integer("flag").notNull(),
     wiki_data_id: text("wiki_data_id"),
   },
   (table) => [
@@ -240,7 +231,7 @@ export const geoLocalities = geoSchema.table(
     index("geo_localities_admin_area_id_idx").on(table.admin_area_id),
     index("geo_localities_country_type_idx").on(table.country_id, table.type),
     index("geo_localities_settlement_idx").on(table.is_settlement),
-    index("geo_localities_source_idx").on(table.source, table.source_id),
+    index("geo_localities_source_idx").on(table.source, table.external_id),
   ],
 );
 
@@ -279,66 +270,6 @@ export const geoLocales = geoSchema.table(
   (table) => [
     index("geo_locales_language_idx").on(table.language_code),
     index("geo_locales_country_idx").on(table.country_code),
-  ],
-);
-
-// Postal Code Rules Table
-export const geoPostalCodeRules = geoSchema.table(
-  "postal_code_rules",
-  {
-    country_id: integer("country_id").primaryKey(),
-    country_code: text("country_code").notNull(),
-    country_name: text("country_name").notNull(),
-    format: text("format"),
-    regex: text("regex"),
-    example: text("example"),
-    is_required: integer("is_required").notNull().default(0),
-    is_supported: integer("is_supported").notNull().default(1),
-    source: text("source").notNull(),
-  },
-  (table) => [
-    index("geo_postal_code_rules_country_code_idx").on(table.country_code),
-  ],
-);
-
-// Phone Number Rules Table
-export const geoPhoneNumberRules = geoSchema.table(
-  "phone_number_rules",
-  {
-    country_id: integer("country_id").primaryKey(),
-    country_code: text("country_code").notNull(),
-    country_name: text("country_name").notNull(),
-    dial_code: text("dial_code").notNull(),
-    min_length: integer("min_length"),
-    max_length: integer("max_length"),
-    national_prefix: text("national_prefix"),
-    trunk_prefix: text("trunk_prefix"),
-    example: text("example"),
-    validation_regex: text("validation_regex"),
-    source: text("source").notNull(),
-  },
-  (table) => [
-    index("geo_phone_number_rules_country_code_idx").on(table.country_code),
-    index("geo_phone_number_rules_dial_code_idx").on(table.dial_code),
-  ],
-);
-
-// Address Formats Table
-export const geoAddressFormats = geoSchema.table(
-  "address_formats",
-  {
-    country_id: integer("country_id").primaryKey(),
-    country_code: text("country_code").notNull(),
-    country_name: text("country_name").notNull(),
-    format: jsonb("format").$type<JsonObject>().notNull(),
-    required_fields: jsonb("required_fields").$type<string[]>().notNull(),
-    administrative_area_label: text("administrative_area_label"),
-    locality_label: text("locality_label"),
-    postal_code_label: text("postal_code_label"),
-    source: text("source").notNull(),
-  },
-  (table) => [
-    index("geo_address_formats_country_code_idx").on(table.country_code),
   ],
 );
 
@@ -402,12 +333,6 @@ export type GeoLanguage = typeof geoLanguages.$inferSelect;
 export type NewGeoLanguage = typeof geoLanguages.$inferInsert;
 export type GeoLocale = typeof geoLocales.$inferSelect;
 export type NewGeoLocale = typeof geoLocales.$inferInsert;
-export type GeoPostalCodeRule = typeof geoPostalCodeRules.$inferSelect;
-export type NewGeoPostalCodeRule = typeof geoPostalCodeRules.$inferInsert;
-export type GeoPhoneNumberRule = typeof geoPhoneNumberRules.$inferSelect;
-export type NewGeoPhoneNumberRule = typeof geoPhoneNumberRules.$inferInsert;
-export type GeoAddressFormat = typeof geoAddressFormats.$inferSelect;
-export type NewGeoAddressFormat = typeof geoAddressFormats.$inferInsert;
 export type GeoPhoneCode = typeof geoPhoneCodes.$inferSelect;
 export type NewGeoPhoneCode = typeof geoPhoneCodes.$inferInsert;
 export type GeoCurrency = typeof geoCurrencies.$inferSelect;

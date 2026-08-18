@@ -1,6 +1,0 @@
-id,country_code,country_name,dial_code,national_prefix,trunk_prefix,min_length,max_length,mobile_prefix_pattern,national_format,international_format,example_mobile,example_fixed_line,emergency_numbers,source
-IN,IN,India,+91,0,0,10,10,^[6-9],XXXXX XXXXX,+91 XXXXX XXXXX,9876543210,1123456789,"{""police"":""100"",""fire"":""101"",""ambulance"":""102"",""emergency"":""112""}",Solvyst Atlas community reference contribution
-US,US,United States,+1,1,1,10,10,,(XXX) XXX-XXXX,+1 XXX XXX XXXX,2025550123,2025550123,"{""emergency"":""911""}",Solvyst Atlas community reference contribution
-GB,GB,United Kingdom,+44,0,0,10,10,^7,0XXXX XXXXXX,+44 XXXX XXXXXX,7400123456,2079460123,"{""emergency"":""999"",""alternate"":""112""}",Solvyst Atlas community reference contribution
-AE,AE,United Arab Emirates,+971,0,0,8,9,^5,0X XXX XXXX,+971 X XXX XXXX,501234567,21234567,"{""police"":""999"",""ambulance"":""998"",""fire"":""997""}",Solvyst Atlas community reference contribution
-SG,SG,Singapore,+65,,,8,8,^[89],XXXX XXXX,+65 XXXX XXXX,81234567,61234567,"{""police"":""999"",""ambulance_fire"":""995""}",Solvyst Atlas community reference contribution

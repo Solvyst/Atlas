@@ -1,3 +1,0 @@
-country_code,country_name,date_format,time_format,datetime_format,first_day_of_week,weekend_days,default_timezone,timezone_strategy,source
-IN,India,DD/MM/YYYY,12h,DD/MM/YYYY hh:mm A,1,"[""saturday"",""sunday""]",Asia/Kolkata,single,Solvyst Atlas community reference contribution
-US,United States,MM/DD/YYYY,12h,MM/DD/YYYY hh:mm A,0,"[""saturday"",""sunday""]",America/New_York,multiple,Solvyst Atlas community reference contribution

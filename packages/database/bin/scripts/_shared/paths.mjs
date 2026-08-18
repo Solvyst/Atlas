@@ -13,7 +13,7 @@ export const workspaceRoot = path.resolve(packageRoot, "../..");
 // Contribution Roots
 export const contributionsRoot = path.join(workspaceRoot, "contributions");
 export const geoContributionsDir = path.join(contributionsRoot, "geo");
-export const referenceContributionsDir = path.join(contributionsRoot, "reference");
+export const taxContributionsDir = path.join(contributionsRoot, "tax");
 
 // CSV Export Root
 export const csvExportRoot = path.join(workspaceRoot, "data", "csv");

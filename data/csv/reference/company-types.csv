@@ -1,4 +1,0 @@
-id,country_code,country_name,code,name,local_name,liability_type,registration_body,min_owners,max_owners,source
-IN-PVT-LTD,IN,India,PVT_LTD,Private Limited Company,Private Limited,limited,Ministry of Corporate Affairs,2,200,Solvyst Atlas community reference contribution
-IN-LLP,IN,India,LLP,Limited Liability Partnership,LLP,limited,Ministry of Corporate Affairs,2,,Solvyst Atlas community reference contribution
-US-LLC,US,United States,LLC,Limited Liability Company,LLC,limited,State authority,1,,Solvyst Atlas community reference contribution

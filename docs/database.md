@@ -6,11 +6,12 @@ Solvyst Atlas uses PostgreSQL with Drizzle migrations. Contributor-editable sour
 
 ```txt
 geo         geography, localization, phone, timezone, currency metadata
-reference   business reference datasets
+reference   address and other reference metadata
+tax         tax-profile form metadata
 drizzle     Drizzle migration history
 ```
 
-The public API path remains `/api/v1/meta`, but the geography tables live in the PostgreSQL `geo` schema.
+Public API paths are split by domain: `/api/v1/meta`, `/api/v1/reference`, and `/api/v1/tax`.
 
 ## Migration Commands
 
@@ -50,7 +51,7 @@ Human-editable source data lives in:
 
 ```txt
 contributions/geo
-contributions/reference
+contributions/tax
 ```
 
 Geo contribution files include:
@@ -68,19 +69,6 @@ contributions/geo/languages/languages.json
 contributions/geo/phone-codes/phone-codes.json
 contributions/geo/timezones/timezones.json
 contributions/geo/locales/locales.json
-```
-
-Reference contribution files include:
-
-```txt
-contributions/reference/currency-formats.json
-contributions/reference/phone-number-rules.json
-contributions/reference/business-identifiers.json
-contributions/reference/banking-rules.json
-contributions/reference/date-time-formats.json
-contributions/reference/company-types.json
-contributions/reference/units.json
-contributions/reference/holidays.json
 ```
 
 Contributors should edit JSON files only. They should not write to PostgreSQL directly.
@@ -109,10 +97,10 @@ Validate only geo data:
 pnpm --filter @solvyst-atlas/database contrib:validate:geo
 ```
 
-Validate only reference data:
+Validate only tax data:
 
 ```sh
-pnpm --filter @solvyst-atlas/database contrib:validate:reference
+pnpm --filter @solvyst-atlas/database contrib:validate:tax
 ```
 
 Validation checks JSON shape, required fields, duplicate IDs, ISO-like country codes, and important foreign-key relationships.
@@ -141,10 +129,10 @@ Import geo JSON into PostgreSQL:
 pnpm db:import:geo
 ```
 
-Import reference JSON into PostgreSQL:
+Import tax JSON into PostgreSQL:
 
 ```sh
-pnpm db:import:reference
+pnpm db:import:tax
 ```
 
 Import all validated JSON:
@@ -216,22 +204,19 @@ geo.timezones
 geo.phone_codes
 geo.languages
 geo.locales
-geo.postal_code_rules
-geo.phone_number_rules
-geo.address_formats
 ```
 
 ## Reference Tables
 
 ```txt
-reference.currency_formats
-reference.phone_number_rules
-reference.business_identifiers
-reference.banking_rules
-reference.date_time_formats
-reference.company_types
-reference.units
-reference.holidays
+reference.address_formats
+```
+
+## Tax Tables
+
+```txt
+tax.country_forms
+tax.form_fields
 ```
 
 ## Important Rules

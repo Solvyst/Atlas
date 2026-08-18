@@ -1,4 +1,0 @@
-id,category,code,name,symbol,system,quantity_kind,base_unit_code,conversion_factor_to_base,common_uses,source
-mass-kg,mass,kg,kilogram,kg,si,mass,kg,1,"[""shipping"",""inventory"",""commerce""]",Solvyst Atlas community reference contribution
-mass-g,mass,g,gram,g,si,mass,kg,0.001,"[""food"",""medicine"",""inventory""]",Solvyst Atlas community reference contribution
-length-m,length,m,meter,m,si,length,m,1,"[""dimensions"",""construction""]",Solvyst Atlas community reference contribution

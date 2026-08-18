@@ -1,6 +1,6 @@
 # Solvyst Atlas Docs
 
-Solvyst Atlas is a metadata service for building reliable business applications. It exposes production-ready APIs for country, geography, localization, address, phone, currency, timezone, and business reference datasets.
+Solvyst Atlas is a metadata service for building reliable business applications. It exposes production-ready APIs for country, geography, localization, address, phone, currency, timezone, and tax-profile metadata.
 
 ## Current Features
 
@@ -15,11 +15,9 @@ Solvyst Atlas is a metadata service for building reliable business applications.
 - Phone codes API for values like `+91`, `+92`, `+1`
 - Languages API
 - Locales API
-- Postal code rules API
-- Phone number rules API
-- Address formats API
-- Reference API for currency formats, business identifiers, banking rules, date-time formats, company types, units, and holidays
-- PostgreSQL `geo` and `reference` schemas managed by Drizzle
+- Reference address formats API
+- Tax API for country tax-profile form metadata
+- PostgreSQL `geo`, `reference`, and `tax` schemas managed by Drizzle
 - JSON contribution validation and trusted PostgreSQL import commands
 - Interactive data CLI and generated CSV exports
 - API key authentication

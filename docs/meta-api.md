@@ -142,34 +142,6 @@ GET /api/v1/meta/locales?currencyCode=INR
 GET /api/v1/meta/locales?search=en-IN
 ```
 
-## Postal Code Rules
-
-```http
-GET /api/v1/meta/postal-code-rules
-GET /api/v1/meta/postal-code-rules?countryCode=IN
-GET /api/v1/meta/postal-code-rules?requiredOnly=true
-GET /api/v1/meta/postal-code-rules?search=india
-```
-
-## Phone Number Rules
-
-```http
-GET /api/v1/meta/phone-number-rules
-GET /api/v1/meta/phone-number-rules?dialCode=+91
-GET /api/v1/meta/phone-number-rules?countryCode=IN
-GET /api/v1/meta/phone-number-rules?search=india
-```
-
-Note: phone number min/max length and validation regex are starter placeholders until a complete numbering-plan source is imported.
-
-## Address Formats
-
-```http
-GET /api/v1/meta/address-formats
-GET /api/v1/meta/address-formats?countryCode=IN
-GET /api/v1/meta/address-formats?search=india
-```
-
 ## Currencies
 
 ```http

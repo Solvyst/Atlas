@@ -61,20 +61,6 @@ function isSettlement(row) {
     : !adminOnlyLocalityTypes.has(row.type);
 }
 
-// Normalize Phone Code
-function normalizePhoneCode(phonecode) {
-  const raw = String(phonecode ?? "").trim();
-  const cleaned = raw.replace(/^\++/, "").replace(/\s+/g, "");
-  const [callingCode, ...rest] = cleaned.split("-").filter(Boolean);
-
-  return {
-    phone_code: cleaned,
-    dial_code: cleaned ? "+" + cleaned : null,
-    calling_code: callingCode ? "+" + callingCode : null,
-    national_destination_code: rest.length ? rest.join("-") : null,
-  };
-}
-
 // Build Regions
 function buildRegions() {
   return readJson("regions/regions.json").map((region) => ({
@@ -159,7 +145,6 @@ function buildStates(states) {
     latitude: state.latitude,
     longitude: state.longitude,
     timezone: state.timezone,
-    translations: state.translations,
     population: state.population,
     created_at: null,
     updated_at: defaultTimestamp,
@@ -191,7 +176,6 @@ function buildCities(countries, statesById, cities) {
       native: city.native,
       population: city.population,
       timezone: city.timezone ?? state?.timezone,
-      translations: city.translations,
       created_at: null,
       updated_at: defaultTimestamp,
       flag: 1,
@@ -256,35 +240,26 @@ function buildAdminAreas(states) {
 }
 
 // Build Localities
-function buildLocalities(countries, statesById, cities) {
+function buildLocalities(statesById, cities) {
   return cities.map((city) => {
     const state = statesById.get(city.state_id);
-    const country = countries.get(city.country_id);
 
     return {
       id: city.id,
       source: "countries-states-cities-database:cities",
-      source_id: String(city.id),
+      external_id: String(city.id),
       country_id: city.country_id,
-      country_code: city.country_code,
-      country_name: city.country_name ?? country?.name,
       admin_area_id: city.state_id,
-      admin_area_code: city.state_code ?? state?.iso2,
-      admin_area_name: city.state_name ?? state?.name,
       parent_id: city.parent_id,
       name: city.name,
       type: city.type,
       level: city.level,
-      is_settlement: isSettlement(city) ? 1 : 0,
+      is_settlement: isSettlement(city) ? "true" : "false",
       latitude: city.latitude,
       longitude: city.longitude,
       native: city.native,
       population: city.population,
       timezone: city.timezone ?? state?.timezone,
-      translations: city.translations,
-      created_at: null,
-      updated_at: defaultTimestamp,
-      flag: 1,
       wiki_data_id: pickWikiDataId(city),
     };
   });
@@ -306,55 +281,6 @@ function buildCurrencies(countries) {
   }
 
   return [...byCode.values()].sort((a, b) => a.code.localeCompare(b.code));
-}
-
-// Build Postal Code Example
-function postalCodeExample(format) {
-  if (!format) return null;
-  return String(format)
-    .replace(/#/g, "1")
-    .replace(/@/g, "A")
-    .replace(/[A-Z]/g, "A")
-    .replace(/[0-9]/g, "1");
-}
-
-// Build Postal Code Rules
-function buildPostalCodeRules(countries) {
-  return countries.map((country) => ({
-    country_id: country.id,
-    country_code: country.iso2,
-    country_name: country.name,
-    format: country.postal_code_format,
-    regex: country.postal_code_regex,
-    example: postalCodeExample(country.postal_code_format),
-    is_required:
-      country.postal_code_format || country.postal_code_regex ? 1 : 0,
-    is_supported:
-      country.postal_code_format || country.postal_code_regex ? 1 : 0,
-    source: "countries-states-cities-database:countries.postal_code_*",
-  }));
-}
-
-// Build Phone Number Rules
-function buildPhoneNumberRules(countries) {
-  return countries
-    .filter((country) => country.phonecode)
-    .map((country) => {
-      const phone = normalizePhoneCode(country.phonecode);
-      return {
-        country_id: country.id,
-        country_code: country.iso2,
-        country_name: country.name,
-        dial_code: phone.dial_code,
-        min_length: null,
-        max_length: null,
-        national_prefix: null,
-        trunk_prefix: null,
-        example: null,
-        validation_regex: null,
-        source: "countries-states-cities-database:countries.phonecode",
-      };
-    });
 }
 
 // Build Address Formats
@@ -466,7 +392,6 @@ const datasets = [
     "latitude",
     "longitude",
     "timezone",
-    "translations",
     "population",
     "created_at",
     "updated_at",
@@ -490,7 +415,6 @@ const datasets = [
     "native",
     "population",
     "timezone",
-    "translations",
     "created_at",
     "updated_at",
     "flag",
@@ -522,13 +446,9 @@ const datasets = [
   dataset("geo.localities", [
     "id",
     "source",
-    "source_id",
+    "external_id",
     "country_id",
-    "country_code",
-    "country_name",
     "admin_area_id",
-    "admin_area_code",
-    "admin_area_name",
     "parent_id",
     "name",
     "type",
@@ -539,12 +459,8 @@ const datasets = [
     "native",
     "population",
     "timezone",
-    "translations",
-    "created_at",
-    "updated_at",
-    "flag",
     "wiki_data_id",
-  ], buildLocalities(countriesById, statesById, cities)),
+  ], buildLocalities(statesById, cities)),
   dataset("geo.currencies", ["code", "name", "symbol"], buildCurrencies(countries), ["code"]),
   dataset("geo.timezones", [
     "id",
@@ -590,31 +506,7 @@ const datasets = [
     "number_system",
     "is_active",
   ], readJson("locales/locales.json"), ["code"]),
-  dataset("geo.postal_code_rules", [
-    "country_id",
-    "country_code",
-    "country_name",
-    "format",
-    "regex",
-    "example",
-    "is_required",
-    "is_supported",
-    "source",
-  ], buildPostalCodeRules(countries), ["country_id"]),
-  dataset("geo.phone_number_rules", [
-    "country_id",
-    "country_code",
-    "country_name",
-    "dial_code",
-    "min_length",
-    "max_length",
-    "national_prefix",
-    "trunk_prefix",
-    "example",
-    "validation_regex",
-    "source",
-  ], buildPhoneNumberRules(countries), ["country_id"]),
-  dataset("geo.address_formats", [
+  dataset("reference.address_formats", [
     "country_id",
     "country_code",
     "country_name",

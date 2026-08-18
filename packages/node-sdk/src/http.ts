@@ -8,7 +8,7 @@ import type {
 } from "./types.js";
 
 /*************************** DEFAULT CLIENT CONFIG ***************************/
-const DEFAULT_BASE_URL = "https://atlasv1.solvyst.com";
+const DEFAULT_BASE_URL = "https://atlas.solvyst.in";
 const DEFAULT_TIMEOUT_MS = 30_000;
 
 /*************************** URL HELPERS ***************************/

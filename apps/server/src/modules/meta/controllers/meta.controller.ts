@@ -3,7 +3,6 @@ import type { Request, Response } from "express";
 import { ApiResponse } from "@/lib/ApiResponse.js";
 import { catchAsync } from "@/lib/catchAsync.js";
 import {
-  listAddressFormatsDto,
   listAdminAreasDto,
   listCitiesDto,
   listCountriesDto,
@@ -12,8 +11,6 @@ import {
   listLocalesDto,
   listLocalitiesDto,
   listPhoneCodesDto,
-  listPhoneNumberRulesDto,
-  listPostalCodeRulesDto,
   listRegionsDto,
   listStatesDto,
   listTimezonesDto,
@@ -92,33 +89,6 @@ export const listLocales = catchAsync(async (req: Request, res: Response) => {
   const locales = await GeoService.listLocales(query);
   return ApiResponse(res, locales, "Locales fetched");
 });
-
-/*************************** LIST POSTAL CODE RULES ***************************/
-export const listPostalCodeRules = catchAsync(
-  async (req: Request, res: Response) => {
-    const query = listPostalCodeRulesDto.parse(req.query);
-    const rules = await GeoService.listPostalCodeRules(query);
-    return ApiResponse(res, rules, "Postal code rules fetched");
-  },
-);
-
-/*************************** LIST PHONE NUMBER RULES ***************************/
-export const listPhoneNumberRules = catchAsync(
-  async (req: Request, res: Response) => {
-    const query = listPhoneNumberRulesDto.parse(req.query);
-    const rules = await GeoService.listPhoneNumberRules(query);
-    return ApiResponse(res, rules, "Phone number rules fetched");
-  },
-);
-
-/*************************** LIST ADDRESS FORMATS ***************************/
-export const listAddressFormats = catchAsync(
-  async (req: Request, res: Response) => {
-    const query = listAddressFormatsDto.parse(req.query);
-    const formats = await GeoService.listAddressFormats(query);
-    return ApiResponse(res, formats, "Address formats fetched");
-  },
-);
 
 /*************************** LIST PHONE CODES ***************************/
 export const listPhoneCodes = catchAsync(

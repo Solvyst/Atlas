@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 import { contributionsRoot, csvExportRoot, workspaceRoot } from "../_shared/paths.mjs";
-import { readJsonArray, walkJsonFiles } from "../_shared/json.mjs";
+import { readJsonFile, walkJsonFiles } from "../_shared/json.mjs";
 
 // Flatten CSV Value
 function flattenValue(value) {
@@ -45,7 +45,8 @@ function writeCsv(outPath, rows) {
 
 // Export JSON File
 function exportJsonFile(sourcePath, targetPath) {
-  const rows = readJsonArray(sourcePath);
+  const json = readJsonFile(sourcePath);
+  const rows = Array.isArray(json) ? json : [json];
   const count = writeCsv(targetPath, rows);
   console.log(path.relative(workspaceRoot, targetPath) + " (" + count + " rows)");
 }

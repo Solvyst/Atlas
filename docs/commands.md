@@ -145,10 +145,11 @@ Current PostgreSQL schemas:
 ```txt
 geo
 reference
+tax
 drizzle
 ```
 
-Important: public API route is still `/api/v1/meta`, but geography tables live under PostgreSQL `geo` schema.
+Important: geography tables live under PostgreSQL `geo`, address formatting metadata lives under `reference`, and tax form metadata lives under `tax`.
 
 ## Contribution JSON Validation
 
@@ -164,10 +165,10 @@ Validate only geo JSON:
 pnpm --filter @solvyst-atlas/database contrib:validate:geo
 ```
 
-Validate only reference JSON:
+Validate only tax JSON:
 
 ```sh
-pnpm --filter @solvyst-atlas/database contrib:validate:reference
+pnpm --filter @solvyst-atlas/database contrib:validate:tax
 ```
 
 Validation checks:
@@ -226,10 +227,10 @@ Import only geo data:
 pnpm db:import:geo
 ```
 
-Import only reference data:
+Import only tax data:
 
 ```sh
-pnpm db:import:reference
+pnpm db:import:tax
 ```
 
 Database import flow:
@@ -268,10 +269,10 @@ CLI options:
 ```txt
 1. Validate all contribution JSON
 2. Validate geo JSON only
-3. Validate reference JSON only
+3. Validate tax JSON only
 4. Export CSV files from contribution JSON
 5. Import geo JSON to PostgreSQL UPSERT
-6. Import reference JSON to PostgreSQL UPSERT
+6. Import tax JSON to PostgreSQL UPSERT
 7. Import all JSON to PostgreSQL UPSERT
 0. Exit
 ```
@@ -399,17 +400,17 @@ curl "http://localhost:3100/api/v1/meta/timezones?countryId=101" \
   -H "x-api-key: $ATLAS_API_KEY"
 ```
 
-Reference API, business identifiers:
+Address formats:
 
 ```sh
-curl "http://localhost:3100/api/v1/reference/business-identifiers?countryCode=IN" \
+curl "http://localhost:3100/api/v1/reference/address-formats?countryCode=IN" \
   -H "x-api-key: $ATLAS_API_KEY"
 ```
 
-Reference API, banking rules:
+Tax forms:
 
 ```sh
-curl "http://localhost:3100/api/v1/reference/banking-rules?countryCode=IN" \
+curl "http://localhost:3100/api/v1/tax/forms/IN" \
   -H "x-api-key: $ATLAS_API_KEY"
 ```
 

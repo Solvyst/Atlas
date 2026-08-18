@@ -7,3 +7,9 @@ const atlas = new SolvystAtlasClient({
 
 const countries = await atlas.meta.countries({ search: "india", limit: 5 });
 console.log(countries);
+
+const addressFormats = await atlas.reference.addressFormats({ countryCode: "IN" });
+console.log(addressFormats);
+
+const taxForm = await atlas.tax.form("IN");
+console.log(taxForm);

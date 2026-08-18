@@ -11,10 +11,10 @@ bin/scripts/
     csv.mjs              # contributions JSON -> data/csv
   import/
     geo.mjs                 # contributions/geo -> PostgreSQL upsert
-    reference.mjs           # contributions/reference -> PostgreSQL upsert
+    tax.mjs                 # contributions/tax -> PostgreSQL upsert
   validation/
     geo-contributions.mjs
-    reference-contributions.mjs
+    tax-contributions.mjs
 ```
 
 ## Commands
@@ -23,6 +23,7 @@ Validate JSON contribution data:
 
 ```bash
 pnpm contrib:validate
+pnpm contrib:validate:tax
 ```
 
 Open the interactive CLI:
@@ -41,7 +42,7 @@ Import validated JSON into PostgreSQL with idempotent upserts:
 
 ```bash
 pnpm import:geo
-pnpm import:reference
+pnpm import:tax
 pnpm import:all
 ```
 

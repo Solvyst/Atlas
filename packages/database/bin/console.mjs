@@ -24,8 +24,8 @@ const actions = [
   },
   {
     key: "3",
-    label: "Validate reference JSON only",
-    command: ["pnpm", ["contrib:validate:reference"]],
+    label: "Validate tax JSON only",
+    command: ["pnpm", ["contrib:validate:tax"]],
   },
   {
     key: "4",
@@ -40,8 +40,8 @@ const actions = [
   },
   {
     key: "6",
-    label: "Import reference JSON to PostgreSQL UPSERT",
-    command: ["pnpm", ["import:reference"]],
+    label: "Import tax JSON to PostgreSQL UPSERT",
+    command: ["pnpm", ["import:tax"]],
     dangerous: true,
   },
   {

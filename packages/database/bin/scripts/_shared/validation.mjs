@@ -32,6 +32,21 @@ export function allowOnlyFields(relativePath, rows, fields, errors) {
   });
 }
 
+// Allow Only Object Fields
+export function allowOnlyObjectFields(label, object, fields, errors) {
+  const allowed = fields instanceof Set ? fields : new Set(fields);
+  for (const field of Object.keys(object)) {
+    if (!allowed.has(field)) {
+      errors.push(
+        label +
+          ": unknown field " +
+          field +
+          ". Add schema, migration, importer, API/docs support before accepting new fields.",
+      );
+    }
+  }
+}
+
 // Require Fields
 export function requireFields(relativePath, rows, fields, errors) {
   rows.forEach((row, index) => {

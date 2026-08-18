@@ -1,92 +1,9 @@
 {
-  "id": "e3908fab-3f57-457b-8409-cd08204719e2",
+  "id": "fcc83e13-dcb3-4563-bea0-5d1db848513e",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
-    "geo.address_formats": {
-      "name": "address_formats",
-      "schema": "geo",
-      "columns": {
-        "country_id": {
-          "name": "country_id",
-          "type": "integer",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "format": {
-          "name": "format",
-          "type": "jsonb",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "required_fields": {
-          "name": "required_fields",
-          "type": "jsonb",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "administrative_area_label": {
-          "name": "administrative_area_label",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "locality_label": {
-          "name": "locality_label",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "postal_code_label": {
-          "name": "postal_code_label",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "geo_address_formats_country_code_idx": {
-          "name": "geo_address_formats_country_code_idx",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
     "geo.admin_areas": {
       "name": "admin_areas",
       "schema": "geo",
@@ -438,12 +355,6 @@
         "timezone": {
           "name": "timezone",
           "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "translations": {
-          "name": "translations",
-          "type": "jsonb",
           "primaryKey": false,
           "notNull": false
         },
@@ -1016,8 +927,8 @@
           "primaryKey": false,
           "notNull": true
         },
-        "source_id": {
-          "name": "source_id",
+        "external_id": {
+          "name": "external_id",
           "type": "text",
           "primaryKey": false,
           "notNull": true
@@ -1028,33 +939,9 @@
           "primaryKey": false,
           "notNull": true
         },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
         "admin_area_id": {
           "name": "admin_area_id",
           "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "admin_area_code": {
-          "name": "admin_area_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "admin_area_name": {
-          "name": "admin_area_name",
-          "type": "text",
           "primaryKey": false,
           "notNull": false
         },
@@ -1084,7 +971,7 @@
         },
         "is_settlement": {
           "name": "is_settlement",
-          "type": "integer",
+          "type": "boolean",
           "primaryKey": false,
           "notNull": true
         },
@@ -1117,30 +1004,6 @@
           "type": "text",
           "primaryKey": false,
           "notNull": false
-        },
-        "translations": {
-          "name": "translations",
-          "type": "jsonb",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "created_at": {
-          "name": "created_at",
-          "type": "timestamp",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "updated_at": {
-          "name": "updated_at",
-          "type": "timestamp",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "flag": {
-          "name": "flag",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true
         },
         "wiki_data_id": {
           "name": "wiki_data_id",
@@ -1226,7 +1089,7 @@
               "nulls": "last"
             },
             {
-              "expression": "source_id",
+              "expression": "external_id",
               "isExpression": false,
               "asc": true,
               "nulls": "last"
@@ -1361,201 +1224,6 @@
           "columns": [
             {
               "expression": "calling_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "geo.phone_number_rules": {
-      "name": "phone_number_rules",
-      "schema": "geo",
-      "columns": {
-        "country_id": {
-          "name": "country_id",
-          "type": "integer",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "dial_code": {
-          "name": "dial_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "min_length": {
-          "name": "min_length",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "max_length": {
-          "name": "max_length",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "national_prefix": {
-          "name": "national_prefix",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "trunk_prefix": {
-          "name": "trunk_prefix",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "example": {
-          "name": "example",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "validation_regex": {
-          "name": "validation_regex",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "geo_phone_number_rules_country_code_idx": {
-          "name": "geo_phone_number_rules_country_code_idx",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "geo_phone_number_rules_dial_code_idx": {
-          "name": "geo_phone_number_rules_dial_code_idx",
-          "columns": [
-            {
-              "expression": "dial_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "geo.postal_code_rules": {
-      "name": "postal_code_rules",
-      "schema": "geo",
-      "columns": {
-        "country_id": {
-          "name": "country_id",
-          "type": "integer",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "format": {
-          "name": "format",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "regex": {
-          "name": "regex",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "example": {
-          "name": "example",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "is_required": {
-          "name": "is_required",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "default": 0
-        },
-        "is_supported": {
-          "name": "is_supported",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "default": 1
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "geo_postal_code_rules_country_code_idx": {
-          "name": "geo_postal_code_rules_country_code_idx",
-          "columns": [
-            {
-              "expression": "country_code",
               "isExpression": false,
               "asc": true,
               "nulls": "last"
@@ -1726,12 +1394,6 @@
         "timezone": {
           "name": "timezone",
           "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "translations": {
-          "name": "translations",
-          "type": "jsonb",
           "primaryKey": false,
           "notNull": false
         },
@@ -1943,13 +1605,13 @@
       "checkConstraints": {},
       "isRLSEnabled": false
     },
-    "reference.banking_rules": {
-      "name": "banking_rules",
+    "reference.address_formats": {
+      "name": "address_formats",
       "schema": "reference",
       "columns": {
-        "id": {
-          "name": "id",
-          "type": "text",
+        "country_id": {
+          "name": "country_id",
+          "type": "integer",
           "primaryKey": true,
           "notNull": true
         },
@@ -1965,65 +1627,33 @@
           "primaryKey": false,
           "notNull": true
         },
-        "iban_supported": {
-          "name": "iban_supported",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "default": 0
-        },
-        "iban_length": {
-          "name": "iban_length",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "swift_supported": {
-          "name": "swift_supported",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "default": 1
-        },
-        "local_bank_code_label": {
-          "name": "local_bank_code_label",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "local_bank_code_regex": {
-          "name": "local_bank_code_regex",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "routing_code_label": {
-          "name": "routing_code_label",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "routing_code_regex": {
-          "name": "routing_code_regex",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "account_number_min_length": {
-          "name": "account_number_min_length",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "account_number_max_length": {
-          "name": "account_number_max_length",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "example": {
-          "name": "example",
+        "format": {
+          "name": "format",
           "type": "jsonb",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "required_fields": {
+          "name": "required_fields",
+          "type": "jsonb",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "administrative_area_label": {
+          "name": "administrative_area_label",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "locality_label": {
+          "name": "locality_label",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "postal_code_label": {
+          "name": "postal_code_label",
+          "type": "text",
           "primaryKey": false,
           "notNull": false
         },
@@ -2035,8 +1665,8 @@
         }
       },
       "indexes": {
-        "reference_banking_rules_country_idx": {
-          "name": "reference_banking_rules_country_idx",
+        "reference_address_formats_country_code_idx": {
+          "name": "reference_address_formats_country_code_idx",
           "columns": [
             {
               "expression": "country_code",
@@ -2058,24 +1688,73 @@
       "checkConstraints": {},
       "isRLSEnabled": false
     },
-    "reference.business_identifiers": {
-      "name": "business_identifiers",
-      "schema": "reference",
+    "tax.country_forms": {
+      "name": "country_forms",
+      "schema": "tax",
       "columns": {
-        "id": {
-          "name": "id",
+        "country_code": {
+          "name": "country_code",
           "type": "text",
           "primaryKey": true,
           "notNull": true
         },
-        "country_code": {
-          "name": "country_code",
+        "country_name": {
+          "name": "country_name",
           "type": "text",
           "primaryKey": false,
           "notNull": true
         },
-        "country_name": {
-          "name": "country_name",
+        "version": {
+          "name": "version",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "metadata": {
+          "name": "metadata",
+          "type": "jsonb",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "'{}'::jsonb"
+        }
+      },
+      "indexes": {
+        "tax_country_forms_version_idx": {
+          "name": "tax_country_forms_version_idx",
+          "columns": [
+            {
+              "expression": "version",
+              "isExpression": false,
+              "asc": true,
+              "nulls": "last"
+            }
+          ],
+          "isUnique": false,
+          "concurrently": false,
+          "method": "btree",
+          "with": {}
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "policies": {},
+      "checkConstraints": {},
+      "isRLSEnabled": false
+    },
+    "tax.form_fields": {
+      "name": "form_fields",
+      "schema": "tax",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "uuid",
+          "primaryKey": true,
+          "notNull": true,
+          "default": "gen_random_uuid()"
+        },
+        "country_code": {
+          "name": "country_code",
           "type": "text",
           "primaryKey": false,
           "notNull": true
@@ -2086,17 +1765,17 @@
           "primaryKey": false,
           "notNull": true
         },
-        "name": {
-          "name": "name",
+        "label": {
+          "name": "label",
           "type": "text",
           "primaryKey": false,
           "notNull": true
         },
-        "local_name": {
-          "name": "local_name",
+        "description": {
+          "name": "description",
           "type": "text",
           "primaryKey": false,
-          "notNull": false
+          "notNull": true
         },
         "category": {
           "name": "category",
@@ -2104,54 +1783,55 @@
           "primaryKey": false,
           "notNull": true
         },
-        "issuing_authority": {
-          "name": "issuing_authority",
+        "applies_to": {
+          "name": "applies_to",
+          "type": "jsonb",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "required": {
+          "name": "required",
+          "type": "boolean",
+          "primaryKey": false,
+          "notNull": true,
+          "default": false
+        },
+        "input_type": {
+          "name": "input_type",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "placeholder": {
+          "name": "placeholder",
           "type": "text",
           "primaryKey": false,
           "notNull": false
         },
-        "validation_regex": {
-          "name": "validation_regex",
-          "type": "text",
+        "normalization": {
+          "name": "normalization",
+          "type": "jsonb",
           "primaryKey": false,
-          "notNull": false
+          "notNull": true,
+          "default": "'{}'::jsonb"
         },
-        "example": {
-          "name": "example",
-          "type": "text",
+        "validation": {
+          "name": "validation",
+          "type": "jsonb",
           "primaryKey": false,
-          "notNull": false
+          "notNull": true
         },
-        "checksum_supported": {
-          "name": "checksum_supported",
+        "sort_order": {
+          "name": "sort_order",
           "type": "integer",
           "primaryKey": false,
           "notNull": true,
           "default": 0
-        },
-        "is_required_for_business": {
-          "name": "is_required_for_business",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "default": 0
-        },
-        "source_url": {
-          "name": "source_url",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "notes": {
-          "name": "notes",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
         }
       },
       "indexes": {
-        "reference_business_identifiers_country_code_unique": {
-          "name": "reference_business_identifiers_country_code_unique",
+        "tax_form_fields_country_code_unique": {
+          "name": "tax_form_fields_country_code_unique",
           "columns": [
             {
               "expression": "country_code",
@@ -2171,8 +1851,8 @@
           "method": "btree",
           "with": {}
         },
-        "reference_business_identifiers_country_idx": {
-          "name": "reference_business_identifiers_country_idx",
+        "tax_form_fields_country_idx": {
+          "name": "tax_form_fields_country_idx",
           "columns": [
             {
               "expression": "country_code",
@@ -2186,8 +1866,8 @@
           "method": "btree",
           "with": {}
         },
-        "reference_business_identifiers_code_idx": {
-          "name": "reference_business_identifiers_code_idx",
+        "tax_form_fields_code_idx": {
+          "name": "tax_form_fields_code_idx",
           "columns": [
             {
               "expression": "code",
@@ -2201,8 +1881,8 @@
           "method": "btree",
           "with": {}
         },
-        "reference_business_identifiers_category_idx": {
-          "name": "reference_business_identifiers_category_idx",
+        "tax_form_fields_category_idx": {
+          "name": "tax_form_fields_category_idx",
           "columns": [
             {
               "expression": "category",
@@ -2217,756 +1897,22 @@
           "with": {}
         }
       },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "reference.company_types": {
-      "name": "company_types",
-      "schema": "reference",
-      "columns": {
-        "id": {
-          "name": "id",
-          "type": "text",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "code": {
-          "name": "code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "name": {
-          "name": "name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "local_name": {
-          "name": "local_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "liability_type": {
-          "name": "liability_type",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "registration_body": {
-          "name": "registration_body",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "min_owners": {
-          "name": "min_owners",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "max_owners": {
-          "name": "max_owners",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
+      "foreignKeys": {
+        "form_fields_country_code_country_forms_country_code_fk": {
+          "name": "form_fields_country_code_country_forms_country_code_fk",
+          "tableFrom": "form_fields",
+          "tableTo": "country_forms",
+          "schemaTo": "tax",
+          "columnsFrom": [
+            "country_code"
+          ],
+          "columnsTo": [
+            "country_code"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
         }
       },
-      "indexes": {
-        "reference_company_types_country_code_unique": {
-          "name": "reference_company_types_country_code_unique",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            },
-            {
-              "expression": "code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": true,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "reference_company_types_country_idx": {
-          "name": "reference_company_types_country_idx",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "reference_company_types_code_idx": {
-          "name": "reference_company_types_code_idx",
-          "columns": [
-            {
-              "expression": "code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "reference.currency_formats": {
-      "name": "currency_formats",
-      "schema": "reference",
-      "columns": {
-        "id": {
-          "name": "id",
-          "type": "text",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "currency_code": {
-          "name": "currency_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "currency_symbol": {
-          "name": "currency_symbol",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "decimal_digits": {
-          "name": "decimal_digits",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "symbol_position": {
-          "name": "symbol_position",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "symbol_spacing": {
-          "name": "symbol_spacing",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "default": 0
-        },
-        "decimal_separator": {
-          "name": "decimal_separator",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "grouping_separator": {
-          "name": "grouping_separator",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "grouping_pattern": {
-          "name": "grouping_pattern",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "positive_pattern": {
-          "name": "positive_pattern",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "negative_pattern": {
-          "name": "negative_pattern",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "example": {
-          "name": "example",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "reference_currency_formats_country_idx": {
-          "name": "reference_currency_formats_country_idx",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "reference_currency_formats_currency_idx": {
-          "name": "reference_currency_formats_currency_idx",
-          "columns": [
-            {
-              "expression": "currency_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "reference.date_time_formats": {
-      "name": "date_time_formats",
-      "schema": "reference",
-      "columns": {
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "date_format": {
-          "name": "date_format",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "time_format": {
-          "name": "time_format",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "datetime_format": {
-          "name": "datetime_format",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "first_day_of_week": {
-          "name": "first_day_of_week",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "weekend_days": {
-          "name": "weekend_days",
-          "type": "jsonb",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "default_timezone": {
-          "name": "default_timezone",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "timezone_strategy": {
-          "name": "timezone_strategy",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "reference_date_time_formats_country_idx": {
-          "name": "reference_date_time_formats_country_idx",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "reference.holidays": {
-      "name": "holidays",
-      "schema": "reference",
-      "columns": {
-        "id": {
-          "name": "id",
-          "type": "text",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "subdivision_code": {
-          "name": "subdivision_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "name": {
-          "name": "name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "local_name": {
-          "name": "local_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "type": {
-          "name": "type",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "date_rule": {
-          "name": "date_rule",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "month": {
-          "name": "month",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "day": {
-          "name": "day",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "observed_rule": {
-          "name": "observed_rule",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "is_national": {
-          "name": "is_national",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "default": 1
-        },
-        "effective_from": {
-          "name": "effective_from",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "effective_to": {
-          "name": "effective_to",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "reference_holidays_country_idx": {
-          "name": "reference_holidays_country_idx",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "reference_holidays_type_idx": {
-          "name": "reference_holidays_type_idx",
-          "columns": [
-            {
-              "expression": "type",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "reference.phone_number_rules": {
-      "name": "phone_number_rules",
-      "schema": "reference",
-      "columns": {
-        "id": {
-          "name": "id",
-          "type": "text",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "country_code": {
-          "name": "country_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "country_name": {
-          "name": "country_name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "dial_code": {
-          "name": "dial_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "national_prefix": {
-          "name": "national_prefix",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "trunk_prefix": {
-          "name": "trunk_prefix",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "min_length": {
-          "name": "min_length",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "max_length": {
-          "name": "max_length",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "mobile_prefix_pattern": {
-          "name": "mobile_prefix_pattern",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "national_format": {
-          "name": "national_format",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "international_format": {
-          "name": "international_format",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "example_mobile": {
-          "name": "example_mobile",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "example_fixed_line": {
-          "name": "example_fixed_line",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "emergency_numbers": {
-          "name": "emergency_numbers",
-          "type": "jsonb",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "reference_phone_rules_country_idx": {
-          "name": "reference_phone_rules_country_idx",
-          "columns": [
-            {
-              "expression": "country_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "reference_phone_rules_dial_idx": {
-          "name": "reference_phone_rules_dial_idx",
-          "columns": [
-            {
-              "expression": "dial_code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "reference.units": {
-      "name": "units",
-      "schema": "reference",
-      "columns": {
-        "id": {
-          "name": "id",
-          "type": "text",
-          "primaryKey": true,
-          "notNull": true
-        },
-        "category": {
-          "name": "category",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "code": {
-          "name": "code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "name": {
-          "name": "name",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "symbol": {
-          "name": "symbol",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "system": {
-          "name": "system",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "quantity_kind": {
-          "name": "quantity_kind",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "base_unit_code": {
-          "name": "base_unit_code",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "conversion_factor_to_base": {
-          "name": "conversion_factor_to_base",
-          "type": "double precision",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "common_uses": {
-          "name": "common_uses",
-          "type": "jsonb",
-          "primaryKey": false,
-          "notNull": false
-        },
-        "source": {
-          "name": "source",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        }
-      },
-      "indexes": {
-        "reference_units_code_unique": {
-          "name": "reference_units_code_unique",
-          "columns": [
-            {
-              "expression": "code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": true,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "reference_units_category_idx": {
-          "name": "reference_units_category_idx",
-          "columns": [
-            {
-              "expression": "category",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        },
-        "reference_units_code_idx": {
-          "name": "reference_units_code_idx",
-          "columns": [
-            {
-              "expression": "code",
-              "isExpression": false,
-              "asc": true,
-              "nulls": "last"
-            }
-          ],
-          "isUnique": false,
-          "concurrently": false,
-          "method": "btree",
-          "with": {}
-        }
-      },
-      "foreignKeys": {},
       "compositePrimaryKeys": {},
       "uniqueConstraints": {},
       "policies": {},
@@ -2977,7 +1923,8 @@
   "enums": {},
   "schemas": {
     "geo": "geo",
-    "reference": "reference"
+    "reference": "reference",
+    "tax": "tax"
   },
   "sequences": {},
   "roles": {},

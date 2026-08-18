@@ -44,12 +44,15 @@ atlas.meta.adminAreas({ countryCode: "US", type: "county" })
 atlas.meta.localities({ countryCode: "IN", search: "bhubaneswar" })
 atlas.meta.languages({ code: "hi" })
 atlas.meta.locales({ countryCode: "IN" })
-atlas.meta.postalCodeRules({ countryCode: "IN" })
-atlas.meta.phoneNumberRules({ dialCode: "+91" })
-atlas.meta.addressFormats({ countryCode: "IN" })
 atlas.meta.phoneCodes({ dialCode: "+91" })
 atlas.meta.currencies({ search: "INR" })
 atlas.meta.timezones({ countryId: 101 })
+```
+
+## Reference Methods
+
+```ts
+atlas.reference.addressFormats({ countryCode: "IN" })
 ```
 
 ## Error Handling
