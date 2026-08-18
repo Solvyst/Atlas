@@ -9,6 +9,9 @@
       "@/*": [
         "./src/*"
       ],
+      "@solvyst-atlas/cache": [
+        "../../packages/cache/src/index.ts"
+      ],
       "@solvyst-atlas/database": [
         "../../packages/database/src/index.ts"
       ],

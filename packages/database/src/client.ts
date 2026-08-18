@@ -13,8 +13,10 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootEnvPath = path.resolve(__dirname, "../../..", ".env");
 const packageEnvPath = path.resolve(__dirname, "..", ".env");
 
-dotenv.config({ path: rootEnvPath });
-dotenv.config({ path: packageEnvPath });
+if (!process.env.DATABASE_URI && !process.env.DATABASE_URL) {
+  dotenv.config({ path: rootEnvPath });
+  dotenv.config({ path: packageEnvPath });
+}
 
 const databaseUrl = process.env.DATABASE_URI ?? process.env.DATABASE_URL;
 

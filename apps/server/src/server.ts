@@ -1,9 +1,9 @@
 import http from "http";
-import "dotenv/config";
 
-import app from "@/app.js";
-import { pool, testPgConnection } from "@solvyst-atlas/database";
 import { env } from "./config/env.js";
+import { closeRedis, testRedisConnection } from "@solvyst-atlas/cache";
+import { pool, testPgConnection } from "@solvyst-atlas/database";
+import app from "@/app.js";
 
 const PORT = Number(env.PORT);
 const HOST = env.HOST;
@@ -12,6 +12,12 @@ const HOST = env.HOST;
   try {
     // Test PG Connection
     await testPgConnection();
+
+    // Test Redis Connection
+    await testRedisConnection({
+      enabled: env.REDIS_ENABLED,
+      url: env.REDIS_URL,
+    });
 
     // HTTP server
     const server = http.createServer(app);
@@ -33,6 +39,7 @@ const HOST = env.HOST;
         }
 
         await pool.end();
+        closeRedis();
         process.exit(0);
       });
     };

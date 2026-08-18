@@ -1,12 +1,11 @@
 import { timingSafeEqual } from "crypto";
 import type { RequestHandler } from "express";
-import { Redis } from "ioredis";
 
+import { ensureRedisReady, getRedis } from "@solvyst-atlas/cache";
 import { AppError } from "@/lib/AppError.js";
 import { env } from "@/config/env.js";
 
 const requests = new Map<string, { count: number; resetAt: number }>();
-let redis: Redis | null = null;
 
 function getAtlasApiKey() {
   return env.ATLAS_API_KEY;
@@ -17,31 +16,6 @@ function getRateLimitConfig() {
     max: env.META_RATE_LIMIT_MAX,
     windowMs: env.META_RATE_LIMIT_WINDOW_MS,
   };
-}
-
-function getRedis() {
-  if (!env.REDIS_ENABLED) return null;
-  if (redis) return redis;
-
-  redis = env.REDIS_URL
-    ? new Redis(env.REDIS_URL, {
-        maxRetriesPerRequest: 1,
-        enableOfflineQueue: false,
-      })
-    : new Redis({
-        host: env.REDIS_HOST,
-        port: env.REDIS_PORT,
-        password: env.REDIS_PASSWORD,
-        tls: env.REDIS_TLS ? {} : undefined,
-        maxRetriesPerRequest: 1,
-        enableOfflineQueue: false,
-      });
-
-  redis.on("error", (error: Error) => {
-    console.error("[redis:rate-limit] error", error);
-  });
-
-  return redis;
 }
 
 function isSameSecret(input: string, expected: string) {
@@ -57,10 +31,15 @@ export const metaRateLimit: RequestHandler = async (req, res, next) => {
   const { max, windowMs } = getRateLimitConfig();
   const now = Date.now();
   const key = `${req.ip}:${req.header("x-api-key") ?? "anonymous"}`;
-  const redisClient = getRedis();
+  const redisClient = getRedis({
+    enabled: env.REDIS_ENABLED,
+    url: env.REDIS_URL,
+  });
 
   if (redisClient) {
     try {
+      await ensureRedisReady(redisClient);
+
       const redisKey = `rate-limit:meta:${key}`;
       const count = await redisClient.incr(redisKey);
 

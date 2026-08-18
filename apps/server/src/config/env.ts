@@ -5,10 +5,8 @@ import dotenv from "dotenv";
 import { z } from "zod";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const rootEnvPath = path.resolve(__dirname, "../../../../.env");
 const appEnvPath = path.resolve(__dirname, "../../.env");
 
-dotenv.config({ path: rootEnvPath });
 dotenv.config({ path: appEnvPath });
 
 const optionalUrl = z

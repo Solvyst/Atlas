@@ -30,6 +30,9 @@ importers:
 
   apps/server:
     dependencies:
+      '@solvyst-atlas/cache':
+        specifier: workspace:*
+        version: link:../../packages/cache
       bullmq:
         specifier: ^5.58.5
         version: 5.78.0(supports-color@5.5.0)
@@ -57,9 +60,6 @@ importers:
       helmet:
         specifier: ^8.3.0
         version: 8.3.0
-      ioredis:
-        specifier: ^6.0.0
-        version: 6.0.0(supports-color@5.5.0)
       morgan:
         specifier: ^1.11.0
         version: 1.11.0(supports-color@5.5.0)
@@ -163,6 +163,22 @@ importers:
         version: 4.3.3
       typescript:
         specifier: ^5
+        version: 5.9.3
+
+  packages/cache:
+    dependencies:
+      ioredis:
+        specifier: ^6.0.0
+        version: 6.0.0(supports-color@5.5.0)
+    devDependencies:
+      '@types/node':
+        specifier: ^24.3.1
+        version: 24.13.1
+      rimraf:
+        specifier: ^5.0.10
+        version: 5.0.10
+      typescript:
+        specifier: ^5.9.3
         version: 5.9.3
 
   packages/database:
