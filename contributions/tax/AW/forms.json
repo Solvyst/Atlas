@@ -1,5 +1,29 @@
 {
   "countryCode": "AW",
   "version": 1,
-  "fields": []
+  "name": "Aruba",
+  "fields": [
+    {
+      "code": "PERSOONSNUMMER",
+      "label": "Persoonsnummer",
+      "description": "Tax Identification Number assigned by Departamento di Impuesto",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7,8}$",
+        "minLength": 7,
+        "maxLength": 8
+      }
+    }
+  ]
 }

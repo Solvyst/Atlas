@@ -1,5 +1,50 @@
 {
   "countryCode": "AX",
   "version": 1,
-  "fields": []
+  "name": "Åland Islands",
+  "fields": [
+    {
+      "code": "PERSONAL_IDENTITY_CODE",
+      "label": "Finnish Personal Identity Code",
+      "description": "Finnish Personal Identity Code used as the taxpayer identifier for individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "150600A905P",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{6}[+\\-ABCDEFUVWXY][0-9]{3}[0-9A-Z]$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "BUSINESS_ID",
+      "label": "Business ID",
+      "description": "Finnish Business Identity Code used as the taxpayer identifier for businesses and organizations",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567-8",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7}-[0-9]$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

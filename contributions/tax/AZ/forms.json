@@ -1,5 +1,29 @@
 {
   "countryCode": "AZ",
   "version": 1,
-  "fields": []
+  "name": "Azerbaijan",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Taxpayer Identification Number (Vergi Ödəyicisinin Eyniləşdirmə Nömrəsi - VÖEN)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    }
+  ]
 }

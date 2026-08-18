@@ -1,5 +1,73 @@
 {
   "countryCode": "AU",
   "version": 1,
-  "fields": []
+  "name": "Australia",
+  "fields": [
+    {
+      "code": "TFN",
+      "label": "TFN",
+      "description": "Tax File Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "ABN",
+      "label": "ABN",
+      "description": "Australian Business Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678912",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "WPN",
+      "label": "WPN",
+      "description": "Withholding Payer Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{8,9}$",
+        "minLength": 8,
+        "maxLength": 9
+      }
+    }
+  ]
 }

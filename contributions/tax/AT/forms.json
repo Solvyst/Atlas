@@ -1,5 +1,52 @@
 {
   "countryCode": "AT",
   "version": 1,
-  "fields": []
+  "name": "Austria",
+  "fields": [
+    {
+      "code": "STEUERNUMMER",
+      "label": "Steuernummer",
+      "description": "Austrian Tax Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "UID",
+      "label": "UID",
+      "description": "Umsatzsteuer-Identifikationsnummer (VAT Identification Number)",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "ATU12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^ATU[0-9]{8}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    }
+  ]
 }
