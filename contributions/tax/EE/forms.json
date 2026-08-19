@@ -1,5 +1,74 @@
 {
   "countryCode": "EE",
   "version": 1,
-  "fields": []
+  "name": "Estonia",
+  "fields": [
+    {
+      "code": "PERSONAL_ID_CODE",
+      "label": "Personal Identification Code",
+      "description": "Estonian personal identification code (isikukood), used as the tax identification number for individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "39901010000",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "REGISTRY_CODE",
+      "label": "Registry Code",
+      "description": "Estonian registration code used as the tax identification number for legal persons",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{8}$",
+        "minLength": 8,
+        "maxLength": 8
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Identification Number",
+      "description": "Estonian value added tax identification number (KMKR number)",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "EE123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^EE[0-9]{9}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    }
+  ]
 }

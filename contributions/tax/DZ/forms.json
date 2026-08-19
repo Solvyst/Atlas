@@ -1,5 +1,30 @@
 {
   "countryCode": "DZ",
   "version": 1,
-  "fields": []
+  "name": "Algeria",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d'Identification Fiscale",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "000942040001075",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{15}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    }
+  ]
 }

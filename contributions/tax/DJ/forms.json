@@ -1,5 +1,30 @@
 {
   "countryCode": "DJ",
   "version": 1,
-  "fields": []
+  "name": "Djibouti",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d'Identification Fiscale",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "NIF",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 16
+      }
+    }
+  ]
 }
