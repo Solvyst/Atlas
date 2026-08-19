@@ -1,5 +1,97 @@
 {
   "countryCode": "DE",
   "version": 1,
-  "fields": []
+  "name": "Germany",
+  "fields": [
+    {
+      "code": "IDNR",
+      "label": "Steuerliche Identifikationsnummer (IdNr.)",
+      "description": "German tax identification number assigned permanently to natural persons for identification in taxation procedures",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678910",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "STEUERNUMMER",
+      "label": "Steuernummer",
+      "description": "German tax number issued by the competent tax office, represented in the standardized nationwide 13-digit format",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "USTIDNR",
+      "label": "Umsatzsteuer-Identifikationsnummer (USt-IdNr.)",
+      "description": "German VAT identification number used for identification in intra-European Union supplies and services",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "DE123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^DE[0-9]{9}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "WIDNR",
+      "label": "Wirtschafts-Identifikationsnummer (W-IdNr.)",
+      "description": "German economic identification number assigned to economically active natural persons, legal persons and associations of persons for identification in taxation and administrative procedures",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "DE123456789-00001",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^DE[0-9]{9}-[0-9]{5}$",
+        "minLength": 17,
+        "maxLength": 17
+      }
+    }
+  ]
 }

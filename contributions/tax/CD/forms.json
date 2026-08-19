@@ -1,5 +1,30 @@
 {
   "countryCode": "CD",
   "version": 1,
-  "fields": []
+  "name": "Democratic Republic of the Congo",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d'Identification Fiscale",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "A0600001A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 7,
+        "maxLength": 15
+      }
+    }
+  ]
 }

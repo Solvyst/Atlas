@@ -1,5 +1,30 @@
 {
   "countryCode": "CM",
   "version": 1,
-  "fields": []
+  "name": "Cameroon",
+  "fields": [
+    {
+      "code": "NIU",
+      "label": "NIU",
+      "description": "Numéro d'Identifiant Unique (Unique Taxpayer Identification Number)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "P012345678901A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[PM][0-9]{12}[A-Z]$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }

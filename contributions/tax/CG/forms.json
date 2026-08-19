@@ -1,5 +1,30 @@
 {
   "countryCode": "CG",
   "version": 1,
-  "fields": []
+  "name": "Republic of the Congo",
+  "fields": [
+    {
+      "code": "NIU",
+      "label": "NIU",
+      "description": "Numéro d'Identification Unique",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": null,
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": null,
+        "maxLength": null
+      }
+    }
+  ]
 }

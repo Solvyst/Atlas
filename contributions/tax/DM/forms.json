@@ -1,5 +1,30 @@
 {
   "countryCode": "DM",
   "version": 1,
-  "fields": []
+  "name": "Dominica",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7}$",
+        "minLength": 7,
+        "maxLength": 7
+      }
+    }
+  ]
 }

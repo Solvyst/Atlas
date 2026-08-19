@@ -1,5 +1,30 @@
 {
   "countryCode": "DO",
   "version": 1,
-  "fields": []
+  "name": "Dominican Republic",
+  "fields": [
+    {
+      "code": "RNC",
+      "label": "RNC",
+      "description": "Registro Nacional de Contribuyentes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "130999991",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^(?:[0-9]{9}|[0-9]{11})$",
+        "minLength": 9,
+        "maxLength": 11
+      }
+    }
+  ]
 }

@@ -1,5 +1,51 @@
 {
   "countryCode": "CN",
   "version": 1,
-  "fields": []
+  "name": "China",
+  "fields": [
+    {
+      "code": "USCC",
+      "label": "Unified Social Credit Code",
+      "description": "Unified Social Credit Code used as the Taxpayer Identification Number for legal entities and other organizations",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "91310000XXXXXXXXXX",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9A-HJ-NP-RTUWXY]{18}$",
+        "minLength": 18,
+        "maxLength": 18
+      }
+    },
+    {
+      "code": "TIN",
+      "label": "Taxpayer Identification Number",
+      "description": "Natural Person Taxpayer Identification Number; for individuals with a Chinese citizen identity number, that identity number serves as the taxpayer identification number, while individuals without one are assigned a taxpayer identification number by the tax authority",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "11010119900101XXXX",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 30
+      }
+    }
+  ]
 }
