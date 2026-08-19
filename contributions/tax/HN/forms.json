@@ -1,5 +1,30 @@
 {
   "countryCode": "HN",
   "version": 1,
-  "fields": []
+  "name": "Honduras",
+  "fields": [
+    {
+      "code": "RTN",
+      "label": "RTN",
+      "description": "Registro Tributario Nacional",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "08011999123456",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{14}$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }

@@ -1,5 +1,30 @@
 {
   "countryCode": "GQ",
   "version": 1,
-  "fields": []
+  "name": "Equatorial Guinea",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Número de Identificación Fiscal",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "NIF",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }

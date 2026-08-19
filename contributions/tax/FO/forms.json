@@ -1,5 +1,51 @@
 {
   "countryCode": "FO",
   "version": 1,
-  "fields": []
+  "name": "Faroe Islands",
+  "fields": [
+    {
+      "code": "P_NUMBER",
+      "label": "P Number",
+      "description": "Faroese personal identification number used as the Tax Identification Number (TIN) for individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "010190123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "V_NUMBER",
+      "label": "V-tal",
+      "description": "Business identification number issued by the Faroese Tax Administration (TAKS) and used as the Tax Identification Number (TIN) for legal persons",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "443921",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    }
+  ]
 }

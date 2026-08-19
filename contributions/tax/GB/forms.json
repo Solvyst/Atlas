@@ -1,5 +1,98 @@
 {
   "countryCode": "GB",
   "version": 1,
-  "fields": []
+  "name": "United Kingdom",
+  "fields": [
+    {
+      "code": "UTR",
+      "label": "UTR",
+      "description": "Unique Taxpayer Reference",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567891",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "NINO",
+      "label": "National Insurance Number",
+      "description": "National Insurance number used to record an individual's National Insurance contributions and tax",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "QQ123456B",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^(?!BG|GB|KN|NK|NT|TN|ZZ)[A-CEGHJ-PR-TW-Z][A-CEGHJ-NPR-TW-Z][0-9]{6}[A-D]$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "VAT",
+      "label": "VAT Registration Number",
+      "description": "Value Added Tax registration number issued by HM Revenue and Customs",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "GB123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^(GB)?[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "PAYE",
+      "label": "Employer PAYE Reference",
+      "description": "Employer reference issued by HM Revenue and Customs for Pay As You Earn",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123/AB456",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{3}/[A-Z0-9]{1,10}$",
+        "minLength": 5,
+        "maxLength": 14
+      }
+    }
+  ]
 }

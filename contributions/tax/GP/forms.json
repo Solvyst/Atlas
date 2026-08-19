@@ -1,5 +1,51 @@
 {
   "countryCode": "GP",
   "version": 1,
-  "fields": []
+  "name": "Guadeloupe",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "Numéro fiscal",
+      "description": "French Tax Identification Number (Numéro fiscal) used for individual taxpayers in Guadeloupe",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "0123456789012",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-3][0-9]{12}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "SIREN",
+      "label": "SIREN",
+      "description": "Système d'identification du répertoire des entreprises number used as the tax identification number for entities",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

@@ -1,5 +1,74 @@
 {
   "countryCode": "GU",
   "version": 1,
-  "fields": []
+  "name": "Guam",
+  "fields": [
+    {
+      "code": "SSN",
+      "label": "SSN",
+      "description": "Social Security Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123-45-6789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{3}-?[0-9]{2}-?[0-9]{4}$",
+        "minLength": 9,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "ITIN",
+      "label": "ITIN",
+      "description": "Individual Taxpayer Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "912-70-1234",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^9[0-9]{2}-?(5[0-9]|6[0-5]|7[0-9]|8[0-8]|9[0-2]|9[4-9])-?[0-9]{4}$",
+        "minLength": 9,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "EIN",
+      "label": "EIN",
+      "description": "Employer Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12-3456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{2}-?[0-9]{7}$",
+        "minLength": 9,
+        "maxLength": 10
+      }
+    }
+  ]
 }
