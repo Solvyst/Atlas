@@ -1,5 +1,74 @@
 {
   "countryCode": "IM",
   "version": 1,
-  "fields": []
+  "name": "Isle of Man",
+  "fields": [
+    {
+      "code": "TRN",
+      "label": "Tax Reference Number",
+      "description": "Tax Reference Number issued by the Isle of Man Income Tax Division",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "H123456-78",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[HCX][0-9]{6}(-[0-9]{2})?$",
+        "minLength": 7,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "NINO",
+      "label": "National Insurance Number",
+      "description": "National Insurance Number used as an alternative taxpayer identification reference for individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "MA999999A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[A-Z]{2}[0-9]{6}[ABCD]$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "VAT",
+      "label": "VAT Registration Number",
+      "description": "Value Added Tax registration number issued to VAT-registered persons in the Isle of Man",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

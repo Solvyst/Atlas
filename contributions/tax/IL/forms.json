@@ -1,5 +1,76 @@
 {
   "countryCode": "IL",
   "version": 1,
-  "fields": []
+  "name": "Israel",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "Tax Identification Number",
+      "description": "Israeli Tax Identification Number; for an individual this is the Israeli identification number, while for a company it is the company identification number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456782",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Dealer Number",
+      "description": "Registration number of a dealer registered for Israeli Value Added Tax",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456782",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "WITHHOLDING_FILE_NUMBER",
+      "label": "Deductions File Number",
+      "description": "Tax Authority deductions file number used by employers and other withholding tax payers for withholding tax reporting",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "926109992",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }

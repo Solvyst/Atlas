@@ -1,5 +1,30 @@
 {
   "countryCode": "IR",
   "version": 1,
-  "fields": []
+  "name": "Iran (Islamic Republic of)",
+  "fields": [
+    {
+      "code": "ECONOMIC_CODE",
+      "label": "Economic Code",
+      "description": "Economic identification code used by the Iranian tax administration for taxpayers and economic operators",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "411139673763",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 12,
+        "maxLength": 12
+      }
+    }
+  ]
 }

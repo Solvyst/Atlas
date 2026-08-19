@@ -1,5 +1,74 @@
 {
   "countryCode": "JP",
   "version": 1,
-  "fields": []
+  "name": "Japan",
+  "fields": [
+    {
+      "code": "MY_NUMBER",
+      "label": "My Number",
+      "description": "Individual Number (My Number) used for social security, tax, and disaster response procedures",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "CORPORATE_NUMBER",
+      "label": "Corporate Number",
+      "description": "Corporate Number assigned by Japan's National Tax Agency to corporations and certain other organizations",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "QUALIFIED_INVOICE_ISSUER_NUMBER",
+      "label": "Qualified Invoice Issuer Registration Number",
+      "description": "Registration Number issued to a business registered as a Qualified Invoice Issuer under Japan's Consumption Tax invoice system",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "T1234567890123",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^T[0-9]{13}$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }
