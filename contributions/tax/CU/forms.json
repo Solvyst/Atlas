@@ -1,5 +1,30 @@
 {
   "countryCode": "CU",
   "version": 1,
-  "fields": []
+  "name": "Cuba",
+  "fields": [
+    {
+      "code": "NIT",
+      "label": "NIT",
+      "description": "Número de Identificación Tributaria",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "91021027775",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    }
+  ]
 }

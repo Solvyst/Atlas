@@ -1,5 +1,30 @@
 {
   "countryCode": "CL",
   "version": 1,
-  "fields": []
+  "name": "Chile",
+  "fields": [
+    {
+      "code": "RUT",
+      "label": "RUT",
+      "description": "Rol Único Tributario",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678K",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7,8}[0-9K]$",
+        "minLength": 8,
+        "maxLength": 9
+      }
+    }
+  ]
 }

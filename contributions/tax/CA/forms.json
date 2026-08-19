@@ -1,5 +1,161 @@
 {
   "countryCode": "CA",
   "version": 1,
-  "fields": []
+  "name": "Canada",
+  "fields": [
+    {
+      "code": "SIN",
+      "label": "SIN",
+      "description": "Social Insurance Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "111111111",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "ITN",
+      "label": "ITN",
+      "description": "Individual Tax Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "091234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^0[89][0-9]{7}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "TTN",
+      "label": "TTN",
+      "description": "Temporary Tax Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "BN",
+      "label": "BN",
+      "description": "Business Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "GST_HST",
+      "label": "GST/HST Account Number",
+      "description": "Goods and Services Tax/Harmonized Sales Tax program account number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789RT0001",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}RT[0-9]{4}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    },
+    {
+      "code": "PAYROLL",
+      "label": "Payroll Deductions Account Number",
+      "description": "CRA payroll deductions program account number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789RP0001",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}RP[0-9]{4}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    },
+    {
+      "code": "CORPORATION_INCOME_TAX",
+      "label": "Corporation Income Tax Account Number",
+      "description": "CRA corporation income tax program account number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789RC0001",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}RC[0-9]{4}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    }
+  ]
 }

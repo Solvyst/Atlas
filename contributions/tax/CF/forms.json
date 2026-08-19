@@ -1,5 +1,30 @@
 {
   "countryCode": "CF",
   "version": 1,
-  "fields": []
+  "name": "Central African Republic",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d'Identification Fiscale",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "M347938G001",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    }
+  ]
 }

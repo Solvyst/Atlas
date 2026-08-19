@@ -1,5 +1,30 @@
 {
   "countryCode": "CY",
   "version": 1,
-  "fields": []
+  "name": "Cyprus",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "60000000A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{8}[A-Z]$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

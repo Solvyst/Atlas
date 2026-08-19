@@ -1,5 +1,52 @@
 {
   "countryCode": "CI",
   "version": 1,
-  "fields": []
+  "name": "Côte d'Ivoire",
+  "fields": [
+    {
+      "code": "NCC",
+      "label": "NCC",
+      "description": "Numéro de Compte Contribuable",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 50
+      }
+    },
+    {
+      "code": "IDU",
+      "label": "IDU",
+      "description": "Identifiant Unique d'Immatriculation",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "CI-2026-01-ABC123",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }

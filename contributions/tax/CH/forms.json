@@ -1,5 +1,73 @@
 {
   "countryCode": "CH",
   "version": 1,
-  "fields": []
+  "name": "Switzerland",
+  "fields": [
+    {
+      "code": "AHVN13",
+      "label": "AHV Number",
+      "description": "13-digit Old-Age and Survivors' Insurance Number (AHV/AVS), used as the tax identification number for individuals in the context of international automatic exchange of information",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "7561234567895",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^756[0-9]{10}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "UID",
+      "label": "UID",
+      "description": "Enterprise Identification Number (Unternehmens-Identifikationsnummer / UID), used as the tax identification number for entities",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "CHE-123.456.789",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^(?:CHE[0-9]{9}|CHE-[0-9]{3}\\.[0-9]{3}\\.[0-9]{3})$",
+        "minLength": 12,
+        "maxLength": 15
+      }
+    },
+    {
+      "code": "VAT",
+      "label": "VAT Number",
+      "description": "Swiss Value Added Tax registration number, consisting of the Enterprise Identification Number (UID) with the official VAT suffix MWST, TVA or IVA",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "CHE-123.456.789 MWST",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": false
+      },
+      "validation": {
+        "pattern": "^CHE-[0-9]{3}\\.[0-9]{3}\\.[0-9]{3} (?:MWST|TVA|IVA)$",
+        "minLength": 19,
+        "maxLength": 20
+      }
+    }
+  ]
 }

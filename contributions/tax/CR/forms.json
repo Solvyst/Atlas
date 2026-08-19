@@ -1,5 +1,96 @@
 {
   "countryCode": "CR",
   "version": 1,
-  "fields": []
+  "name": "Costa Rica",
+  "fields": [
+    {
+      "code": "CEDULA_FISICA",
+      "label": "Cédula Física",
+      "description": "Cédula de Identidad used as the tax identification number for Costa Rican individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "113290793",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "CEDULA_JURIDICA",
+      "label": "Cédula Jurídica",
+      "description": "Legal entity identification number used for tax identification in Costa Rica",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "3101981657",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9][0-9]{3}[A-Z0-9]{6}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "NITE",
+      "label": "NITE",
+      "description": "Número de Identificación Tributario Especial",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "9000000001",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "DIMEX",
+      "label": "DIMEX",
+      "description": "Documento de Identidad Migratorio para Extranjeros used for tax identification of eligible foreign individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "155812345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11,12}$",
+        "minLength": 11,
+        "maxLength": 12
+      }
+    }
+  ]
 }
