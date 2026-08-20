@@ -8,7 +8,9 @@
       "label": "GSTIN",
       "description": "Goods and Services Tax Identification Number",
       "category": "TAX_REGISTRATION",
-      "appliesTo": ["PERSON", "ORGANIZATION"],
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
       "required": false,
       "inputType": "TEXT",
       "placeholder": "22AAAAA0000A1Z5",
@@ -28,7 +30,10 @@
       "label": "PAN",
       "description": "Permanent Account Number",
       "category": "TAX_IDENTIFIER",
-      "appliesTo": ["PERSON", "ORGANIZATION"],
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
       "required": false,
       "inputType": "TEXT",
       "placeholder": "AAAAA0000A",
@@ -48,7 +53,9 @@
       "label": "TAN",
       "description": "Tax Deduction and Collection Account Number",
       "category": "TAX_IDENTIFIER",
-      "appliesTo": ["PERSON", "ORGANIZATION"],
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
       "required": false,
       "inputType": "TEXT",
       "placeholder": "AAAA00000A",

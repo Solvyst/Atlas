@@ -1,5 +1,30 @@
 {
   "countryCode": "GE",
   "version": 1,
-  "fields": []
+  "name": "Georgia",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "Taxpayer Identification Number",
+      "description": "Identification number used for tax purposes in Georgia; for Georgian citizen natural persons this is their personal number, while other taxpayers may use a 9-digit identification number.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^(?:[0-9]{9}|[0-9]{11})$",
+        "minLength": 9,
+        "maxLength": 11
+      }
+    }
+  ]
 }

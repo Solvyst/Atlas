@@ -1,5 +1,30 @@
 {
   "countryCode": "MK",
   "version": 1,
-  "fields": []
+  "name": "North Macedonia",
+  "fields": [
+    {
+      "code": "EDB",
+      "label": "EDB",
+      "description": "Unique Tax Number (Единствен даночен број)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "4030012345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    }
+  ]
 }

@@ -1,5 +1,30 @@
 {
   "countryCode": "GF",
   "version": 1,
-  "fields": []
+  "name": "French Guiana",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d’identification fiscale",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": null,
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": null,
+        "maxLength": null
+      }
+    }
+  ]
 }

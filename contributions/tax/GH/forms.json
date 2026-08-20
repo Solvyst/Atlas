@@ -1,5 +1,51 @@
 {
   "countryCode": "GH",
   "version": 1,
-  "fields": []
+  "name": "Ghana",
+  "fields": [
+    {
+      "code": "GHANA_CARD_PIN",
+      "label": "Ghana Card PIN",
+      "description": "Ghana Card Personal Identification Number used as the Taxpayer Identification Number for individual taxpayers",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "GHA-123456789-1",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^GHA-[0-9]{9}-[0-9]$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    },
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Taxpayer Identification Number issued by the Ghana Revenue Authority to organisations, companies and other legal persons",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "C0001234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 11,
+        "maxLength": 11
+      }
+    }
+  ]
 }

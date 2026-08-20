@@ -1,5 +1,53 @@
 {
   "countryCode": "NC",
   "version": 1,
-  "fields": []
+  "name": "New Caledonia",
+  "fields": [
+    {
+      "code": "FISCAL_ID",
+      "label": "Identifiant fiscal",
+      "description": "Tax identifier issued by the Direction des Services Fiscaux of New Caledonia",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7}$",
+        "minLength": 7,
+        "maxLength": 7
+      }
+    },
+    {
+      "code": "RID",
+      "label": "RID",
+      "description": "Répertoire d'Identification des Entreprises et des Établissements (RIDET) legal-unit identification number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7}$",
+        "minLength": 7,
+        "maxLength": 7
+      }
+    }
+  ]
 }

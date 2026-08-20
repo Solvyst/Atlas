@@ -1,5 +1,29 @@
 {
   "countryCode": "NZ",
   "version": 1,
-  "fields": []
+  "name": "New Zealand",
+  "fields": [
+    {
+      "code": "IRD_NUMBER",
+      "label": "IRD Number",
+      "description": "Inland Revenue Department Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "012345678",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

@@ -1,5 +1,75 @@
 {
   "countryCode": "HU",
   "version": 1,
-  "fields": []
+  "name": "Hungary",
+  "fields": [
+    {
+      "code": "ADOAZONOSITO_JEL",
+      "label": "Tax Identification Number",
+      "description": "Adóazonosító jel",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "8123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "ADOSZAM",
+      "label": "Tax Number",
+      "description": "Adószám",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678-1-42",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 11,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "EU_VAT_NUMBER",
+      "label": "EU VAT Number",
+      "description": "Közösségi adószám",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "HU12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^HU[0-9]{8}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    }
+  ]
 }

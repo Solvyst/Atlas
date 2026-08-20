@@ -1,5 +1,30 @@
 {
   "countryCode": "LR",
   "version": 1,
-  "fields": []
+  "name": "Liberia",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Taxpayer Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "512345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^5[0-9]{8}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

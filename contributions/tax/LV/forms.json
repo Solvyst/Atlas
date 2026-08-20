@@ -1,5 +1,53 @@
 {
   "countryCode": "LV",
   "version": 1,
-  "fields": []
+  "name": "Latvia",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "Taxpayer Registration Code",
+      "description": "Latvian taxpayer registration code (nodokļu maksātāja reģistrācijas kods). For a natural person who has a Latvian personal identity number, the taxpayer registration code is identical to that personal identity number; other registered taxpayers are assigned an 11-digit registration code.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "40000000001",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "VAT",
+      "label": "VAT Registration Number",
+      "description": "Latvian Value Added Tax (PVN) registration number, consisting of the country prefix LV followed by 11 digits.",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "LV40000000001",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^LV[0-9]{11}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    }
+  ]
 }

@@ -1,5 +1,30 @@
 {
   "countryCode": "MN",
   "version": 1,
-  "fields": []
+  "name": "Mongolia",
+  "fields": [
+    {
+      "code": "TPN",
+      "label": "Taxpayer Number",
+      "description": "Taxpayer identification number used in Mongolia's Unified Taxpayer Registration System",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    }
+  ]
 }

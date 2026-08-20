@@ -1,5 +1,51 @@
 {
   "countryCode": "MD",
   "version": 1,
-  "fields": []
+  "name": "Moldova",
+  "fields": [
+    {
+      "code": "IDNP",
+      "label": "IDNP",
+      "description": "State Identification Number of a Natural Person",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "IDNO",
+      "label": "IDNO",
+      "description": "State Identification Number of a Legal Entity, used as the fiscal code",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    }
+  ]
 }

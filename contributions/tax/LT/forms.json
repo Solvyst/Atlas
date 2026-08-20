@@ -1,5 +1,96 @@
 {
   "countryCode": "LT",
   "version": 1,
-  "fields": []
+  "name": "Lithuania",
+  "fields": [
+    {
+      "code": "PERSONAL_CODE",
+      "label": "Personal Code",
+      "description": "Lithuanian personal identification code used as the Tax Identification Number (TIN) for natural persons",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "10101010005",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[1-6][0-9]{10}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "LEGAL_ENTITY_CODE",
+      "label": "Legal Entity Code",
+      "description": "Lithuanian legal entity code used as the Tax Identification Number (TIN) for legal entities",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "MMR_TIN",
+      "label": "Taxpayer Identification Number",
+      "description": "Taxpayer identification number assigned by the Lithuanian Taxpayer Register (MMR) where applicable",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Number",
+      "description": "Lithuanian Value Added Tax (PVM) payer identification number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "LT123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^LT(?:[0-9]{9}|[0-9]{12})$",
+        "minLength": 11,
+        "maxLength": 14
+      }
+    }
+  ]
 }

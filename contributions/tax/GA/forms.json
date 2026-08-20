@@ -1,5 +1,30 @@
 {
   "countryCode": "GA",
   "version": 1,
-  "fields": []
+  "name": "Gabon",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d'Identification Fiscale",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "003738A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 7,
+        "maxLength": 13
+      }
+    }
+  ]
 }

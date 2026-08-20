@@ -1,5 +1,74 @@
 {
   "countryCode": "KR",
   "version": 1,
-  "fields": []
+  "name": "Republic of Korea",
+  "fields": [
+    {
+      "code": "RRN",
+      "label": "Resident Registration Number",
+      "description": "Resident Registration Number used as the Tax Identification Number for Korean resident individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "850102-1234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{6}-?[0-9]{7}$",
+        "minLength": 13,
+        "maxLength": 14
+      }
+    },
+    {
+      "code": "BRN",
+      "label": "Business Registration Number",
+      "description": "Business Registration Number issued by the National Tax Service and used as the Tax Identification Number for registered businesses",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123-45-67890",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{3}-?[0-9]{2}-?[0-9]{5}$",
+        "minLength": 10,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "CRN",
+      "label": "Corporation Registration Number",
+      "description": "Corporation Registration Number issued through the corporate registry and accepted as a Tax Identification Number for legal entities in applicable cases",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "110111-1234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{6}-?[0-9]{7}$",
+        "minLength": 13,
+        "maxLength": 14
+      }
+    }
+  ]
 }

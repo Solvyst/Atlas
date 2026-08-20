@@ -1,5 +1,51 @@
 {
   "countryCode": "HK",
   "version": 1,
-  "fields": []
+  "name": "Hong Kong",
+  "fields": [
+    {
+      "code": "HKID",
+      "label": "HKID Number",
+      "description": "Hong Kong Identity Card Number used as the TIN equivalent for an individual Hong Kong tax resident",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "AB1234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[A-Z]{1,2}[0-9]{6}[0-9A]$",
+        "minLength": 8,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "BRN",
+      "label": "Business Registration Number",
+      "description": "Business Registration Number used as the TIN equivalent for an entity Hong Kong tax resident",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{8}$",
+        "minLength": 8,
+        "maxLength": 8
+      }
+    }
+  ]
 }

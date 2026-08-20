@@ -1,5 +1,53 @@
 {
   "countryCode": "ME",
   "version": 1,
-  "fields": []
+  "name": "Montenegro",
+  "fields": [
+    {
+      "code": "PIB",
+      "label": "PIB",
+      "description": "Poreski identifikacioni broj (Tax Identification Number)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    },
+    {
+      "code": "PDV",
+      "label": "PDV Number",
+      "description": "Value Added Tax identification number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    }
+  ]
 }

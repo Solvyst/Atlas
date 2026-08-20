@@ -1,5 +1,73 @@
 {
   "countryCode": "FR",
   "version": 1,
-  "fields": []
+  "name": "France",
+  "fields": [
+    {
+      "code": "NUMERO_FISCAL",
+      "label": "Numéro fiscal",
+      "description": "French individual tax identification number (numéro fiscal)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "SIREN",
+      "label": "SIREN",
+      "description": "Système d'identification du répertoire des entreprises number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "TVA_INTRACOMMUNAUTAIRE",
+      "label": "Numéro de TVA intracommunautaire",
+      "description": "French intra-Community VAT identification number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "FR12123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[A-Z]{2}[0-9A-Z]{2}[0-9]{9}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    }
+  ]
 }

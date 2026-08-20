@@ -1,5 +1,30 @@
 {
   "countryCode": "ML",
   "version": 1,
-  "fields": []
+  "name": "Mali",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d'Identification Fiscal",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "071012345M",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}[A-HJ-NPR-TV-Y]$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    }
+  ]
 }
