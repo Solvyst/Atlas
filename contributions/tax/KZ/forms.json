@@ -1,5 +1,51 @@
 {
   "countryCode": "KZ",
   "version": 1,
-  "fields": []
+  "name": "Kazakhstan",
+  "fields": [
+    {
+      "code": "IIN",
+      "label": "IIN",
+      "description": "Individual Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "BIN",
+      "label": "BIN",
+      "description": "Business Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    }
+  ]
 }

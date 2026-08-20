@@ -1,5 +1,53 @@
 {
   "countryCode": "LI",
   "version": 1,
-  "fields": []
+  "name": "Liechtenstein",
+  "fields": [
+    {
+      "code": "PEID",
+      "label": "PEID Number",
+      "description": "Personenidentifikationsnummer (PEID), used as the domestic Tax Identification Number (TIN)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{1,12}$",
+        "minLength": 1,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "MWST",
+      "label": "MWST Number",
+      "description": "Liechtenstein Value Added Tax (Mehrwertsteuer) registration number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{5}$",
+        "minLength": 5,
+        "maxLength": 5
+      }
+    }
+  ]
 }

@@ -1,5 +1,51 @@
 {
   "countryCode": "KW",
   "version": 1,
-  "fields": []
+  "name": "Kuwait",
+  "fields": [
+    {
+      "code": "CIVIL_ID",
+      "label": "Civil ID",
+      "description": "Kuwaiti Civil ID number issued by the Public Authority for Civil Information (PACI) and used as the Tax Identification Number for individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "TIN",
+      "label": "Tax Identification Number",
+      "description": "Tax Identification Number issued by the Kuwait Tax Department to registered privately-owned entities",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{6}$",
+        "minLength": 6,
+        "maxLength": 6
+      }
+    }
+  ]
 }
