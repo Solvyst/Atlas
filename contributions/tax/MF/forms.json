@@ -1,5 +1,30 @@
 {
   "countryCode": "MF",
   "version": 1,
-  "fields": []
+  "name": "Saint Martin (French part)",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Numéro d'identification fiscale assigned to a taxpayer subject to the Taxe Générale sur le Chiffre d'Affaires (TGCA)",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    }
+  ]
 }

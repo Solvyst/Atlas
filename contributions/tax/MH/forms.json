@@ -1,5 +1,51 @@
 {
   "countryCode": "MH",
   "version": 1,
-  "fields": []
+  "name": "Marshall Islands",
+  "fields": [
+    {
+      "code": "SSN",
+      "label": "Employee Identification Number",
+      "description": "Personal Social Security Number / Employee Identification Number issued by the Marshall Islands Social Security Administration and used for taxpayer identification",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "04-086123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^04-[0-9]{6}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "EIN",
+      "label": "Employer Identification Number",
+      "description": "Employer Identification Number issued by the Marshall Islands Social Security Administration and used to identify or register organizational taxpayers",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "08612-04",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{5}-04$",
+        "minLength": 8,
+        "maxLength": 8
+      }
+    }
+  ]
 }

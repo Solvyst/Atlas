@@ -1,5 +1,52 @@
 {
   "countryCode": "OM",
   "version": 1,
-  "fields": []
+  "name": "Oman",
+  "fields": [
+    {
+      "code": "TAX_CARD_NUMBER",
+      "label": "Tax Card Number",
+      "description": "Tax Card Number issued by the Oman Tax Authority as evidence of the taxpayer's registration for income tax",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 50
+      }
+    },
+    {
+      "code": "VATIN",
+      "label": "VATIN",
+      "description": "Value Added Tax Identification Number issued by the Oman Tax Authority to VAT-registered taxable persons",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "OM1234567890",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^OM[0-9]{10}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    }
+  ]
 }

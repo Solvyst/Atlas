@@ -1,5 +1,53 @@
 {
   "countryCode": "MA",
   "version": 1,
-  "fields": []
+  "name": "Morocco",
+  "fields": [
+    {
+      "code": "IF",
+      "label": "Identifiant Fiscal",
+      "description": "Tax Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    },
+    {
+      "code": "ICE",
+      "label": "ICE",
+      "description": "Identifiant Commun de l'Entreprise",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789000057",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{15}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    }
+  ]
 }

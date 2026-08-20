@@ -1,5 +1,73 @@
 {
   "countryCode": "NO",
   "version": 1,
-  "fields": []
+  "name": "Norway",
+  "fields": [
+    {
+      "code": "NATIONAL_IDENTITY_NUMBER",
+      "label": "National Identity Number",
+      "description": "Norwegian national identity number (fødselsnummer), used as the tax identification number for individuals who are assigned one.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "22067612345",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "D_NUMBER",
+      "label": "D Number",
+      "description": "Norwegian D number (D-nummer), an identification number used as a tax identification number for eligible foreign individuals who do not meet the requirements for a national identity number.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "41018512345",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "ORGANISATION_NUMBER",
+      "label": "Organisation Number",
+      "description": "Nine-digit organisation number assigned by the Central Coordinating Register for Legal Entities and used as the tax identification number for legal entities.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "974760673",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

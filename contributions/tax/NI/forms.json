@@ -1,5 +1,30 @@
 {
   "countryCode": "NI",
   "version": 1,
-  "fields": []
+  "name": "Nicaragua",
+  "fields": [
+    {
+      "code": "RUC",
+      "label": "RUC",
+      "description": "Registro Único de Contribuyentes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "J0310000007669",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }

@@ -1,5 +1,30 @@
 {
   "countryCode": "NG",
   "version": 1,
-  "fields": []
+  "name": "Nigeria",
+  "fields": [
+    {
+      "code": "TAX_ID",
+      "label": "Tax ID",
+      "description": "Tax Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678-0001",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }
