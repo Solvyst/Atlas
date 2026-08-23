@@ -1,5 +1,53 @@
 {
   "countryCode": "PK",
   "version": 1,
-  "fields": []
+  "name": "Pakistan",
+  "fields": [
+    {
+      "code": "NTN",
+      "label": "NTN",
+      "description": "National Tax Number or Registration Number used for income tax registration with the Federal Board of Revenue; for individuals the 13-digit CNIC is used as the NTN/Registration Number, while companies and Associations of Persons receive a 7-digit NTN",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^(?:[0-9]{7}|[0-9]{13})$",
+        "minLength": 7,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "STRN",
+      "label": "STRN",
+      "description": "Sales Tax Registration Number issued by the Federal Board of Revenue to persons registered for sales tax",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    }
+  ]
 }

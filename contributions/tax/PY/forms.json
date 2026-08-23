@@ -1,5 +1,30 @@
 {
   "countryCode": "PY",
   "version": 1,
-  "fields": []
+  "name": "Paraguay",
+  "fields": [
+    {
+      "code": "RUC",
+      "label": "RUC",
+      "description": "Registro Único de Contribuyentes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "80000000-0",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 5,
+        "maxLength": 10
+      }
+    }
+  ]
 }

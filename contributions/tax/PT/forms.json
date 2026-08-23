@@ -1,5 +1,74 @@
 {
   "countryCode": "PT",
   "version": 1,
-  "fields": []
+  "name": "Portugal",
+  "fields": [
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Número de Identificação Fiscal (Tax Identification Number) issued by the Portuguese Tax and Customs Authority",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "300000000",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "NIPC",
+      "label": "NIPC",
+      "description": "Número de Identificação de Pessoa Coletiva (Legal Person Identification Number) used to identify legal entities in Portugal",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "500000000",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Number",
+      "description": "Portuguese VAT identification number used for VAT purposes, consisting of the PT country prefix followed by the taxpayer's nine-digit identification number",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "PT500000000",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^PT[0-9]{9}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    }
+  ]
 }

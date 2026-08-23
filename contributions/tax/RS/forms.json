@@ -1,5 +1,30 @@
 {
   "countryCode": "RS",
   "version": 1,
-  "fields": []
+  "name": "Serbia",
+  "fields": [
+    {
+      "code": "PIB",
+      "label": "PIB",
+      "description": "Poreski identifikacioni broj (Tax Identification Number)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }
