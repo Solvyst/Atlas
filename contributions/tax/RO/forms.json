@@ -1,5 +1,97 @@
 {
   "countryCode": "RO",
   "version": 1,
-  "fields": []
+  "name": "Romania",
+  "fields": [
+    {
+      "code": "CNP",
+      "label": "CNP",
+      "description": "Cod Numeric Personal used as the fiscal identification code for individuals who hold a Romanian personal numeric code",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1960523123456",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "NIF",
+      "label": "NIF",
+      "description": "Număr de Identificare Fiscală assigned by the Romanian tax authority to individuals who do not hold a Romanian CNP",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 50
+      }
+    },
+    {
+      "code": "CUI_CIF",
+      "label": "CUI / CIF",
+      "description": "Cod Unic de Înregistrare or Cod de Identificare Fiscală used for fiscal identification of registered businesses, legal persons and other entities",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 50
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Number",
+      "description": "Romanian VAT registration number consisting of the RO country prefix followed by the taxpayer's fiscal identification code",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "RO12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^RO[0-9]+$",
+        "minLength": 4,
+        "maxLength": 12
+      }
+    }
+  ]
 }

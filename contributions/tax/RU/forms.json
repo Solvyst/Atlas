@@ -1,5 +1,74 @@
 {
   "countryCode": "RU",
   "version": 1,
-  "fields": []
+  "name": "Russian Federation",
+  "fields": [
+    {
+      "code": "INN",
+      "label": "INN",
+      "description": "Taxpayer Identification Number (Идентификационный номер налогоплательщика) assigned by the Federal Tax Service of Russia",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "7707083893",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^(?:[0-9]{10}|[0-9]{12})$",
+        "minLength": 10,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "KPP",
+      "label": "KPP",
+      "description": "Tax Registration Reason Code (Код причины постановки на учет) assigned in addition to the INN when an organization is registered with a Russian tax authority",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "770701001",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "KIO",
+      "label": "KIO",
+      "description": "Foreign Organization Code (Код иностранной организации) used in Russian tax registration records for foreign organizations",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{5}$",
+        "minLength": 5,
+        "maxLength": 5
+      }
+    }
+  ]
 }

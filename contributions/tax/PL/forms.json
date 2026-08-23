@@ -1,5 +1,52 @@
 {
   "countryCode": "PL",
   "version": 1,
-  "fields": []
+  "name": "Poland",
+  "fields": [
+    {
+      "code": "NIP",
+      "label": "NIP",
+      "description": "Numer Identyfikacji Podatkowej (Tax Identification Number)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "PESEL",
+      "label": "PESEL",
+      "description": "Powszechny Elektroniczny System Ewidencji Ludności number used as the tax identifier for eligible individuals who do not use NIP",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "07320392154",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    }
+  ]
 }

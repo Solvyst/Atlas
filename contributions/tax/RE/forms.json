@@ -1,5 +1,73 @@
 {
   "countryCode": "RE",
   "version": 1,
-  "fields": []
+  "name": "Réunion",
+  "fields": [
+    {
+      "code": "SIREN",
+      "label": "SIREN",
+      "description": "9-digit unique identification number assigned to a business under the French SIRENE system",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "SIRET",
+      "label": "SIRET",
+      "description": "14-digit establishment identification number consisting of the 9-digit SIREN and a 5-digit NIC",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678900012",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{14}$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Identification Number",
+      "description": "French individual VAT identification number assigned by the business tax service to businesses subject to VAT",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "FR00123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^FR[0-9]{11}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    }
+  ]
 }

@@ -1,5 +1,76 @@
 {
   "countryCode": "PA",
   "version": 1,
-  "fields": []
+  "name": "Panama",
+  "fields": [
+    {
+      "code": "RUC",
+      "label": "RUC",
+      "description": "Registro Único de Contribuyentes, the taxpayer identification number administered by Panama's Dirección General de Ingresos",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "8-123-456",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    },
+    {
+      "code": "DV",
+      "label": "DV",
+      "description": "Dígito Verificador assigned by the Dirección General de Ingresos to identify and validate a taxpayer's RUC",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "17",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{1,2}$",
+        "minLength": 1,
+        "maxLength": 2
+      }
+    },
+    {
+      "code": "NT",
+      "label": "NT",
+      "description": "Número Tributario assigned by the Dirección General de Ingresos to taxpayers for whom the standard RUC identification mechanism is not applicable",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "N-20-2382",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 20
+      }
+    }
+  ]
 }

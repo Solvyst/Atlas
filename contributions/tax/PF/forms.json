@@ -1,5 +1,30 @@
 {
   "countryCode": "PF",
   "version": 1,
-  "fields": []
+  "name": "French Polynesia",
+  "fields": [
+    {
+      "code": "FISCAL_IDENTIFIER",
+      "label": "Fiscal Identifier",
+      "description": "Fiscal identifier used by the Direction des Impôts et des Contributions Publiques (DICP). It is generally based on the TAHITI number prefixed with T; taxpayers not registered with ISPF may receive an internal DICP identifier prefixed with E, while fiscal representatives may receive an identifier prefixed with I.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "T167585",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 7,
+        "maxLength": 7
+      }
+    }
+  ]
 }
