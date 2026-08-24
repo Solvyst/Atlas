@@ -1,5 +1,30 @@
 {
   "countryCode": "SB",
   "version": 1,
-  "fields": []
+  "name": "Solomon Islands",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number issued by the Solomon Islands Inland Revenue Division",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 50
+      }
+    }
+  ]
 }

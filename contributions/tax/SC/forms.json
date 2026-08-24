@@ -1,5 +1,30 @@
 {
   "countryCode": "SC",
   "version": 1,
-  "fields": []
+  "name": "Seychelles",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Taxpayer Identification Number allocated by the Seychelles Revenue Commission to registered taxpayers",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 50
+      }
+    }
+  ]
 }

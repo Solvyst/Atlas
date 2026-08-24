@@ -1,5 +1,53 @@
 {
   "countryCode": "SA",
   "version": 1,
-  "fields": []
+  "name": "Saudi Arabia",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number issued by the Zakat, Tax and Customs Authority (ZATCA) to taxpayers for tax purposes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "3123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Number",
+      "description": "15-digit tax number assigned following registration for Value Added Tax (VAT) with ZATCA",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "310123456700003",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{15}$",
+        "minLength": 15,
+        "maxLength": 15
+      }
+    }
+  ]
 }
