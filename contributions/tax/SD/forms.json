@@ -1,5 +1,30 @@
 {
   "countryCode": "SD",
   "version": 1,
-  "fields": []
+  "name": "South Sudan",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number issued by the South Sudan Revenue Authority to taxpayers for tax-related matters",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "P20400519X93833",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 50
+      }
+    }
+  ]
 }

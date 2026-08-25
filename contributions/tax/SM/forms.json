@@ -1,5 +1,51 @@
 {
   "countryCode": "SM",
   "version": 1,
-  "fields": []
+  "name": "San Marino",
+  "fields": [
+    {
+      "code": "ISS_NUMBER",
+      "label": "Codice ISS",
+      "description": "Social Security Number (Codice ISS) used as the tax identification number for individuals in San Marino",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{1,9}$",
+        "minLength": 1,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "COE",
+      "label": "Codice Operatore Economico (COE)",
+      "description": "Tax Registration Number (Codice Operatore Economico) used to identify companies and other economic operators in San Marino",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "SM12345",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^SM[0-9]{5}$",
+        "minLength": 7,
+        "maxLength": 7
+      }
+    }
+  ]
 }

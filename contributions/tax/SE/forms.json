@@ -1,5 +1,96 @@
 {
   "countryCode": "SE",
   "version": 1,
-  "fields": []
+  "name": "Sweden",
+  "fields": [
+    {
+      "code": "PERSONNUMMER",
+      "label": "Personal Identity Number",
+      "description": "Swedish personal identity number (personnummer), used as the tax identification number for individuals who are or have been registered as resident in Sweden",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "850709-9805",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{6}[-+][0-9]{4}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "SAMORDNINGSNUMMER",
+      "label": "Coordination Number",
+      "description": "Swedish coordination number (samordningsnummer), an identification number for individuals who are not and have not been registered as resident in Sweden and which may be used for taxation and other official purposes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "701063-2391",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{6}-[0-9]{4}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "ORGANISATIONSNUMMER",
+      "label": "Corporate Identity Number",
+      "description": "Swedish corporate identity number (organisationsnummer), the unique identification number assigned to legal persons and other registered organizations",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "556123-1234",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{6}-[0-9]{4}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Number",
+      "description": "Swedish VAT identification number (momsregistreringsnummer/VAT-nummer) assigned to persons and organizations registered for VAT",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "SE556123123401",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^SE[0-9]{10}01$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }

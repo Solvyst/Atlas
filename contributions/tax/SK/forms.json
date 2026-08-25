@@ -1,5 +1,53 @@
 {
   "countryCode": "SK",
   "version": 1,
-  "fields": []
+  "name": "Slovakia",
+  "fields": [
+    {
+      "code": "DIC",
+      "label": "DIČ",
+      "description": "Daňové identifikačné číslo (Tax Identification Number) assigned by the Slovak tax authority",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "2004567890",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "IC_DPH",
+      "label": "IČ DPH",
+      "description": "Identifikačné číslo pre daň (VAT identification number) assigned for Slovak VAT registration",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "SK2020123456",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^SK[0-9]{10}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    }
+  ]
 }

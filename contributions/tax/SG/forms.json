@@ -1,5 +1,97 @@
 {
   "countryCode": "SG",
   "version": 1,
-  "fields": []
+  "name": "Singapore",
+  "fields": [
+    {
+      "code": "NRIC_FIN",
+      "label": "NRIC / FIN",
+      "description": "National Registration Identity Card number or Foreign Identification Number used by IRAS as the tax reference number for individual taxpayers",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "S1234567A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[STFGM][0-9]{7}[A-Z]$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "UEN",
+      "label": "UEN",
+      "description": "Unique Entity Number used as the tax reference number for Singapore businesses, companies and other registered entities",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "200312345A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 9,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "GST_REGISTRATION_NUMBER",
+      "label": "GST Registration Number",
+      "description": "Goods and Services Tax registration number used for GST-registered persons where a separate GST registration number is issued instead of the entity's UEN",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "M91234567X",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "ASGD_ID",
+      "label": "ASGD ID",
+      "description": "IRAS Assigned Tax Reference Number issued where an IRAS-specific tax reference number is required, including certain persons or entities without another applicable Singapore tax reference number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "A1234567E",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^A[0-9]{7}[A-Z]$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }
