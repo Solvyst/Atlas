@@ -6,6 +6,7 @@ import { listTaxCountryDirs } from "../_shared/tax-forms.mjs";
 import { allowOnlyObjectFields, isBlank } from "../_shared/validation.mjs";
 
 const allowedRootFields = new Set(["countryCode", "version", "name", "fields"]);
+
 const allowedFieldFields = new Set([
   "appliesTo",
   "category",
@@ -18,8 +19,13 @@ const allowedFieldFields = new Set([
   "required",
   "validation",
 ]);
+
 const allowedValidationFields = new Set(["pattern", "minLength", "maxLength"]);
-const allowedNormalizationFields = new Set(["trim", "uppercase", "removeSpaces"]);
+const allowedNormalizationFields = new Set([
+  "trim",
+  "uppercase",
+  "removeSpaces",
+]);
 const allowedCategories = new Set([
   "TAX_IDENTIFIER",
   "TAX_REGISTRATION",
@@ -31,7 +37,11 @@ const allowedInputTypes = new Set(["TEXT"]);
 const errors = [];
 
 function validateValidation(label, validation) {
-  if (!validation || typeof validation !== "object" || Array.isArray(validation)) {
+  if (
+    !validation ||
+    typeof validation !== "object" ||
+    Array.isArray(validation)
+  ) {
     errors.push(label + ": validation must be an object");
     return;
   }
@@ -46,10 +56,16 @@ function validateValidation(label, validation) {
   if (typeof validation.pattern !== "string" && validation.pattern !== null) {
     errors.push(label + ": validation.pattern must be string or null");
   }
-  if (!Number.isInteger(validation.minLength) && validation.minLength !== null) {
+  if (
+    !Number.isInteger(validation.minLength) &&
+    validation.minLength !== null
+  ) {
     errors.push(label + ": validation.minLength must be integer or null");
   }
-  if (!Number.isInteger(validation.maxLength) && validation.maxLength !== null) {
+  if (
+    !Number.isInteger(validation.maxLength) &&
+    validation.maxLength !== null
+  ) {
     errors.push(label + ": validation.maxLength must be integer or null");
   }
   if (
@@ -63,10 +79,7 @@ function validateValidation(label, validation) {
 
 function validateNormalization(label, normalization) {
   if (normalization === undefined || normalization === null) return;
-  if (
-    typeof normalization !== "object" ||
-    Array.isArray(normalization)
-  ) {
+  if (typeof normalization !== "object" || Array.isArray(normalization)) {
     errors.push(label + ": normalization must be an object when provided");
     return;
   }
@@ -121,7 +134,8 @@ function validateField(relativePath, field, index, seenCodes) {
   }
 
   if (isBlank(field.label)) errors.push(label + ": label is required");
-  if (isBlank(field.description)) errors.push(label + ": description is required");
+  if (isBlank(field.description))
+    errors.push(label + ": description is required");
   if (!allowedCategories.has(field.category)) {
     errors.push(label + ": invalid category " + field.category);
   }
@@ -170,7 +184,9 @@ if (!countryDirs.length) {
     allowOnlyObjectFields(relativePath, form, allowedRootFields, errors);
 
     if (form.countryCode !== countryCode) {
-      errors.push(relativePath + ": countryCode must match directory " + countryCode);
+      errors.push(
+        relativePath + ": countryCode must match directory " + countryCode,
+      );
     }
     if (!Number.isInteger(form.version) || form.version <= 0) {
       errors.push(relativePath + ": version must be a positive integer");
