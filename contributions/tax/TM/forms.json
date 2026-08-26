@@ -1,5 +1,29 @@
 {
   "countryCode": "TM",
   "version": 1,
-  "fields": []
+  "name": "Turkmenistan",
+  "fields": [
+    {
+      "code": "INN",
+      "label": "INN",
+      "description": "Individual Tax Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }

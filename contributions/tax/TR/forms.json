@@ -1,5 +1,50 @@
 {
   "countryCode": "TR",
   "version": 1,
-  "fields": []
+  "name": "Türkiye",
+  "fields": [
+    {
+      "code": "TCKN",
+      "label": "T.C. Kimlik Numarası",
+      "description": "Turkish Republic Identity Number used as the tax identification number for Turkish citizen individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "10000000146",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{11}$",
+        "minLength": 11,
+        "maxLength": 11
+      }
+    },
+    {
+      "code": "VKN",
+      "label": "Vergi Kimlik Numarası",
+      "description": "Tax Identification Number issued by the Turkish Revenue Administration",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    }
+  ]
 }

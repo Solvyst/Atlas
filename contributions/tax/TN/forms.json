@@ -1,5 +1,30 @@
 {
   "countryCode": "TN",
   "version": 1,
-  "fields": []
+  "name": "Tunisia",
+  "fields": [
+    {
+      "code": "MATRICULE_FISCAL",
+      "label": "Matricule Fiscal",
+      "description": "Tax identification number issued by the Tunisian tax administration",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567A",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7}[A-Z]$",
+        "minLength": 8,
+        "maxLength": 8
+      }
+    }
+  ]
 }

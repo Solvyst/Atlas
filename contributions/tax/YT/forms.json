@@ -1,5 +1,70 @@
 {
   "countryCode": "YT",
   "version": 1,
-  "fields": []
+  "name": "Mayotte",
+  "fields": [
+    {
+      "code": "NUMERO_FISCAL",
+      "label": "Numéro fiscal",
+      "description": "French tax number used as the unique identifier for an individual's tax procedures",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890123",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{13}$",
+        "minLength": 13,
+        "maxLength": 13
+      }
+    },
+    {
+      "code": "SIREN",
+      "label": "SIREN",
+      "description": "Système d'identification du répertoire des entreprises number identifying a business or legal unit",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    },
+    {
+      "code": "SIRET",
+      "label": "SIRET",
+      "description": "Système d'identification du répertoire des établissements number identifying a specific business establishment",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678900012",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{14}$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }

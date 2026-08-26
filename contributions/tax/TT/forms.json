@@ -1,5 +1,73 @@
 {
   "countryCode": "TT",
   "version": 1,
-  "fields": []
+  "name": "Trinidad and Tobago",
+  "fields": [
+    {
+      "code": "BIR_NUMBER",
+      "label": "BIR Number",
+      "description": "Board of Inland Revenue File Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "0009999990",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "PAYE_NUMBER",
+      "label": "PAYE Number",
+      "description": "Pay As You Earn (PAYE) Number assigned to employers for remitting tax and health surcharge withheld from employees",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "PYE-12345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^PYE-[0-9]{8}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "VAT_REGISTRATION_NUMBER",
+      "label": "VAT Registration Number",
+      "description": "Value Added Tax Registration Number issued by the Board of Inland Revenue to VAT-registered persons and businesses",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "VAT registration number",
+      "normalization": {
+        "trim": true,
+        "uppercase": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }

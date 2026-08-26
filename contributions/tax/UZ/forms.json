@@ -1,5 +1,49 @@
 {
   "countryCode": "UZ",
   "version": 1,
-  "fields": []
+  "name": "Uzbekistan",
+  "fields": [
+    {
+      "code": "JSHSHIR",
+      "label": "JShShIR",
+      "description": "Personal Identification Number of an Individual",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678901234",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{14}$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    },
+    {
+      "code": "STIR",
+      "label": "STIR",
+      "description": "Taxpayer Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "203032009",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }
