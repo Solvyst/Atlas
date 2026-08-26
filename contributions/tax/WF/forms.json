@@ -1,5 +1,30 @@
 {
   "countryCode": "WF",
   "version": 1,
-  "fields": []
+  "name": "Wallis and Futuna",
+  "fields": [
+    {
+      "code": "CD_NUMBER",
+      "label": "N° CD",
+      "description": "Contributor number assigned/used by the Service des Contributions Diverses for taxpayers registered for territorial contributions such as the contribution des patentes",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "2018.1.1905",
+      "normalization": {
+        "trim": true,
+        "uppercase": false,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }

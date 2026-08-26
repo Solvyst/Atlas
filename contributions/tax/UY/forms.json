@@ -1,5 +1,50 @@
 {
   "countryCode": "UY",
   "version": 1,
-  "fields": []
+  "name": "Uruguay",
+  "fields": [
+    {
+      "code": "RUC",
+      "label": "RUC",
+      "description": "Registro Único de Contribuyente",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "219000090011",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    },
+    {
+      "code": "NIE",
+      "label": "NIE",
+      "description": "Número de Identificación Extranjero issued by the Dirección General Impositiva",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 12
+      }
+    }
+  ]
 }

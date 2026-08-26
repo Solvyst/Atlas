@@ -1,5 +1,29 @@
 {
   "countryCode": "WS",
   "version": 1,
-  "fields": []
+  "name": "Samoa",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "70015",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ]
 }

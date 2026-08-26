@@ -1,5 +1,29 @@
 {
   "countryCode": "TJ",
   "version": 1,
-  "fields": []
+  "name": "Tajikistan",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN (RMA)",
+      "description": "Taxpayer Identification Number (Raqami Mushakhkhasi Andozsuporanda)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "125123456",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{9}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

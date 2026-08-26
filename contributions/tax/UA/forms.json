@@ -1,5 +1,71 @@
 {
   "countryCode": "UA",
   "version": 1,
-  "fields": []
+  "name": "Ukraine",
+  "fields": [
+    {
+      "code": "RNOKPP",
+      "label": "RNOKPP",
+      "description": "Registration Number of the Taxpayer's Account Card",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567890",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "EDRPOU",
+      "label": "EDRPOU Code",
+      "description": "Identification code in the Unified State Register of Enterprises and Organizations of Ukraine",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "12345678",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{8}$",
+        "minLength": 8,
+        "maxLength": 8
+      }
+    },
+    {
+      "code": "VAT_INDIVIDUAL_TAX_NUMBER",
+      "label": "VAT Individual Tax Number",
+      "description": "Individual Tax Number assigned upon registration as a VAT payer",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "123456789012",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    }
+  ]
 }

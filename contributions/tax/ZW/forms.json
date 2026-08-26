@@ -1,5 +1,51 @@
 {
   "countryCode": "ZW",
   "version": 1,
-  "fields": []
+  "name": "Zimbabwe",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Taxpayer Identification Number",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "2001676900",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Number",
+      "description": "Value Added Tax registration number issued by the Zimbabwe Revenue Authority",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "220061841",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^22[0-9]{7}$",
+        "minLength": 9,
+        "maxLength": 9
+      }
+    }
+  ]
 }

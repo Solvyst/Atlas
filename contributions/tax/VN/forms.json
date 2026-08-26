@@ -1,5 +1,70 @@
 {
   "countryCode": "VN",
   "version": 1,
-  "fields": []
+  "name": "Vietnam",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "Tax Identification Number",
+      "description": "Mã số thuế (Tax Identification Number) issued to enterprises, cooperatives, organizations and other taxpayers for tax administration.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "0101234567",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "DEPENDENT_TIN",
+      "label": "Dependent Unit Tax Identification Number",
+      "description": "13-digit tax identification number with a hyphen separating the first 10 digits from the final 3 digits, used for dependent units and other qualifying taxpayers.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "0101234567-001",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}-[0-9]{3}$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    },
+    {
+      "code": "PERSONAL_ID_TIN",
+      "label": "Personal Identification Number as Tax Identification Number",
+      "description": "12-digit personal identification number issued under Vietnam's identification law and used as the tax identification number for eligible Vietnamese individuals, households and household businesses from 1 July 2025.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "001234567890",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{12}$",
+        "minLength": 12,
+        "maxLength": 12
+      }
+    }
+  ]
 }

@@ -1,12 +1,12 @@
 {
-  "countryCode": "TD",
+  "countryCode": "VG",
   "version": 1,
-  "name": "Chad",
+  "name": "British Virgin Islands",
   "fields": [
     {
-      "code": "NIF",
-      "label": "NIF",
-      "description": "Numéro d’Identification Fiscale",
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number assigned by the Inland Revenue Department through the Standard Integrated Government Tax Administration System (SIGTAS)",
       "category": "TAX_IDENTIFIER",
       "appliesTo": [
         "PERSON",
@@ -17,13 +17,12 @@
       "placeholder": "123456789",
       "normalization": {
         "trim": true,
-        "uppercase": true,
         "removeSpaces": true
       },
       "validation": {
         "pattern": null,
         "minLength": 1,
-        "maxLength": 50
+        "maxLength": 100
       }
     }
   ]

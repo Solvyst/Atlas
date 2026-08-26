@@ -1,5 +1,29 @@
 {
   "countryCode": "TL",
   "version": 1,
-  "fields": []
+  "name": "Timor-Leste",
+  "fields": [
+    {
+      "code": "TIN",
+      "label": "TIN",
+      "description": "Tax Identification Number (Número de Identificação Fiscal)",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "1234567",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{7}$",
+        "minLength": 7,
+        "maxLength": 7
+      }
+    }
+  ]
 }

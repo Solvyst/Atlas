@@ -1,5 +1,117 @@
 {
   "countryCode": "ZA",
   "version": 1,
-  "fields": []
+  "name": "South Africa",
+  "fields": [
+    {
+      "code": "INCOME_TAX_REFERENCE_NUMBER",
+      "label": "Income Tax Reference Number",
+      "description": "10-digit tax reference number allocated by the South African Revenue Service (SARS) for income tax.",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "0123456789",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "VAT_NUMBER",
+      "label": "VAT Registration Number",
+      "description": "10-digit Value-Added Tax registration number allocated by SARS to a registered VAT vendor.",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "4012345678",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{10}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "PAYE_REFERENCE_NUMBER",
+      "label": "PAYE Reference Number",
+      "description": "Pay-As-You-Earn reference number allocated by SARS to an employer registered for employees' tax.",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "7012345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^7[0-9]{9}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "SDL_REFERENCE_NUMBER",
+      "label": "SDL Reference Number",
+      "description": "Skills Development Levy reference number allocated to an employer registered for SDL with SARS.",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "L012345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^L[0-9]{9}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    },
+    {
+      "code": "UIF_REFERENCE_NUMBER",
+      "label": "UIF Reference Number",
+      "description": "Unemployment Insurance Fund reference number used for an employer registered for UIF with SARS.",
+      "category": "TAX_REGISTRATION",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "U012345678",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^U[0-9]{9}$",
+        "minLength": 10,
+        "maxLength": 10
+      }
+    }
+  ]
 }

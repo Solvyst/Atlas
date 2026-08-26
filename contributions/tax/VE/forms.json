@@ -1,5 +1,30 @@
 {
   "countryCode": "VE",
   "version": 1,
-  "fields": []
+  "name": "Venezuela",
+  "fields": [
+    {
+      "code": "RIF",
+      "label": "RIF",
+      "description": "Registro Único de Información Fiscal",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON",
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "J-12345678-9",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[VEJPGC]-?[0-9]{8}-?[0-9]$",
+        "minLength": 10,
+        "maxLength": 12
+      }
+    }
+  ]
 }

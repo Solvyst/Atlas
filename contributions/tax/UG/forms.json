@@ -1,5 +1,50 @@
 {
   "countryCode": "UG",
   "version": 1,
-  "fields": []
+  "name": "Uganda",
+  "fields": [
+    {
+      "code": "NIN",
+      "label": "NIN",
+      "description": "National Identification Number used as the taxpayer identifier for individuals",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "PERSON"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "CM000000000000",
+      "normalization": {
+        "trim": true,
+        "uppercase": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": null,
+        "minLength": 14,
+        "maxLength": 14
+      }
+    },
+    {
+      "code": "BRN",
+      "label": "BRN",
+      "description": "Business Registration Number used as the taxpayer identifier for non-individual taxpayers",
+      "category": "TAX_IDENTIFIER",
+      "appliesTo": [
+        "ORGANIZATION"
+      ],
+      "required": false,
+      "inputType": "TEXT",
+      "placeholder": "00000000000000",
+      "normalization": {
+        "trim": true,
+        "removeSpaces": true
+      },
+      "validation": {
+        "pattern": "^[0-9]{14}$",
+        "minLength": 14,
+        "maxLength": 14
+      }
+    }
+  ]
 }
